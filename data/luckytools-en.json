@@ -1,0 +1,1818 @@
+{
+  "phantom-ai": {
+    "description": "According to the source catalog: Telegram shop for AI subscriptions, accounts and digital goods, including ChatGPT, Claude and Midjourney.",
+    "tagline": "Telegram shop for AI subscriptions, accounts and digital goods, including ChatGPT, Claude and Midjourney."
+  },
+  "ahlisshop": {
+    "description": "According to the source catalog: Telegram shop for digital goods, accounts, AI subscriptions and tokens.",
+    "tagline": "Telegram shop for digital goods, accounts, AI subscriptions and tokens."
+  },
+  "afina": {
+    "description": "According to the source catalog: Browser profiles without cloud saves, user-controlled updates and a workflow automation editor.",
+    "tagline": "Browser profiles without cloud saves, user-controlled updates and a workflow automation editor."
+  },
+  "adspower": {
+    "description": "According to the source catalog: SunBrowser profiles, Selenium/Puppeteer API, team synchronization, proxy management and RPA.",
+    "tagline": "SunBrowser profiles, Selenium/Puppeteer API, team synchronization, proxy management and RPA."
+  },
+  "octo": {
+    "description": "According to the source catalog: Chromium browser profiles and an API for browser automation.",
+    "tagline": "Chromium browser profiles and an API for browser automation."
+  },
+  "chrome-diy": {
+    "description": "According to the source catalog: Chrome configuration using proxy-management extensions and privacy settings; full session isolation is not established.",
+    "tagline": "Chrome configuration using proxy-management extensions and privacy settings; full session isolation is not established."
+  },
+  "firefox-diy": {
+    "description": "According to the source catalog: Firefox configuration using FoxyProxy, about:config, arkenfox and Canvas Blocker; this is not full session isolation.",
+    "tagline": "Firefox configuration using FoxyProxy, about:config, arkenfox and Canvas Blocker; this is not full session isolation."
+  },
+  "brave-diy": {
+    "description": "According to the source catalog: Brave Shields, WebRTC and proxy settings; these do not replace a full isolated-profile environment.",
+    "tagline": "Brave Shields, WebRTC and proxy settings; these do not replace a full isolated-profile environment."
+  },
+  "multi-login": {
+    "description": "According to the source catalog: Mimic on Chromium and Stealthfox on Firefox for separate browser profiles.",
+    "tagline": "Mimic on Chromium and Stealthfox on Firefox for separate browser profiles."
+  },
+  "morelogin": {
+    "description": "According to the source catalog: Browser profiles with an API; the source includes independently unverified security-incident commentary.",
+    "tagline": "Browser profiles with an API; the source includes independently unverified security-incident commentary."
+  },
+  "undetectable": {
+    "description": "According to the source catalog: Local browser profiles and separate cloud storage; profile limits and terms require provider confirmation.",
+    "tagline": "Local browser profiles and separate cloud storage; profile limits and terms require provider confirmation."
+  },
+  "geelark": {
+    "description": "According to the source catalog: Cloud ARM-based Android devices, RPA, action synchronization and an API; billing considers profiles and device usage time.",
+    "tagline": "Cloud ARM-based Android devices, RPA, action synchronization and an API; billing considers profiles and device usage time."
+  },
+  "dolphin": {
+    "description": "According to the source catalog: Browser-profile entry with an unverified source report of a 2022 incident; technical features are only sparsely documented.",
+    "tagline": "Browser-profile entry with an unverified source report of a 2022 incident; technical features are only sparsely documented."
+  },
+  "incogniton": {
+    "description": "According to the source catalog: Browser profiles with Selenium and Puppeteer integrations; source incident commentary has not been independently verified.",
+    "tagline": "Browser profiles with Selenium and Puppeteer integrations; source incident commentary has not been independently verified."
+  },
+  "agentx": {
+    "description": "According to the source catalog: Chromium-based profile browser; the source mentions audits and a vulnerability bounty without independent verification.",
+    "tagline": "Chromium-based profile browser; the source mentions audits and a vulnerability bounty without independent verification."
+  },
+  "gologin": {
+    "description": "According to the source catalog: Orbita engine, cloud profiles, built-in proxy management, API and MCP integration.",
+    "tagline": "Orbita engine, cloud profiles, built-in proxy management, API and MCP integration."
+  },
+  "linken-sphere": {
+    "description": "According to the source catalog: Browser profiles with Tor integration; the source report of a past leak requires independent verification.",
+    "tagline": "Browser profiles with Tor integration; the source report of a past leak requires independent verification."
+  },
+  "indigo": {
+    "description": "According to the source catalog: Browser profiles with a simple interface and limited customization; trial terms may change.",
+    "tagline": "Browser profiles with a simple interface and limited customization; trial terms may change."
+  },
+  "lalicat": {
+    "description": "According to the source catalog: Browser with basic fingerprint settings and a profile-management interface.",
+    "tagline": "Browser with basic fingerprint settings and a profile-management interface."
+  },
+  "surfinite": {
+    "description": "According to the source catalog: Surfinite browser entry; the source discusses its interface but provides few specific technical details.",
+    "tagline": "Surfinite browser entry; the source discusses its interface but provides few specific technical details."
+  },
+  "kameleo": {
+    "description": "According to the source catalog: Browser profiles with iOS and Android environment emulation; plans depend on concurrent sessions.",
+    "tagline": "Browser profiles with iOS and Android environment emulation; plans depend on concurrent sessions."
+  },
+  "xlogin": {
+    "description": "According to the source catalog: Browser with basic fingerprint settings; detailed technical functionality is not supplied by the source.",
+    "tagline": "Browser with basic fingerprint settings; detailed technical functionality is not supplied by the source."
+  },
+  "ghostbrowser": {
+    "description": "According to the source catalog: Multi-session browser with separate tab cookies; fingerprint modification and full isolation are not established.",
+    "tagline": "Multi-session browser with separate tab cookies; fingerprint modification and full isolation are not established."
+  },
+  "vm-login": {
+    "description": "According to the source catalog: Browser profiles with environment separation at virtual-machine level.",
+    "tagline": "Browser profiles with environment separation at virtual-machine level."
+  },
+  "hidemyacc": {
+    "description": "According to the source catalog: Vietnamese browser for managing profiles and fingerprint settings.",
+    "tagline": "Vietnamese browser for managing profiles and fingerprint settings."
+  },
+  "antik": {
+    "description": "According to the source catalog: Profile browser with a management dashboard and updates; detailed source specifications are limited.",
+    "tagline": "Profile browser with a management dashboard and updates; detailed source specifications are limited."
+  },
+  "marketer": {
+    "description": "According to the source catalog: Social-media profile templates, post scheduling and audience tools.",
+    "tagline": "Social-media profile templates, post scheduling and audience tools."
+  },
+  "bitbrowser": {
+    "description": "According to the source catalog: Browser profiles with e-commerce features, including workflows for Taobao and Pinduoduo.",
+    "tagline": "Browser profiles with e-commerce features, including workflows for Taobao and Pinduoduo."
+  },
+  "antbrowser": {
+    "description": "According to the source catalog: Browser with basic profiles and a simple interface; the source notes infrequent updates without current verification.",
+    "tagline": "Browser with basic profiles and a simple interface; the source notes infrequent updates without current verification."
+  },
+  "accovod": {
+    "description": "According to the source catalog: Cloud profiles with cross-device synchronization and team account-management tools.",
+    "tagline": "Cloud profiles with cross-device synchronization and team account-management tools."
+  },
+  "sessionbox": {
+    "description": "According to the source catalog: Chrome extension with separate tab cookies; full profile-browser functionality is not established.",
+    "tagline": "Chrome extension with separate tab cookies; full profile-browser functionality is not established."
+  },
+  "samara-swspy": {
+    "description": "According to the source catalog: Local browser with basic profiles and Russian-language support; the technical source description is limited.",
+    "tagline": "Local browser with basic profiles and Russian-language support; the technical source description is limited."
+  },
+  "vision": {
+    "description": "According to the source catalog: Vision browser entry with a profile-management interface; detailed features are sparsely documented in the source.",
+    "tagline": "Vision browser entry with a profile-management interface; detailed features are sparsely documented in the source."
+  },
+  "proxyshard": {
+    "description": "According to the source catalog: Residential proxies, geographic selection and a statistics dashboard; IP quality has not been independently verified.",
+    "tagline": "Residential proxies, geographic selection and a statistics dashboard; IP quality has not been independently verified."
+  },
+  "geonix": {
+    "description": "According to the source catalog: IPv4/IPv6 proxies supporting HTTP, HTTPS and SOCKS5, with password or IP-allowlist authentication.",
+    "tagline": "IPv4/IPv6 proxies supporting HTTP, HTTPS and SOCKS5, with password or IP-allowlist authentication."
+  },
+  "webshare": {
+    "description": "According to the source catalog: Bulk shared proxies and network-priority options; the source distinguishes these from residential services.",
+    "tagline": "Bulk shared proxies and network-priority options; the source distinguishes these from residential services."
+  },
+  "proxywing": {
+    "description": "According to the source catalog: Rotating residential proxies with country/city targeting, statistics and traffic-based billing.",
+    "tagline": "Rotating residential proxies with country/city targeting, statistics and traffic-based billing."
+  },
+  "prosox": {
+    "description": "According to the source catalog: Residential, mobile, ISP, datacenter, IPv6 and UDP proxies with API access.",
+    "tagline": "Residential, mobile, ISP, datacenter, IPv6 and UDP proxies with API access."
+  },
+  "proxysio": {
+    "description": "According to the source catalog: Mobile, residential and datacenter pools, network-parameter checks and individual IPv4 addresses.",
+    "tagline": "Mobile, residential and datacenter pools, network-parameter checks and individual IPv4 addresses."
+  },
+  "proxy-seller": {
+    "description": "According to the source catalog: Dedicated IPv4/IPv6, HTTP, HTTPS, SOCKS5 and an API; address exclusivity requires checking provider terms.",
+    "tagline": "Dedicated IPv4/IPv6, HTTP, HTTPS, SOCKS5 and an API; address exclusivity requires checking provider terms."
+  },
+  "proxy6": {
+    "description": "According to the source catalog: IPv4 and IPv6 with limited country selection; the source positions the service for basic social-media tasks.",
+    "tagline": "IPv4 and IPv6 with limited country selection; the source positions the service for basic social-media tasks."
+  },
+  "proxyline": {
+    "description": "According to the source catalog: IPv4/IPv6 with country selection and HTTP/SOCKS5 support.",
+    "tagline": "IPv4/IPv6 with country selection and HTTP/SOCKS5 support."
+  },
+  "geonode": {
+    "description": "According to the source catalog: Residential proxies with rotating or sticky sessions, city targeting and analytics.",
+    "tagline": "Residential proxies with rotating or sticky sessions, city targeting and analytics."
+  },
+  "asocks": {
+    "description": "According to the source catalog: Residential proxies with traffic-based billing, city targeting, an API and usage statistics.",
+    "tagline": "Residential proxies with traffic-based billing, city targeting, an API and usage statistics."
+  },
+  "data-impulse": {
+    "description": "According to the source catalog: Residential, mobile and datacenter proxies with city targeting, rotation, SOCKS5 and an API.",
+    "tagline": "Residential, mobile and datacenter proxies with city targeting, rotation, SOCKS5 and an API."
+  },
+  "b2proxy": {
+    "description": "According to the source catalog: Multiple proxy types, address rotation and an API; current geography and limits require provider confirmation.",
+    "tagline": "Multiple proxy types, address rotation and an API; current geography and limits require provider confirmation."
+  },
+  "iproyal": {
+    "description": "According to the source catalog: Residential and datacenter proxies, plus specialized offerings for retail-site workflows.",
+    "tagline": "Residential and datacenter proxies, plus specialized offerings for retail-site workflows."
+  },
+  "711proxy": {
+    "description": "According to the source catalog: Residential and ISP proxies with city targeting and SOCKS5, including bulk options.",
+    "tagline": "Residential and ISP proxies with city targeting and SOCKS5, including bulk options."
+  },
+  "decodo": {
+    "description": "According to the source catalog: Residential and bulk static proxies, an API and a Chrome testing extension.",
+    "tagline": "Residential and bulk static proxies, an API and a Chrome testing extension."
+  },
+  "brightdata": {
+    "description": "According to the source catalog: Proxy infrastructure, SERP API and web-data collection tools; the source notes identity requirements.",
+    "tagline": "Proxy infrastructure, SERP API and web-data collection tools; the source notes identity requirements."
+  },
+  "proxysoxy": {
+    "description": "According to the source catalog: Telegram bot for purchasing proxies, mainly in a limited set of CIS locations.",
+    "tagline": "Telegram bot for purchasing proxies, mainly in a limited set of CIS locations."
+  },
+  "proxystore": {
+    "description": "According to the source catalog: Proxies with dedicated static IP addresses and longer-term rental options.",
+    "tagline": "Proxies with dedicated static IP addresses and longer-term rental options."
+  },
+  "spaceproxy": {
+    "description": "According to the source catalog: IPv4/IPv6 proxies with an API; the source provides a limited feature description.",
+    "tagline": "IPv4/IPv6 proxies with an API; the source provides a limited feature description."
+  },
+  "proxy-ipv4": {
+    "description": "According to the source catalog: Dedicated IPv4 with country and rental-duration selection; mobile proxies are also mentioned.",
+    "tagline": "Dedicated IPv4 with country and rental-duration selection; mobile proxies are also mentioned."
+  },
+  "froxy": {
+    "description": "According to the source catalog: Rotating residential proxies with an API and request- or traffic-based billing; KYC requirements may apply.",
+    "tagline": "Rotating residential proxies with an API and request- or traffic-based billing; KYC requirements may apply."
+  },
+  "astroproxy": {
+    "description": "According to the source catalog: Residential proxies with traffic-based billing, rotation and usage statistics; the source notes KYC for crypto payment.",
+    "tagline": "Residential proxies with traffic-based billing, rotation and usage statistics; the source notes KYC for crypto payment."
+  },
+  "fineproxy": {
+    "description": "According to the source catalog: Bulk and individual proxies; the catalog does not verify the quality of specific batches.",
+    "tagline": "Bulk and individual proxies; the catalog does not verify the quality of specific batches."
+  },
+  "youproxy": {
+    "description": "According to the source catalog: Individual proxies with manual geographic selection.",
+    "tagline": "Individual proxies with manual geographic selection."
+  },
+  "frigate": {
+    "description": "According to the source catalog: Datacenter and mobile proxies oriented toward CIS locations.",
+    "tagline": "Datacenter and mobile proxies oriented toward CIS locations."
+  },
+  "mobileproxy": {
+    "description": "According to the source catalog: SIM-based mobile proxies with IP rotation; static addresses are also offered.",
+    "tagline": "SIM-based mobile proxies with IP rotation; static addresses are also offered."
+  },
+  "proxywhite": {
+    "description": "According to the source catalog: Proxies with IP-allowlist access; quality and ban-related claims have not been independently verified.",
+    "tagline": "Proxies with IP-allowlist access; quality and ban-related claims have not been independently verified."
+  },
+  "illusory": {
+    "description": "According to the source catalog: Residential proxies with rotation and an API; the source describes dashboard and traffic-usage controls.",
+    "tagline": "Residential proxies with rotation and an API; the source describes dashboard and traffic-usage controls."
+  },
+  "netnut": {
+    "description": "According to the source catalog: ISP-connected residential proxies, city targeting and data-collection tools; registration requirements must be followed.",
+    "tagline": "ISP-connected residential proxies, city targeting and data-collection tools; registration requirements must be followed."
+  },
+  "aceproxies": {
+    "description": "According to the source catalog: Datacenter proxies for retail sites, including Shopify and Footlocker; access terms require checking.",
+    "tagline": "Datacenter proxies for retail sites, including Shopify and Footlocker; access terms require checking."
+  },
+  "anonymous": {
+    "description": "According to the source catalog: HTTP and SOCKS5 proxies with an API; the provider name does not establish anonymity.",
+    "tagline": "HTTP and SOCKS5 proxies with an API; the provider name does not establish anonymity."
+  },
+  "bestproxy": {
+    "description": "According to the source catalog: The source compares this service with Anonymous and mentions a minimum order, but supplies few distinguishing features.",
+    "tagline": "The source compares this service with Anonymous and mentions a minimum order, but supplies few distinguishing features."
+  },
+  "buypersonalproxy": {
+    "description": "According to the source catalog: Dedicated and shared proxies; sharing arrangements depend on the selected offering.",
+    "tagline": "Dedicated and shared proxies; sharing arrangements depend on the selected offering."
+  },
+  "changemyip": {
+    "description": "According to the source catalog: IP rotation and proxy purchasing; the source notes a minimum order requirement.",
+    "tagline": "IP rotation and proxy purchasing; the source notes a minimum order requirement."
+  },
+  "infantica": {
+    "description": "According to the source catalog: Residential proxies with rotation and geographic selection for permitted web-data collection.",
+    "tagline": "Residential proxies with rotation and geographic selection for permitted web-data collection."
+  },
+  "localproxies": {
+    "description": "According to the source catalog: Residential proxies with specific city or internet-provider selection.",
+    "tagline": "Residential proxies with specific city or internet-provider selection."
+  },
+  "litproxy": {
+    "description": "According to the source catalog: Proxy service whose source describes API support as planned rather than an established feature.",
+    "tagline": "Proxy service whose source describes API support as planned rather than an established feature."
+  },
+  "flipnode": {
+    "description": "According to the source catalog: Residential proxies for data-collection pipelines, with an API and rotation.",
+    "tagline": "Residential proxies for data-collection pipelines, with an API and rotation."
+  },
+  "proxyleet": {
+    "description": "According to the source catalog: Local Russian bulk-proxy service with limited technical detail in the source.",
+    "tagline": "Local Russian bulk-proxy service with limited technical detail in the source."
+  },
+  "oxylabs": {
+    "description": "According to the source catalog: Residential, datacenter and mobile pools with rotation and city targeting.",
+    "tagline": "Residential, datacenter and mobile pools with rotation and city targeting."
+  },
+  "proxycue": {
+    "description": "According to the source catalog: Proxies with basic rotation and separate VDS offerings.",
+    "tagline": "Proxies with basic rotation and separate VDS offerings."
+  },
+  "privateproxy": {
+    "description": "According to the source catalog: Dedicated proxies with an API; the source notes crypto payment and KYC requirements for other methods.",
+    "tagline": "Dedicated proxies with an API; the source notes crypto payment and KYC requirements for other methods."
+  },
+  "proxysocks5": {
+    "description": "According to the source catalog: SOCKS5 proxies with geography/provider selection; the source notes a minimum order.",
+    "tagline": "SOCKS5 proxies with geography/provider selection; the source notes a minimum order."
+  },
+  "proxyverse": {
+    "description": "According to the source catalog: Residential proxies with an API and management dashboard.",
+    "tagline": "Residential proxies with an API and management dashboard."
+  },
+  "proxyempire": {
+    "description": "According to the source catalog: Rotating residential and mobile 4G/LTE pools in one dashboard.",
+    "tagline": "Rotating residential and mobile 4G/LTE pools in one dashboard."
+  },
+  "proxymarket": {
+    "description": "According to the source catalog: Marketplace combining multiple proxy sellers, proxy-type comparison and an intermediary payment mechanism.",
+    "tagline": "Marketplace combining multiple proxy sellers, proxy-type comparison and an intermediary payment mechanism."
+  },
+  "proxystorenet": {
+    "description": "According to the source catalog: Dedicated-IP shop; the source also mentions residential offerings.",
+    "tagline": "Dedicated-IP shop; the source also mentions residential offerings."
+  },
+  "ip-burger": {
+    "description": "According to the source catalog: Residential proxies with periodic IP-pool refreshes.",
+    "tagline": "Residential proxies with periodic IP-pool refreshes."
+  },
+  "hydraproxy": {
+    "description": "According to the source catalog: Residential, datacenter and mobile proxies, an API and the HydraHeaders profile manager.",
+    "tagline": "Residential, datacenter and mobile proxies, an API and the HydraHeaders profile manager."
+  },
+  "proxy-cheap": {
+    "description": "According to the source catalog: Proxies with geographic selection and rotation; suitability for specific sites is unverified.",
+    "tagline": "Proxies with geographic selection and rotation; suitability for specific sites is unverified."
+  },
+  "proxyrack": {
+    "description": "According to the source catalog: Residential and mobile proxies in one dashboard, with port-based billing or bundled plans.",
+    "tagline": "Residential and mobile proxies in one dashboard, with port-based billing or bundled plans."
+  },
+  "9proxy": {
+    "description": "According to the source catalog: Rotating residential proxies billed per IP rather than per gigabyte.",
+    "tagline": "Rotating residential proxies billed per IP rather than per gigabyte."
+  },
+  "lightning-proxies": {
+    "description": "According to the source catalog: Residential, mobile, ISP, datacenter and IPv6 proxies with an API and bulk options.",
+    "tagline": "Residential, mobile, ISP, datacenter and IPv6 proxies with an API and bulk options."
+  },
+  "mars-proxies": {
+    "description": "According to the source catalog: ISP proxies with UDP; current traffic limits and country availability require checking.",
+    "tagline": "ISP proxies with UDP; current traffic limits and country availability require checking."
+  },
+  "lte-socks": {
+    "description": "According to the source catalog: Dedicated residential and mobile LTE/4G proxies with manual and automatic rotation.",
+    "tagline": "Dedicated residential and mobile LTE/4G proxies with manual and automatic rotation."
+  },
+  "cat-proxies": {
+    "description": "According to the source catalog: Residential and datacenter proxies with an API and city targeting; KYC requirements must not be bypassed.",
+    "tagline": "Residential and datacenter proxies with an API and city targeting; KYC requirements must not be bypassed."
+  },
+  "cyberyozh": {
+    "description": "According to the source catalog: Proxy provider for a Russian-speaking audience; the source mainly supplies review commentary rather than technical detail.",
+    "tagline": "Proxy provider for a Russian-speaking audience; the source mainly supplies review commentary rather than technical detail."
+  },
+  "nettify": {
+    "description": "According to the source catalog: Residential, mobile and datacenter proxies with token-based authentication.",
+    "tagline": "Residential, mobile and datacenter proxies with token-based authentication."
+  },
+  "naproxy": {
+    "description": "According to the source catalog: Residential, ISP and datacenter proxies with an API and city targeting; the source notes a minimum residential package size.",
+    "tagline": "Residential, ISP and datacenter proxies with an API and city targeting; the source notes a minimum residential package size."
+  },
+  "lumi-proxy": {
+    "description": "According to the source catalog: The LumiProxy entry contains pricing opinions but does not document distinguishing technical features.",
+    "tagline": "The LumiProxy entry contains pricing opinions but does not document distinguishing technical features."
+  },
+  "bartproxies": {
+    "description": "According to the source catalog: The source identifies residential proxies for BartProxies; its pricing commentary is not a current offer.",
+    "tagline": "The source identifies residential proxies for BartProxies; its pricing commentary is not a current offer."
+  },
+  "kocer-roxy": {
+    "description": "According to the source catalog: Mainly mobile proxies; the source notes datacenter restrictions and the need to check availability.",
+    "tagline": "Mainly mobile proxies; the source notes datacenter restrictions and the need to check availability."
+  },
+  "ipnproxy": {
+    "description": "According to the source catalog: Residential and mobile proxies, including city targeting for residential connections.",
+    "tagline": "Residential and mobile proxies, including city targeting for residential connections."
+  },
+  "momoproxy": {
+    "description": "According to the source catalog: Residential and ISP proxies, SOCKS5, city targeting, and manual/automatic rotation.",
+    "tagline": "Residential and ISP proxies, SOCKS5, city targeting, and manual/automatic rotation."
+  },
+  "ake": {
+    "description": "According to the source catalog: Multiple proxy types, including mobile and ISP; current geographic coverage is unverified.",
+    "tagline": "Multiple proxy types, including mobile and ISP; current geographic coverage is unverified."
+  },
+  "ghostealth": {
+    "description": "According to the source catalog: Residential and datacenter proxies oriented toward bulk packages rather than small test purchases.",
+    "tagline": "Residential and datacenter proxies oriented toward bulk packages rather than small test purchases."
+  },
+  "nodemaven": {
+    "description": "According to the source catalog: Residential proxies with IPv6, SOCKS5, rotation and an API.",
+    "tagline": "Residential proxies with IPv6, SOCKS5, rotation and an API."
+  },
+  "novada": {
+    "description": "According to the source catalog: ISP, datacenter, residential and mobile proxies; the source notes KYC for full access.",
+    "tagline": "ISP, datacenter, residential and mobile proxies; the source notes KYC for full access."
+  },
+  "proxiware": {
+    "description": "According to the source catalog: Traffic-billed proxies, including datacenter and residential connections.",
+    "tagline": "Traffic-billed proxies, including datacenter and residential connections."
+  },
+  "proxy-302": {
+    "description": "According to the source catalog: Proxy service with a trial option; the source reports registration difficulties without independent verification.",
+    "tagline": "Proxy service with a trial option; the source reports registration difficulties without independent verification."
+  },
+  "psb-proxy": {
+    "description": "According to the source catalog: Dedicated rotating proxies; actual limits require checking.",
+    "tagline": "Dedicated rotating proxies; actual limits require checking."
+  },
+  "ping-proxies": {
+    "description": "According to the source catalog: Dedicated ISP and residential proxies; the source distinguishes offerings by traffic usage.",
+    "tagline": "Dedicated ISP and residential proxies; the source distinguishes offerings by traffic usage."
+  },
+  "plain-proxies": {
+    "description": "According to the source catalog: The source reports registration and dashboard issues but provides insufficient technical detail for an assessment.",
+    "tagline": "The source reports registration and dashboard issues but provides insufficient technical detail for an assessment."
+  },
+  "proxies-fo": {
+    "description": "According to the source catalog: Proxy provider whose source review specifically identifies residential and mobile offerings.",
+    "tagline": "Proxy provider whose source review specifically identifies residential and mobile offerings."
+  },
+  "soax": {
+    "description": "According to the source catalog: Residential proxies, an API and geographic targeting; some operations require contacting support.",
+    "tagline": "Residential proxies, an API and geographic targeting; some operations require contacting support."
+  },
+  "rayobyte": {
+    "description": "According to the source catalog: The source identifies Rayobyte as a US provider but supplies no substantive feature description.",
+    "tagline": "The source identifies Rayobyte as a US provider but supplies no substantive feature description."
+  },
+  "stable-proxy": {
+    "description": "According to the source catalog: Ukrainian proxy provider; the source notes limited country selection and region-specific interface considerations.",
+    "tagline": "Ukrainian proxy provider; the source notes limited country selection and region-specific interface considerations."
+  },
+  "squid-proxies": {
+    "description": "According to the source catalog: Local proxy service with limited technical source detail; pricing opinions do not establish quality.",
+    "tagline": "Local proxy service with limited technical source detail; pricing opinions do not establish quality."
+  },
+  "proxidize": {
+    "description": "According to the source catalog: Mobile proxy infrastructure; the source notes card payments but provides limited configuration details.",
+    "tagline": "Mobile proxy infrastructure; the source notes card payments but provides limited configuration details."
+  },
+  "ip-peak": {
+    "description": "According to the source catalog: Residential and ISP proxies with SOCKS5 and rotation, with different billing models.",
+    "tagline": "Residential and ISP proxies with SOCKS5 and rotation, with different billing models."
+  },
+  "ziny": {
+    "description": "According to the source catalog: Multiple proxy types with city targeting; trial terms require confirmation.",
+    "tagline": "Multiple proxy types with city targeting; trial terms require confirmation."
+  },
+  "proxyma": {
+    "description": "According to the source catalog: Residential and mobile proxies with a Russian-language interface and source-listed SBP payment.",
+    "tagline": "Residential and mobile proxies with a Russian-language interface and source-listed SBP payment."
+  },
+  "proxysolutions": {
+    "description": "According to the source catalog: Individual, bulk, city, UDP and mobile proxies, an API and messenger bots.",
+    "tagline": "Individual, bulk, city, UDP and mobile proxies, an API and messenger bots."
+  },
+  "sx": {
+    "description": "According to the source catalog: Proxy marketplace with an IP scoring system using checker.net; that score is not a MakeCash audit.",
+    "tagline": "Proxy marketplace with an IP scoring system using checker.net; that score is not a MakeCash audit."
+  },
+  "nyprox": {
+    "description": "According to the source catalog: Datacenter proxies with HTTPS and SOCKS5; residential and mobile connections are not described.",
+    "tagline": "Datacenter proxies with HTTPS and SOCKS5; residential and mobile connections are not described."
+  },
+  "thunderproxy": {
+    "description": "According to the source catalog: ISP proxies with trial traffic; current countries and terms require checking.",
+    "tagline": "ISP proxies with trial traffic; current countries and terms require checking."
+  },
+  "elusive": {
+    "description": "According to the source catalog: UK-only ThreeUK 4G mobile proxies with URL-triggered or automatic rotation.",
+    "tagline": "UK-only ThreeUK 4G mobile proxies with URL-triggered or automatic rotation."
+  },
+  "evomi": {
+    "description": "According to the source catalog: Residential, mobile and datacenter proxies; the source mentions KYC for full access and unverified certification.",
+    "tagline": "Residential, mobile and datacenter proxies; the source mentions KYC for full access and unverified certification."
+  },
+  "gridpanel": {
+    "description": "According to the source catalog: Mobile 4G/5G, datacenter and residential proxies; a web-data collection API is also mentioned.",
+    "tagline": "Mobile 4G/5G, datacenter and residential proxies; a web-data collection API is also mentioned."
+  },
+  "globalproxies": {
+    "description": "According to the source catalog: US-only 4G/5G mobile proxies with daily traffic limits and rotation.",
+    "tagline": "US-only 4G/5G mobile proxies with daily traffic limits and rotation."
+  },
+  "flowproxies": {
+    "description": "According to the source catalog: ISP and residential proxies oriented toward the US and retail sites, with a listed Discord community.",
+    "tagline": "ISP and residential proxies oriented toward the US and retail sites, with a listed Discord community."
+  },
+  "proxybase": {
+    "description": "According to the source catalog: UK-based residential proxy provider with a web-data collection API.",
+    "tagline": "UK-based residential proxy provider with a web-data collection API."
+  },
+  "belurk": {
+    "description": "According to the source catalog: Russian IPv4/IPv6 shop with HTTPS, SOCKS5 and an API.",
+    "tagline": "Russian IPv4/IPv6 shop with HTTPS, SOCKS5 and an API."
+  },
+  "getproxy": {
+    "description": "According to the source catalog: Datacenter and mobile IPv4/IPv6 with reservation and repeat-purchase functions oriented toward the Russian market.",
+    "tagline": "Datacenter and mobile IPv4/IPv6 with reservation and repeat-purchase functions oriented toward the Russian market."
+  },
+  "floppydata": {
+    "description": "According to the source catalog: Proxy shop with limited country selection and a trial option according to the source.",
+    "tagline": "Proxy shop with limited country selection and a trial option according to the source."
+  },
+  "proxio": {
+    "description": "According to the source catalog: Residential and ISP proxies for web-data collection and monitoring; advertised uptime is unverified.",
+    "tagline": "Residential and ISP proxies for web-data collection and monitoring; advertised uptime is unverified."
+  },
+  "proxystream": {
+    "description": "According to the source catalog: Mobile 4G/5G proxies with hourly-to-monthly rentals; Verizon, T-Mobile and AT&T are listed.",
+    "tagline": "Mobile 4G/5G proxies with hourly-to-monthly rentals; Verizon, T-Mobile and AT&T are listed."
+  },
+  "proxy-family": {
+    "description": "According to the source catalog: Russian IPv4/IPv6 for Russia only; the source contains serious negative claims that the catalog has not independently verified.",
+    "tagline": "Russian IPv4/IPv6 for Russia only; the source contains serious negative claims that the catalog has not independently verified."
+  },
+  "moni": {
+    "description": "According to the source catalog: Crypto social analytics, X-profile tracking, a browser extension and a source-listed trading terminal.",
+    "tagline": "Crypto social analytics, X-profile tracking, a browser extension and a source-listed trading terminal."
+  },
+  "cryptorank": {
+    "description": "According to the source catalog: Crypto-project research covering funding rounds, project activities, token unlocks and an API.",
+    "tagline": "Crypto-project research covering funding rounds, project activities, token unlocks and an API."
+  },
+  "defilama": {
+    "description": "According to the source catalog: DeFi analytics covering TVL, protocol revenue, chain data, DEX volume and yield comparisons without a promised return.",
+    "tagline": "DeFi analytics covering TVL, protocol revenue, chain data, DEX volume and yield comparisons without a promised return."
+  },
+  "dune": {
+    "description": "According to the source catalog: SQL queries over blockchain data and community dashboards for protocol activity, token flows and DeFi.",
+    "tagline": "SQL queries over blockchain data and community dashboards for protocol activity, token flows and DeFi."
+  },
+  "artemis": {
+    "description": "According to the source catalog: L1/L2 comparison using protocol metrics, developer activity and exportable charts.",
+    "tagline": "L1/L2 comparison using protocol metrics, developer activity and exportable charts."
+  },
+  "debank": {
+    "description": "According to the source catalog: Tracking of DeFi positions, tokens and NFTs for EVM addresses, with an activity feed.",
+    "tagline": "Tracking of DeFi positions, tokens and NFTs for EVM addresses, with an activity feed."
+  },
+  "glassnode": {
+    "description": "According to the source catalog: Bitcoin and Ethereum metrics including SOPR, NUPL, HODL waves and exchange flows; access and delays depend on the plan.",
+    "tagline": "Bitcoin and Ethereum metrics including SOPR, NUPL, HODL waves and exchange flows; access and delays depend on the plan."
+  },
+  "etherdrops": {
+    "description": "According to the source catalog: Telegram alerts for token prices, transfers and wallet-balance changes; current network coverage is unverified.",
+    "tagline": "Telegram alerts for token prices, transfers and wallet-balance changes; current network coverage is unverified."
+  },
+  "notslava": {
+    "description": "According to the source catalog: Telegram bot for converting a specified token amount, such as SOL, into a quoted value.",
+    "tagline": "Telegram bot for converting a specified token amount, such as SOL, into a quoted value."
+  },
+  "arkham": {
+    "description": "According to the source catalog: Blockchain-address labels, transaction tracing, portfolios and alerts; identity labels require independent checking.",
+    "tagline": "Blockchain-address labels, transaction tracing, portfolios and alerts; identity labels require independent checking."
+  },
+  "nansen": {
+    "description": "According to the source catalog: Wallet labels, transaction tracking and address-level DeFi activity research.",
+    "tagline": "Wallet labels, transaction tracking and address-level DeFi activity research."
+  },
+  "layerhub": {
+    "description": "According to the source catalog: Cross-chain activity comparison covering transaction volumes, active addresses and TVL flows for selected projects.",
+    "tagline": "Cross-chain activity comparison covering transaction volumes, active addresses and TVL flows for selected projects."
+  },
+  "bankless": {
+    "description": "According to the source catalog: Podcasts, newsletters and educational material on DeFi, L2s and the Ethereum ecosystem.",
+    "tagline": "Podcasts, newsletters and educational material on DeFi, L2s and the Ethereum ecosystem."
+  },
+  "delphidigital": {
+    "description": "According to the source catalog: Research reports on DeFi, L1/L2 ecosystems, tokenomics and macroeconomics, with analytical dashboards.",
+    "tagline": "Research reports on DeFi, L1/L2 ecosystems, tokenomics and macroeconomics, with analytical dashboards."
+  },
+  "messari": {
+    "description": "According to the source catalog: Asset profiles, governance tracking, protocol revenue, research reports, screeners, alerts and an API.",
+    "tagline": "Asset profiles, governance tracking, protocol revenue, research reports, screeners, alerts and an API."
+  },
+  "l2beat": {
+    "description": "According to the source catalog: L2 comparison by TVL, technology, maturity stage and risk factors; ratings do not eliminate risk.",
+    "tagline": "L2 comparison by TVL, technology, maturity stage and risk factors; ratings do not eliminate risk."
+  },
+  "rayo": {
+    "description": "According to the source catalog: Crypto-project discussion tracking and an ecosystem-based application directory.",
+    "tagline": "Crypto-project discussion tracking and an ecosystem-based application directory."
+  },
+  "cielo": {
+    "description": "According to the source catalog: Monitoring of addresses, transfers, swaps, NFTs and contract interactions, with Telegram and Discord alerts.",
+    "tagline": "Monitoring of addresses, transfers, swaps, NFTs and contract interactions, with Telegram and Discord alerts."
+  },
+  "dappradar": {
+    "description": "According to the source catalog: dApp directory covering users, volumes, transactions, historical data and an airdrop tracker.",
+    "tagline": "dApp directory covering users, volumes, transactions, historical data and an airdrop tracker."
+  },
+  "cointool": {
+    "description": "According to the source catalog: Multi-chain on-chain utility collection; the source does not provide a complete specific feature list.",
+    "tagline": "Multi-chain on-chain utility collection; the source does not provide a complete specific feature list."
+  },
+  "dexu": {
+    "description": "According to the source catalog: DeFi analytics with portfolio tracking, alerts and model-generated signals; signal accuracy and outcomes are unverified.",
+    "tagline": "DeFi analytics with portfolio tracking, alerts and model-generated signals; signal accuracy and outcomes are unverified."
+  },
+  "crypto-fundraising": {
+    "description": "According to the source catalog: Crypto funding-round database searchable by project, investor, chain and round size.",
+    "tagline": "Crypto funding-round database searchable by project, investor, chain and round size."
+  },
+  "chaincatcher": {
+    "description": "According to the source catalog: Chinese-language crypto news, project analysis and market commentary.",
+    "tagline": "Chinese-language crypto news, project analysis and market commentary."
+  },
+  "chainlist": {
+    "description": "According to the source catalog: EVM-network directory with RPC endpoints, chain IDs and native currencies; network addition occurs at the provider.",
+    "tagline": "EVM-network directory with RPC endpoints, chain IDs and native currencies; network addition occurs at the provider."
+  },
+  "chaineye": {
+    "description": "According to the source catalog: Bridge-route, fee and exchange-withdrawal comparison by token and network; quotes do not guarantee execution.",
+    "tagline": "Bridge-route, fee and exchange-withdrawal comparison by token and network; quotes do not guarantee execution."
+  },
+  "cypherhunter": {
+    "description": "According to the source catalog: Crypto-project database with teams, founders, advisers, investors and cross-project connections.",
+    "tagline": "Crypto-project database with teams, founders, advisers, investors and cross-project connections."
+  },
+  "whale-market": {
+    "description": "According to the source catalog: OTC marketplace for allocations, points, pre-market positions and related rights; intermediation does not remove counterparty risk.",
+    "tagline": "OTC marketplace for allocations, points, pre-market positions and related rights; intermediation does not remove counterparty risk."
+  },
+  "vestlab": {
+    "description": "According to the source catalog: Vesting and token-unlock tracking covering dates, amounts, recipients and alerts.",
+    "tagline": "Vesting and token-unlock tracking covering dates, amounts, recipients and alerts."
+  },
+  "dexscreener": {
+    "description": "According to the source catalog: DEX-pair charts, volumes, liquidity information and transaction history.",
+    "tagline": "DEX-pair charts, volumes, liquidity information and transaction history."
+  },
+  "dextools": {
+    "description": "According to the source catalog: DEX charts, pair discovery, holder data and token scores; scores do not establish safety.",
+    "tagline": "DEX charts, pair discovery, holder data and token scores; scores do not establish safety."
+  },
+  "cryptopanic": {
+    "description": "According to the source catalog: Crypto-news aggregator with asset filters and community sentiment ratings.",
+    "tagline": "Crypto-news aggregator with asset filters and community sentiment ratings."
+  },
+  "tokleo": {
+    "description": "According to the source catalog: Token-launch analytics covering listings, initial liquidity, holder distribution and price history.",
+    "tagline": "Token-launch analytics covering listings, initial liquidity, holder distribution and price history."
+  },
+  "blocksec": {
+    "description": "According to the source catalog: Transaction, fund-flow and smart-contract incident analysis; Phalcon monitoring is mentioned without a protection guarantee.",
+    "tagline": "Transaction, fund-flow and smart-contract incident analysis; Phalcon monitoring is mentioned without a protection guarantee."
+  },
+  "crunchbase": {
+    "description": "According to the source catalog: Company and venture-capital database covering funding, teams, growth metrics and investor relationships.",
+    "tagline": "Company and venture-capital database covering funding, teams, growth metrics and investor relationships."
+  },
+  "icoanalytics": {
+    "description": "According to the source catalog: Archive of ICOs, IDOs, IEOs and token sales with historical metrics; past results do not promise future performance.",
+    "tagline": "Archive of ICOs, IDOs, IEOs and token sales with historical metrics; past results do not promise future performance."
+  },
+  "coingecko": {
+    "description": "According to the source catalog: Asset prices, market capitalization, volumes, charts, exchange scores and an API.",
+    "tagline": "Asset prices, market capitalization, volumes, charts, exchange scores and an API."
+  },
+  "dropstab": {
+    "description": "According to the source catalog: Token research, portfolio tracking, airdrop monitoring and funding-round data.",
+    "tagline": "Token research, portfolio tracking, airdrop monitoring and funding-round data."
+  },
+  "coinmarketcap": {
+    "description": "According to the source catalog: Asset prices, capitalization, volumes, exchange rankings and education; the source notes a Binance ownership connection.",
+    "tagline": "Asset prices, capitalization, volumes, exchange rankings and education; the source notes a Binance ownership connection."
+  },
+  "tradingview": {
+    "description": "According to the source catalog: Crypto, stock and currency charts, community indicators, strategies and alerts.",
+    "tagline": "Crypto, stock and currency charts, community indicators, strategies and alerts."
+  },
+  "santiment": {
+    "description": "According to the source catalog: On-chain, social and development metrics covering discussions, address activity and code changes.",
+    "tagline": "On-chain, social and development metrics covering discussions, address activity and code changes."
+  },
+  "cryptoquant": {
+    "description": "According to the source catalog: Exchange-reserve, miner, stablecoin and fund-flow analytics, with API access and alerts.",
+    "tagline": "Exchange-reserve, miner, stablecoin and fund-flow analytics, with API access and alerts."
+  },
+  "zapper": {
+    "description": "According to the source catalog: Multi-chain DeFi/NFT portfolios, historical value tracking and address activity exploration.",
+    "tagline": "Multi-chain DeFi/NFT portfolios, historical value tracking and address activity exploration."
+  },
+  "revert": {
+    "description": "According to the source catalog: Uniswap V3 concentrated-liquidity analytics covering fees, position metrics and impermanent loss.",
+    "tagline": "Uniswap V3 concentrated-liquidity analytics covering fees, position metrics and impermanent loss."
+  },
+  "eigenphi": {
+    "description": "According to the source catalog: MEV transaction research covering sandwich activity, arbitrage, liquidations and flash loans.",
+    "tagline": "MEV transaction research covering sandwich activity, arbitrage, liquidations and flash loans."
+  },
+  "nftscan": {
+    "description": "According to the source catalog: NFT explorer covering collections, floor prices, holder distribution and an API.",
+    "tagline": "NFT explorer covering collections, floor prices, holder distribution and an API."
+  },
+  "tenderly": {
+    "description": "According to the source catalog: Smart-contract development tools for simulation, transaction debugging, gas profiling, monitoring and alerts.",
+    "tagline": "Smart-contract development tools for simulation, transaction debugging, gas profiling, monitoring and alerts."
+  },
+  "bubblemaps": {
+    "description": "According to the source catalog: Bubble-map visualization of token holders, transfer connections and ownership concentration.",
+    "tagline": "Bubble-map visualization of token holders, transfer connections and ownership concentration."
+  },
+  "birdeye": {
+    "description": "According to the source catalog: Token and DEX analytics focused on Solana, with charts, addresses, new-token tracking and portfolios.",
+    "tagline": "Token and DEX analytics focused on Solana, with charts, addresses, new-token tracking and portfolios."
+  },
+  "darkstore": {
+    "description": "According to the source catalog: Account shop with categories, reviews and purchase counts; a refund mechanism does not establish product quality.",
+    "tagline": "Account shop with categories, reviews and purchase counts; a refund mechanism does not establish product quality."
+  },
+  "accsmarket": {
+    "description": "According to the source catalog: Marketplace for social-media and email accounts with tiers and payment intermediation; check transfer rights and platform rules.",
+    "tagline": "Marketplace for social-media and email accounts with tiers and payment intermediation; check transfer rights and platform rules."
+  },
+  "fireaccs": {
+    "description": "According to the source catalog: Multi-category account shop; the source notes the absence of a seller-rating system.",
+    "tagline": "Multi-category account shop; the source notes the absence of a seller-rating system."
+  },
+  "accsmoll": {
+    "description": "According to the source catalog: Aggregator of account-shop listings; transfer terms and permissibility depend on the seller and platform.",
+    "tagline": "Aggregator of account-shop listings; transfer terms and permissibility depend on the seller and platform."
+  },
+  "lzt-market": {
+    "description": "According to the source catalog: Digital-goods, services and account marketplace with a forum, ratings and payment intermediation.",
+    "tagline": "Digital-goods, services and account marketplace with a forum, ratings and payment intermediation."
+  },
+  "discord-accounts": {
+    "description": "According to the source catalog: Discord-account shop sortable by age, stated verification, email provider and Nitro status.",
+    "tagline": "Discord-account shop sortable by age, stated verification, email provider and Nitro status."
+  },
+  "ggsel": {
+    "description": "According to the source catalog: Gaming marketplace with digital goods and AI subscriptions; seller ratings require independent checking.",
+    "tagline": "Gaming marketplace with digital goods and AI subscriptions; seller ratings require independent checking."
+  },
+  "plati-market": {
+    "description": "According to the source catalog: Marketplace for games, digital goods and subscriptions, with automated delivery for some items and ratings.",
+    "tagline": "Marketplace for games, digital goods and subscriptions, with automated delivery for some items and ratings."
+  },
+  "funpay": {
+    "description": "According to the source catalog: Marketplace for gaming accounts, items, services and digital goods, with ratings and payment intermediation.",
+    "tagline": "Marketplace for gaming accounts, items, services and digital goods, with ratings and payment intermediation."
+  },
+  "waraccounts": {
+    "description": "According to the source catalog: Small account shop with a limited category selection; availability and quality require checking.",
+    "tagline": "Small account shop with a limited category selection; availability and quality require checking."
+  },
+  "playerup": {
+    "description": "According to the source catalog: Forum-style P2P gaming-account marketplace with a separate intermediary transaction service.",
+    "tagline": "Forum-style P2P gaming-account marketplace with a separate intermediary transaction service."
+  },
+  "ready-accs": {
+    "description": "According to the source catalog: Shop listing Instagram, Facebook, LinkedIn, TikTok, Apple and GitHub accounts; inventory may change.",
+    "tagline": "Shop listing Instagram, Facebook, LinkedIn, TikTok, Apple and GitHub accounts; inventory may change."
+  },
+  "real-accs": {
+    "description": "According to the source catalog: Small account shop listing mainly US registrations according to the source; stock and quality are unverified.",
+    "tagline": "Small account shop listing mainly US registrations according to the source; stock and quality are unverified."
+  },
+  "accounts2buy": {
+    "description": "According to the source catalog: Small account shop for which the source notes limited inventory and sparse information.",
+    "tagline": "Small account shop for which the source notes limited inventory and sparse information."
+  },
+  "checkvcc": {
+    "description": "According to the source catalog: Entry covering virtual cards, accounts, gift cards and game top-ups; product availability is unverified.",
+    "tagline": "Entry covering virtual cards, accounts, gift cards and game top-ups; product availability is unverified."
+  },
+  "accountdiversity": {
+    "description": "According to the source catalog: Shop listing Telegram accounts and channels across several categories; detailed terms are not supplied.",
+    "tagline": "Shop listing Telegram accounts and channels across several categories; detailed terms are not supplied."
+  },
+  "fameswap": {
+    "description": "According to the source catalog: Marketplace for established social accounts, mainly YouTube and TikTok; transfer rights require checking.",
+    "tagline": "Marketplace for established social accounts, mainly YouTube and TikTok; transfer rights require checking."
+  },
+  "sebuda": {
+    "description": "According to the source catalog: Forum-style marketplace for channels and established accounts; the source provides few features or terms.",
+    "tagline": "Forum-style marketplace for channels and established accounts; the source provides few features or terms."
+  },
+  "hstock": {
+    "description": "According to the source catalog: Historical HStock marketplace entry, described by the source as closed in 2026.",
+    "tagline": "Historical HStock marketplace entry, described by the source as closed in 2026."
+  },
+  "install-shop": {
+    "description": "According to the source catalog: Historical shop entry described by the source as closed, with links redirecting elsewhere.",
+    "tagline": "Historical shop entry described by the source as closed, with links redirecting elsewhere."
+  },
+  "4vps": {
+    "description": "According to the source catalog: VPS and dedicated servers with geographic options including the UAE, Hong Kong, South Korea and Brazil.",
+    "tagline": "VPS and dedicated servers with geographic options including the UAE, Hong Kong, South Korea and Brazil."
+  },
+  "netcup": {
+    "description": "According to the source catalog: Hosting with NVMe and DDR5 in listed configurations; actual resources depend on the selected plan.",
+    "tagline": "Hosting with NVMe and DDR5 in listed configurations; actual resources depend on the selected plan."
+  },
+  "hetzner": {
+    "description": "According to the source catalog: Cloud and dedicated servers, ARM options and an API; the source notes registration checks and usage rules.",
+    "tagline": "Cloud and dedicated servers, ARM options and an API; the source notes registration checks and usage rules."
+  },
+  "cloudzy": {
+    "description": "According to the source catalog: VPS provider formerly called RouterHosting, with crypto payment; jurisdiction and identity requirements must be checked.",
+    "tagline": "VPS provider formerly called RouterHosting, with crypto payment; jurisdiction and identity requirements must be checked."
+  },
+  "ovhcloud": {
+    "description": "According to the source catalog: Cloud and server infrastructure with datacenters in multiple regions, including France and Singapore.",
+    "tagline": "Cloud and server infrastructure with datacenters in multiple regions, including France and Singapore."
+  },
+  "latitude": {
+    "description": "According to the source catalog: Bare-metal dedicated servers for compute and infrastructure workloads; configuration limits require confirmation.",
+    "tagline": "Bare-metal dedicated servers for compute and infrastructure workloads; configuration limits require confirmation."
+  },
+  "aeza": {
+    "description": "According to the source catalog: VPS described as having a simple deployment flow; source support commentary is not a current measurement.",
+    "tagline": "VPS described as having a simple deployment flow; source support commentary is not a current measurement."
+  },
+  "selectel": {
+    "description": "According to the source catalog: Cloud and dedicated servers, Kubernetes and S3-oriented services focused on Russian infrastructure.",
+    "tagline": "Cloud and dedicated servers, Kubernetes and S3-oriented services focused on Russian infrastructure."
+  },
+  "vultr": {
+    "description": "According to the source catalog: Cloud servers with hourly billing, an API and regional choice; card-linking requirements need confirmation.",
+    "tagline": "Cloud servers with hourly billing, an API and regional choice; card-linking requirements need confirmation."
+  },
+  "vdsina": {
+    "description": "According to the source catalog: VPS with a Russian-language dashboard and listed Moscow/Amsterdam locations; location availability may change.",
+    "tagline": "VPS with a Russian-language dashboard and listed Moscow/Amsterdam locations; location availability may change."
+  },
+  "contabo": {
+    "description": "According to the source catalog: Server hosting; the source notes card-linked registration and disk-performance limitations without current measurements.",
+    "tagline": "Server hosting; the source notes card-linked registration and disk-performance limitations without current measurements."
+  },
+  "time-host": {
+    "description": "According to the source catalog: Small VPS host for bots, monitoring and scripts; the source describes limited configurations.",
+    "tagline": "Small VPS host for bots, monitoring and scripts; the source describes limited configurations."
+  },
+  "digital-ocean": {
+    "description": "According to the source catalog: Droplets cloud platform with a management dashboard and developer documentation.",
+    "tagline": "Droplets cloud platform with a management dashboard and developer documentation."
+  },
+  "zomro": {
+    "description": "According to the source catalog: VPS with listed Poland, Netherlands and Germany locations and crypto payment; access rules require checking.",
+    "tagline": "VPS with listed Poland, Netherlands and Germany locations and crypto payment; access rules require checking."
+  },
+  "timeweb": {
+    "description": "According to the source catalog: Cloud servers, databases, hosting and domains in one dashboard, with Russian-language support.",
+    "tagline": "Cloud servers, databases, hosting and domains in one dashboard, with Russian-language support."
+  },
+  "mevspace": {
+    "description": "According to the source catalog: Warsaw server infrastructure oriented toward validators and blockchain workloads; latency is not measured by this catalog.",
+    "tagline": "Warsaw server infrastructure oriented toward validators and blockchain workloads; latency is not measured by this catalog."
+  },
+  "xorek": {
+    "description": "According to the source catalog: VPS with listed Germany and Finland locations; pricing and suitability claims are unverified.",
+    "tagline": "VPS with listed Germany and Finland locations; pricing and suitability claims are unverified."
+  },
+  "firstbyte": {
+    "description": "According to the source catalog: Hosting with listed locations including Moscow, Helsinki, Singapore and New York.",
+    "tagline": "Hosting with listed locations including Moscow, Helsinki, Singapore and New York."
+  },
+  "play2go": {
+    "description": "According to the source catalog: VPS with NVMe, European locations and source-listed crypto payment.",
+    "tagline": "VPS with NVMe, European locations and source-listed crypto payment."
+  },
+  "hostingvds": {
+    "description": "According to the source catalog: AMD EPYC and Hi-CPU servers, multiple locations and advertised high-speed ports; performance is unverified.",
+    "tagline": "AMD EPYC and Hi-CPU servers, multiple locations and advertised high-speed ports; performance is unverified."
+  },
+  "spacecore": {
+    "description": "According to the source catalog: Hosting with resource configuration, source-listed Contabo/Hetzner infrastructure and crypto payment.",
+    "tagline": "Hosting with resource configuration, source-listed Contabo/Hetzner infrastructure and crypto payment."
+  },
+  "smartape": {
+    "description": "According to the source catalog: NVMe VPS with Russian-language support and a listed Czech location.",
+    "tagline": "NVMe VPS with Russian-language support and a listed Czech location."
+  },
+  "1dedic": {
+    "description": "According to the source catalog: Moscow dedicated servers with hardware configuration including RAID; VPS is not described.",
+    "tagline": "Moscow dedicated servers with hardware configuration including RAID; VPS is not described."
+  },
+  "firstvds": {
+    "description": "According to the source catalog: VDS with listed Moscow, Amsterdam and Almaty locations and configurations oriented toward single-thread workloads.",
+    "tagline": "VDS with listed Moscow, Amsterdam and Almaty locations and configurations oriented toward single-thread workloads."
+  },
+  "macloud": {
+    "description": "According to the source catalog: Daily billing, AMD EPYC, NVMe and resource configuration in Moscow; protection specifications are independently unverified.",
+    "tagline": "Daily billing, AMD EPYC, NVMe and resource configuration in Moscow; protection specifications are independently unverified."
+  },
+  "cloud4box": {
+    "description": "According to the source catalog: KVM hosting with Intel Xeon/AMD Ryzen and multiple regions; cards, WebMoney and SBP are listed.",
+    "tagline": "KVM hosting with Intel Xeon/AMD Ryzen and multiple regions; cards, WebMoney and SBP are listed."
+  },
+  "fornex": {
+    "description": "According to the source catalog: International hosting with NVMe, multiple datacenters and source-listed crypto/PayPal payments.",
+    "tagline": "International hosting with NVMe, multiple datacenters and source-listed crypto/PayPal payments."
+  },
+  "sprinthost": {
+    "description": "According to the source catalog: SSD hosting with listed Moscow and Saint Petersburg datacenters; source support ratings are unverified.",
+    "tagline": "SSD hosting with listed Moscow and Saint Petersburg datacenters; source support ratings are unverified."
+  },
+  "vds-sh": {
+    "description": "According to the source catalog: VPS with a listed Netherlands location and payment options including crypto and WebMoney.",
+    "tagline": "VPS with a listed Netherlands location and payment options including crypto and WebMoney."
+  },
+  "webhost1": {
+    "description": "According to the source catalog: Hosting with listed locations including Armenia, Moldova and Hong Kong, with source-listed crypto payment.",
+    "tagline": "Hosting with listed locations including Armenia, Moldova and Hong Kong, with source-listed crypto payment."
+  },
+  "serverspace": {
+    "description": "According to the source catalog: ITglobal.com-group cloud platform with per-minute billing and listed regions including Brazil and Turkey.",
+    "tagline": "ITglobal.com-group cloud platform with per-minute billing and listed regions including Brazil and Turkey."
+  },
+  "fastfox": {
+    "description": "According to the source catalog: Moscow NVMe hosting; the source advertises DDoS features whose specifications the catalog has not verified.",
+    "tagline": "Moscow NVMe hosting; the source advertises DDoS features whose specifications the catalog has not verified."
+  },
+  "ishosting": {
+    "description": "According to the source catalog: KVM VPS in multiple countries; the source also lists macOS configurations and a trial period.",
+    "tagline": "KVM VPS in multiple countries; the source also lists macOS configurations and a trial period."
+  },
+  "vdska": {
+    "description": "According to the source catalog: VPS with listed Kyrgyzstan, Kazakhstan and Latvia locations, configurable resources and source-mentioned backups.",
+    "tagline": "VPS with listed Kyrgyzstan, Kazakhstan and Latvia locations, configurable resources and source-mentioned backups."
+  },
+  "geohosting": {
+    "description": "According to the source catalog: NVMe VPS with a broad source country list and crypto/PayPal payment; resources depend on the plan.",
+    "tagline": "NVMe VPS with a broad source country list and crypto/PayPal payment; resources depend on the plan."
+  },
+  "myhosti": {
+    "description": "According to the source catalog: Russian hosting with a listed Netherlands location and crypto/SBP payment; complaint-handling rules require checking.",
+    "tagline": "Russian hosting with a listed Netherlands location and crypto/SBP payment; complaint-handling rules require checking."
+  },
+  "cherryservers": {
+    "description": "According to the source catalog: Lithuanian cloud and dedicated hosting with hourly billing and a focus on blockchain workloads.",
+    "tagline": "Lithuanian cloud and dedicated hosting with hourly billing and a focus on blockchain workloads."
+  },
+  "webdock": {
+    "description": "According to the source catalog: Danish AMD EPYC/NVMe hosting with snapshots and SSL; environmental and protection claims are unverified.",
+    "tagline": "Danish AMD EPYC/NVMe hosting with snapshots and SSL; environmental and protection claims are unverified."
+  },
+  "boodet": {
+    "description": "According to the source catalog: Historical VPS-provider entry described by the source as defunct after domain expiry.",
+    "tagline": "Historical VPS-provider entry described by the source as defunct after domain expiry."
+  },
+  "thehosting": {
+    "description": "According to the source catalog: KVM VPS with NVMe, multiple countries and Hi-CPU configurations listed in Germany, the Netherlands and the US.",
+    "tagline": "KVM VPS with NVMe, multiple countries and Hi-CPU configurations listed in Germany, the Netherlands and the US."
+  },
+  "jumper": {
+    "description": "According to the source catalog: LI.FI cross-chain route aggregator combining bridging and swapping; route estimates do not guarantee execution.",
+    "tagline": "LI.FI cross-chain route aggregator combining bridging and swapping; route estimates do not guarantee execution."
+  },
+  "relay": {
+    "description": "According to the source catalog: Cross-chain bridge using relayers that provide liquidity before final settlement.",
+    "tagline": "Cross-chain bridge using relayers that provide liquidity before final settlement."
+  },
+  "findmybridge": {
+    "description": "According to the source catalog: Directory of networks and bridges for route discovery, including less commonly supported chains.",
+    "tagline": "Directory of networks and bridges for route discovery, including less commonly supported chains."
+  },
+  "rubic": {
+    "description": "According to the source catalog: DEX and bridge aggregator combining routes across multiple blockchains.",
+    "tagline": "DEX and bridge aggregator combining routes across multiple blockchains."
+  },
+  "sushi": {
+    "description": "According to the source catalog: DeFi suite with AMM swaps, SushiXSwap, concentrated liquidity and liquidity programs.",
+    "tagline": "DeFi suite with AMM swaps, SushiXSwap, concentrated liquidity and liquidity programs."
+  },
+  "stargate": {
+    "description": "According to the source catalog: LayerZero cross-chain bridge with OFT and different transfer modes; fees and waiting times depend on the route.",
+    "tagline": "LayerZero cross-chain bridge with OFT and different transfer modes; fees and waiting times depend on the route."
+  },
+  "uniswap": {
+    "description": "According to the source catalog: AMM protocol with V3 concentrated liquidity and customizable V4 hooks.",
+    "tagline": "AMM protocol with V3 concentrated liquidity and customizable V4 hooks."
+  },
+  "odos": {
+    "description": "According to the source catalog: DEX aggregator that constructs multi-hop routes through intermediate tokens and liquidity pools.",
+    "tagline": "DEX aggregator that constructs multi-hop routes through intermediate tokens and liquidity pools."
+  },
+  "pancakeswap": {
+    "description": "According to the source catalog: DeFi platform on BNB Chain and other networks, with AMM swaps, pools and liquidity programs; product terms differ.",
+    "tagline": "DeFi platform on BNB Chain and other networks, with AMM swaps, pools and liquidity programs; product terms differ."
+  },
+  "synapse": {
+    "description": "According to the source catalog: Cross-chain bridge and DEX with nUSD stablecoin pools and native-token transfers.",
+    "tagline": "Cross-chain bridge and DEX with nUSD stablecoin pools and native-token transfers."
+  },
+  "routernitro": {
+    "description": "According to the source catalog: Intent-based cross-chain bridge in which relayers fill transfer requests.",
+    "tagline": "Intent-based cross-chain bridge in which relayers fill transfer requests."
+  },
+  "rhinofi": {
+    "description": "According to the source catalog: Multi-chain DeFi platform formerly called DeversiFi, with bridging, swaps and asset-deployment products; returns are not guaranteed.",
+    "tagline": "Multi-chain DeFi platform formerly called DeversiFi, with bridging, swaps and asset-deployment products; returns are not guaranteed."
+  },
+  "layerswap": {
+    "description": "According to the source catalog: Transfer routes between centralized exchanges and L2 networks, including Arbitrum, Optimism and zkSync.",
+    "tagline": "Transfer routes between centralized exchanges and L2 networks, including Arbitrum, Optimism and zkSync."
+  },
+  "llamaswap": {
+    "description": "According to the source catalog: DefiLlama meta-aggregator comparing quotes from other DEX aggregators.",
+    "tagline": "DefiLlama meta-aggregator comparing quotes from other DEX aggregators."
+  },
+  "mayan": {
+    "description": "According to the source catalog: Cross-chain swaps using Solana and Wormhole routes, including Solana-to-EVM transfers.",
+    "tagline": "Cross-chain swaps using Solana and Wormhole routes, including Solana-to-EVM transfers."
+  },
+  "across": {
+    "description": "According to the source catalog: Intent-based bridge with relayers and optimistic settlement verification.",
+    "tagline": "Intent-based bridge with relayers and optimistic settlement verification."
+  },
+  "gas-zip": {
+    "description": "According to the source catalog: Transfers of native gas tokens to multiple destination networks from one source network.",
+    "tagline": "Transfers of native gas tokens to multiple destination networks from one source network."
+  },
+  "debridge": {
+    "description": "According to the source catalog: Cross-chain bridging and swaps through DeBridge Liquidity Network; liquidity and slippage require checking.",
+    "tagline": "Cross-chain bridging and swaps through DeBridge Liquidity Network; liquidity and slippage require checking."
+  },
+  "jupiter": {
+    "description": "According to the source catalog: Solana aggregator with limit orders, recurring purchases and separate derivatives products.",
+    "tagline": "Solana aggregator with limit orders, recurring purchases and separate derivatives products."
+  },
+  "owlto": {
+    "description": "According to the source catalog: Owlto cross-chain bridge entry; the source contains unverified complaints about fees and an airdrop campaign.",
+    "tagline": "Owlto cross-chain bridge entry; the source contains unverified complaints about fees and an airdrop campaign."
+  },
+  "squid": {
+    "description": "According to the source catalog: Axelar-based cross-chain swaps routed through DEXs, including EVM and Cosmos networks.",
+    "tagline": "Axelar-based cross-chain swaps routed through DEXs, including EVM and Cosmos networks."
+  },
+  "orbiter": {
+    "description": "According to the source catalog: Orbiter bridge entry; the source mainly evaluates fees and interface quality rather than technical details.",
+    "tagline": "Orbiter bridge entry; the source mainly evaluates fees and interface quality rather than technical details."
+  },
+  "1inch": {
+    "description": "According to the source catalog: DEX aggregator with split routing, limit orders and Fusion mode; gas arrangements depend on the product.",
+    "tagline": "DEX aggregator with split routing, limit orders and Fusion mode; gas arrangements depend on the product."
+  },
+  "matcha": {
+    "description": "According to the source catalog: 0x-team aggregator with limit orders and cross-chain swaps through the 0x API.",
+    "tagline": "0x-team aggregator with limit orders and cross-chain swaps through the 0x API."
+  },
+  "portal": {
+    "description": "According to the source catalog: Wormhole bridge interface using wrapped destination assets, including selected non-EVM routes.",
+    "tagline": "Wormhole bridge interface using wrapped destination assets, including selected non-EVM routes."
+  },
+  "aerodrome": {
+    "description": "According to the source catalog: Base-chain DEX with ve(3,3), liquidity-gauge voting and AERO locking.",
+    "tagline": "Base-chain DEX with ve(3,3), liquidity-gauge voting and AERO locking."
+  },
+  "superbridge": {
+    "description": "According to the source catalog: Canonical OP Stack bridge interface for Optimism, Base and other networks; withdrawals may involve lengthy waiting periods.",
+    "tagline": "Canonical OP Stack bridge interface for Optimism, Base and other networks; withdrawals may involve lengthy waiting periods."
+  },
+  "cbridge": {
+    "description": "According to the source catalog: Celer Network cross-chain bridge using Inter-chain Message infrastructure for network transfers.",
+    "tagline": "Celer Network cross-chain bridge using Inter-chain Message infrastructure for network transfers."
+  },
+  "bungee": {
+    "description": "According to the source catalog: Socket aggregator comparing bridges, estimated time, gas and expected received amounts.",
+    "tagline": "Socket aggregator comparing bridges, estimated time, gas and expected received amounts."
+  },
+  "kyberswap": {
+    "description": "According to the source catalog: Multi-chain DEX aggregator with Elastic pools and dynamic fees; protective features do not guarantee outcomes.",
+    "tagline": "Multi-chain DEX aggregator with Elastic pools and dynamic fees; protective features do not guarantee outcomes."
+  },
+  "bebop": {
+    "description": "According to the source catalog: DEX with market-maker RFQ quotes and multi-token swaps in one transaction; execution is not guaranteed.",
+    "tagline": "DEX with market-maker RFQ quotes and multi-token swaps in one transaction; execution is not guaranteed."
+  },
+  "symbiosis": {
+    "description": "According to the source catalog: Cross-chain liquidity protocol using stable pools and relayers for EVM and selected non-EVM networks.",
+    "tagline": "Cross-chain liquidity protocol using stable pools and relayers for EVM and selected non-EVM networks."
+  },
+  "allbridge": {
+    "description": "According to the source catalog: Stablecoin bridge using liquidity pools across EVM and other networks, including Solana, Stellar and Tron.",
+    "tagline": "Stablecoin bridge using liquidity pools across EVM and other networks, including Solana, Stellar and Tron."
+  },
+  "balancer": {
+    "description": "According to the source catalog: DEX with weighted pools, configurable token proportions, composable pools and flash loans.",
+    "tagline": "DEX with weighted pools, configurable token proportions, composable pools and flash loans."
+  },
+  "syncswap": {
+    "description": "According to the source catalog: zkSync Era DEX with constant-product pools and pools for similarly priced assets.",
+    "tagline": "zkSync Era DEX with constant-product pools and pools for similarly priced assets."
+  },
+  "ambient": {
+    "description": "According to the source catalog: DEX formerly called CrocSwap, with single-contract architecture, liquidity price ranges and pool routing.",
+    "tagline": "DEX formerly called CrocSwap, with single-contract architecture, liquidity price ranges and pool routing."
+  },
+  "traderjoe": {
+    "description": "According to the source catalog: Avalanche and multi-chain DEX with Liquidity Book, price bins, auto-pools and additional products.",
+    "tagline": "Avalanche and multi-chain DEX with Liquidity Book, price bins, auto-pools and additional products."
+  },
+  "quickswap": {
+    "description": "According to the source catalog: Polygon DEX with V2 AMM, V3 concentrated liquidity and separate asset-deployment programs.",
+    "tagline": "Polygon DEX with V2 AMM, V3 concentrated liquidity and separate asset-deployment programs."
+  },
+  "dodo": {
+    "description": "According to the source catalog: DEX using Proactive Market Making, with crowdpooling functions for token launches.",
+    "tagline": "DEX using Proactive Market Making, with crowdpooling functions for token launches."
+  },
+  "kim": {
+    "description": "According to the source catalog: Concentrated-liquidity DEX on Mode Network with configurable liquidity-provider positions.",
+    "tagline": "Concentrated-liquidity DEX on Mode Network with configurable liquidity-provider positions."
+  },
+  "maverick": {
+    "description": "According to the source catalog: AMM with automatic liquidity-range movement and several strategy modes.",
+    "tagline": "AMM with automatic liquidity-range movement and several strategy modes."
+  },
+  "slingshot": {
+    "description": "According to the source catalog: DEX aggregator with mobile and web interfaces for EVM networks; current fees require checking.",
+    "tagline": "DEX aggregator with mobile and web interfaces for EVM networks; current fees require checking."
+  },
+  "nexus": {
+    "description": "According to the source catalog: Cross-chain bridge and token swaps across multiple EVM networks; detailed route parameters are limited in the source.",
+    "tagline": "Cross-chain bridge and token swaps across multiple EVM networks; detailed route parameters are limited in the source."
+  },
+  "bitget": {
+    "description": "According to the source catalog: Centralized exchange with spot markets, derivatives and subaccounts; account restrictions and fees require checking.",
+    "tagline": "Centralized exchange with spot markets, derivatives and subaccounts; account restrictions and fees require checking."
+  },
+  "bybit": {
+    "description": "According to the source catalog: Exchange with spot markets, perpetual contracts, copy trading and bots; leveraged products carry additional risk.",
+    "tagline": "Exchange with spot markets, perpetual contracts, copy trading and bots; leveraged products carry additional risk."
+  },
+  "backpack": {
+    "description": "According to the source catalog: Exchange associated with the Backpack Wallet team, with a Solana focus and an API; licensing is not verified by this catalog.",
+    "tagline": "Exchange associated with the Backpack Wallet team, with a Solana focus and an API; licensing is not verified by this catalog."
+  },
+  "okx": {
+    "description": "According to the source catalog: Exchange with spot markets, derivatives, a Web3 wallet and DEX aggregation; access terms vary by region.",
+    "tagline": "Exchange with spot markets, derivatives, a Web3 wallet and DEX aggregation; access terms vary by region."
+  },
+  "binance": {
+    "description": "According to the source catalog: Exchange with spot, futures, margin, P2P and additional products; regional restrictions apply.",
+    "tagline": "Exchange with spot, futures, margin, P2P and additional products; regional restrictions apply."
+  },
+  "huobi-htx": {
+    "description": "According to the source catalog: HTX, formerly Huobi: spot and derivatives markets with an Asian-market focus.",
+    "tagline": "HTX, formerly Huobi: spot and derivatives markets with an Asian-market focus."
+  },
+  "mexc": {
+    "description": "According to the source catalog: Exchange with altcoins, early listings and futures; fees and bonuses require checking current terms.",
+    "tagline": "Exchange with altcoins, early listings and futures; fees and bonuses require checking current terms."
+  },
+  "gate": {
+    "description": "According to the source catalog: Exchange with broad token listings, spot, futures, margin and lending products.",
+    "tagline": "Exchange with broad token listings, spot, futures, margin and lending products."
+  },
+  "bingx": {
+    "description": "According to the source catalog: Exchange with social features and copy trading; copying does not guarantee returns or remove risk.",
+    "tagline": "Exchange with social features and copy trading; copying does not guarantee returns or remove risk."
+  },
+  "coinbase": {
+    "description": "According to the source catalog: Exchange with fiat on-ramps and an associated publicly listed COIN company; regulatory and insurance claims require independent checking.",
+    "tagline": "Exchange with fiat on-ramps and an associated publicly listed COIN company; regulatory and insurance claims require independent checking."
+  },
+  "kraken": {
+    "description": "According to the source catalog: Exchange with fiat markets and source-mentioned reserve reporting; its security history has not been independently verified.",
+    "tagline": "Exchange with fiat markets and source-mentioned reserve reporting; its security history has not been independently verified."
+  },
+  "kucoin": {
+    "description": "According to the source catalog: Exchange with altcoins, futures, margin, lending and a built-in trading bot.",
+    "tagline": "Exchange with altcoins, futures, margin, lending and a built-in trading bot."
+  },
+  "ftx": {
+    "description": "According to the source catalog: Historical exchange entry following its November 2022 collapse; not an active trading service.",
+    "tagline": "Historical exchange entry following its November 2022 collapse; not an active trading service."
+  },
+  "whitebird": {
+    "description": "According to the source catalog: Exchanger for card withdrawals in Russia and Belarus with identity checks; legal status and availability require confirmation.",
+    "tagline": "Exchanger for card withdrawals in Russia and Belarus with identity checks; legal status and availability require confirmation."
+  },
+  "prosto": {
+    "description": "According to the source catalog: CIS exchange service with source-listed cash and card routes.",
+    "tagline": "CIS exchange service with source-listed cash and card routes."
+  },
+  "hermes": {
+    "description": "According to the source catalog: Exchange service operated through individual agents; the source does not list its own site or bot.",
+    "tagline": "Exchange service operated through individual agents; the source does not list its own site or bot."
+  },
+  "bestchange": {
+    "description": "According to the source catalog: Exchanger aggregator comparing rates, reserves, fees and reviews; inclusion does not establish seller reliability.",
+    "tagline": "Exchanger aggregator comparing rates, reserves, fees and reviews; inclusion does not establish seller reliability."
+  },
+  "p2p-exchanges": {
+    "description": "According to the source catalog: Reference entry for exchange P2P sections and user-to-user payments; regional availability varies and fraud risk remains.",
+    "tagline": "Reference entry for exchange P2P sections and user-to-user payments; regional availability varies and fraud risk remains."
+  },
+  "maxsecretex": {
+    "description": "According to the source catalog: Small CIS exchanger whose source description provides few routes, terms or technical details.",
+    "tagline": "Small CIS exchanger whose source description provides few routes, terms or technical details."
+  },
+  "ether-fi": {
+    "description": "According to the source catalog: ether.fi card for borrowing against ETH to spend; borrowing creates debt and collateral risk, and regional/KYC terms require checking.",
+    "tagline": "ether.fi card for borrowing against ETH to spend; borrowing creates debt and collateral risk, and regional/KYC terms require checking."
+  },
+  "tria": {
+    "description": "According to the source catalog: Visa card described as using self-custody and account abstraction; the source lists mandatory KYC.",
+    "tagline": "Visa card described as using self-custody and account abstraction; the source lists mandatory KYC."
+  },
+  "pionex": {
+    "description": "According to the source catalog: Exchange with built-in grid, DCA and other trading bots; a separate card product is mentioned.",
+    "tagline": "Exchange with built-in grid, DCA and other trading bots; a separate card product is mentioned."
+  },
+  "solcard": {
+    "description": "According to the source catalog: Crypto card with asset conversion and in-app balance tracking; acceptance by specific merchants is not guaranteed.",
+    "tagline": "Crypto card with asset conversion and in-app balance tracking; acceptance by specific merchants is not guaranteed."
+  },
+  "solayer": {
+    "description": "According to the source catalog: Virtual/physical card platform with spending tracking and limits; the source notes acceptance and account restrictions.",
+    "tagline": "Virtual/physical card platform with spending tracking and limits; the source notes acceptance and account restrictions."
+  },
+  "pyyplbot": {
+    "description": "According to the source catalog: Card service through Telegram and a web dashboard, with USDT or bank funding; availability and identity requirements need confirmation.",
+    "tagline": "Card service through Telegram and a web dashboard, with USDT or bank funding; availability and identity requirements need confirmation."
+  },
+  "avici": {
+    "description": "According to the source catalog: Visa card for the EEA described as self-custodial; the source lists mandatory identity checks.",
+    "tagline": "Visa card for the EEA described as self-custodial; the source lists mandatory identity checks."
+  },
+  "bybit-card": {
+    "description": "According to the source catalog: Bybit card for spending exchange balances with payment-time conversion; trading profits are not guaranteed.",
+    "tagline": "Bybit card for spending exchange balances with payment-time conversion; trading profits are not guaranteed."
+  },
+  "kast": {
+    "description": "According to the source catalog: Visa crypto card described as self-custodial; KYC and regional eligibility require checking.",
+    "tagline": "Visa crypto card described as self-custodial; KYC and regional eligibility require checking."
+  },
+  "argent-card": {
+    "description": "According to the source catalog: Card product linked to an Argent smart-contract wallet balance according to the source.",
+    "tagline": "Card product linked to an Argent smart-contract wallet balance according to the source."
+  },
+  "kucoin-card": {
+    "description": "According to the source catalog: Card for spending KuCoin balances with conversion, notifications and spending analytics.",
+    "tagline": "Card for spending KuCoin balances with conversion, notifications and spending analytics."
+  },
+  "bitget-card": {
+    "description": "According to the source catalog: Card for spending Bitget balances with notifications and spending tracking; promotions require separate checking.",
+    "tagline": "Card for spending Bitget balances with notifications and spending tracking; promotions require separate checking."
+  },
+  "gate-card": {
+    "description": "According to the source catalog: Gate.io card product converting exchange assets at payment; acceptance depends on region and merchant.",
+    "tagline": "Gate.io card product converting exchange assets at payment; acceptance depends on region and merchant."
+  },
+  "mexc-card": {
+    "description": "According to the source catalog: Card product for spending MEXC funds with fiat conversion; availability and acceptance require checking.",
+    "tagline": "Card product for spending MEXC funds with fiat conversion; availability and acceptance require checking."
+  },
+  "coinw": {
+    "description": "According to the source catalog: CoinW card with payment-time conversion, transaction history and balance tracking.",
+    "tagline": "CoinW card with payment-time conversion, transaction history and balance tracking."
+  },
+  "flexcard": {
+    "description": "According to the source catalog: Virtual and physical crypto cards with notifications, limits and spending analytics.",
+    "tagline": "Virtual and physical crypto cards with notifications, limits and spending analytics."
+  },
+  "osmosispay": {
+    "description": "According to the source catalog: Cosmos/Osmosis card product with source-described conversion of OSMO, ATOM and IBC tokens.",
+    "tagline": "Cosmos/Osmosis card product with source-described conversion of OSMO, ATOM and IBC tokens."
+  },
+  "nexo": {
+    "description": "According to the source catalog: Credit card using crypto-backed borrowing rather than asset sales; debt, collateral and liquidation risks apply.",
+    "tagline": "Credit card using crypto-backed borrowing rather than asset sales; debt, collateral and liquidation risks apply."
+  },
+  "coinbase-card": {
+    "description": "According to the source catalog: Coinbase card converting crypto balances to USD; the source lists the US, and current availability is unverified.",
+    "tagline": "Coinbase card converting crypto balances to USD; the source lists the US, and current availability is unverified."
+  },
+  "binance-card": {
+    "description": "According to the source catalog: Historical Binance card entry for crypto-to-fiat conversion; source regions do not establish current availability.",
+    "tagline": "Historical Binance card entry for crypto-to-fiat conversion; source regions do not establish current availability."
+  },
+  "kripicard": {
+    "description": "According to the source catalog: Card product described as self-custodial; no-KYC and global-availability claims are unverified.",
+    "tagline": "Card product described as self-custodial; no-KYC and global-availability claims are unverified."
+  },
+  "crypto-com-card": {
+    "description": "According to the source catalog: Crypto.com card with CRO-linked tiers and separate benefit terms; token locking carries risk.",
+    "tagline": "Crypto.com card with CRO-linked tiers and separate benefit terms; token locking carries risk."
+  },
+  "gemini-card": {
+    "description": "According to the source catalog: Gemini Mastercard credit card with crypto-denominated rewards; the source lists the US.",
+    "tagline": "Gemini Mastercard credit card with crypto-denominated rewards; the source lists the US."
+  },
+  "metamask-card": {
+    "description": "According to the source catalog: Mastercard linked to MetaMask balances according to the source; regions and custody arrangements require checking.",
+    "tagline": "Mastercard linked to MetaMask balances according to the source; regions and custody arrangements require checking."
+  },
+  "wirex": {
+    "description": "According to the source catalog: Mastercard platform supporting multiple crypto/fiat currencies and separate WXT reward terms.",
+    "tagline": "Mastercard platform supporting multiple crypto/fiat currencies and separate WXT reward terms."
+  },
+  "bitpay": {
+    "description": "According to the source catalog: Prepaid Mastercard converting BTC, ETH and other assets to USD; the source lists the US.",
+    "tagline": "Prepaid Mastercard converting BTC, ETH and other assets to USD; the source lists the US."
+  },
+  "coca": {
+    "description": "According to the source catalog: Visa card described as self-custodial, with EEA/UK regions listed; KYC and availability require confirmation.",
+    "tagline": "Visa card described as self-custodial, with EEA/UK regions listed; KYC and availability require confirmation."
+  },
+  "brighty": {
+    "description": "According to the source catalog: Custodial Brighty Visa card and app for the EEA according to the source, with identity checks.",
+    "tagline": "Custodial Brighty Visa card and app for the EEA according to the source, with identity checks."
+  },
+  "cypher": {
+    "description": "According to the source catalog: Prepaid Visa with multiple tiers and source-described self-custody; KYC claims are unverified.",
+    "tagline": "Prepaid Visa with multiple tiers and source-described self-custody; KYC claims are unverified."
+  },
+  "venmo": {
+    "description": "According to the source catalog: Venmo Visa credit card with category-based rewards and source-described conversion of rewards into crypto.",
+    "tagline": "Venmo Visa credit card with category-based rewards and source-described conversion of rewards into crypto."
+  },
+  "bitrefill": {
+    "description": "According to the source catalog: Card product in Bitrefill's gift-card and mobile-top-up ecosystem; the source lists Europe and KYC.",
+    "tagline": "Card product in Bitrefill's gift-card and mobile-top-up ecosystem; the source lists Europe and KYC."
+  },
+  "whitebit-card": {
+    "description": "According to the source catalog: Visa card for spending WhiteBIT balances; the source lists the EEA and identity checks.",
+    "tagline": "Visa card for spending WhiteBIT balances; the source lists the EEA and identity checks."
+  },
+  "wayex": {
+    "description": "According to the source catalog: Prepaid Visa described as self-custodial with KYC; regional availability requires checking.",
+    "tagline": "Prepaid Visa described as self-custodial with KYC; regional availability requires checking."
+  },
+  "gnosis-pay": {
+    "description": "According to the source catalog: Visa linked to a Gnosis Chain smart account; the source lists the UK, EEA and GNO-related terms.",
+    "tagline": "Visa linked to a Gnosis Chain smart account; the source lists the UK, EEA and GNO-related terms."
+  },
+  "fold": {
+    "description": "According to the source catalog: Bitcoin-oriented Visa with a gamified reward mechanism; the advertised maximum is not an average outcome.",
+    "tagline": "Bitcoin-oriented Visa with a gamified reward mechanism; the advertised maximum is not an average outcome."
+  },
+  "bleap": {
+    "description": "According to the source catalog: Ethereum-oriented Mastercard linked to an on-chain wallet according to the source; EEA and KYC are listed.",
+    "tagline": "Ethereum-oriented Mastercard linked to an on-chain wallet according to the source; EEA and KYC are listed."
+  },
+  "bitpanda": {
+    "description": "According to the source catalog: Visa for spending Bitpanda portfolio assets, including crypto, stocks and metals according to the source.",
+    "tagline": "Visa for spending Bitpanda portfolio assets, including crypto, stocks and metals according to the source."
+  },
+  "zypto": {
+    "description": "According to the source catalog: Prepaid Visa described as self-custodial; availability and actual identity requirements require checking.",
+    "tagline": "Prepaid Visa described as self-custodial; availability and actual identity requirements require checking."
+  },
+  "ledger-cl": {
+    "description": "According to the source catalog: Card product linked to Ledger in the source; Visa, UK, EEA and KYC are listed without a custody guarantee.",
+    "tagline": "Card product linked to Ledger in the source; Visa, UK, EEA and KYC are listed without a custody guarantee."
+  },
+  "tuyo": {
+    "description": "According to the source catalog: Mastercard product described as self-custodial; regional and no-KYC claims are unverified.",
+    "tagline": "Mastercard product described as self-custodial; regional and no-KYC claims are unverified."
+  },
+  "redotpay": {
+    "description": "According to the source catalog: Prepaid custodial Visa with balance funding and spending; regions and KYC requirements need checking.",
+    "tagline": "Prepaid custodial Visa with balance funding and spending; regions and KYC requirements need checking."
+  },
+  "oobit": {
+    "description": "According to the source catalog: Visa card described as self-custodial; the source lists EEA, US, Brazil and KYC.",
+    "tagline": "Visa card described as self-custodial; the source lists EEA, US, Brazil and KYC."
+  },
+  "plutus": {
+    "description": "According to the source catalog: Visa card with PLU rewards and multiple tiers for the UK/EEA according to the source; costs and token risks require checking.",
+    "tagline": "Visa card with PLU rewards and multiple tiers for the UK/EEA according to the source; costs and token risks require checking."
+  },
+  "deblock": {
+    "description": "According to the source catalog: App combining an IBAN, crypto wallet and Visa according to the source; banking status is not verified by this catalog.",
+    "tagline": "App combining an IBAN, crypto wallet and Visa according to the source; banking status is not verified by this catalog."
+  },
+  "fiat24": {
+    "description": "According to the source catalog: Arbitrum-based Mastercard product described as combining hybrid custody and banking rails.",
+    "tagline": "Arbitrum-based Mastercard product described as combining hybrid custody and banking rails."
+  },
+  "thorwallet-card": {
+    "description": "According to the source catalog: THORChain-ecosystem Mastercard product with source-described cross-chain swaps; KYC and availability need checking.",
+    "tagline": "THORChain-ecosystem Mastercard product with source-described cross-chain swaps; KYC and availability need checking."
+  },
+  "safepal-card": {
+    "description": "According to the source catalog: Mastercard product from the SafePal team linked to its ecosystem; it is not a security guarantee.",
+    "tagline": "Mastercard product from the SafePal team linked to its ecosystem; it is not a security guarantee."
+  },
+  "ur": {
+    "description": "According to the source catalog: Mastercard product linked to the UR app; the source lists Europe, Asia and KYC.",
+    "tagline": "Mastercard product linked to the UR app; the source lists Europe, Asia and KYC."
+  },
+  "imtoken": {
+    "description": "According to the source catalog: Mastercard product linked to imToken, with source-listed Europe/Asia regions and KYC.",
+    "tagline": "Mastercard product linked to imToken, with source-listed Europe/Asia regions and KYC."
+  },
+  "tokenpocket": {
+    "description": "According to the source catalog: Visa product linked to the TokenPocket multi-chain wallet; regional restrictions and KYC need checking.",
+    "tagline": "Visa product linked to the TokenPocket multi-chain wallet; regional restrictions and KYC need checking."
+  },
+  "bitget-wallet-card": {
+    "description": "According to the source catalog: Bitget Wallet card, separate from the Bitget exchange card; the source lists Visa/Mastercard and US restrictions.",
+    "tagline": "Bitget Wallet card, separate from the Bitget exchange card; the source lists Visa/Mastercard and US restrictions."
+  },
+  "savepay": {
+    "description": "According to the source catalog: Mastercard with a source-described Swiss IBAN, Arbitrum and SEPA/SWIFT, with mobile-payment integrations listed.",
+    "tagline": "Mastercard with a source-described Swiss IBAN, Arbitrum and SEPA/SWIFT, with mobile-payment integrations listed."
+  },
+  "combo-card": {
+    "description": "According to the source catalog: Virtual Visa/Mastercard for business payments, crypto funding, 3DS, team controls and analytics; identity requirements must be followed.",
+    "tagline": "Virtual Visa/Mastercard for business payments, crypto funding, 3DS, team controls and analytics; identity requirements must be followed."
+  },
+  "trustee": {
+    "description": "According to the source catalog: Trustee Plus with a crypto wallet, P2P, swaps, Visa and a personal SEPA IBAN according to the source.",
+    "tagline": "Trustee Plus with a crypto wallet, P2P, swaps, Visa and a personal SEPA IBAN according to the source."
+  },
+  "cincin": {
+    "description": "According to the source catalog: Virtual Mastercard through Telegram with USDT TRC20 funding and source-mentioned Apple Pay; KYC and acceptance are unverified.",
+    "tagline": "Virtual Mastercard through Telegram with USDT TRC20 funding and source-mentioned Apple Pay; KYC and acceptance are unverified."
+  },
+  "emcd": {
+    "description": "According to the source catalog: EMCD-ecosystem card product with a wallet, P2P and mining pool; yield figures and licensing are unverified.",
+    "tagline": "EMCD-ecosystem card product with a wallet, P2P and mining pool; yield figures and licensing are unverified."
+  },
+  "1inch-card": {
+    "description": "According to the source catalog: 1inch prepaid Mastercard with source-listed Crypto Life/Baanx, ATM access and mobile payments.",
+    "tagline": "1inch prepaid Mastercard with source-listed Crypto Life/Baanx, ATM access and mobile payments."
+  },
+  "solflare-card": {
+    "description": "According to the source catalog: Solflare-wallet Mastercard product for spending Solana USDC according to the source; acceptance is not guaranteed.",
+    "tagline": "Solflare-wallet Mastercard product for spending Solana USDC according to the source; acceptance is not guaranteed."
+  },
+  "rabby-wallet": {
+    "description": "According to the source catalog: DeBank-team EVM wallet with transaction simulation, warnings and approval management; simulation does not eliminate risk.",
+    "tagline": "DeBank-team EVM wallet with transaction simulation, warnings and approval management; simulation does not eliminate risk."
+  },
+  "revokecash": {
+    "description": "According to the source catalog: Viewing and revoking token approvals on EVM networks; revocation requires a transaction and does not recover previously lost funds.",
+    "tagline": "Viewing and revoking token approvals on EVM networks; revocation requires a transaction and does not recover previously lost funds."
+  },
+  "de-fi": {
+    "description": "According to the source catalog: Dashboard with contract scanning, approval revocation, portfolio tracking and alerts; scanning does not guarantee safety.",
+    "tagline": "Dashboard with contract scanning, approval revocation, portfolio tracking and alerts; scanning does not guarantee safety."
+  },
+  "ledger": {
+    "description": "According to the source catalog: Hardware wallet with device-based key storage and transaction signing; asset support and risk models depend on the device.",
+    "tagline": "Hardware wallet with device-based key storage and transaction signing; asset support and risk models depend on the device."
+  },
+  "trezor": {
+    "description": "According to the source catalog: Hardware wallets with source-described open firmware; transparency does not guarantee absence of risk.",
+    "tagline": "Hardware wallets with source-described open firmware; transparency does not guarantee absence of risk."
+  },
+  "safepal": {
+    "description": "According to the source catalog: Hardware wallet with QR-based signing and a mobile app; lack of USB connectivity does not remove all threats.",
+    "tagline": "Hardware wallet with QR-based signing and a mobile app; lack of USB connectivity does not remove all threats."
+  },
+  "authy": {
+    "description": "According to the source catalog: Two-factor authentication app with source-described cloud backup and device synchronization; current support requires checking.",
+    "tagline": "Two-factor authentication app with source-described cloud backup and device synchronization; current support requires checking."
+  },
+  "veracrypt": {
+    "description": "According to the source catalog: Open-source encryption of containers, partitions and disks using AES, Twofish, Serpent and hidden volumes; configuration and passwords remain critical.",
+    "tagline": "Open-source encryption of containers, partitions and disks using AES, Twofish, Serpent and hidden volumes; configuration and passwords remain critical."
+  },
+  "bitwarden": {
+    "description": "According to the source catalog: Password manager with local encryption before synchronization, self-hosting options and additional 2FA features.",
+    "tagline": "Password manager with local encryption before synchronization, self-hosting options and additional 2FA features."
+  },
+  "safe": {
+    "description": "According to the source catalog: Multisignature wallet with a configurable N-of-M threshold; signer selection and permissions require independent checking.",
+    "tagline": "Multisignature wallet with a configurable N-of-M threshold; signer selection and permissions require independent checking."
+  },
+  "pocketuniverse": {
+    "description": "According to the source catalog: Browser extension for transaction simulation and warnings about approvals or suspicious actions; threats may be missed.",
+    "tagline": "Browser extension for transaction simulation and warnings about approvals or suspicious actions; threats may be missed."
+  },
+  "web3-antivirus": {
+    "description": "According to the source catalog: Extension analyzing sites, contracts and transactions using models and signature databases; threat detection is not guaranteed.",
+    "tagline": "Extension analyzing sites, contracts and transactions using models and signature databases; threat detection is not guaranteed."
+  },
+  "honeypot": {
+    "description": "According to the source catalog: Token buy/sell simulation to flag potential selling restrictions; the result does not guarantee future liquidity.",
+    "tagline": "Token buy/sell simulation to flag potential selling restrictions; the result does not guarantee future liquidity."
+  },
+  "rugcheck": {
+    "description": "According to the source catalog: Solana-token checks covering mint/freeze authority, liquidity and holder concentration; scoring does not replace an audit.",
+    "tagline": "Solana-token checks covering mint/freeze authority, liquidity and holder concentration; scoring does not replace an audit."
+  },
+  "token-sniffer": {
+    "description": "According to the source catalog: Automated EVM-contract analysis for risk patterns, fees, blacklists and liquidity; not a full audit.",
+    "tagline": "Automated EVM-contract analysis for risk patterns, fees, blacklists and liquidity; not a full audit."
+  },
+  "1password": {
+    "description": "According to the source catalog: Manager for encrypted vaults, password generation and browser autofill; security depends on configuration and access protection.",
+    "tagline": "Manager for encrypted vaults, password generation and browser autofill; security depends on configuration and access protection."
+  },
+  "hyperliquid": {
+    "description": "According to the source catalog: On-chain perpetuals venue with an order book, HLP and related products; funding is not risk-free income.",
+    "tagline": "On-chain perpetuals venue with an order book, HLP and related products; funding is not risk-free income."
+  },
+  "trip": {
+    "description": "According to the source catalog: Hotel, flight and rail booking with multiple payment methods; prices, bonuses and booking terms require checking.",
+    "tagline": "Hotel, flight and rail booking with multiple payment methods; prices, bonuses and booking terms require checking."
+  },
+  "kryon": {
+    "description": "According to the source catalog: VPN with country and connection-type options and source-mentioned Happ support; availability in a specific country is not guaranteed.",
+    "tagline": "VPN with country and connection-type options and source-mentioned Happ support; availability in a specific country is not guaranteed."
+  },
+  "libre": {
+    "description": "According to the source catalog: Open-source office suite with spreadsheets, formulas, pivot tables and macros for data management.",
+    "tagline": "Open-source office suite with spreadsheets, formulas, pivot tables and macros for data management."
+  },
+  "bluestacks": {
+    "description": "According to the source catalog: Android emulator with a multi-instance manager; app compatibility and memory usage require checking.",
+    "tagline": "Android emulator with a multi-instance manager; app compatibility and memory usage require checking."
+  },
+  "tempmail": {
+    "description": "According to the source catalog: Temporary mailboxes with limited lifetimes for permitted testing and message receipt; unsuitable for long-term account recovery.",
+    "tagline": "Temporary mailboxes with limited lifetimes for permitted testing and message receipt; unsuitable for long-term account recovery."
+  },
+  "icloud-mail": {
+    "description": "According to the source catalog: iCloud+ Hide My Email creates forwarding aliases; Apple determines limits and permitted use.",
+    "tagline": "iCloud+ Hide My Email creates forwarding aliases; Apple determines limits and permitted use."
+  },
+  "pixelscan": {
+    "description": "According to the source catalog: Browser-fingerprint analysis covering Canvas, WebGL, audio and fonts; a positive score does not establish anonymity.",
+    "tagline": "Browser-fingerprint analysis covering Canvas, WebGL, audio and fonts; a positive score does not establish anonymity."
+  },
+  "whoer": {
+    "description": "According to the source catalog: IP, DNS, WebRTC and browser-consistency checks; the service score does not guarantee privacy.",
+    "tagline": "IP, DNS, WebRTC and browser-consistency checks; the service score does not guarantee privacy."
+  },
+  "browserleaks": {
+    "description": "According to the source catalog: Diagnostics of browser-exposed data including Canvas, WebGL, WebRTC, fonts, screen and system parameters.",
+    "tagline": "Diagnostics of browser-exposed data including Canvas, WebGL, WebRTC, fonts, screen and system parameters."
+  },
+  "antcpt": {
+    "description": "According to the source catalog: API service for processing several CAPTCHA types; use must remain within authorized testing and platform rules.",
+    "tagline": "API service for processing several CAPTCHA types; use must remain within authorized testing and platform rules."
+  },
+  "smmlaba": {
+    "description": "According to the source catalog: Social-metric service listing followers, reactions, views and comments; audience authenticity is unverified and platform rules apply.",
+    "tagline": "Social-metric service listing followers, reactions, views and comments; audience authenticity is unverified and platform rules apply."
+  },
+  "nox": {
+    "description": "According to the source catalog: PC Android emulator with multiple instances and root features for testing; environment security is not guaranteed.",
+    "tagline": "PC Android emulator with multiple instances and root features for testing; environment security is not guaranteed."
+  },
+  "proxyswitchy": {
+    "description": "According to the source catalog: Chrome extension for switching authenticated HTTP, HTTPS and SOCKS5 proxy profiles.",
+    "tagline": "Chrome extension for switching authenticated HTTP, HTTPS and SOCKS5 proxy profiles."
+  },
+  "seosprint": {
+    "description": "According to the source catalog: Small online-task platform; task availability, compensation and permitted activity depend on platform rules.",
+    "tagline": "Small online-task platform; task availability, compensation and permitted activity depend on platform rules."
+  },
+  "captcha-test": {
+    "description": "According to the source catalog: reCAPTCHA v3 score diagnostics; a numerical score does not establish identity, anonymity or platform eligibility.",
+    "tagline": "reCAPTCHA v3 score diagnostics; a numerical score does not establish identity, anonymity or platform eligibility."
+  },
+  "proxyshard-checker": {
+    "description": "According to the source catalog: Checks of IP reputation, blacklists, geography and provider type; databases may return different results.",
+    "tagline": "Checks of IP reputation, blacklists, geography and provider type; databases may return different results."
+  },
+  "capcut": {
+    "description": "According to the source catalog: ByteDance video editor with a timeline, transitions, effects, text and music in desktop/browser interfaces.",
+    "tagline": "ByteDance video editor with a timeline, transitions, effects, text and music in desktop/browser interfaces."
+  },
+  "photopea": {
+    "description": "According to the source catalog: Browser-based image editor supporting PSD, layers, masks and filters.",
+    "tagline": "Browser-based image editor supporting PSD, layers, masks and filters."
+  },
+  "obsidian": {
+    "description": "According to the source catalog: Local Markdown notes with links, a relationship graph and plugins; synchronization depends on the chosen setup.",
+    "tagline": "Local Markdown notes with links, a relationship graph and plugins; synchronization depends on the chosen setup."
+  },
+  "notion": {
+    "description": "According to the source catalog: Workspace for notes, databases, tasks, kanban boards, wikis and calendars.",
+    "tagline": "Workspace for notes, databases, tasks, kanban boards, wikis and calendars."
+  },
+  "greedy-sms": {
+    "description": "According to the source catalog: Temporary-number service with a bot; Alchemy, Vercel and Coinbase are mentioned in the source, but number acceptance is not guaranteed.",
+    "tagline": "Temporary-number service with a bot; Alchemy, Vercel and Coinbase are mentioned in the source, but number acceptance is not guaranteed."
+  },
+  "smspool": {
+    "description": "According to the source catalog: Number service with rentals, an API and displayed success statistics; metrics do not guarantee code receipt.",
+    "tagline": "Number service with rentals, an API and displayed success statistics; metrics do not guarantee code receipt."
+  },
+  "365-sms": {
+    "description": "According to the source catalog: One-time SMS-receipt service; long-term rental is not described in the source.",
+    "tagline": "One-time SMS-receipt service; long-term rental is not described in the source."
+  },
+  "herosms": {
+    "description": "According to the source catalog: Number service with an API, described by the source as a successor to SMS-Activate; inventory may change.",
+    "tagline": "Number service with an API, described by the source as a successor to SMS-Activate; inventory may change."
+  },
+  "tiger-sms": {
+    "description": "According to the source catalog: SMS service with country/service selection, an API and source-listed trial numbers.",
+    "tagline": "SMS service with country/service selection, an API and source-listed trial numbers."
+  },
+  "sms-man": {
+    "description": "According to the source catalog: One-time numbers and rentals with an API and service selection; card and crypto payments are source-listed.",
+    "tagline": "One-time numbers and rentals with an API and service selection; card and crypto payments are source-listed."
+  },
+  "secondnumber": {
+    "description": "According to the source catalog: Temporary OTP numbers and longer-term rentals, with a source-described iOS app and API.",
+    "tagline": "Temporary OTP numbers and longer-term rentals, with a source-described iOS app and API."
+  },
+  "grizzlysms": {
+    "description": "According to the source catalog: Number dashboard by country/service, an API, availability counts and stated success metrics.",
+    "tagline": "Number dashboard by country/service, an API, availability counts and stated success metrics."
+  },
+  "smspva": {
+    "description": "According to the source catalog: One-time and rental numbers with an API and country/application selection.",
+    "tagline": "One-time and rental numbers with an API and country/application selection."
+  },
+  "onlinesim": {
+    "description": "According to the source catalog: SMS numbers for one-time use and rental, with an API for bulk operations.",
+    "tagline": "SMS numbers for one-time use and rental, with an API for bulk operations."
+  },
+  "detectexpert": {
+    "description": "According to the source catalog: Number service associated in the source with Vektor T13/CyberYozh; advertised blacklist rates are unverified.",
+    "tagline": "Number service associated in the source with Vektor T13/CyberYozh; advertised blacklist rates are unverified."
+  },
+  "vaksms": {
+    "description": "According to the source catalog: SMS service with limited stock in the source snapshot; Hong Kong, Uzbekistan and the UK are listed.",
+    "tagline": "SMS service with limited stock in the source snapshot; Hong Kong, Uzbekistan and the UK are listed."
+  },
+  "textverified": {
+    "description": "According to the source catalog: US SMS-number service; technical detail is limited and quality ratings are not verified by this catalog.",
+    "tagline": "US SMS-number service; technical detail is limited and quality ratings are not verified by this catalog."
+  },
+  "sms-verification": {
+    "description": "According to the source catalog: Service selection, number allocation and SMS-code receipt; availability and quality require separate checking.",
+    "tagline": "Service selection, number allocation and SMS-code receipt; availability and quality require separate checking."
+  },
+  "temp-number": {
+    "description": "According to the source catalog: Temporary numbers with country/service selection, limited usage periods and an API.",
+    "tagline": "Temporary numbers with country/service selection, limited usage periods and an API."
+  },
+  "simsms": {
+    "description": "According to the source catalog: SMS numbers, long-term rentals and call forwarding; countries and legal restrictions require current checking.",
+    "tagline": "SMS numbers, long-term rentals and call forwarding; countries and legal restrictions require current checking."
+  },
+  "daisysms": {
+    "description": "According to the source catalog: Historical DaisySMS entry, described by the source as closed on March 26, 2026.",
+    "tagline": "Historical DaisySMS entry, described by the source as closed on March 26, 2026."
+  },
+  "sms-activate": {
+    "description": "According to the source catalog: Historical closed SMS-Activate entry; the source reports that its work was passed to HeroSMS.",
+    "tagline": "Historical closed SMS-Activate entry; the source reports that its work was passed to HeroSMS."
+  },
+  "claude": {
+    "description": "According to the source catalog: Anthropic AI service for text, coding and reasoning; model versions, plans and limits in the source review may be outdated.",
+    "tagline": "Anthropic AI service for text, coding and reasoning; model versions, plans and limits in the source review may be outdated."
+  },
+  "openai": {
+    "description": "According to the source catalog: The source describes ChatGPT and Codex for text, images and development; quality comparisons, prices and limits are not current verification.",
+    "tagline": "The source describes ChatGPT and Codex for text, images and development; quality comparisons, prices and limits are not current verification."
+  },
+  "gemini": {
+    "description": "According to the source catalog: Google AI service described as supporting long-material analysis and ecosystem integrations; feature access depends on the product.",
+    "tagline": "Google AI service described as supporting long-material analysis and ecosystem integrations; feature access depends on the product."
+  },
+  "grok": {
+    "description": "According to the source catalog: xAI service associated with X and platform-discussion retrieval in the source; answer freshness is not guaranteed.",
+    "tagline": "xAI service associated with X and platform-discussion retrieval in the source; answer freshness is not guaranteed."
+  },
+  "deepseek": {
+    "description": "According to the source catalog: DeepSeek model family with source-described web, API and local-running options; licenses and requirements need checking.",
+    "tagline": "DeepSeek model family with source-described web, API and local-running options; licenses and requirements need checking."
+  },
+  "kimi": {
+    "description": "According to the source catalog: Moonshot AI assistant for document and long-text analysis; extraction completeness and answer accuracy are not guaranteed.",
+    "tagline": "Moonshot AI assistant for document and long-text analysis; extraction completeness and answer accuracy are not guaranteed."
+  },
+  "qwen": {
+    "description": "According to the source catalog: Alibaba AI model family and QwenCode tools for code generation/analysis; model and API terms vary.",
+    "tagline": "Alibaba AI model family and QwenCode tools for code generation/analysis; model and API terms vary."
+  },
+  "z-ai": {
+    "description": "According to the source catalog: The source describes a model-comparison interface; its list of third-party models and providers is not independently confirmed.",
+    "tagline": "The source describes a model-comparison interface; its list of third-party models and providers is not independently confirmed."
+  },
+  "notebooklm": {
+    "description": "According to the source catalog: Analysis of supplied sources, source-grounded responses and audio overviews; citations require checking and errors remain possible.",
+    "tagline": "Analysis of supplied sources, source-grounded responses and audio overviews; citations require checking and errors remain possible."
+  },
+  "mimo": {
+    "description": "According to the source catalog: Xiaomi AI model focused in the source on code generation, debugging and technical tasks; comparative results are unverified.",
+    "tagline": "Xiaomi AI model focused in the source on code generation, debugging and technical tasks; comparative results are unverified."
+  },
+  "reve": {
+    "description": "According to the source catalog: Image generator focused in the source on portraits, product scenes and photorealistic styling; usage licenses require checking.",
+    "tagline": "Image generator focused in the source on portraits, product scenes and photorealistic styling; usage licenses require checking."
+  },
+  "mai": {
+    "description": "According to the source catalog: Microsoft MAI image generation; the source mentions Copilot, Designer and Bing, but current integrations need confirmation.",
+    "tagline": "Microsoft MAI image generation; the source mentions Copilot, Designer and Bing, but current integrations need confirmation."
+  },
+  "seedream": {
+    "description": "According to the source catalog: ByteDance image generator with a stated focus on text and typography; correct rendering is not guaranteed.",
+    "tagline": "ByteDance image generator with a stated focus on text and typography; correct rendering is not guaranteed."
+  },
+  "flux": {
+    "description": "According to the source catalog: Black Forest Labs image-model family with API access and integrations including ComfyUI; licenses depend on the version.",
+    "tagline": "Black Forest Labs image-model family with API access and integrations including ComfyUI; licenses depend on the version."
+  },
+  "veo": {
+    "description": "According to the source catalog: Reference entry for Google DeepMind video generation; source quality, resolution and availability claims have not been currently verified.",
+    "tagline": "Reference entry for Google DeepMind video generation; source quality, resolution and availability claims have not been currently verified."
+  },
+  "wan": {
+    "description": "According to the source catalog: Alibaba video-model family with text/image-to-video and local-running options; suitable hardware and licensing are required.",
+    "tagline": "Alibaba video-model family with text/image-to-video and local-running options; suitable hardware and licensing are required."
+  },
+  "afina-automation": {
+    "description": "According to the source catalog: Afina automation editor with browser profiles and Web3 templates; isolation does not guarantee avoidance of detection or bans.",
+    "tagline": "Afina automation editor with browser profiles and Web3 templates; isolation does not guarantee avoidance of detection or bans."
+  },
+  "bas": {
+    "description": "According to the source catalog: Browser Automation Studio for web-automation workflows; commercial distribution and licensing require checking.",
+    "tagline": "Browser Automation Studio for web-automation workflows; commercial distribution and licensing require checking."
+  },
+  "zennoposter": {
+    "description": "According to the source catalog: Visual web automation with multithreading, proxies and conditional logic; use is limited to authorized tasks.",
+    "tagline": "Visual web automation with multithreading, proxies and conditional logic; use is limited to authorized tasks."
+  },
+  "playwright": {
+    "description": "According to the source catalog: Browser-testing framework with Chrome, Firefox, WebKit, automatic waits and action-to-code recording.",
+    "tagline": "Browser-testing framework with Chrome, Firefox, WebKit, automatic waits and action-to-code recording."
+  },
+  "selenium": {
+    "description": "According to the source catalog: Browser automation through WebDriver with multiple programming languages and extensible testing infrastructure.",
+    "tagline": "Browser automation through WebDriver with multiple programming languages and extensible testing infrastructure."
+  },
+  "puppeteer": {
+    "description": "According to the source catalog: Browser-control library using DevTools for screenshots, PDFs, network requests and testing; support depends on the version.",
+    "tagline": "Browser-control library using DevTools for screenshots, PDFs, network requests and testing; support depends on the version."
+  },
+  "robot-framework": {
+    "description": "According to the source catalog: Open-source keyword-driven testing framework with extensions for web, mobile, API and database work.",
+    "tagline": "Open-source keyword-driven testing framework with extensions for web, mobile, API and database work."
+  },
+  "adspower-automation": {
+    "description": "According to the source catalog: AdsPower RPA tools and a workflow marketplace; scenario maintenance and permissions require separate checking.",
+    "tagline": "AdsPower RPA tools and a workflow marketplace; scenario maintenance and permissions require separate checking."
+  },
+  "autohotkey": {
+    "description": "According to the source catalog: Windows scripting for hotkeys, mouse/keyboard input and window management.",
+    "tagline": "Windows scripting for hotkeys, mouse/keyboard input and window management."
+  },
+  "uipath": {
+    "description": "According to the source catalog: RPA platform with visual workflow design, data processing and multi-application workflows.",
+    "tagline": "RPA platform with visual workflow design, data processing and multi-application workflows."
+  },
+  "meshy": {
+    "description": "According to the source catalog: Text/image-to-3D, PBR textures, remeshing and source-listed Unity integration; generated output requires checking.",
+    "tagline": "Text/image-to-3D, PBR textures, remeshing and source-listed Unity integration; generated output requires checking."
+  },
+  "tripo3d": {
+    "description": "According to the source catalog: Draft/refined 3D mesh generation, low-poly mode, UVs and quad topology according to the source.",
+    "tagline": "Draft/refined 3D mesh generation, low-poly mode, UVs and quad topology according to the source."
+  },
+  "rodin": {
+    "description": "According to the source catalog: Hyper3D 3D generation with detailed geometry, UVs and PBR maps; model suitability requires separate checking.",
+    "tagline": "Hyper3D 3D generation with detailed geometry, UVs and PBR maps; model suitability requires separate checking."
+  },
+  "hyper3d": {
+    "description": "According to the source catalog: 3D-generation suite associated with Rodin, with source-described normal maps and API access.",
+    "tagline": "3D-generation suite associated with Rodin, with source-described normal maps and API access."
+  },
+  "kaedim": {
+    "description": "According to the source catalog: 2D-to-3D conversion with source-described artist review of meshes; cleanup-free output is not guaranteed.",
+    "tagline": "2D-to-3D conversion with source-described artist review of meshes; cleanup-free output is not guaranteed."
+  },
+  "blender": {
+    "description": "According to the source catalog: Open-source 3D editor for geometry cleanup, polygon reduction, pivot setup and glTF texture packing.",
+    "tagline": "Open-source 3D editor for geometry cleanup, polygon reduction, pivot setup and glTF texture packing."
+  },
+  "unity": {
+    "description": "According to the source catalog: Game engine with URP, WebGL and prefabs; the source review discusses mobile and mini-app workflows.",
+    "tagline": "Game engine with URP, WebGL and prefabs; the source review discusses mobile and mini-app workflows."
+  },
+  "v0": {
+    "description": "According to the source catalog: Prompt-driven React, Tailwind and shadcn/ui interface prototyping; code requires validation and refinement.",
+    "tagline": "Prompt-driven React, Tailwind and shadcn/ui interface prototyping; code requires validation and refinement."
+  },
+  "lovable": {
+    "description": "According to the source catalog: Prompt-driven web prototyping with UI, logic and Supabase integrations; production readiness is not guaranteed.",
+    "tagline": "Prompt-driven web prototyping with UI, logic and Supabase integrations; production readiness is not guaranteed."
+  },
+  "cursor": {
+    "description": "According to the source catalog: VS Code-based AI editor with multi-file edits, project-aware chat and refactoring.",
+    "tagline": "VS Code-based AI editor with multi-file edits, project-aware chat and refactoring."
+  },
+  "bolt-new": {
+    "description": "According to the source catalog: StackBlitz environment running Node.js in the browser through WebContainers for building and running prototypes.",
+    "tagline": "StackBlitz environment running Node.js in the browser through WebContainers for building and running prototypes."
+  },
+  "godot": {
+    "description": "According to the source catalog: Open-source 2D/3D engine with GDScript and glTF import; web-export capabilities depend on the version and project.",
+    "tagline": "Open-source 2D/3D engine with GDScript and glTF import; web-export capabilities depend on the version and project."
+  },
+  "spline": {
+    "description": "According to the source catalog: Browser-based 3D design with collaboration, AI features, animation and React/web embedding.",
+    "tagline": "Browser-based 3D design with collaboration, AI features, animation and React/web embedding."
+  }
+}

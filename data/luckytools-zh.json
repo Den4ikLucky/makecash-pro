@@ -1,0 +1,1818 @@
+{
+  "phantom-ai": {
+    "description": "来源目录介绍，Phantom Shop 通过 Telegram 机器人提供 ChatGPT、Claude、Midjourney 等 AI 订阅、账号及数字商品。",
+    "tagline": "Telegram AI 订阅与数字商品商店"
+  },
+  "ahlisshop": {
+    "description": "来源目录介绍，AhlisShop 是提供数字耗材、账号、AI 订阅与代币的 Telegram 商店机器人，并支持自动交付。",
+    "tagline": "Telegram 账号与数字耗材商店"
+  },
+  "afina": {
+    "description": "来源目录介绍，Afina 面向加密项目工作流提供隔离浏览器配置、本地存储、手动更新与脚本自动化工具。",
+    "tagline": "本地配置与脚本自动化浏览器"
+  },
+  "adspower": {
+    "description": "来源目录介绍，ADS Power 使用 SunBrowser 配置，提供 Selenium/Puppeteer API、团队同步、代理管理与 RPA 自动化；其历史安全问题需另行核实。",
+    "tagline": "SunBrowser 配置与团队自动化"
+  },
+  "octo": {
+    "description": "来源目录介绍，Octo 通过 Chromium 浏览器配置管理独立工作环境，并提供用于流程自动化的 API。",
+    "tagline": "Chromium 配置与自动化 API"
+  },
+  "chrome-diy": {
+    "description": "来源目录介绍，可在 Chrome 中组合 SwitchyOmega、WebRTC Control、Canvas Blocker 与 User-Agent Switcher 调整隐私设置，但这些扩展不提供完整会话隔离。",
+    "tagline": "Chrome 隐私扩展组合"
+  },
+  "firefox-diy": {
+    "description": "来源目录介绍，Firefox 可结合 FoxyProxy、arkenfox user.js 与内置指纹防护设置管理代理和隐私；此组合不等同于独立配置隔离浏览器。",
+    "tagline": "Firefox 代理与隐私配置"
+  },
+  "brave-diy": {
+    "description": "来源目录介绍，Brave 的 Shields、指纹防护、WebRTC 设置与 Tor 窗口可用于日常隐私管理，并可安装 Chrome 代理扩展。",
+    "tagline": "Brave 内置隐私与代理设置"
+  },
+  "multi-login": {
+    "description": "来源目录介绍，Multi-Login 面向广告与团队工作流，提供基于 Chromium 的 Mimic 和基于 Firefox 的 Stealthfox 两种浏览器引擎。",
+    "tagline": "Mimic 与 Stealthfox 双引擎浏览器"
+  },
+  "morelogin": {
+    "description": "来源目录介绍，MoreLogin 提供浏览器配置管理与自动化 API；目录提及的历史安全事件仍需独立核实。",
+    "tagline": "浏览器配置与自动化接口"
+  },
+  "undetectable": {
+    "description": "来源目录介绍，Undetectable 面向大量配置管理，提供本地浏览器配置和单独计费的云端配置存储。",
+    "tagline": "本地配置与可选云端存储"
+  },
+  "geelark": {
+    "description": "来源目录介绍，GeeLark 提供基于 ARM 的云端 Android 手机环境，支持 RPA、批量同步与 API；费用涉及配置及使用时长。",
+    "tagline": "Android 云手机与批量自动化"
+  },
+  "dolphin": {
+    "description": "来源目录将 Dolphin 列为浏览器配置管理工具，并提及其历史配置泄露事件；该评价不构成独立安全审计。",
+    "tagline": "浏览器配置管理与历史安全提示"
+  },
+  "incogniton": {
+    "description": "来源目录介绍，Incogniton 为开发者提供浏览器配置管理及 Selenium、Puppeteer 集成；目录对更新与安全历史提出保留意见。",
+    "tagline": "集成 Selenium 与 Puppeteer 的浏览器"
+  },
+  "agentx": {
+    "description": "来源目录介绍，AgentX 是面向加密项目工作流的 Chromium 配置浏览器，并声称设有安全审计与漏洞奖励计划。",
+    "tagline": "面向加密项目的 Chromium 工作环境"
+  },
+  "gologin": {
+    "description": "来源目录介绍，GoLogin 使用 Orbita 引擎，支持云端配置、团队协作、代理管理及 API/MCP 集成；社区安全评价需独立核实。",
+    "tagline": "Orbita 云端配置与团队协作"
+  },
+  "linken-sphere": {
+    "description": "来源目录介绍，Linken Sphere 提供 Tor 集成与浏览器环境管理，并提及旧版数据泄露及后续新版；不应据此推定匿名性或安全性。",
+    "tagline": "Tor 集成与浏览器环境管理"
+  },
+  "indigo": {
+    "description": "来源目录介绍，Indigo 以简洁界面提供浏览器配置和指纹设置，并设有配置试用方案。",
+    "tagline": "简洁的浏览器配置与指纹设置"
+  },
+  "lalicat": {
+    "description": "来源目录介绍，Lalicat 提供基础浏览器指纹和配置管理功能，适合先评估其是否满足具体测试需求。",
+    "tagline": "基础指纹与浏览器配置管理"
+  },
+  "surfinite": {
+    "description": "来源目录介绍，Surfinite 是持续更新的浏览器环境管理工具；目录对其数据安全与性价比提出疑问。",
+    "tagline": "持续更新的浏览器环境管理工具"
+  },
+  "kameleo": {
+    "description": "来源目录介绍，Kameleo 支持桌面以及 iOS、Android 指纹模拟，并按同时运行的配置数量区分方案。",
+    "tagline": "桌面与移动指纹模拟"
+  },
+  "xlogin": {
+    "description": "来源目录介绍，XLogin 提供基础浏览器指纹与配置管理，定位于一般独立浏览器工作环境。",
+    "tagline": "基础浏览器指纹与配置工具"
+  },
+  "ghostbrowser": {
+    "description": "来源目录介绍，GhostBrowser 可让标签页使用不同 Cookie 会话，便于切换多个登录；它不提供指纹伪装或完整环境隔离。",
+    "tagline": "按标签页分离 Cookie 会话"
+  },
+  "vm-login": {
+    "description": "来源目录介绍，VM-Login 在虚拟机环境层面分离浏览器配置，适用于需要独立运行环境的工作流。",
+    "tagline": "虚拟机层面的浏览器环境分离"
+  },
+  "hidemyacc": {
+    "description": "来源目录介绍，HideMyAcc 是越南团队的浏览器配置工具，提供指纹设置与面向常见平台的工作界面。",
+    "tagline": "越南团队的浏览器配置工具"
+  },
+  "antik": {
+    "description": "来源目录介绍，Antik 提供浏览器指纹设置、配置仪表板与日常更新，面向常规配置管理需求。",
+    "tagline": "浏览器配置仪表板与指纹设置"
+  },
+  "marketer": {
+    "description": "来源目录介绍，Marketer 面向社交媒体管理，结合浏览器配置模板、发帖计划与受众工具。",
+    "tagline": "社交媒体配置与发帖工作流"
+  },
+  "bitbrowser": {
+    "description": "来源目录介绍，BitBrowser 提供独立浏览器配置与电商相关功能，覆盖淘宝、拼多多等平台的工作流。",
+    "tagline": "面向电商工作流的配置浏览器"
+  },
+  "antbrowser": {
+    "description": "来源目录介绍，ANTBrowser 提供基础指纹与简易配置界面；目录指出其更新频率较低。",
+    "tagline": "基础指纹与简易浏览器配置"
+  },
+  "accovod": {
+    "description": "来源目录介绍，Accovod 提供云端浏览器配置同步、团队协作及批量账号工作流管理。",
+    "tagline": "云端配置同步与团队账号工作流"
+  },
+  "sessionbox": {
+    "description": "来源目录介绍，SessionBox 是在 Chrome 标签页之间分离 Cookie 的扩展，便于同时登录多个账号，但不提供指纹伪装。",
+    "tagline": "Chrome 标签页多会话扩展"
+  },
+  "samara-swspy": {
+    "description": "来源目录介绍，Samara swSpy 提供基础指纹、浏览器配置与俄语支持，功能定位较为精简。",
+    "tagline": "提供俄语支持的基础配置浏览器"
+  },
+  "vision": {
+    "description": "来源目录介绍，Vision 是持续开发的浏览器配置工具；目录同时指出注册与支付流程仍存在体验问题。",
+    "tagline": "持续开发的浏览器配置平台"
+  },
+  "proxyshard": {
+    "description": "来源目录介绍，ProxyShard 提供多地区住宅代理、使用统计仪表板与接入功能；IP 质量和适用性需自行评估。",
+    "tagline": "多地区住宅代理与使用统计"
+  },
+  "geonix": {
+    "description": "来源目录介绍，Geonix 提供独立 IPv4/IPv6 代理，支持 HTTP、HTTPS、SOCKS5，以及账号密码或 IP 白名单认证。",
+    "tagline": "IPv4/IPv6 独立代理与双重认证方式"
+  },
+  "webshare": {
+    "description": "来源目录介绍，Webshare 提供适合批量使用的共享代理方案，并可选择流量及网络优先级配置。",
+    "tagline": "面向批量任务的共享代理"
+  },
+  "proxywing": {
+    "description": "来源目录介绍，ProxyWing 提供轮换住宅代理、国家和城市定位，以及实时统计与自动化接入。",
+    "tagline": "住宅代理轮换与城市定位"
+  },
+  "prosox": {
+    "description": "来源目录介绍，Prosox 汇集住宅、移动、ISP、数据中心及 IPv6 代理，并提供 UDP 选项、仪表板与 API。",
+    "tagline": "多类型代理与 UDP 选项"
+  },
+  "proxysio": {
+    "description": "来源目录介绍，ProxysIO 提供移动、住宅和数据中心代理，侧重独联体地区，并设有匿名性检测与不同系统特征选项。",
+    "tagline": "侧重独联体地区的多类型代理"
+  },
+  "proxy-seller": {
+    "description": "来源目录介绍，Proxy-Seller 提供专用 IPv4/IPv6 代理，支持 HTTP、HTTPS、SOCKS5 与 API，适用于需要固定 IP 的会话。",
+    "tagline": "专用 IPv4/IPv6 与固定 IP 会话"
+  },
+  "proxy6": {
+    "description": "来源目录介绍，Proxy6 提供 IPv4 和 IPv6 代理，采用可选短租期限，地区选择相对有限。",
+    "tagline": "支持短租的 IPv4/IPv6 代理"
+  },
+  "proxyline": {
+    "description": "来源目录介绍，ProxyLine 提供多国家 IPv4/IPv6 代理，支持 HTTP 与 SOCKS5，采用直接选择地区的购买流程。",
+    "tagline": "按地区选择的 IPv4/IPv6 代理"
+  },
+  "geonode": {
+    "description": "来源目录介绍，GEONode 提供住宅代理、城市级定位、轮换与粘性会话，并配有分析和会话控制界面。",
+    "tagline": "住宅代理定位与粘性会话"
+  },
+  "asocks": {
+    "description": "来源目录介绍，Asocks 按流量提供住宅代理，支持城市级定位、API 接入及实时流量消耗统计。",
+    "tagline": "按流量计费的住宅代理"
+  },
+  "data-impulse": {
+    "description": "来源目录介绍，Data Impulse 提供住宅、移动与数据中心代理，并支持城市定位、自动轮换、SOCKS5 和 API。",
+    "tagline": "住宅、移动及数据中心代理接入"
+  },
+  "b2proxy": {
+    "description": "来源目录介绍，B2proxy 提供多类型代理、跨地区覆盖、IP 轮换能力与 API 接口。",
+    "tagline": "多类型代理与轮换接口"
+  },
+  "iproyal": {
+    "description": "来源目录介绍，IPRoyal 提供住宅代理，也有数据中心及面向限量商品场景的代理方案。",
+    "tagline": "住宅与数据中心代理方案"
+  },
+  "711proxy": {
+    "description": "来源目录介绍，711Proxy 提供住宅、ISP 与不限流量住宅代理方案，支持城市级定位和 SOCKS5。",
+    "tagline": "住宅与 ISP 代理及城市定位"
+  },
+  "decodo": {
+    "description": "来源目录介绍，Decodo 提供轮换住宅代理和批量静态代理，配有开发者 API、文档及 Chrome 测试扩展。",
+    "tagline": "轮换住宅代理与开发者测试工具"
+  },
+  "brightdata": {
+    "description": "来源目录介绍，BrightData 提供企业代理、Web Unlocker、SERP API、浏览器采集及爬虫工具；部分功能涉及身份审核。",
+    "tagline": "企业代理与网页数据采集工具"
+  },
+  "proxysoxy": {
+    "description": "来源目录介绍，ProxySoxy 通过 Telegram 机器人销售代理，侧重少数地区及独联体 IP 的即时购买流程。",
+    "tagline": "通过 Telegram 购买地区代理"
+  },
+  "proxystore": {
+    "description": "来源目录介绍，ProxyStore 提供按周期租用的专用固定 IP，适用于要求 IP 一致性的持续会话。",
+    "tagline": "长期租用的专用固定 IP"
+  },
+  "spaceproxy": {
+    "description": "来源目录介绍，SpaceProxy 提供 IPv4/IPv6 地区代理，并支持通过 API 接入工作流。",
+    "tagline": "IPv4/IPv6 地区代理与 API"
+  },
+  "proxy-ipv4": {
+    "description": "来源目录介绍，Proxy-ipv4 提供多地区专用 IPv4、批量短租与移动代理，侧重长期会话的固定地址需求。",
+    "tagline": "专用 IPv4 短租与移动代理"
+  },
+  "froxy": {
+    "description": "来源目录介绍，Froxy 提供轮换住宅代理、按请求或流量计费的方案及 API；部分功能可能需要身份审核。",
+    "tagline": "住宅代理轮换与采集计费方案"
+  },
+  "astroproxy": {
+    "description": "来源目录介绍，AstroProxy 提供按流量计费的住宅代理、快速轮换和实时用量仪表板，并可接入配置浏览器。",
+    "tagline": "按流量统计的住宅代理轮换"
+  },
+  "fineproxy": {
+    "description": "来源目录介绍，FineProxy 提供批量代理与单独代理，目录提醒不同批次的质量可能有差异。",
+    "tagline": "批量与单独代理方案"
+  },
+  "youproxy": {
+    "description": "来源目录介绍，YouProxy 提供可手动选择地区的单独代理，以固定地区与持续连接为主要用途。",
+    "tagline": "手动地区选择的单独代理"
+  },
+  "frigate": {
+    "description": "来源目录介绍，Frigate 提供数据中心与移动代理，主要面向独联体地区，并提供客户支持。",
+    "tagline": "面向独联体地区的代理服务"
+  },
+  "mobileproxy": {
+    "description": "来源目录介绍，MobileProxy 提供基于 SIM 卡的移动代理及自动 IP 轮换，也提供静态代理与试用选项。",
+    "tagline": "SIM 卡移动代理与自动轮换"
+  },
+  "proxywhite": {
+    "description": "来源目录介绍，ProxyWhite 提供使用 IP 白名单限制接入的私有代理，并称会在分配前检查 IP。",
+    "tagline": "采用 IP 白名单的私有代理"
+  },
+  "illusory": {
+    "description": "来源目录介绍，Illusory 提供住宅代理、轮换算法与仪表板，API 及流量费用需结合实际用途评估。",
+    "tagline": "住宅代理轮换与管理仪表板"
+  },
+  "netnut": {
+    "description": "来源目录介绍，NetNut 使用 ISP 连接提供住宅代理，支持城市定位、客户经理与付费数据采集工具。",
+    "tagline": "基于 ISP 连接的住宅代理"
+  },
+  "aceproxies": {
+    "description": "来源目录介绍，AceProxies 提供面向 Shopify、Footlocker、Supreme 等零售测试场景的数据中心代理，地区覆盖较集中。",
+    "tagline": "面向零售场景的数据中心代理"
+  },
+  "anonymous": {
+    "description": "来源目录介绍，Anonymous 提供 HTTP 与 SOCKS5 代理及 API；其匿名性宣传不代表实际隐私保障。",
+    "tagline": "HTTP 与 SOCKS5 代理接口"
+  },
+  "bestproxy": {
+    "description": "来源目录将 BestProxy 介绍为与 Anonymous 购买流程相近的代理服务，使用前应核对订单与代理条件。",
+    "tagline": "具有独立购买流程的代理商店"
+  },
+  "buypersonalproxy": {
+    "description": "来源目录介绍，BuyPersonalProxy 同时提供单用户专用 IP 和按月共享代理方案。",
+    "tagline": "单用户专用与按月共享代理"
+  },
+  "changemyip": {
+    "description": "来源目录介绍，ChangeMyIP 提供快速 IP 切换及代理购买，适用于需要更换网络出口的测试流程。",
+    "tagline": "IP 切换与代理购买服务"
+  },
+  "infantica": {
+    "description": "来源目录介绍，Infantica 提供面向大规模网页数据采集的住宅代理网络与自动轮换功能。",
+    "tagline": "面向数据采集的住宅代理轮换"
+  },
+  "localproxies": {
+    "description": "来源目录介绍，LocalProxies 可按具体城市或 ISP 选择住宅代理，侧重对网络位置敏感的测试。",
+    "tagline": "按城市与 ISP 选择住宅代理"
+  },
+  "litproxy": {
+    "description": "来源目录介绍，LitProxy 提供代理购买服务；其 API 被列为计划功能，不能视为已可用能力。",
+    "tagline": "代理购买与规划中的 API"
+  },
+  "flipnode": {
+    "description": "来源目录介绍，FlipNode 面向网页采集和自动化数据管道提供住宅代理、API 文档与轮换策略。",
+    "tagline": "用于数据管道的住宅代理"
+  },
+  "proxyleet": {
+    "description": "来源目录介绍，ProxyLeet 是俄罗斯本地代理服务，提供批量购买选项；目录对代理质量保留意见。",
+    "tagline": "俄罗斯本地批量代理"
+  },
+  "oxylabs": {
+    "description": "来源目录介绍，OxyLabs 提供企业级住宅、数据中心及移动代理，支持城市定位、轮换与客户经理。",
+    "tagline": "企业级多类型代理基础设施"
+  },
+  "proxycue": {
+    "description": "来源目录介绍，ProxyCUE 提供基础代理轮换、简易购买界面及多个国家的 VDS 方案。",
+    "tagline": "基础代理轮换与 VDS 方案"
+  },
+  "privateproxy": {
+    "description": "来源目录介绍，PrivateProxy 提供专用私有代理、多种方案与 API；支付方式及身份审核条件需按供应商规则确认。",
+    "tagline": "专用私有代理与 API 接入"
+  },
+  "proxysocks5": {
+    "description": "来源目录介绍，ProxySocks5 侧重 SOCKS5 代理，并提供不同地区与网络供应商的选择。",
+    "tagline": "按地区和供应商选择 SOCKS5"
+  },
+  "proxyverse": {
+    "description": "来源目录介绍，ProxyVerse 提供住宅代理平台、管理界面、API 文档与多种流量方案。",
+    "tagline": "住宅代理平台与 API 文档"
+  },
+  "proxyempire": {
+    "description": "来源目录介绍，ProxyEmpire 同时提供轮换住宅和移动代理，并将 4G/LTE 运营商 IP 纳入同一管理平台。",
+    "tagline": "住宅与 4G/LTE 移动代理"
+  },
+  "proxymarket": {
+    "description": "来源目录介绍，ProxyMarket 汇集多个代理卖家，便于比较代理类型、供应商与交易条件。",
+    "tagline": "多卖家代理比较市场"
+  },
+  "proxystorenet": {
+    "description": "来源目录介绍，ProxyStoreNet 提供专用 IP 与私有代理购买，目录同时提示其住宅流量成本较高。",
+    "tagline": "专用 IP 与私有代理商店"
+  },
+  "ip-burger": {
+    "description": "来源目录介绍，IP Burger 提供住宅代理并定期更新 IP，目录建议结合实际用量评估成本。",
+    "tagline": "定期更新 IP 的住宅代理"
+  },
+  "hydraproxy": {
+    "description": "来源目录介绍，HydraProxy 在统一仪表板中提供住宅、数据中心与移动代理，并有 API 及 HydraHeaders 配置管理器。",
+    "tagline": "多类型代理与 HydraHeaders 管理"
+  },
+  "proxy-cheap": {
+    "description": "来源目录介绍，Proxy-Cheap 提供用于基础地区测试与网页采集的代理池和轮换功能。",
+    "tagline": "用于采集和测试的代理轮换"
+  },
+  "proxyrack": {
+    "description": "来源目录介绍，ProxyRack 聚合住宅与移动代理，在统一界面中提供按端口及不限流量等方案。",
+    "tagline": "住宅与移动代理聚合管理"
+  },
+  "9proxy": {
+    "description": "来源目录介绍，9proxy 提供按 IP 而非按流量计费的轮换住宅代理，适用于需要较大流量的任务。",
+    "tagline": "按 IP 计费的轮换住宅代理"
+  },
+  "lightning-proxies": {
+    "description": "来源目录介绍，Lightning Proxies 提供住宅、移动、ISP、数据中心与 IPv6 代理，并支持 API 和批量方案。",
+    "tagline": "多类型代理与批量接入"
+  },
+  "mars-proxies": {
+    "description": "来源目录介绍，Mars Proxies 提供支持 UDP 及不限流量方案的 ISP 代理，侧重持续会话需求。",
+    "tagline": "支持 UDP 的 ISP 代理"
+  },
+  "lte-socks": {
+    "description": "来源目录介绍，LTE Socks 提供基于真实 SIM 卡的 LTE/4G 移动及专用住宅代理，支持手动或自动轮换。",
+    "tagline": "SIM 卡 LTE/4G 代理与轮换"
+  },
+  "cat-proxies": {
+    "description": "来源目录介绍，Cat Proxies 提供住宅与数据中心静态代理、城市定位、API 和试用；注册条件需按供应商要求如实完成。",
+    "tagline": "城市定位代理与批量静态 IP"
+  },
+  "cyberyozh": {
+    "description": "来源目录介绍，CyberYozh 是独联体团队的地区代理服务，在俄语加密社区中有一定使用记录。",
+    "tagline": "独联体团队的地区代理服务"
+  },
+  "nettify": {
+    "description": "来源目录介绍，Nettify 提供住宅、移动、数据中心及不限流量住宅方案，并使用令牌式授权。",
+    "tagline": "采用令牌授权的多类型代理"
+  },
+  "naproxy": {
+    "description": "来源目录介绍，NaProxy 提供住宅、ISP 与数据中心代理，支持 API、城市定位和住宅流量包。",
+    "tagline": "城市定位与住宅流量包"
+  },
+  "lumi-proxy": {
+    "description": "来源目录将 Lumi Proxy 列为代理供应商，但未给出独特的技术功能，并对其费用和质量提出保留意见。",
+    "tagline": "功能细节有限的代理供应商"
+  },
+  "bartproxies": {
+    "description": "来源目录将 BartProxies 介绍为住宅代理服务，并提示其流量成本较高；评价不代表独立性能测试。",
+    "tagline": "住宅代理与流量方案"
+  },
+  "kocer-roxy": {
+    "description": "来源目录介绍，Kocer Roxy 主要提供移动代理；数据中心代理库存及使用限制应在购买前核对。",
+    "tagline": "移动代理与库存限制提示"
+  },
+  "ipnproxy": {
+    "description": "来源目录介绍，IpnProxy 提供多类型代理，住宅代理支持城市定位，并有住宅和移动代理批量方案。",
+    "tagline": "城市定位住宅与移动代理"
+  },
+  "momoproxy": {
+    "description": "来源目录介绍，MoMoProxy 提供住宅及 ISP 代理，支持城市定位、SOCKS5、手动和自动轮换。",
+    "tagline": "住宅与 ISP 代理及双模式轮换"
+  },
+  "ake": {
+    "description": "来源目录介绍，Ake 提供覆盖多个国家的代理，重点包括移动与 ISP 代理选项。",
+    "tagline": "多国家移动与 ISP 代理"
+  },
+  "ghostealth": {
+    "description": "来源目录介绍，Ghostealth 侧重大批量住宅和数据中心代理采购，不适合仅购买少量 IP 或少量试用流量。",
+    "tagline": "面向大批量采购的代理服务"
+  },
+  "nodemaven": {
+    "description": "来源目录介绍，NodeMaven 以住宅代理为主，支持 IPv6、SOCKS5、自动轮换与 API，并提供跨地区代理选择。",
+    "tagline": "住宅代理与 IPv6 自动轮换"
+  },
+  "novada": {
+    "description": "来源目录介绍，Novada 提供 ISP、数据中心、住宅及移动代理；完整功能可能需要身份审核。",
+    "tagline": "多类型代理与身份审核提示"
+  },
+  "proxiware": {
+    "description": "来源目录介绍，Proxiware 的代理方案按流量计费，数据中心代理也采用这一方式，目录主要关注其住宅连接。",
+    "tagline": "按流量计费的代理连接"
+  },
+  "proxy-302": {
+    "description": "来源目录介绍，Proxy 302 提供代理购买与试用选项，并提示注册和管理界面可能不够顺畅。",
+    "tagline": "代理购买与试用入口"
+  },
+  "psb-proxy": {
+    "description": "来源目录介绍，PSB Proxy 提供专用轮换代理，采用简化购买流程及可持续轮换的方案。",
+    "tagline": "专用轮换代理"
+  },
+  "ping-proxies": {
+    "description": "来源目录介绍，Ping Proxies 提供专用 ISP 与住宅代理，面向固定 IP 或大量低流量会话需求。",
+    "tagline": "专用 ISP 与低流量住宅代理"
+  },
+  "plain-proxies": {
+    "description": "来源目录将 Plain Proxies 列为代理供应商，同时指出注册与仪表板存在问题，功能详情较少。",
+    "tagline": "需核对注册状态的代理平台"
+  },
+  "proxies-fo": {
+    "description": "来源目录介绍，Proxies.fo 提供多种代理，其中住宅和移动代理是目录重点介绍的选项。",
+    "tagline": "住宅与移动代理选项"
+  },
+  "soax": {
+    "description": "来源目录介绍，Soax 提供住宅代理、API 与细化地理定位；部分功能和支付流程需要联系支持。",
+    "tagline": "住宅代理与细化地理定位"
+  },
+  "rayobyte": {
+    "description": "来源目录将 Rayobyte 列为美国代理供应商，但未提供可据以确认的详细功能说明。",
+    "tagline": "美国代理供应商目录条目"
+  },
+  "stable-proxy": {
+    "description": "来源目录介绍，Stable Proxy 是乌克兰代理供应商，地区选择较少，主要面向当地用户工作流。",
+    "tagline": "面向乌克兰用户的地区代理"
+  },
+  "squid-proxies": {
+    "description": "来源目录将 Squid Proxies 列为本地代理服务，未提供详细技术规格，并对质量保留意见。",
+    "tagline": "技术信息有限的本地代理服务"
+  },
+  "proxidize": {
+    "description": "来源目录介绍，Proxidize 提供移动代理基础设施；目录指出其购买和管理流程需要进一步评估。",
+    "tagline": "移动代理基础设施"
+  },
+  "ip-peak": {
+    "description": "来源目录介绍，ip Peak 提供住宅、ISP 及不限流量住宅方案，支持 SOCKS5、自动轮换与多地区覆盖。",
+    "tagline": "SOCKS5 住宅与 ISP 代理"
+  },
+  "ziny": {
+    "description": "来源目录介绍，Ziny 提供多类型代理、城市级定位与试用，现有公开评价相对有限。",
+    "tagline": "城市级代理定位与试用"
+  },
+  "proxyma": {
+    "description": "来源目录介绍，ProxyMa 面向俄语用户提供基础住宅及移动代理，并支持当地支付渠道。",
+    "tagline": "面向俄语用户的住宅与移动代理"
+  },
+  "proxysolutions": {
+    "description": "来源目录介绍，ProxySolutions 提供个人、批量、城市、UDP 和移动代理，并有自动化、消息机器人与 API。",
+    "tagline": "城市、UDP 及移动代理自动化"
+  },
+  "sx": {
+    "description": "来源目录介绍，SX 是带有 IP 质量评分系统的代理市场，并引用 checker.net 检测结果；评分不等同于安全保证。",
+    "tagline": "带 IP 质量评分的代理市场"
+  },
+  "nyprox": {
+    "description": "来源目录介绍，NyProx 专注数据中心代理，支持 HTTPS 和 SOCKS5，不提供住宅或移动代理。",
+    "tagline": "专注 HTTPS/SOCKS5 数据中心代理"
+  },
+  "thunderproxy": {
+    "description": "来源目录介绍，ThunderProxy 是立陶宛代理供应商，提供 ISP 代理、跨国家 IP 池与试用流量。",
+    "tagline": "立陶宛供应商的 ISP 代理"
+  },
+  "elusive": {
+    "description": "来源目录介绍，Elusive 专供英国 ThreeUK 网络的 4G 移动代理，支持通过 URL 或自动方式轮换。",
+    "tagline": "ThreeUK 4G 代理与轮换"
+  },
+  "evomi": {
+    "description": "来源目录介绍，Evomi 是瑞士代理供应商，提供住宅、移动和数据中心代理；完整功能可能需要身份审核。",
+    "tagline": "瑞士供应商的多类型代理"
+  },
+  "gridpanel": {
+    "description": "来源目录介绍，GridPanel 以 4G/5G 移动代理为主，也提供数据中心、住宅代理及数据采集 API。",
+    "tagline": "4G/5G 移动代理与采集 API"
+  },
+  "globalproxies": {
+    "description": "来源目录介绍，GlobalProxies 专注美国 4G/5G 移动 IP，提供每日流量额度及轮换方案。",
+    "tagline": "美国 4G/5G 移动 IP"
+  },
+  "flowproxies": {
+    "description": "来源目录介绍，FlowProxies 提供以美国为主的 ISP 与住宅代理，面向限量商品及自动化工作流。",
+    "tagline": "美国 ISP 与住宅代理工作流"
+  },
+  "proxybase": {
+    "description": "来源目录介绍，ProxyBase 是英国代理供应商，提供住宅代理流量包与数据采集 API。",
+    "tagline": "英国住宅代理与采集 API"
+  },
+  "belurk": {
+    "description": "来源目录介绍，Belurk 面向独联体用户提供 IPv4/IPv6 代理，支持 HTTPS、SOCKS5 与 API。",
+    "tagline": "面向独联体的 IPv4/IPv6 代理"
+  },
+  "getproxy": {
+    "description": "来源目录介绍，GetProxy 提供服务器和移动 IPv4/IPv6 代理，并有预订、自动购买及面向俄罗斯平台的选项。",
+    "tagline": "服务器与移动代理预订"
+  },
+  "floppydata": {
+    "description": "来源目录介绍，FloppyData 是提供少量地区代理的商店，并设有试用；目录对代理质量保留意见。",
+    "tagline": "提供地区代理试用的商店"
+  },
+  "proxio": {
+    "description": "来源目录介绍，Proxio 提供住宅与 ISP 代理，侧重网页采集和监控；其可用性宣传需另行验证。",
+    "tagline": "面向采集和监控的住宅与 ISP 代理"
+  },
+  "proxystream": {
+    "description": "来源目录介绍，ProxyStream 提供跨国家 4G/5G 移动代理，包含 Verizon、T-Mobile 和 AT&T 网络，并有按小时至按月方案。",
+    "tagline": "多运营商 4G/5G 代理"
+  },
+  "proxy-family": {
+    "description": "来源目录介绍，Proxy.Family 提供俄罗斯 IPv4/IPv6 代理；该目录记录了负面服务评价，相关情况需独立核实。",
+    "tagline": "俄罗斯地区代理与来源风险提示"
+  },
+  "moni": {
+    "description": "来源目录介绍，Moni 结合加密媒体、社交趋势与影响者分析，提供 X 账号分析扩展，并扩展到交易终端。",
+    "tagline": "加密社交分析与 X 账号扩展"
+  },
+  "cryptorank": {
+    "description": "来源目录介绍，CryptoRank 汇集项目融资、生态活动和代币解锁数据，并提供研究页面及 API。",
+    "tagline": "项目融资与代币解锁研究"
+  },
+  "defilama": {
+    "description": "来源目录介绍，DefiLama 汇总 DeFi 的 TVL、收益方案、协议收入、链指标和 DEX 成交量，并提供额外数据功能。",
+    "tagline": "DeFi TVL、收入与交易量分析"
+  },
+  "dune": {
+    "description": "来源目录介绍，Dune 支持通过 SQL 查询链上数据，并共享协议活动、资金流动和 DeFi 指标仪表板。",
+    "tagline": "SQL 链上查询与共享仪表板"
+  },
+  "artemis": {
+    "description": "来源目录介绍，Artemis 汇总协议基本面、开发者活动与链指标，可比较 L1/L2 生态并导出图表。",
+    "tagline": "跨链基本面与 L1/L2 比较"
+  },
+  "debank": {
+    "description": "来源目录介绍，Debank 在同一界面展示 EVM 地址的 DeFi 仓位、代币与 NFT，并提供链上活动社交动态。",
+    "tagline": "EVM 钱包组合与链上动态"
+  },
+  "glassnode": {
+    "description": "来源目录介绍，GlassNode 提供 Bitcoin、Ethereum 链上指标，包括 HODL 波段、SOPR、NUPL 和交易所资金流。",
+    "tagline": "BTC/ETH 链上周期指标"
+  },
+  "etherdrops": {
+    "description": "来源目录介绍，EtherDrops 通过 Telegram 提供代币价格阈值提醒、钱包余额变化与转账监控。",
+    "tagline": "Telegram 价格与钱包变动提醒"
+  },
+  "notslava": {
+    "description": "来源目录介绍，NotSlava 是 Telegram 加密工具机器人，可按输入的代币数量换算对应市场价值。",
+    "tagline": "Telegram 代币数量价值换算"
+  },
+  "arkham": {
+    "description": "来源目录介绍，Arkham 使用地址标签进行实体识别与交易追踪，提供组合监控、提醒和情报市场。",
+    "tagline": "地址实体标签与链上交易追踪"
+  },
+  "nansen": {
+    "description": "来源目录介绍，Nansen 利用地址标签与钱包分析展示机构、大额持有者和交易者的链上活动及 DeFi 仓位。",
+    "tagline": "钱包标签与链上资金活动分析"
+  },
+  "layerhub": {
+    "description": "来源目录介绍，LayerHub 汇总部分项目和协议的交易量、活跃地址与 TVL 流动，展示跨链使用趋势。",
+    "tagline": "跨链活动与 TVL 流动跟踪"
+  },
+  "bankless": {
+    "description": "来源目录介绍，Bankless 通过播客、通讯与社区研究讲解 DeFi、L2 和 Ethereum 生态。",
+    "tagline": "Ethereum 生态媒体与学习内容"
+  },
+  "delphidigital": {
+    "description": "来源目录介绍，DelphiDigital 提供加密研究报告、投资论题及数据仪表板，覆盖 DeFi、L1/L2、代币经济和宏观分析。",
+    "tagline": "加密深度研究与代币经济分析"
+  },
+  "messari": {
+    "description": "来源目录介绍，Messari 提供资产档案、治理跟踪、协议收入与研究报告，并有筛选器、提醒和 API。",
+    "tagline": "资产档案、治理与协议研究"
+  },
+  "l2beat": {
+    "description": "来源目录介绍，L2Beat 比较 L2 网络的锁定资产、技术类型、安全阶段及风险因素，并公布分析方法。",
+    "tagline": "L2 技术与风险因素比较"
+  },
+  "rayo": {
+    "description": "来源目录介绍，Rayo 跟踪 Twitter、Telegram 和 Discord 的加密讨论趋势，并按生态整理应用与项目。",
+    "tagline": "加密社交趋势与生态应用目录"
+  },
+  "cielo": {
+    "description": "来源目录介绍，Cielo 监控多链钱包的转账、兑换、NFT 铸造和合约交互，并通过 Telegram 或 Discord 提醒。",
+    "tagline": "多链钱包活动与消息提醒"
+  },
+  "dappradar": {
+    "description": "来源目录介绍，DappRadar 按用户、交易量和交易次数比较 DeFi、游戏、NFT 与社交应用，并提供空投跟踪和代币查询。",
+    "tagline": "去中心化应用使用与交易排行"
+  },
+  "cointool": {
+    "description": "来源目录介绍，Cointool 汇集多链常用操作工具；功能范围较广，具体操作与权限要求应逐项确认。",
+    "tagline": "多链常用操作工具集合"
+  },
+  "dexu": {
+    "description": "来源目录介绍，Dexu 结合 AI 分析、钱包仓位跟踪与异常活动提醒；自动信号不能视为交易收益保证。",
+    "tagline": "AI 辅助 DeFi 仓位与异常分析"
+  },
+  "crypto-fundraising": {
+    "description": "来源目录介绍，Crypto Fundraising 跟踪加密项目的风险投资、种子轮和战略融资，可按项目、投资者、网络与轮次检索。",
+    "tagline": "加密项目融资与投资者数据库"
+  },
+  "chaincatcher": {
+    "description": "来源目录介绍，ChainCatcher 汇集中文加密资讯、项目分析与市场观点，便于研究亚洲社区的讨论主题。",
+    "tagline": "中文加密资讯与项目分析"
+  },
+  "chainlist": {
+    "description": "来源目录介绍，Chainlist 汇集 EVM 网络的 RPC、链 ID 与原生币信息，可协助向 MetaMask 添加网络或选择 RPC。",
+    "tagline": "EVM 网络与 RPC 配置目录"
+  },
+  "chaineye": {
+    "description": "来源目录介绍，ChainEye 比较跨链路径的费用与耗时，也可查看不同网络的交易所代币提现费用。",
+    "tagline": "跨链路径与提现费用比较"
+  },
+  "cypherhunter": {
+    "description": "来源目录介绍，CypherHunter 汇集加密项目创始人、顾问、投资者及团队背景，可查询跨项目人员关系。",
+    "tagline": "加密项目团队与人员关系数据库"
+  },
+  "whale-market": {
+    "description": "来源目录介绍，Whale Market 提供代币分配、空投积分和盘前仓位的场外交易市场；托管安排不消除交易对手风险。",
+    "tagline": "积分与盘前仓位场外市场"
+  },
+  "vestlab": {
+    "description": "来源目录介绍，VestLab 跟踪代币归属与解锁日期、数量及接收方，并提供临近解锁提醒。",
+    "tagline": "代币归属与解锁日程"
+  },
+  "dexscreener": {
+    "description": "来源目录介绍，DexScreener 聚合多链 DEX 交易对图表、价格、成交量、流动性和交易历史。",
+    "tagline": "多链 DEX 交易对与流动性图表"
+  },
+  "dextools": {
+    "description": "来源目录介绍，DexTools 提供 DEX 实时图表、交易对查询、持有人数据与代币评分；评分不能证明代币安全。",
+    "tagline": "DEX 图表、交易对与代币评分"
+  },
+  "cryptopanic": {
+    "description": "来源目录介绍，CryptoPanic 聚合加密新闻并附社区多空投票，可按资产、类别及情绪筛选。",
+    "tagline": "加密新闻聚合与社区情绪"
+  },
+  "tokleo": {
+    "description": "来源目录介绍，Tokleo 跟踪 DEX 和 CEX 新币上线，展示初始流动性、早期持有人分布与价格表现。",
+    "tagline": "新币上线与初期流动性分析"
+  },
+  "blocksec": {
+    "description": "来源目录介绍，Blocksec 提供合约交易分析、资金路径追踪、漏洞检测与事件复盘，并有 Phalcon 监控工具。",
+    "tagline": "合约安全研究与 Phalcon 监控"
+  },
+  "crunchbase": {
+    "description": "来源目录介绍，CrunchBase 汇集初创公司融资历史、团队背景、增长指标与投资者关系，也收录加密项目。",
+    "tagline": "公司融资与投资者关系研究"
+  },
+  "icoanalytics": {
+    "description": "来源目录介绍，ICOAnalytics 保存 ICO、IDO、IEO 与公开代币销售记录，可研究发行价格及历史表现。",
+    "tagline": "代币发行与融资历史数据库"
+  },
+  "coingecko": {
+    "description": "来源目录介绍，CoinGecko 聚合代币价格、市值、成交量及交易所数据，并提供评分和 API。",
+    "tagline": "加密资产行情与数据 API"
+  },
+  "dropstab": {
+    "description": "来源目录介绍，DropsTab 结合投资组合跟踪、空投监控、融资数据和代币分析。",
+    "tagline": "组合、空投与项目融资跟踪"
+  },
+  "coinmarketcap": {
+    "description": "来源目录介绍，CoinMarketCap 汇集加密资产价格、市值、成交量与交易所排名，并提供学习内容和活动页面。",
+    "tagline": "加密行情与交易所排名"
+  },
+  "tradingview": {
+    "description": "来源目录介绍，TradingView 提供加密资产、股票与外汇图表、社区指标、策略和价格提醒。",
+    "tagline": "多市场图表与技术分析"
+  },
+  "santiment": {
+    "description": "来源目录介绍，Santiment 结合链上、社交与开发数据，跟踪讨论热度、大额地址活动、代码提交及网络增长。",
+    "tagline": "链上行为、社交与开发指标"
+  },
+  "cryptoquant": {
+    "description": "来源目录介绍，CryptoQuant 侧重交易所资金流、矿工活动和 Bitcoin 宏观指标，并提供图表、提醒与 API。",
+    "tagline": "交易所资金流与矿工数据"
+  },
+  "zapper": {
+    "description": "来源目录介绍，Zapper 汇总多链 DeFi 仓位、NFT 和钱包活动，支持历史净值与地址查询。",
+    "tagline": "多链 DeFi 组合与钱包查询"
+  },
+  "revert": {
+    "description": "来源目录介绍，Revert 分析 Uniswap V3 集中流动性仓位，展示 LP 盈亏、无常损失与手续费收入。",
+    "tagline": "Uniswap V3 流动性仓位分析"
+  },
+  "eigenphi": {
+    "description": "来源目录介绍，EigenPhi 分析 EVM 链上的 MEV、三明治攻击、套利、清算和闪电贷活动。",
+    "tagline": "MEV 与 DeFi 交易结构分析"
+  },
+  "nftscan": {
+    "description": "来源目录介绍，NFTScan 提供多链 NFT 浏览与分析，包括系列地板价、持有人分布、大额活动及开发者 API。",
+    "tagline": "多链 NFT 浏览器与分析 API"
+  },
+  "tenderly": {
+    "description": "来源目录介绍，Tenderly 为 Solidity 开发提供交易模拟、逐步调试、Gas 分析、合约监控和事件提醒。",
+    "tagline": "合约交易模拟与逐步调试"
+  },
+  "bubblemaps": {
+    "description": "来源目录介绍，BubbleMaps 用气泡大小和连线展示代币持有比例及地址间转账，辅助研究集中持仓与关联钱包。",
+    "tagline": "代币持仓与关联地址气泡图"
+  },
+  "birdeye": {
+    "description": "来源目录介绍，BirdEye 侧重 Solana 的代币图表、交易者排行、新币跟踪、钱包管理与交易界面。",
+    "tagline": "Solana 代币与钱包活动分析"
+  },
+  "darkstore": {
+    "description": "来源目录介绍，DarkStore 是提供多种账号的市场，设有购买数量、卖家评价、退款与技术支持信息。",
+    "tagline": "带交易评价的账号市场"
+  },
+  "accsmarket": {
+    "description": "来源目录介绍，ACCSMarket 汇集社交平台、邮箱等账号，按类型和历史区分商品，并提供中介及替换规则。",
+    "tagline": "社交与邮箱账号商品市场"
+  },
+  "fireaccs": {
+    "description": "来源目录介绍，FireAccs 提供多类别账号商品；目录指出其缺少与部分大平台类似的卖家评分机制。",
+    "tagline": "多类别账号商品商店"
+  },
+  "accsmoll": {
+    "description": "来源目录介绍，AccsMoll 聚合多个本地账号商店，便于查找不同类别及较少见的数字账号商品。",
+    "tagline": "多个账号商店的聚合目录"
+  },
+  "lzt-market": {
+    "description": "来源目录介绍，LZT Market 是俄语数字商品市场，覆盖账号、服务、指南与工具，并设有卖家评分、论坛及中介机制。",
+    "tagline": "俄语数字商品与服务市场"
+  },
+  "discord-accounts": {
+    "description": "来源目录介绍，Discord-Accounts 专注 Discord 账号，可按账号年龄、验证状态、邮箱供应商及 Nitro 状态筛选。",
+    "tagline": "按属性筛选 Discord 账号"
+  },
+  "ggsel": {
+    "description": "来源目录介绍，GGSel 是游戏与数字商品市场，也销售 AI 服务及其他订阅，提供卖家评分与退款规则。",
+    "tagline": "游戏、AI 与订阅商品市场"
+  },
+  "plati-market": {
+    "description": "来源目录介绍，Plati Market 销售游戏及相关数字商品，也包括部分订阅，常见功能有自动交付与购买评价。",
+    "tagline": "数字商品自动交付市场"
+  },
+  "funpay": {
+    "description": "来源目录介绍，FunPay 提供游戏账号、道具、代练及数字服务交易，并设有中介和卖家评价。",
+    "tagline": "游戏道具、账号与数字服务市场"
+  },
+  "waraccounts": {
+    "description": "来源目录介绍，WarAccounts 是类别较精简的账号商店；库存与商品质量仍需分别核对。",
+    "tagline": "类别精简的账号商品商店"
+  },
+  "playerup": {
+    "description": "来源目录介绍，PlayerUp 是以游戏账号为主的点对点论坛市场，可另选中介服务，并需核对卖家信誉。",
+    "tagline": "论坛式游戏账号交易市场"
+  },
+  "ready-accs": {
+    "description": "来源目录介绍，Ready Accs 提供 Instagram、Facebook、LinkedIn、TikTok 等账号，也列有 Apple 与 GitHub 商品。",
+    "tagline": "社交平台及开发者账号商店"
+  },
+  "real-accs": {
+    "description": "来源目录介绍，Real Accs 提供多个类别的账号，目录记录其库存较少且以美国注册账号为主。",
+    "tagline": "以美国注册商品为主的账号店"
+  },
+  "accounts2buy": {
+    "description": "来源目录将 Accounts2Buy 列为小型账号商店，并提示其可见库存及活跃交易较少。",
+    "tagline": "库存较少的小型账号商店"
+  },
+  "checkvcc": {
+    "description": "来源目录介绍，CheckVCC 从虚拟信用卡服务扩展至账号、礼品卡及游戏充值，但目录记录其库存经常不足。",
+    "tagline": "虚拟卡、礼品卡与游戏充值目录"
+  },
+  "accountdiversity": {
+    "description": "来源目录介绍，AccountDiversity 提供不同类别的 Telegram 账号与频道商品。",
+    "tagline": "Telegram 账号与频道商品"
+  },
+  "fameswap": {
+    "description": "来源目录介绍，FameSwap 提供带有既有受众的社交账号交易，主要涉及 YouTube 与 TikTok。",
+    "tagline": "YouTube 与 TikTok 账号市场"
+  },
+  "sebuda": {
+    "description": "来源目录将 Sebuda 介绍为论坛式频道及已有受众的社交账号交易网站，具体商品条件需逐项确认。",
+    "tagline": "频道与既有受众账号市场"
+  },
+  "hstock": {
+    "description": "来源目录记录，HStock 曾为数字账号市场，并于 2026 年停止运营；此条目用于保留历史信息。",
+    "tagline": "已停止运营的历史账号市场"
+  },
+  "install-shop": {
+    "description": "来源目录记录，Install Shop 曾销售账号，目前已关闭且原链接转向 AccsMarket；保留此条目作为来源记录。",
+    "tagline": "已关闭的历史账号商店"
+  },
+  "4vps": {
+    "description": "来源目录介绍，4VPS 提供多地区 VPS 与专用服务器，节点包括阿联酋、香港、韩国及巴西等地。",
+    "tagline": "多地区 VPS 与专用服务器"
+  },
+  "netcup": {
+    "description": "来源目录介绍，Netcup 是德国托管供应商，提供采用 DDR5 内存和 NVMe 存储的服务器方案。",
+    "tagline": "德国 DDR5 与 NVMe 服务器"
+  },
+  "hetzner": {
+    "description": "来源目录介绍，Hetzner 提供德国托管、云服务器、ARM 方案与 API；注册审核和服务条款需提前确认。",
+    "tagline": "云服务器、ARM 方案与 API"
+  },
+  "cloudzy": {
+    "description": "来源目录介绍，Cloudzy 前身为 RouterHosting，提供多地区 VPS 与加密货币支付；隐私及审核条件需按现行条款核实。",
+    "tagline": "多地区 VPS 与加密支付选项"
+  },
+  "ovhcloud": {
+    "description": "来源目录介绍，OVHCloud 提供云计算及托管基础设施，数据中心分布于法国、新加坡等地区。",
+    "tagline": "跨地区云计算与托管设施"
+  },
+  "latitude": {
+    "description": "来源目录介绍，Latitude 提供裸金属专用硬件，面向验证节点、交易基础设施及高负载计算。",
+    "tagline": "面向重负载的裸金属服务器"
+  },
+  "aeza": {
+    "description": "来源目录介绍，Aeza 提供简化部署的服务器方案，同时提示技术支持和故障恢复体验存在限制。",
+    "tagline": "简化部署与运维限制提示"
+  },
+  "selectel": {
+    "description": "来源目录介绍，Selectel 提供俄罗斯地区云服务器、裸金属、Kubernetes 与 S3 存储，面向企业基础设施需求。",
+    "tagline": "俄罗斯企业云与裸金属服务"
+  },
+  "vultr": {
+    "description": "来源目录介绍，Vultr 提供多洲云服务器、按小时计费和 API；支付与注册要求应以供应商现行规则为准。",
+    "tagline": "多地区云服务器与按小时计费"
+  },
+  "vdsina": {
+    "description": "来源目录介绍，VDSina 提供莫斯科和阿姆斯特丹服务器方案及俄语控制面板，实际地区库存需确认。",
+    "tagline": "俄语面板与地区 VPS"
+  },
+  "contabo": {
+    "description": "来源目录介绍，Contabo 提供高资源服务器方案；目录提示注册、支持响应和磁盘性能需结合工作负载评估。",
+    "tagline": "高资源服务器与工作负载评估"
+  },
+  "time-host": {
+    "description": "来源目录介绍，Time-Host 提供适合机器人、监控和小型脚本的俄罗斯托管方案。",
+    "tagline": "机器人与小型脚本托管"
+  },
+  "digital-ocean": {
+    "description": "来源目录介绍，Digital Ocean 提供 Droplets 云主机、开发者控制台与丰富运维文档。",
+    "tagline": "Droplets 云主机与开发者文档"
+  },
+  "zomro": {
+    "description": "来源目录介绍，Zomro 提供波兰、荷兰和德国的 VPS，并支持加密支付；隐私与审核规则需独立核实。",
+    "tagline": "欧洲多地区 VPS 服务"
+  },
+  "timeweb": {
+    "description": "来源目录介绍，TimeWeb 在同一平台提供云服务器、数据库、托管和域名，并配有俄语支持。",
+    "tagline": "云服务器、数据库与域名平台"
+  },
+  "mevspace": {
+    "description": "来源目录介绍，MEVSpace 的华沙服务器面向区块链验证节点与 MEV 工作负载，侧重到主要网络的低延迟连接。",
+    "tagline": "验证节点与 MEV 服务器"
+  },
+  "xorek": {
+    "description": "来源目录介绍，Xorek 提供德国及芬兰的入门托管方案，适用于测试和临时项目；生产负载需另行评估。",
+    "tagline": "德国与芬兰测试 VPS"
+  },
+  "firstbyte": {
+    "description": "来源目录介绍，FirstByte 提供莫斯科、赫尔辛基、新加坡及纽约等地区的服务器方案。",
+    "tagline": "跨地区入门服务器"
+  },
+  "play2go": {
+    "description": "来源目录介绍，Play2Go 提供欧洲地区 NVMe VPS，并支持加密货币支付，面向小型与临时服务器需求。",
+    "tagline": "欧洲 NVMe VPS"
+  },
+  "hostingvds": {
+    "description": "来源目录介绍，HostingVDS 提供多个欧洲地区的 AMD EPYC 高 CPU 方案及高速网络端口。",
+    "tagline": "AMD EPYC 高 CPU 托管"
+  },
+  "spacecore": {
+    "description": "来源目录介绍，SpaceCore 基于 Contabo、Hetzner 基础设施提供自定义配置托管、客户支持与加密支付选项。",
+    "tagline": "自定义配置的基础设施托管"
+  },
+  "smartape": {
+    "description": "来源目录介绍，SmartApe 提供 NVMe VPS、俄语支持及捷克地区方案。",
+    "tagline": "NVMe VPS 与捷克地区选项"
+  },
+  "1dedic": {
+    "description": "来源目录介绍，1Dedic 专注莫斯科裸金属专用服务器，支持包括 RAID 在内的硬件配置定制。",
+    "tagline": "莫斯科专用服务器与 RAID 定制"
+  },
+  "firstvds": {
+    "description": "来源目录介绍，FirstVDS 提供莫斯科、阿姆斯特丹与阿拉木图服务器，并有面向单线程负载的高频 CPU 方案。",
+    "tagline": "多地区 VPS 与高频 CPU"
+  },
+  "macloud": {
+    "description": "来源目录介绍，Macloud 在莫斯科提供 AMD EPYC、NVMe 和自定义资源配置，并采用按日计费。",
+    "tagline": "按日计费的莫斯科云资源"
+  },
+  "cloud4box": {
+    "description": "来源目录介绍，Cloud4Box 提供多地区 KVM 服务器，使用 Intel Xeon 或 AMD Ryzen 硬件。",
+    "tagline": "多地区 KVM 服务器"
+  },
+  "fornex": {
+    "description": "来源目录介绍，Fornex 提供多个数据中心的 NVMe 托管及 DDoS 防护选项，并接受加密货币与 PayPal。",
+    "tagline": "多数据中心 NVMe 托管"
+  },
+  "sprinthost": {
+    "description": "来源目录介绍，SprintHost 提供莫斯科与圣彼得堡的 SSD 托管，并将技术支持列为其主要服务特点。",
+    "tagline": "俄罗斯 SSD 托管与技术支持"
+  },
+  "vds-sh": {
+    "description": "来源目录介绍，VDS.sh 提供俄罗斯及荷兰 VPS，并支持加密货币、WebMoney 等多种支付方式。",
+    "tagline": "俄罗斯与荷兰 VPS"
+  },
+  "webhost1": {
+    "description": "来源目录介绍，WebHost1 提供多个地区的数据中心选项，包括亚美尼亚、摩尔多瓦及香港。",
+    "tagline": "含少见地区选项的服务器托管"
+  },
+  "serverspace": {
+    "description": "来源目录介绍，ServerSpace 提供按分钟计费的云平台，地区包括巴西与土耳其，适用于资源需求变化的负载。",
+    "tagline": "按分钟计费的多地区云平台"
+  },
+  "fastfox": {
+    "description": "来源目录介绍，FastFox 专注莫斯科 NVMe 服务器，并在方案中提供 DDoS 防护。",
+    "tagline": "莫斯科 NVMe 与 DDoS 防护"
+  },
+  "ishosting": {
+    "description": "来源目录介绍，IsHosting 提供多国家 KVM VPS、试用及部分 macOS VPS 方案。",
+    "tagline": "多国家 KVM 与 macOS VPS"
+  },
+  "vdska": {
+    "description": "来源目录介绍，VDSka 提供吉尔吉斯斯坦、哈萨克斯坦、拉脱维亚等地区 VPS，并有可调配置与每日备份。",
+    "tagline": "独联体地区 VPS 与每日备份"
+  },
+  "geohosting": {
+    "description": "来源目录介绍，GeoHosting 提供多国家 NVMe VPS 与高速网络端口，侧重地区选择的多样性。",
+    "tagline": "多国家 NVMe VPS 选择"
+  },
+  "myhosti": {
+    "description": "来源目录介绍，MyHosti 提供俄罗斯及荷兰地区托管并支持加密支付；内容与使用规则需按现行条款核实。",
+    "tagline": "俄罗斯与荷兰地区托管"
+  },
+  "cherryservers": {
+    "description": "来源目录介绍，CherryServers 面向 Web3 与区块链项目，提供云 VPS、专用 VDS、高性能资源及按小时计费。",
+    "tagline": "面向区块链项目的云与专用服务器"
+  },
+  "webdock": {
+    "description": "来源目录介绍，WebDock 在丹麦提供 AMD EPYC 与 NVMe 服务器，附有 SSL、快照和 DDoS 防护功能。",
+    "tagline": "丹麦服务器与快照工具"
+  },
+  "boodet": {
+    "description": "来源目录记录，Boodet 曾提供入门 VPS，但域名已过期、供应商已停止运营。",
+    "tagline": "已停止运营的历史 VPS 服务"
+  },
+  "thehosting": {
+    "description": "来源目录介绍，TheHosting 提供多国家 KVM 与 NVMe 服务器，并有德国、荷兰及美国高 CPU 方案。",
+    "tagline": "多国家 KVM 与高 CPU 方案"
+  },
+  "jumper": {
+    "description": "来源目录介绍，Jumper 基于 LI.FI 聚合跨链路径，可比较费用和预计耗时，并组合跨链与代币兑换。",
+    "tagline": "LI.FI 跨链与兑换聚合"
+  },
+  "relay": {
+    "description": "来源目录介绍，Relay 由中继者先行提供流动性、随后结算，支持主要 EVM 链及 L2 的跨链转移。",
+    "tagline": "中继流动性跨链转移"
+  },
+  "findmybridge": {
+    "description": "来源目录介绍，FindMyBridge 汇集不同网络及跨链服务，帮助查找较少见网络之间的可用路径。",
+    "tagline": "跨链服务与网络路径目录"
+  },
+  "rubic": {
+    "description": "来源目录介绍，Rubic 聚合多网络的跨链桥与 DEX，重点包括较少见及新兴区块链之间的兑换路径。",
+    "tagline": "多网络跨链与 DEX 路径聚合"
+  },
+  "sushi": {
+    "description": "来源目录介绍，Sushi 提供多链 AMM 兑换、SushiXSwap 跨链兑换、集中流动性与流动性激励。",
+    "tagline": "多链 AMM 与 SushiXSwap"
+  },
+  "stargate": {
+    "description": "来源目录介绍，Stargate 基于 LayerZero 与 OFT 标准提供跨链转移，并有费用和等待时间不同的路径模式。",
+    "tagline": "LayerZero OFT 跨链转移"
+  },
+  "uniswap": {
+    "description": "来源目录介绍，Uniswap 提供多链 AMM 交易；V3 使用集中流动性，V4 通过 hooks 扩展资金池行为。",
+    "tagline": "AMM、集中流动性与 hooks"
+  },
+  "odos": {
+    "description": "来源目录介绍，Odos 通过多跳路径及中间代币聚合 EVM 链上流动性，为兑换计算路由。",
+    "tagline": "多跳智能兑换路由"
+  },
+  "pancakeswap": {
+    "description": "来源目录介绍，PancakeSwap 在 BNB Chain 等网络提供 AMM 兑换、流动性挖矿、质押池及其他 DeFi 功能。",
+    "tagline": "BNB Chain 及多链 DeFi 功能"
+  },
+  "synapse": {
+    "description": "来源目录介绍，Synapse 以 nUSD 稳定币资金池连接多个网络，提供稳定币兑换及原生代币跨链。",
+    "tagline": "nUSD 资金池与稳定币跨链"
+  },
+  "routernitro": {
+    "description": "来源目录介绍，RouterNitro 使用意图架构，由中继者执行跨链请求，覆盖主要 EVM 网络和 L2。",
+    "tagline": "基于意图的跨链请求"
+  },
+  "rhinofi": {
+    "description": "来源目录介绍，RhinoFi 原名 DeversiFi，结合跨链、兑换与收益策略界面，并采用 StarkEx 技术。",
+    "tagline": "跨链、兑换与策略管理界面"
+  },
+  "layerswap": {
+    "description": "来源目录介绍，LayerSwap 支持从 Binance、Coinbase、Kraken 等中心化交易所向 L2 网络转移资产。",
+    "tagline": "中心化交易所至 L2 的转移"
+  },
+  "llamaswap": {
+    "description": "来源目录介绍，LlamaSwap 比较 1inch、Matcha、Paraswap、CowSwap 等聚合器报价，展示不同兑换结果。",
+    "tagline": "比较多个 DEX 聚合器报价"
+  },
+  "mayan": {
+    "description": "来源目录介绍，Mayan 结合 Wormhole 与 Solana 路由进行跨链兑换，重点连接 Solana 和 EVM 网络。",
+    "tagline": "Solana 与 EVM 跨链兑换"
+  },
+  "across": {
+    "description": "来源目录介绍，Across 使用意图订单、中继流动性与乐观验证机制连接主要 L2 网络。",
+    "tagline": "中继流动性与乐观验证跨链"
+  },
+  "gas-zip": {
+    "description": "来源目录介绍，Gas.zip 可从单一源网络向多个网络发送少量原生 Gas 代币，用于补充交易费用余额。",
+    "tagline": "多网络 Gas 余额补充"
+  },
+  "debridge": {
+    "description": "来源目录介绍，DeBridge 提供跨链转移与兑换，并通过 DLN 流动性网络组织跨链订单。",
+    "tagline": "DLN 跨链订单与资产兑换"
+  },
+  "jupiter": {
+    "description": "来源目录介绍，Jupiter 聚合 Solana DEX 流动性，提供兑换、限价单、定期买入和永续合约等功能。",
+    "tagline": "Solana 聚合兑换与订单工具"
+  },
+  "owlto": {
+    "description": "来源目录将 Owlto 列为跨链桥，并对其活动期间的费用和用户体验提出负面评价；实际条款需独立核对。",
+    "tagline": "跨链桥与来源费用提示"
+  },
+  "squid": {
+    "description": "来源目录介绍，Squid 基于 Axelar 连接 EVM 和 Cosmos 网络，并组合源链与目标链的 DEX 兑换。",
+    "tagline": "Axelar 跨链兑换路由"
+  },
+  "orbiter": {
+    "description": "来源目录将 Orbiter 列为跨链桥，并对费用与操作体验保留意见；使用前应核对当前路径条件。",
+    "tagline": "跨链路径与费用核对"
+  },
+  "1inch": {
+    "description": "来源目录介绍，1inch 聚合多个 DEX 并可拆分兑换路径，另提供限价单及 Fusion 兑换模式。",
+    "tagline": "DEX 拆分路由与 Fusion 模式"
+  },
+  "matcha": {
+    "description": "来源目录介绍，Matcha 由 0x 团队构建，提供 EVM 聚合兑换、限价单、跨链及基于 0x API 的交易功能。",
+    "tagline": "0x 聚合兑换与限价单"
+  },
+  "portal": {
+    "description": "来源目录介绍，Portal 是 Wormhole 协议的跨链界面，可将资产转为目标链上的 Wormhole 封装资产。",
+    "tagline": "Wormhole 资产跨链界面"
+  },
+  "aerodrome": {
+    "description": "来源目录介绍，Aerodrome 是 Base 网络 DEX，采用 ve(3,3) 模型，以 AERO 锁仓和投票管理流动性激励。",
+    "tagline": "Base DEX 与 AERO 流动性投票"
+  },
+  "superbridge": {
+    "description": "来源目录介绍，Superbridge 为 OP Stack 网络提供原生桥接；退出路径可能涉及较长等待期，应核对具体网络规则。",
+    "tagline": "OP Stack 原生桥接界面"
+  },
+  "cbridge": {
+    "description": "来源目录介绍，CBridge 使用 Celer Inter-chain Message 框架连接 EVM 网络，提供主要 L1/L2 间的代币转移。",
+    "tagline": "Celer IM 跨链代币转移"
+  },
+  "bungee": {
+    "description": "来源目录介绍，Bungee 由 Socket 提供，比较多个跨链桥的预计耗时、Gas 费用与到账数量。",
+    "tagline": "Socket 多跨链桥路径比较"
+  },
+  "kyberswap": {
+    "description": "来源目录介绍，KyberSwap 结合多链聚合兑换、Elastic 集中流动性池与动态费率；防护功能不消除交易风险。",
+    "tagline": "聚合兑换与 Elastic 流动性池"
+  },
+  "bebop": {
+    "description": "来源目录介绍，Bebop 使用 RFQ 报价机制，让做市商为订单报价，并支持在同一交易中兑换多种代币。",
+    "tagline": "RFQ 报价与多代币批量兑换"
+  },
+  "symbiosis": {
+    "description": "来源目录介绍，Symbiosis 通过稳定币池与中继网络，组合 EVM 和非 EVM 网络之间的代币兑换。",
+    "tagline": "EVM 与非 EVM 跨链流动性"
+  },
+  "allbridge": {
+    "description": "来源目录介绍，AllBridge 使用流动性池在 EVM、Solana、Stellar、Tron 等生态之间转移稳定币。",
+    "tagline": "多生态稳定币流动性桥"
+  },
+  "balancer": {
+    "description": "来源目录介绍，Balancer 支持自定义代币权重的资金池、闪电贷与可组合池，可用于指数式组合结构。",
+    "tagline": "自定义权重与可组合资金池"
+  },
+  "syncswap": {
+    "description": "来源目录介绍，SyncSwap 在 zkSync Era 提供恒定乘积池和稳定币池，用于兑换及流动性提供。",
+    "tagline": "zkSync Era 兑换与资金池"
+  },
+  "ambient": {
+    "description": "来源目录介绍，Ambient 原名 CrocSwap，采用单合约架构，提供集中流动性、自定义价格范围与范围订单。",
+    "tagline": "单合约集中流动性 DEX"
+  },
+  "traderjoe": {
+    "description": "来源目录介绍，TraderJoe 使用 Liquidity Book 离散价格区间模型，并提供自动资金池、Banker Joe 借贷及发行平台。",
+    "tagline": "Liquidity Book 与多链 DeFi"
+  },
+  "quickswap": {
+    "description": "来源目录介绍，QuickSwap 在 Polygon 提供 V2 AMM、V3 集中流动性和 dQUICK 质押等功能。",
+    "tagline": "Polygon AMM 与集中流动性"
+  },
+  "dodo": {
+    "description": "来源目录介绍，Dodo 使用主动做市 PMM 算法组织交易流动性，并提供代币发行众筹池。",
+    "tagline": "PMM 主动做市与众筹池"
+  },
+  "kim": {
+    "description": "来源目录介绍，Kim 是 Mode Network 的集中流动性 DEX，支持自定义 LP 仓位与价格范围。",
+    "tagline": "Mode Network 集中流动性"
+  },
+  "maverick": {
+    "description": "来源目录介绍，Maverick 的 AMM 可随价格变化调整流动性仓位，提供跟随价格、区间和双向分布模式。",
+    "tagline": "动态分布 AMM 与自动仓位调整"
+  },
+  "slingshot": {
+    "description": "来源目录介绍，Slingshot 提供移动端及网页 DEX 聚合界面，重点简化 EVM 网络代币兑换流程。",
+    "tagline": "移动与网页聚合兑换"
+  },
+  "nexus": {
+    "description": "来源目录介绍，Nexus 提供多个 EVM 网络之间的代币转移与兑换，可用于比较常见跨链路径。",
+    "tagline": "EVM 跨链转移与兑换"
+  },
+  "bitget": {
+    "description": "来源目录介绍，Bitget 提供现货、衍生品与子账号管理，并有 BGB 相关功能；账户冻结及交易风险仍需独立评估。",
+    "tagline": "现货、衍生品与子账号管理"
+  },
+  "bybit": {
+    "description": "来源目录介绍，ByBit 提供永续合约、现货、跟单、交易机器人及新币发行平台；杠杆产品具有额外风险。",
+    "tagline": "现货与永续合约交易工具"
+  },
+  "backpack": {
+    "description": "来源目录介绍，Backpack 交易所由同名钱包团队构建，侧重 Solana 生态，并提供交易 API。",
+    "tagline": "Solana 生态交易所与 API"
+  },
+  "okx": {
+    "description": "来源目录介绍，OKX 结合现货、衍生品、Web3 钱包、NFT 市场与 DEX 聚合，账户资格需按现行条款确认。",
+    "tagline": "交易所与 Web3 钱包生态"
+  },
+  "binance": {
+    "description": "来源目录介绍，Binance 提供现货、期货、杠杆、质押、发行平台及 P2P 等产品；各地区可用功能存在差异。",
+    "tagline": "多产品中心化交易平台"
+  },
+  "huobi-htx": {
+    "description": "来源目录介绍，HTX 前身为 Huobi，提供多交易对现货与衍生品服务，并侧重亚洲市场。",
+    "tagline": "原 Huobi 的现货与衍生品平台"
+  },
+  "mexc": {
+    "description": "来源目录介绍，MEXC 提供山寨币和早期代币交易，以及现货和期货产品；上币早不代表投资质量。",
+    "tagline": "早期代币与多品种交易平台"
+  },
+  "gate": {
+    "description": "来源目录介绍，Gate 提供较多代币交易对，以及现货、期货、借贷和项目发行功能；交易与账户风险需自行评估。",
+    "tagline": "多代币交易与借贷产品"
+  },
+  "bingx": {
+    "description": "来源目录介绍，BingX 以社交交易和跟单功能为特点，也提供其他加密交易服务。",
+    "tagline": "社交交易与跟单平台"
+  },
+  "coinbase": {
+    "description": "来源目录介绍，Coinbase 是在 NASDAQ 上市的美国加密平台，提供法币入金与资产交易；资格和保障范围需核对。",
+    "tagline": "美国法币入金与加密交易"
+  },
+  "kraken": {
+    "description": "来源目录介绍，Kraken 提供多种法币交易对、加密交易及储备证明信息，主要覆盖欧美市场。",
+    "tagline": "多法币交易与储备信息"
+  },
+  "kucoin": {
+    "description": "来源目录介绍，KuCoin 提供较多中小市值代币、期货、杠杆、借贷与交易机器人，并有 KCS 相关功能。",
+    "tagline": "中小市值代币与交易机器人"
+  },
+  "ftx": {
+    "description": "来源目录记录，FTX 于 2022 年崩溃，此条目保留其历史及客户资金风险教训，不是可用交易服务。",
+    "tagline": "已崩溃交易所的历史记录"
+  },
+  "whitebird": {
+    "description": "来源目录介绍，Whitebird 提供俄罗斯与白俄罗斯相关的加密资产兑换及银行卡提现，并要求身份审核；当前资格需确认。",
+    "tagline": "加密兑换与银行卡提现服务"
+  },
+  "prosto": {
+    "description": "来源目录介绍，Prosto 是面向独联体地区的兑换服务，目录重点介绍其现金兑换流程。",
+    "tagline": "独联体地区现金兑换服务"
+  },
+  "hermes": {
+    "description": "来源目录介绍，Hermes 通过人工运营人员处理独联体地区兑换请求，没有独立机器人或网站交易流程。",
+    "tagline": "由人工处理的地区兑换服务"
+  },
+  "bestchange": {
+    "description": "来源目录介绍，BestChange 比较多个兑换服务的汇率、费用、储备与用户评价，具体交易对手仍需核实。",
+    "tagline": "兑换服务汇率与储备比较"
+  },
+  "p2p-exchanges": {
+    "description": "来源目录介绍，部分中心化交易所提供用户间加密交易，可使用转账等方式结算；地区资格、欺诈和银行风险需分别评估。",
+    "tagline": "交易所内用户间交易说明"
+  },
+  "maxsecretex": {
+    "description": "来源目录将 MaxSecretEx 列为独联体兑换服务，但可核实的独特功能有限，使用前需确认交易条件。",
+    "tagline": "独联体兑换服务目录条目"
+  },
+  "ether-fi": {
+    "description": "来源目录介绍，Ether.fi 支付卡以质押 ETH 为抵押提供消费额度；借款、质押与支付均有独立风险及资格要求。",
+    "tagline": "以质押 ETH 支持的消费额度"
+  },
+  "tria": {
+    "description": "来源目录介绍，Tria 使用账户抽象连接自托管钱包与 Visa 借记消费，实际地区和身份条件需核对。",
+    "tagline": "账户抽象与自托管 Visa 消费"
+  },
+  "pionex": {
+    "description": "来源目录介绍，Pionex 提供网格、定期买入和套利等内置交易机器人，并列有加密支付卡产品。",
+    "tagline": "内置交易机器人与支付卡"
+  },
+  "solcard": {
+    "description": "来源目录介绍，Solcard 提供将加密资产转换用于 Visa 消费的借记卡，并在应用中显示余额与交易。",
+    "tagline": "加密资产转换与 Visa 消费"
+  },
+  "solayer": {
+    "description": "来源目录介绍，Solayer 提供虚拟及实体加密支付卡，可管理交易和消费限额；目录同时记录部分商户兼容性问题。",
+    "tagline": "虚拟与实体卡及消费限额"
+  },
+  "pyyplbot": {
+    "description": "来源目录介绍，PyyplBot 通过 Telegram 和网页提供 Visa/Mastercard 预付卡、USDT 充值及移动支付功能；现行资格需核实。",
+    "tagline": "Telegram 预付卡与 USDT 充值"
+  },
+  "avici": {
+    "description": "来源目录介绍，Avici 面向欧洲经济区提供连接自托管钱包的 Visa 借记卡，需确认当前身份及地区条件。",
+    "tagline": "欧洲经济区自托管 Visa 借记卡"
+  },
+  "bybit-card": {
+    "description": "来源目录介绍，Bybit Card 将交易所余额转换用于日常支付，支持多种加密资产及消费记录。",
+    "tagline": "使用 Bybit 余额的支付卡"
+  },
+  "kast": {
+    "description": "来源目录介绍，KAST 将钱包资产与 Visa 消费连接，并提供奖励机制；托管模式和地区资格需按当前条款核实。",
+    "tagline": "钱包资产与 Visa 消费连接"
+  },
+  "argent-card": {
+    "description": "来源目录介绍，Argent Card 与 Argent 智能合约钱包连接，用于将账户余额转为日常支付。",
+    "tagline": "Argent 智能钱包支付卡"
+  },
+  "kucoin-card": {
+    "description": "来源目录介绍，Kucoin Card 使用 KuCoin 账户资产进行支付，并在应用中提供交易通知与消费分析。",
+    "tagline": "KuCoin 余额支付与消费分析"
+  },
+  "bitget-card": {
+    "description": "来源目录介绍，Bitget Card 使用 Bitget 账户余额消费，并通过应用提供实时通知与支出跟踪。",
+    "tagline": "Bitget 余额支付与支出跟踪"
+  },
+  "gate-card": {
+    "description": "来源目录介绍，Gate Card 连接 Gate.io 交易所余额，在支付时进行加密资产与法币转换。",
+    "tagline": "Gate.io 余额转换支付卡"
+  },
+  "mexc-card": {
+    "description": "来源目录介绍，MEXC Card 将 MEXC 账户中的加密资产转换为日常支付余额，具体支持资产需确认。",
+    "tagline": "MEXC 账户资产支付卡"
+  },
+  "coinw": {
+    "description": "来源目录介绍，CoinW 支付卡连接交易所账户，提供加密转法币消费、交易历史与余额跟踪。",
+    "tagline": "CoinW 账户支付与余额记录"
+  },
+  "flexcard": {
+    "description": "来源目录介绍，FlexCard 提供多币种虚拟与实体卡，并有消费通知、自定义限额和交易分析。",
+    "tagline": "多币种卡与自定义消费限额"
+  },
+  "osmosispay": {
+    "description": "来源目录介绍，OsmosisPay 面向 Cosmos 生态，将 OSMO、ATOM 等 IBC 资产连接到法币消费场景。",
+    "tagline": "Cosmos 与 IBC 资产支付"
+  },
+  "nexo": {
+    "description": "来源目录介绍，Nexo 支付卡以加密资产作抵押提供信用额度，持有 NEXO 可能影响产品条件；借款存在清算等风险。",
+    "tagline": "加密抵押信用额度支付卡"
+  },
+  "coinbase-card": {
+    "description": "来源目录介绍，Coinbase Card 可在消费时将选定的 Coinbase 加密余额转换为美元，目录将其列为美国市场产品。",
+    "tagline": "Coinbase 余额转美元消费"
+  },
+  "binance-card": {
+    "description": "来源目录介绍，Binance Card 在消费时转换加密余额，并将 BNB 持仓与部分奖励条件关联；地区支持需重新核实。",
+    "tagline": "Binance 余额转换支付卡"
+  },
+  "kripicard": {
+    "description": "来源目录介绍，Kripicard 是自托管加密信用卡产品，重点连接钱包资产与支付；隐私、审核和地区宣传需独立核实。",
+    "tagline": "自托管加密信用卡目录条目"
+  },
+  "crypto-com-card": {
+    "description": "来源目录介绍，Crypto.com Card 按 CRO 持仓或质押等级配置奖励及附加权益，需同时评估锁定资产风险。",
+    "tagline": "与 CRO 等级关联的支付卡"
+  },
+  "gemini-card": {
+    "description": "来源目录介绍，Gemini Card 是面向美国市场的 Mastercard 信用卡，可将消费奖励发放为所选加密资产。",
+    "tagline": "以加密资产发放奖励的信用卡"
+  },
+  "metamask-card": {
+    "description": "来源目录介绍，MetaMask Card 通过 Mastercard 将 MetaMask 钱包余额用于消费，地区与资产支持需确认。",
+    "tagline": "MetaMask 钱包余额消费"
+  },
+  "wirex": {
+    "description": "来源目录介绍，Wirex 提供支持多种加密及法币的 Mastercard 借记卡，并使用 WXT 相关奖励机制。",
+    "tagline": "多币种借记卡与 WXT 奖励机制"
+  },
+  "bitpay": {
+    "description": "来源目录介绍，BitPay 提供将 BTC、ETH 等资产转换为美元的预付 Mastercard，目录将其列为美国市场产品。",
+    "tagline": "加密转美元预付 Mastercard"
+  },
+  "coca": {
+    "description": "来源目录介绍，COCA 提供连接自托管资产的 Visa 借记卡，目录列出欧洲经济区和英国等地区；资格需另行确认。",
+    "tagline": "自托管资产 Visa 借记卡"
+  },
+  "brighty": {
+    "description": "来源目录介绍，Brighty 是面向欧洲经济区的托管式 Visa 借记卡平台，配有消费管理应用与身份审核。",
+    "tagline": "欧洲托管式 Visa 消费平台"
+  },
+  "cypher": {
+    "description": "来源目录介绍，Cypher 提供连接非托管钱包的预付 Visa，并按卡等级区分权益；身份和地区条件需核对。",
+    "tagline": "分等级的非托管预付 Visa"
+  },
+  "venmo": {
+    "description": "来源目录介绍，Venmo Visa 信用卡按消费类别计算奖励，并可在 Venmo 中将返现转换为加密资产。",
+    "tagline": "可将返现转换为加密资产的信用卡"
+  },
+  "bitrefill": {
+    "description": "来源目录介绍，Bitrefill 将预付 Visa 与其礼品卡、手机充值生态连接，目录将支付卡列为欧洲产品。",
+    "tagline": "礼品卡生态与预付 Visa"
+  },
+  "whitebit-card": {
+    "description": "来源目录介绍，WhiteBIT Card 连接交易所余额与 Visa 消费，目录将其列为需身份审核的欧洲经济区产品。",
+    "tagline": "WhiteBIT 余额 Visa 支付"
+  },
+  "wayex": {
+    "description": "来源目录介绍，Wayex 提供自托管预付 Visa，并配有消费奖励；地区与身份条件需按当前条款核对。",
+    "tagline": "自托管预付卡与消费奖励"
+  },
+  "gnosis-pay": {
+    "description": "来源目录介绍，Gnosis Pay 使用 Gnosis Chain 智能账户连接 Visa 消费，并有与 GNO 持仓关联的条件。",
+    "tagline": "Gnosis Chain 智能账户消费"
+  },
+  "fold": {
+    "description": "来源目录介绍，Fold 是 Bitcoin 导向的 Visa 借记卡，通过带随机机制的转盘发放 BTC 奖励；奖励并非固定收益。",
+    "tagline": "Bitcoin 消费卡与转盘奖励"
+  },
+  "bleap": {
+    "description": "来源目录介绍，Bleap 面向 Ethereum 生态提供非托管 Mastercard 借记卡，目录列出的地区为欧洲经济区。",
+    "tagline": "Ethereum 生态非托管借记卡"
+  },
+  "bitpanda": {
+    "description": "来源目录介绍，Bitpanda Visa 借记卡连接平台组合中的加密资产、股票和贵金属，用于支付转换。",
+    "tagline": "连接多资产组合的 Visa 借记卡"
+  },
+  "zypto": {
+    "description": "来源目录介绍，Zypto 提供非托管预付 Visa，侧重加密资产消费；关于隐私和地区覆盖的宣传需核实。",
+    "tagline": "非托管加密预付卡"
+  },
+  "ledger-cl": {
+    "description": "来源目录介绍，Ledger CL 将 Ledger 自托管资产与 Visa 借记消费连接，目录列出的地区为英国和欧洲经济区。",
+    "tagline": "Ledger 自托管资产支付卡"
+  },
+  "tuyo": {
+    "description": "来源目录介绍，Tuyo 提供自托管 Mastercard 借记卡，连接钱包资产与消费；身份与地区资格需按现行条款确认。",
+    "tagline": "自托管 Mastercard 借记卡"
+  },
+  "redotpay": {
+    "description": "来源目录介绍，RedotPay 提供托管式预付 Visa，采用充值后消费的方式，并需核对地区及身份要求。",
+    "tagline": "托管式充值消费预付卡"
+  },
+  "oobit": {
+    "description": "来源目录介绍，Oobit 提供连接非托管资产的 Visa 借记消费应用，目录提及欧洲经济区、美国和巴西。",
+    "tagline": "非托管资产移动支付应用"
+  },
+  "plutus": {
+    "description": "来源目录介绍，Plutus 提供 Visa 借记卡，通过 PLU 代币与不同方案配置奖励和订阅返还权益。",
+    "tagline": "PLU 代币奖励与借记卡方案"
+  },
+  "deblock": {
+    "description": "来源目录介绍，Deblock 在同一应用中结合 IBAN 银行账户、非托管加密钱包与 Visa 借记卡，面向欧洲经济区。",
+    "tagline": "IBAN 银行账户与非托管钱包"
+  },
+  "fiat24": {
+    "description": "来源目录介绍，Fiat24 基于 Arbitrum，结合智能合约资产与传统银行通道，并提供 Mastercard 借记卡。",
+    "tagline": "Arbitrum 与银行通道混合账户"
+  },
+  "thorwallet-card": {
+    "description": "来源目录介绍，THORWallet Card 将 THORChain 生态钱包、跨链兑换与 Mastercard 借记消费连接。",
+    "tagline": "THORChain 钱包与支付卡"
+  },
+  "safepal-card": {
+    "description": "来源目录介绍，SafePal Card 由同名硬件钱包团队提供，将钱包生态与 Mastercard 借记消费连接。",
+    "tagline": "SafePal 钱包生态借记卡"
+  },
+  "ur": {
+    "description": "来源目录介绍，UR 提供与其应用连接的非托管 Mastercard 借记卡，目录重点列出欧洲与亚洲市场。",
+    "tagline": "UR 应用连接的非托管借记卡"
+  },
+  "imtoken": {
+    "description": "来源目录介绍，imToken 将移动加密钱包与 Mastercard 借记卡连接，目录列出欧洲与亚洲地区。",
+    "tagline": "imToken 移动钱包支付卡"
+  },
+  "tokenpocket": {
+    "description": "来源目录介绍，TokenPocket 提供与其多链钱包连接的 Visa 借记卡，实际支持地区需确认。",
+    "tagline": "TokenPocket 多链钱包借记卡"
+  },
+  "bitget-wallet-card": {
+    "description": "来源目录介绍，Bitget Wallet Card 来自钱包产品而非交易所卡，列有 Visa 与 Mastercard 预付方案。",
+    "tagline": "区别于交易所卡的钱包预付卡"
+  },
+  "savepay": {
+    "description": "来源目录介绍，SavePay 基于 Arbitrum，结合非托管 Mastercard、瑞士 IBAN 与 SEPA/SWIFT 转账。",
+    "tagline": "Arbitrum 钱包与瑞士 IBAN"
+  },
+  "combo-card": {
+    "description": "来源目录介绍，Combo Card 面向广告及企业支出，提供多 BIN 虚拟卡、加密充值、3DS、团队管理与分析。",
+    "tagline": "企业虚拟卡与团队支出分析"
+  },
+  "trustee": {
+    "description": "来源目录介绍，Trustee Plus 结合加密钱包、兑换、Visa 消费和个人 IBAN 的 SEPA 转账，并支持移动支付。",
+    "tagline": "钱包、Visa 与 SEPA 转账"
+  },
+  "cincin": {
+    "description": "来源目录介绍，CinCin 通过 Telegram 机器人提供虚拟 Mastercard，可使用 USDT TRC20 充值并连接 Apple Pay。",
+    "tagline": "Telegram 虚拟卡与 USDT TRC20"
+  },
+  "emcd": {
+    "description": "来源目录介绍，EMCD 将支付卡纳入其矿池、钱包、P2P 与 Coinhold 产品生态；各产品风险需分别评估。",
+    "tagline": "矿池生态与加密支付卡"
+  },
+  "1inch-card": {
+    "description": "来源目录介绍，1inch Card 由 Crypto Life 和 Baanx 支持，提供预付 Mastercard、取现及 Apple Pay/Google Pay。",
+    "tagline": "1inch 钱包预付 Mastercard"
+  },
+  "solflare-card": {
+    "description": "来源目录介绍，Solflare Card 将 Solana 钱包中的 USDC 连接到 Mastercard 借记消费。",
+    "tagline": "Solflare 钱包 USDC 消费"
+  },
+  "rabby-wallet": {
+    "description": "来源目录介绍，Rabby Wallet 由 DeBank 团队构建，提供 EVM 交易模拟、资产变化预览、风险提示和授权撤销。",
+    "tagline": "EVM 交易预览与授权管理"
+  },
+  "revokecash": {
+    "description": "来源目录介绍，RevokeCash 显示 EVM 钱包的代币支出授权，并可发起撤销；撤销不能追回已转走资产。",
+    "tagline": "EVM 代币授权查询与撤销"
+  },
+  "de-fi": {
+    "description": "来源目录介绍，De.Fi 结合合约扫描、授权撤销、组合跟踪与风险提醒；扫描结果不能替代完整审计。",
+    "tagline": "合约扫描与授权管理仪表板"
+  },
+  "ledger": {
+    "description": "来源目录介绍，Ledger 使用硬件设备与专用芯片管理私钥及交易签名，支持多种资产；硬件钱包仍需正确备份和操作。",
+    "tagline": "硬件私钥管理与交易签名"
+  },
+  "trezor": {
+    "description": "来源目录介绍，Trezor 提供开源固件硬件钱包，可用于离线密钥管理与签名；支持网络范围需按具体型号确认。",
+    "tagline": "开源固件硬件钱包"
+  },
+  "safepal": {
+    "description": "来源目录介绍，SafePal S1 使用二维码传递签名信息，并通过移动应用管理资产；离线设计不消除备份及签名风险。",
+    "tagline": "二维码签名硬件钱包"
+  },
+  "authy": {
+    "description": "来源目录介绍，Authy 提供双因素验证码、云端备份与多设备同步；备份和恢复能力需结合当前产品规则确认。",
+    "tagline": "双因素验证与备份管理"
+  },
+  "veracrypt": {
+    "description": "来源目录介绍，VeraCrypt 可创建加密容器或加密整块分区，支持 AES、Twofish、Serpent 与隐藏卷。",
+    "tagline": "开源磁盘与容器加密"
+  },
+  "bitwarden": {
+    "description": "来源目录介绍，BitWarden 提供本地加密后同步的密码库、跨设备访问及可自托管部署，并有额外身份验证功能。",
+    "tagline": "开源密码库与自托管选项"
+  },
+  "safe": {
+    "description": "来源目录介绍，Safe 使用可配置签名阈值管理钱包交易，如三名签名者中需两名批准；签名和合约风险仍然存在。",
+    "tagline": "可配置阈值的多签钱包"
+  },
+  "pocketuniverse": {
+    "description": "来源目录介绍，PocketUniverse 在浏览器中模拟待签交易，展示资产变化与可疑授权提示，但无法保证识别全部风险。",
+    "tagline": "浏览器交易模拟与授权提示"
+  },
+  "web3-antivirus": {
+    "description": "来源目录介绍，Web3 Antivirus 扫描网站、合约与交易，结合机器学习和特征数据库标记已知风险。",
+    "tagline": "网站与合约风险扫描扩展"
+  },
+  "honeypot": {
+    "description": "来源目录介绍，HoneyPot 通过模拟代币买卖检查出售限制，结果受合约状态及模拟条件影响。",
+    "tagline": "代币买卖限制模拟检查"
+  },
+  "rugcheck": {
+    "description": "来源目录介绍，RugCheck 分析 Solana 代币的增发权限、冻结权限、流动性状态与持仓集中度，并解释风险标记。",
+    "tagline": "Solana 代币权限与流动性检查"
+  },
+  "token-sniffer": {
+    "description": "来源目录介绍，Token Sniffer 检查 EVM 代币代码、转账限制、流动性与已知风险模式；自动评分不能替代专业审计。",
+    "tagline": "EVM 代币合约自动检查"
+  },
+  "1password": {
+    "description": "来源目录介绍，1Password 使用加密密码库保存凭据，生成独立密码并提供浏览器自动填充。",
+    "tagline": "加密密码库与自动填充"
+  },
+  "hyperliquid": {
+    "description": "来源目录介绍，Hyperliquid 提供链上订单簿永续合约、HLP 资金库与仓位跟踪；资金费率策略并非无风险。",
+    "tagline": "链上订单簿与永续合约"
+  },
+  "trip": {
+    "description": "来源目录介绍，Trip.com 提供酒店、机票、火车票及旅行预订，并支持多种支付渠道与平台奖励。",
+    "tagline": "酒店、交通与旅行预订"
+  },
+  "kryon": {
+    "description": "来源目录介绍，Kryon 是提供不同连接类型与地区选项的 VPN，可使用自有应用或 Happ 客户端。",
+    "tagline": "多地区 VPN 与客户端选择"
+  },
+  "libre": {
+    "description": "来源目录介绍，Libre 提供开源电子表格、公式、数据透视表与宏，可用于本地整理清单和计算盈亏。",
+    "tagline": "开源电子表格与本地数据整理"
+  },
+  "bluestacks": {
+    "description": "来源目录介绍，BlueStacks 是 Android 模拟器，可通过多实例管理器并行运行多个 Android 会话。",
+    "tagline": "Android 模拟与多实例管理"
+  },
+  "tempmail": {
+    "description": "来源目录介绍，TempMail 提供自动生成的临时邮箱并接收邮件，地址可能失效，不宜用于重要账号恢复。",
+    "tagline": "短期临时邮箱接收"
+  },
+  "icloud-mail": {
+    "description": "来源目录介绍，iCloud Mail 的隐藏邮件地址功能可创建长期转发别名，将邮件发送到主收件箱，需相应 iCloud+ 方案。",
+    "tagline": "iCloud 隐藏邮件地址别名"
+  },
+  "pixelscan": {
+    "description": "来源目录介绍，PixelScan 分析 Canvas、WebGL、音频及字体等浏览器指纹，供检查配置差异；检测结果不是匿名性保证。",
+    "tagline": "浏览器指纹维度分析"
+  },
+  "whoer": {
+    "description": "来源目录介绍，Whoer 检查 IP、DNS、WebRTC、时区、语言和系统信息，帮助识别网络配置不一致。",
+    "tagline": "IP 泄露与浏览器配置检查"
+  },
+  "browserleaks": {
+    "description": "来源目录介绍，BrowserLeaks 展示 Canvas、WebGL、WebRTC、字体、音频及硬件等原始浏览器检测数据。",
+    "tagline": "浏览器泄露与原始数据检测"
+  },
+  "antcpt": {
+    "description": "来源目录介绍，AntCpt 提供通过 API 接入的验证码处理服务，列有 reCAPTCHA、hCaptcha、FunCaptcha 等类型；仅应在获准场景使用。",
+    "tagline": "验证码处理 API 目录条目"
+  },
+  "smmlaba": {
+    "description": "来源目录介绍，SMMLaba 销售社交媒体浏览、关注、点赞及评论等推广服务；这些指标不代表真实受众认可。",
+    "tagline": "社交媒体推广服务目录"
+  },
+  "nox": {
+    "description": "来源目录介绍，Nox 是桌面 Android 模拟器，支持多实例与 Root 选项，可用于测试移动应用和界面。",
+    "tagline": "桌面 Android 多实例测试"
+  },
+  "proxyswitchy": {
+    "description": "来源目录介绍，ProxySwitchy 通过 Chrome 工具栏切换 HTTP、HTTPS 或 SOCKS5 代理配置，并支持认证。",
+    "tagline": "Chrome 代理配置快捷切换"
+  },
+  "seosprint": {
+    "description": "来源目录介绍，SeoSprint 是面向小型线上任务的平台，供用户发布或完成不同微任务。",
+    "tagline": "线上微任务发布与执行"
+  },
+  "captcha-test": {
+    "description": "来源目录介绍，Captcha Test 显示 reCAPTCHA v3 测试分数，可观察配置变化；分数不能证明用户身份或通行资格。",
+    "tagline": "reCAPTCHA v3 分数测试"
+  },
+  "proxyshard-checker": {
+    "description": "来源目录介绍，ProxyShard Checker 查询 IP 信誉、黑名单、地理位置与 ISP 类型，便于比较不同数据库结果。",
+    "tagline": "IP 信誉与网络类型检查"
+  },
+  "capcut": {
+    "description": "来源目录介绍，CapCut 是 ByteDance 视频编辑器，提供时间线、转场、效果、文字与音乐，并有桌面和网页版本。",
+    "tagline": "视频时间线与效果编辑"
+  },
+  "photopea": {
+    "description": "来源目录介绍，Photopea 在浏览器中编辑 PSD 及其他图像，支持图层、蒙版、滤镜与常用设计操作。",
+    "tagline": "浏览器 PSD 与图层图像编辑"
+  },
+  "obsidian": {
+    "description": "来源目录介绍，Obsidian 以本地 Markdown 文件保存笔记，通过双向链接、关系图和插件组织项目知识。",
+    "tagline": "本地 Markdown 与关联笔记"
+  },
+  "notion": {
+    "description": "来源目录介绍，Notion 结合笔记、数据库、看板、维基和日历，可用于项目、任务与资料管理。",
+    "tagline": "笔记、数据库与项目看板"
+  },
+  "greedy-sms": {
+    "description": "来源目录介绍，Greedy SMS 提供短信接收号码，目录列出 Alchemy、Vercel、Coinbase 等服务选项；实际接受情况需确认。",
+    "tagline": "面向多服务的短信号码目录"
+  },
+  "smspool": {
+    "description": "来源目录介绍，SMSPool 提供一次性及租用号码，展示预估接收成功率，并有支持与 API。",
+    "tagline": "短信接收与号码租用"
+  },
+  "365-sms": {
+    "description": "来源目录介绍，365-SMS 侧重一次性短信接收，目录未列出长期号码租用功能。",
+    "tagline": "一次性短信接收号码"
+  },
+  "herosms": {
+    "description": "来源目录介绍，HeroSMS 承接 SMS-Activate 的供应网络，提供多地区短信号码与 API。",
+    "tagline": "承接原供应网络的短信平台"
+  },
+  "tiger-sms": {
+    "description": "来源目录介绍，Tiger SMS 提供多国家、多服务短信号码，以及 API 和部分试用号码选项。",
+    "tagline": "多国家短信号码与 API"
+  },
+  "sms-man": {
+    "description": "来源目录介绍，SMS Man 提供一次性短信接收及号码租用，覆盖多个服务和地区，并有 API。",
+    "tagline": "一次性短信与号码租用 API"
+  },
+  "secondnumber": {
+    "description": "来源目录介绍，SecondNumber 提供 OTP 短信号码、一次性接收及长期租用，并有 iOS 应用和 API。",
+    "tagline": "OTP 号码与长期租用"
+  },
+  "grizzlysms": {
+    "description": "来源目录介绍，GrizzlySMS 按国家和服务展示号码库存及预计接收成功率，并提供 API 文档。",
+    "tagline": "短信号码库存与接收统计"
+  },
+  "smspva": {
+    "description": "来源目录介绍，SMSPva 提供多国家、多应用短信接收号码、长期租用与 API。",
+    "tagline": "短信接收与长期租号 API"
+  },
+  "onlinesim": {
+    "description": "来源目录介绍，OnlineSim 提供一次性短信号码、长期租用与批量 API，可按平台和地区选择。",
+    "tagline": "批量短信与地区号码租用"
+  },
+  "detectexpert": {
+    "description": "来源目录介绍，DetectExpert 来自 Vektor T13/CyberYozh 生态，提供一次性及长期短信号码；质量宣传需独立核实。",
+    "tagline": "生态型短信号码与长期租用"
+  },
+  "vaksms": {
+    "description": "来源目录介绍，VAKsms 提供短信接收号码，目录记录其库存较有限，主要涉及香港、乌兹别克斯坦及英国。",
+    "tagline": "库存有限的地区短信号码"
+  },
+  "textverified": {
+    "description": "来源目录介绍，TextVerified 侧重美国短信号码，使用前需核对目标服务的接收和资格条件。",
+    "tagline": "美国短信接收号码"
+  },
+  "sms-verification": {
+    "description": "来源目录介绍，SMS Verification 按所选服务提供号码及验证码接收，覆盖多个国家，号码质量需逐项确认。",
+    "tagline": "按服务选择的验证码接收"
+  },
+  "temp-number": {
+    "description": "来源目录介绍，Temp-Number 提供短时短信号码，可按服务或国家检索，并支持 API。",
+    "tagline": "短时号码检索与短信 API"
+  },
+  "simsms": {
+    "description": "来源目录介绍，SimSMS 提供多国家号码、长期租用和来电转接；目录记录其已退出俄罗斯号码市场。",
+    "tagline": "号码租用与来电转接"
+  },
+  "daisysms": {
+    "description": "来源目录记录，DaisySMS 已于 2026 年 3 月 26 日停止运营，此条目仅保留历史信息。",
+    "tagline": "已停止运营的短信服务"
+  },
+  "sms-activate": {
+    "description": "来源目录记录，SMS-Activate 已停止运营，并将相关业务经验移交 HeroSMS；此条目用于历史追溯。",
+    "tagline": "已关闭的历史短信平台"
+  },
+  "claude": {
+    "description": "来源目录介绍，Claude 是 Anthropic 的 AI 助手，提供推理、写作与编程支持，目录以 Opus 和 Sonnet 系列举例。",
+    "tagline": "Anthropic 推理与编程助手"
+  },
+  "openai": {
+    "description": "来源目录介绍，OpenAI 提供 ChatGPT 对话与内容工具，以及面向软件开发的 Codex；实际模型和方案以当前产品为准。",
+    "tagline": "ChatGPT 内容工具与 Codex 开发助手"
+  },
+  "gemini": {
+    "description": "来源目录介绍，Gemini 是 Google AI 助手，侧重长文档、代码与分析，并可结合部分 Google 产品；功能依账户条件而异。",
+    "tagline": "Google 长文档与多任务 AI 助手"
+  },
+  "grok": {
+    "description": "来源目录介绍，Grok 是 xAI 的对话工具，与 X 平台内容连接，用于新闻、讨论趋势及编程等问题。",
+    "tagline": "连接 X 内容的 xAI 助手"
+  },
+  "deepseek": {
+    "description": "来源目录介绍，DeepSeek 提供推理和通用对话模型，并有可本地部署的开放模型；部署与数据处理规则需分别确认。",
+    "tagline": "推理模型与本地部署选项"
+  },
+  "kimi": {
+    "description": "来源目录介绍，Kimi 是 Moonshot AI 助手，重点处理长文档、研究论文、跨文档参考与内容总结。",
+    "tagline": "长文档分析与研究总结"
+  },
+  "qwen": {
+    "description": "来源目录介绍，Qwen 是 Alibaba 的模型系列，QwenCode 面向代码生成、调试和项目结构理解，并有开放模型可供部署。",
+    "tagline": "Qwen 模型与 QwenCode 编程"
+  },
+  "z-ai": {
+    "description": "来源目录将 Z.ai 描述为可切换模型的 AI 对话入口；具体模型供应、账户要求及功能需以当前平台为准。",
+    "tagline": "AI 对话与模型功能入口"
+  },
+  "notebooklm": {
+    "description": "来源目录介绍，NotebookLM 围绕导入文档、网页及视频来源进行问答，并提供音频概览；回答仍需核对引用。",
+    "tagline": "基于来源的问答与音频概览"
+  },
+  "mimo": {
+    "description": "来源目录介绍，MiMo 是 Xiaomi 的编程导向模型，面向代码生成、调试与技术推理任务。",
+    "tagline": "Xiaomi 编程与技术推理模型"
+  },
+  "reve": {
+    "description": "来源目录介绍，Reve 是 AI 图像生成工具，侧重肖像、产品图与写实场景；输出质量及使用权需逐项确认。",
+    "tagline": "写实场景与产品图生成"
+  },
+  "mai": {
+    "description": "来源目录介绍，MAI 是 Microsoft 图像生成模型，目录重点介绍构图、光线及风格提示的遵循能力。",
+    "tagline": "Microsoft 图像生成模型"
+  },
+  "seedream": {
+    "description": "来源目录介绍，Seedream 是 ByteDance 图像生成工具，侧重带文字的海报、横幅及社交素材，生成文字仍需校对。",
+    "tagline": "文字图像与社交素材生成"
+  },
+  "flux": {
+    "description": "来源目录介绍，Flux 是 Black Forest Labs 的图像模型系列，可通过 API、第三方平台及本地工作流使用，许可依版本而异。",
+    "tagline": "图像模型与可配置生成工作流"
+  },
+  "veo": {
+    "description": "来源目录介绍，Veo 是 Google DeepMind 视频生成模型，侧重场景、运动与镜头表现；目录条目不构成执行授权。",
+    "tagline": "Google DeepMind 视频模型目录"
+  },
+  "wan": {
+    "description": "来源目录介绍，Wan 是 Alibaba 的视频生成模型，支持文本生成视频及图像动画，并有本地部署和社区集成选项。",
+    "tagline": "文本视频与图像动画模型"
+  },
+  "afina-automation": {
+    "description": "来源目录介绍，Afina 的自动化编辑器使用浏览器配置运行脚本，并内置部分 Web3 工作流模板；涉及资产的操作需另行授权。",
+    "tagline": "配置浏览器中的自动化编辑器"
+  },
+  "bas": {
+    "description": "来源目录介绍，BAS 是用于 Web2/Web3 工作流的自动化构建工具，配有教程，并按软件用途区分许可条件。",
+    "tagline": "Web2/Web3 自动化构建工具"
+  },
+  "zennoposter": {
+    "description": "来源目录介绍，ZennoPoster 用可视化编辑器构建网页自动化，支持多线程、代理轮换、条件逻辑及外部集成。",
+    "tagline": "可视化多线程网页自动化"
+  },
+  "playwright": {
+    "description": "来源目录介绍，Playwright 是 Microsoft 浏览器自动化框架，支持 Chromium、Firefox、WebKit、自动等待、调试与操作录制。",
+    "tagline": "跨浏览器自动化与操作录制"
+  },
+  "selenium": {
+    "description": "来源目录介绍，Selenium 通过 WebDriver 自动化 Chrome、Firefox、Edge、Safari 等浏览器，并支持多种编程语言。",
+    "tagline": "WebDriver 跨语言浏览器自动化"
+  },
+  "puppeteer": {
+    "description": "来源目录介绍，Puppeteer 使用 DevTools 协议控制 Chrome/Chromium，可进行页面渲染、截图、PDF 生成及网络请求处理。",
+    "tagline": "DevTools 浏览器控制与页面输出"
+  },
+  "robot-framework": {
+    "description": "来源目录介绍，Robot Framework 以关键词组织自动化测试，可结合插件处理网页、移动、API 和数据库任务。",
+    "tagline": "关键词驱动自动化测试"
+  },
+  "adspower-automation": {
+    "description": "来源目录介绍，ADS Power 提供基于浏览器配置的 RPA 自动化，并设有场景市场以使用和分享现成脚本。",
+    "tagline": "浏览器 RPA 与场景市场"
+  },
+  "autohotkey": {
+    "description": "来源目录介绍，AutoHotkey 在 Windows 上通过脚本控制鼠标、键盘、窗口及快捷键，用于重复桌面操作。",
+    "tagline": "Windows 脚本与快捷键自动化"
+  },
+  "uipath": {
+    "description": "来源目录介绍，UiPath 使用可视化流程设计器进行企业 RPA，可组合数据录入、文档及多个桌面应用工作流。",
+    "tagline": "企业 RPA 与跨应用流程"
+  },
+  "meshy": {
+    "description": "来源目录介绍，Meshy 支持文本或图像生成 3D 模型、PBR 纹理、四边形重拓扑及 Unity 插件导出；模型需验收后使用。",
+    "tagline": "文本与图像生成 3D 草稿"
+  },
+  "tripo3d": {
+    "description": "来源目录介绍，Tripo AI 提供快速 3D 草稿、低多边形模式、自动 UV 与四边形拓扑，便于概念迭代。",
+    "tagline": "快速 3D 草稿与自动 UV"
+  },
+  "rodin": {
+    "description": "来源目录介绍，Rodin 来自 Hyper3D，面向精细写实资产生成几何、UV 与高分辨率 PBR 贴图。",
+    "tagline": "精细几何与 PBR 资产生成"
+  },
+  "hyper3d": {
+    "description": "来源目录介绍，Hyper3D 是 Rodin 所属的 3D 生成工具套件，提供网格、细节法线贴图与企业 API。",
+    "tagline": "3D 网格套件与企业 API"
+  },
+  "kaedim": {
+    "description": "来源目录介绍，Kaedim 结合机器生成和人工拓扑检查，将二维图像转换为 3D 模型；交付仍需按项目标准验收。",
+    "tagline": "结合人工检查的图像转 3D"
+  },
+  "blender": {
+    "description": "来源目录介绍，Blender 可清理 AI 网格、减少多边形、规范轴心并整理 glTF 纹理，是开源 3D 制作工具。",
+    "tagline": "开源网格清理与 3D 制作"
+  },
+  "unity": {
+    "description": "来源目录介绍，Unity 提供移动与 WebGL 3D 应用开发，包含 URP、轻量着色器和预制体工作流。",
+    "tagline": "移动与 WebGL 3D 开发引擎"
+  },
+  "v0": {
+    "description": "来源目录介绍，v0 根据自然语言生成 React、Tailwind 与 shadcn/ui 界面代码，适合布局原型；生成代码需检查。",
+    "tagline": "React 界面生成与布局原型"
+  },
+  "lovable": {
+    "description": "来源目录介绍，Lovable 根据自然语言搭建网页应用草稿，涵盖界面、业务逻辑、Supabase、身份验证与 Edge Functions。",
+    "tagline": "自然语言全栈应用草稿"
+  },
+  "cursor": {
+    "description": "来源目录介绍，Cursor 是基于 VS Code 的 AI 编辑器，提供多文件编辑、代码库对话、重构辅助与 Git 工作流。",
+    "tagline": "AI 多文件编辑与代码库对话"
+  },
+  "bolt-new": {
+    "description": "来源目录介绍，Bolt.new 使用 StackBlitz WebContainers 在浏览器中运行 Node.js，并生成、构建和预览应用。",
+    "tagline": "浏览器 Node.js 与应用原型"
+  },
+  "godot": {
+    "description": "来源目录介绍，Godot 是开源 2D/3D 引擎，支持 glTF、GDScript 与网页导出，可用于轻量互动项目。",
+    "tagline": "开源 2D/3D 与网页导出"
+  },
+  "spline": {
+    "description": "来源目录介绍，Spline 在浏览器中提供 3D 设计、AI 生成、协作、交互动画及 React/网页嵌入。",
+    "tagline": "浏览器协作 3D 与交互嵌入"
+  }
+}

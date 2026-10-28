@@ -1,0 +1,1818 @@
+{
+  "phantom-ai": {
+    "description": "Phantom Shop은 ChatGPT, Claude, Midjourney 구독과 계정, 디지털 상품을 취급하는 Telegram 상점 봇으로 소개됩니다.",
+    "tagline": "Telegram에서 찾는 AI 구독과 디지털 상품"
+  },
+  "ahlisshop": {
+    "description": "AhlisShop은 계정, AI 구독, 토큰 등 디지털 소모품을 주문하고 봇으로 전달받는 Telegram 상점으로 등록되어 있습니다.",
+    "tagline": "계정과 AI 소모품을 취급하는 상점 봇"
+  },
+  "afina": {
+    "description": "Afina는 암호화폐 프로젝트용 브라우저 프로필 관리 도구로 소개됩니다. 클라우드 저장을 사용하지 않고 업데이트 승인과 사용자 스크립트 자동화를 지원한다고 설명합니다.",
+    "tagline": "로컬 프로필과 승인 방식 업데이트"
+  },
+  "adspower": {
+    "description": "ADS Power는 SunBrowser 프로필, 프록시 관리, 팀 동기화와 RPA 자동화를 제공하는 브라우저로 소개됩니다. Selenium과 Puppeteer 연동 API도 안내됩니다.",
+    "tagline": "SunBrowser 프로필과 팀 자동화"
+  },
+  "octo": {
+    "description": "Octo는 Chromium 프로필을 분리하여 관리하고 API로 작업을 자동화하는 브라우저로 소개됩니다. 원문은 프로필 데이터의 보관 방식을 검토할 필요도 언급합니다.",
+    "tagline": "Chromium 프로필과 API 자동화"
+  },
+  "chrome-diy": {
+    "description": "Chrome DIY는 Chrome에 프록시 전환, WebRTC 제어, 캔버스 및 사용자 에이전트 설정용 확장 기능을 조합하는 구성법입니다. 원문은 전용 프로필 격리를 대체하지 못한다고 명시합니다.",
+    "tagline": "Chrome 확장 기능으로 조정하는 개인정보 설정"
+  },
+  "firefox-diy": {
+    "description": "Firefox DIY는 FoxyProxy, arkenfox 설정과 지문 보호 기능을 조합하는 Firefox 구성법입니다. WebRTC와 위치·사전 조회 설정을 다루며 전용 세션 격리와는 구분됩니다.",
+    "tagline": "Firefox의 세부 개인정보 설정 조합"
+  },
+  "brave-diy": {
+    "description": "Brave DIY는 Shields, 지문 보호, WebRTC 정책과 프록시 확장 기능을 조정하는 구성법입니다. 원문은 Tor 창 기능을 소개하면서 전용 프로필 관리 도구와의 차이도 설명합니다.",
+    "tagline": "Brave Shields와 프록시 설정 조정"
+  },
+  "multi-login": {
+    "description": "Multi-Login은 광고 운영팀을 위한 프로필 브라우저로 소개되며 Chromium 기반 Mimic과 Firefox 기반 Stealthfox 엔진을 안내합니다.",
+    "tagline": "Mimic과 Stealthfox의 두 브라우저 엔진"
+  },
+  "morelogin": {
+    "description": "MoreLogin은 브라우저 프로필 관리와 API 연동을 제공하는 도구로 소개됩니다. 원문에 보안 사고 관련 언급이 있어 데이터 보관 정책의 별도 확인이 필요합니다.",
+    "tagline": "API를 갖춘 브라우저 프로필 관리"
+  },
+  "undetectable": {
+    "description": "Undetectable은 많은 계정을 위한 로컬 브라우저 프로필 관리 도구로 소개됩니다. 로컬 프로필과 별도 클라우드 저장 옵션을 구분합니다.",
+    "tagline": "로컬 중심의 대규모 프로필 관리"
+  },
+  "geelark": {
+    "description": "GeeLark는 클라우드의 ARM 기반 Android 기기를 사용하며 RPA, 동시 작업 실행과 API를 지원한다고 소개됩니다. 프로필과 기기 사용 시간이 별도로 계산되는 구조입니다.",
+    "tagline": "클라우드 Android 기기와 작업 동기화"
+  },
+  "dolphin": {
+    "description": "Dolphin은 브라우저 프로필 분리 도구로 등록되어 있습니다. 원문은 과거 보안 사고와 비용을 비판적으로 다루므로 이를 검증된 안전성 평가로 볼 수는 없습니다.",
+    "tagline": "프로필 관리 도구와 원문의 보안 주의사항"
+  },
+  "incogniton": {
+    "description": "Incogniton은 Selenium과 Puppeteer를 직접 연동하는 브라우저로 소개됩니다. 원문은 업데이트 빈도와 보안 관련 이력에 대한 주의도 언급합니다.",
+    "tagline": "Selenium·Puppeteer 연동 프로필 브라우저"
+  },
+  "agentx": {
+    "description": "AgentX는 암호화폐 작업용 Chromium 프로필 브라우저로 소개됩니다. 제공업체가 보안 감사와 취약점 신고 보상 프로그램을 운영한다고 안내합니다.",
+    "tagline": "Chromium 프로필과 취약점 신고 프로그램"
+  },
+  "gologin": {
+    "description": "GoLogin은 Orbita 엔진, 프록시 관리자와 팀용 클라우드 프로필을 제공하는 브라우저로 소개됩니다. API와 MCP 연동도 포함되어 있습니다.",
+    "tagline": "Orbita 엔진의 클라우드 팀 프로필"
+  },
+  "linken-sphere": {
+    "description": "Linken Sphere는 Tor 연동과 브라우저 환경 제어 기능을 갖춘 도구로 소개됩니다. 원문은 이전 버전의 데이터 유출과 후속 버전을 함께 언급합니다.",
+    "tagline": "Tor 연동과 브라우저 환경 제어"
+  },
+  "indigo": {
+    "description": "Indigo는 복잡한 설정을 줄인 프로필 브라우저로 소개되며 브라우저 지문 관리와 프로필 체험 옵션을 안내합니다.",
+    "tagline": "단순한 인터페이스의 프로필 브라우저"
+  },
+  "lalicat": {
+    "description": "Lalicat은 기본 브라우저 지문 설정과 프로필 관리를 제공하는 중국계 도구로 소개됩니다. 원문은 단순한 작업과 학습 용도를 중심으로 설명합니다.",
+    "tagline": "기본 지문 설정과 프로필 관리"
+  },
+  "surfinite": {
+    "description": "Surfinite는 인터페이스와 기능이 지속적으로 개발되는 프로필 브라우저로 소개됩니다. 원문은 데이터 보관과 보안 검토가 필요하다는 의견을 덧붙입니다.",
+    "tagline": "개발 중인 프로필 브라우저 환경"
+  },
+  "kameleo": {
+    "description": "Kameleo는 데스크톱뿐 아니라 iOS·Android 브라우저 지문을 모사하는 도구로 소개됩니다. 원문은 동시 실행 프로필 수에 따른 이용 구조를 설명합니다.",
+    "tagline": "모바일 지문 모사와 동시 실행 관리"
+  },
+  "xlogin": {
+    "description": "XLogin은 기본적인 브라우저 지문 설정과 개별 프로필 작업을 위한 도구로 등록되어 있습니다. 원문은 추가 특화 기능을 제시하지 않습니다.",
+    "tagline": "개별 프로필용 기본 지문 설정"
+  },
+  "ghostbrowser": {
+    "description": "GhostBrowser는 탭마다 쿠키를 구분하여 여러 로그인 세션을 관리하는 브라우저로 소개됩니다. 원문은 지문 변경 기능과 별개의 도구라고 설명합니다.",
+    "tagline": "탭별 쿠키로 구분하는 로그인 세션"
+  },
+  "vm-login": {
+    "description": "VM-Login은 가상 머신 수준에서 브라우저 프로필 환경을 분리하는 도구로 소개됩니다. 단순한 지문 변경보다 실행 환경 분리에 초점을 둡니다.",
+    "tagline": "가상 머신 기반 프로필 환경 분리"
+  },
+  "hidemyacc": {
+    "description": "HideMyAcc는 베트남에서 개발된 프로필 브라우저로 소개됩니다. 지문 설정과 주요 온라인 서비스의 계정 작업을 위한 인터페이스를 안내합니다.",
+    "tagline": "베트남 개발사의 지문 관리 브라우저"
+  },
+  "antik": {
+    "description": "Antik은 브라우저 지문, 프로필 대시보드와 업데이트 기능을 갖춘 중간 규모의 프로필 관리 도구로 소개됩니다.",
+    "tagline": "지문과 프로필을 관리하는 대시보드"
+  },
+  "marketer": {
+    "description": "Marketer는 소셜 미디어 운영에 맞춘 프로필 브라우저로 소개됩니다. 소셜 계정 템플릿, 게시 일정과 잠재고객 관리 기능을 안내합니다.",
+    "tagline": "소셜 계정 템플릿과 게시 일정"
+  },
+  "bitbrowser": {
+    "description": "BitBrowser는 전자상거래에 초점을 둔 중국계 프로필 브라우저로 소개됩니다. Taobao와 Pinduoduo 같은 플랫폼을 사용하는 작업 흐름을 안내합니다.",
+    "tagline": "중국 전자상거래용 프로필 작업 환경"
+  },
+  "antbrowser": {
+    "description": "ANTBrowser는 기본 지문 설정과 단순한 프로필 인터페이스를 갖춘 도구로 소개됩니다. 원문은 업데이트가 드물다는 점도 언급합니다.",
+    "tagline": "기본 기능 중심의 프로필 브라우저"
+  },
+  "accovod": {
+    "description": "Accovod는 기기 간 프로필 동기화, 팀 협업과 다수 계정의 작업 흐름을 관리하는 클라우드 도구로 소개됩니다.",
+    "tagline": "프로필 동기화와 팀 계정 운영"
+  },
+  "sessionbox": {
+    "description": "SessionBox는 Chrome 탭별 쿠키 저장소를 구분하여 여러 계정에 동시에 로그인하는 확장 기능으로 소개됩니다. 지문 변경 도구와는 구분됩니다.",
+    "tagline": "Chrome 탭별 로그인과 쿠키 분리"
+  },
+  "samara-swspy": {
+    "description": "Samara swSpy는 러시아어 지원과 기본적인 브라우저 지문 기능을 갖춘 소규모 프로필 도구로 등록되어 있습니다. 원문은 기능 구성이 제한적이라고 설명합니다.",
+    "tagline": "러시아어 지원의 기본 프로필 도구"
+  },
+  "vision": {
+    "description": "Vision은 프로필 관리 인터페이스를 개발 중인 신생 브라우저로 소개됩니다. 원문은 가입과 결제 흐름에 불편이 있었다고 기록합니다.",
+    "tagline": "신생 프로필 브라우저의 작업 환경"
+  },
+  "proxyshard": {
+    "description": "ProxyShard는 여러 국가의 주거용 프록시와 실시간 이용 통계, 간단한 연동 대시보드를 제공하는 서비스로 소개됩니다.",
+    "tagline": "국가별 주거용 프록시와 이용 통계"
+  },
+  "geonix": {
+    "description": "Geonix는 이전 Proxy-Sale 서비스로, 국가별 IPv4·IPv6 프록시를 제공한다고 소개됩니다. HTTP, HTTPS, SOCKS5와 계정 또는 IP 허용 목록 인증을 안내합니다.",
+    "tagline": "IPv4·IPv6와 두 가지 인증 방식"
+  },
+  "webshare": {
+    "description": "Webshare는 대량의 공유 프록시와 트래픽 요금제를 중심으로 소개됩니다. 원문은 고정 프록시의 수량과 네트워크 우선순위를 선택하는 구성을 설명합니다.",
+    "tagline": "대량 공유 프록시와 네트워크 옵션"
+  },
+  "proxywing": {
+    "description": "ProxyWing은 국가·도시를 지정하는 회전형 주거용 프록시로 소개됩니다. 실시간 통계와 자동화 도구 연동, 트래픽 단위 이용 방식을 안내합니다.",
+    "tagline": "도시 선택과 회전형 주거용 연결"
+  },
+  "prosox": {
+    "description": "Prosox는 주거용, 모바일, ISP, 데이터센터 및 IPv6 프록시를 함께 제공하는 업체로 소개됩니다. UDP, API와 Telegram 지원도 안내합니다.",
+    "tagline": "여러 프록시 유형과 UDP 지원"
+  },
+  "proxysio": {
+    "description": "ProxysIO는 모바일·주거용·데이터센터 프록시를 제공하는 러시아계 서비스로 소개됩니다. 연결 점검 기능과 Windows 지문 옵션이 있는 개별 IPv4도 안내합니다.",
+    "tagline": "CIS 지역 연결과 프록시 점검 기능"
+  },
+  "proxy-seller": {
+    "description": "Proxy-Seller는 국가별 전용 IPv4·IPv6 프록시와 HTTP·HTTPS·SOCKS5 연결을 안내하는 업체입니다. API를 통한 프록시 관리도 소개됩니다.",
+    "tagline": "전용 IPv4·IPv6와 관리 API"
+  },
+  "proxy6": {
+    "description": "Proxy6는 IPv4·IPv6 프록시를 수량별로 제공하는 서비스로 소개됩니다. 원문은 소셜 미디어 작업 용도를 언급하며 국가 선택이 제한적이라고 설명합니다.",
+    "tagline": "수량 중심의 IPv4·IPv6 프록시"
+  },
+  "proxyline": {
+    "description": "ProxyLine은 국가와 주소 유형을 선택하는 IPv4·IPv6 프록시 서비스로 소개됩니다. HTTP와 SOCKS5 연결을 안내합니다.",
+    "tagline": "국가를 고르는 HTTP·SOCKS5 프록시"
+  },
+  "geonode": {
+    "description": "GEONode는 도시 단위 위치 지정과 사용량 분석을 갖춘 주거용 프록시로 소개됩니다. 회전 세션과 고정 유지 세션을 구분하여 설정할 수 있습니다.",
+    "tagline": "도시 지정과 세션 유지 방식 선택"
+  },
+  "asocks": {
+    "description": "Asocks는 트래픽 단위 주거용 프록시로 소개됩니다. 도시 선택, 프로필 브라우저 연동 API와 실시간 트래픽 사용량 표시를 안내합니다.",
+    "tagline": "트래픽 과금과 도시별 주거용 프록시"
+  },
+  "data-impulse": {
+    "description": "Data Impulse는 주거용·모바일·데이터센터 프록시를 함께 제공하는 업체로 소개됩니다. 도시별 위치 선택, 자동 회전, SOCKS5와 API를 안내합니다.",
+    "tagline": "세 가지 프록시 유형과 자동 회전"
+  },
+  "b2proxy": {
+    "description": "B2proxy는 여러 국가와 프록시 유형을 다루는 업체로 소개됩니다. 주소 회전과 API를 통한 연동 기능이 안내되어 있습니다.",
+    "tagline": "여러 유형의 프록시와 회전 API"
+  },
+  "iproyal": {
+    "description": "IPRoyal은 주거용 프록시 외에 데이터센터와 한정판 상품 구매 작업용 프록시를 제공한다고 소개됩니다. 원문은 대량 구매 중심의 이용 구조를 설명합니다.",
+    "tagline": "주거용·데이터센터와 특화 프록시"
+  },
+  "711proxy": {
+    "description": "711Proxy는 도시별 주거용 연결, ISP 프록시와 대량 SOCKS5 상품을 안내하는 업체입니다. 스크래핑과 소셜 미디어 자동화 용도로 소개됩니다.",
+    "tagline": "도시별 주거용·ISP·SOCKS5 연결"
+  },
+  "decodo": {
+    "description": "Decodo는 회전형 주거용 프록시와 묶음형 고정 프록시를 제공한다고 소개됩니다. 개발자 API, Chrome 확장 기능과 스크래핑용 상품을 안내합니다.",
+    "tagline": "회전·고정 프록시와 Chrome 테스트 도구"
+  },
+  "brightdata": {
+    "description": "BrightData는 여러 유형의 프록시와 Web Unlocker, SERP API, 브라우저 기반 수집 및 스크래핑 도구를 제공하는 기업용 서비스로 소개됩니다.",
+    "tagline": "프록시부터 SERP·브라우저 데이터 수집까지"
+  },
+  "proxysoxy": {
+    "description": "ProxySoxy는 웹 대시보드 대신 Telegram 봇에서 프록시를 주문하고 전달받는 서비스로 소개됩니다. 원문은 일부 CIS 국가의 연결을 중심으로 설명합니다.",
+    "tagline": "Telegram 봇으로 주문하는 CIS 프록시"
+  },
+  "proxystore": {
+    "description": "ProxyStore는 일정 기간 전용 IP를 임대하는 프록시 상점으로 소개됩니다. 원문은 주소를 유지하는 장기 세션과 기본 관리 화면을 설명합니다.",
+    "tagline": "주소 유지형 전용 프록시 임대"
+  },
+  "spaceproxy": {
+    "description": "SpaceProxy는 지역별 IPv4·IPv6 프록시와 API 연동을 제공하는 서비스로 소개됩니다. 원문은 기본적인 프록시 구매와 관리에 초점을 둡니다.",
+    "tagline": "지역별 IPv4·IPv6와 API 연동"
+  },
+  "proxy-ipv4": {
+    "description": "Proxy IPv4는 국가별 전용 IPv4와 모바일 프록시를 제공하는 서비스로 소개됩니다. 장기 세션용 주소와 짧은 기간의 묶음 임대를 안내합니다.",
+    "tagline": "전용 IPv4와 단기 묶음 임대"
+  },
+  "froxy": {
+    "description": "Froxy는 수집·자동화 작업용 회전형 주거용 프록시로 소개됩니다. 요청 수 또는 트래픽에 따른 이용 방식과 API 문서를 안내합니다.",
+    "tagline": "요청·트래픽 단위의 회전 프록시"
+  },
+  "astroproxy": {
+    "description": "AstroProxy는 트래픽 단위 주거용 프록시로 소개됩니다. 주소 회전, 실시간 사용량 대시보드와 프로필 브라우저 연동을 안내합니다.",
+    "tagline": "주소 회전과 실시간 트래픽 관리"
+  },
+  "fineproxy": {
+    "description": "FineProxy는 대량 프록시 묶음과 개별 프록시를 함께 제공하는 업체로 소개됩니다. 원문은 묶음별 품질 차이를 확인해야 한다고 설명합니다.",
+    "tagline": "대량 묶음과 개별 프록시 선택"
+  },
+  "youproxy": {
+    "description": "YouProxy는 사용자가 지역을 직접 선택하는 개별 프록시 서비스로 소개됩니다. 원문은 간단한 구매 화면과 고정 주소 이용을 중심으로 설명합니다.",
+    "tagline": "직접 고르는 지역과 개별 IP"
+  },
+  "frigate": {
+    "description": "Frigate는 데이터센터와 모바일 프록시를 제공하는 러시아계 업체로 소개됩니다. 원문은 CIS 지역 이용과 장기간 운영 이력을 중심으로 설명합니다.",
+    "tagline": "CIS 중심의 서버·모바일 프록시"
+  },
+  "mobileproxy": {
+    "description": "MobileProxy는 실제 SIM 기반 모바일 프록시와 자동 IP 회전을 안내하는 업체입니다. 이름과 별개로 고정 프록시 상품도 제공한다고 소개됩니다.",
+    "tagline": "SIM 기반 모바일 회전과 고정 IP"
+  },
+  "proxywhite": {
+    "description": "ProxyWhite는 접속 IP 허용 목록으로 접근을 제한하는 개인용 프록시로 소개됩니다. 원문은 할당 전 주소 점검 절차를 설명합니다.",
+    "tagline": "IP 허용 목록으로 제한하는 프록시 접근"
+  },
+  "illusory": {
+    "description": "Illusory는 회전형 주거용 프록시와 API를 제공하는 서비스로 소개됩니다. 원문은 다양한 기능이 있는 대시보드와 사용 설정을 설명합니다.",
+    "tagline": "주거용 회전 설정과 관리 대시보드"
+  },
+  "netnut": {
+    "description": "NetNut은 ISP 연결 기반 주거용 프록시를 제공하는 기업용 서비스로 소개됩니다. 도시 지정, 전담 담당자와 별도 스크래핑 상품을 안내합니다.",
+    "tagline": "ISP 기반 주거용 연결과 도시 지정"
+  },
+  "aceproxies": {
+    "description": "AceProxies는 Shopify, Footlocker, Supreme 등 소매 사이트 작업에 맞춘 데이터센터 프록시로 소개됩니다. 원문은 제한된 지역 선택과 특화 용도를 설명합니다.",
+    "tagline": "소매·한정판 상품 작업용 데이터센터 IP"
+  },
+  "anonymous": {
+    "description": "Anonymous는 HTTP와 SOCKS5 프록시 및 API 연동을 제공하는 업체로 소개됩니다. 원문의 익명성 표현은 독립적으로 검증된 보증이 아닙니다.",
+    "tagline": "HTTP·SOCKS5와 기본 연동 API"
+  },
+  "bestproxy": {
+    "description": "BestProxy는 원문에서 Anonymous와 비슷한 구매 구조의 프록시 상점으로 설명됩니다. 별도의 차별화된 기술 기능은 제시되지 않습니다.",
+    "tagline": "Anonymous와 유사한 구매 구조의 상점"
+  },
+  "buypersonalproxy": {
+    "description": "BuyPersonalProxy는 한 사용자용 전용 프록시와 월 단위 공유 프록시를 함께 제공하는 서비스로 소개됩니다. 두 가지 사용 방식을 구분하여 선택합니다.",
+    "tagline": "개인 전용과 월 단위 공유 프록시"
+  },
+  "changemyip": {
+    "description": "ChangeMyIP는 주소 회전과 개별 프록시 구매를 제공하는 서비스로 소개됩니다. 원문은 Anonymous·BestProxy와 유사한 주문 구조라고 설명합니다.",
+    "tagline": "IP 회전과 개별 프록시 주문"
+  },
+  "infantica": {
+    "description": "Infantica는 대규모 웹 데이터 수집용 회전형 주거용 프록시로 소개됩니다. 원문은 지역 분포와 일상적인 데이터 파이프라인 이용을 강조합니다.",
+    "tagline": "데이터 수집용 주거용 주소 회전"
+  },
+  "localproxies": {
+    "description": "LocalProxies는 특정 도시와 ISP를 고르는 주거용 프록시로 소개됩니다. 원문은 좁은 지역을 지정해야 하는 작업과 제한적인 재고를 설명합니다.",
+    "tagline": "도시와 ISP를 구체적으로 선택"
+  },
+  "litproxy": {
+    "description": "LitProxy는 기본 프록시 상품을 제공하는 신생 업체로 소개됩니다. 원문은 API가 아직 제공 예정 단계라고 명시합니다.",
+    "tagline": "기본 프록시 상품과 API 제공 예정 안내"
+  },
+  "flipnode": {
+    "description": "FlipNode는 웹 스크래핑 파이프라인용 주거용 프록시로 소개됩니다. API 문서와 대상 사이트의 동작에 맞춘 회전 기능을 안내합니다.",
+    "tagline": "개발자 데이터 파이프라인용 회전 프록시"
+  },
+  "proxyleet": {
+    "description": "ProxyLeet는 러시아 지역의 프록시를 대량 묶음으로 제공하는 소규모 서비스로 소개됩니다. 원문은 품질에 대한 불확실성을 언급합니다.",
+    "tagline": "러시아 지역 대량 프록시 묶음"
+  },
+  "oxylabs": {
+    "description": "OxyLabs는 기업용 주거용·데이터센터·모바일 프록시를 제공한다고 소개됩니다. 도시 지정, 회전 설정과 전담 담당자를 안내합니다.",
+    "tagline": "기업용 다중 프록시 풀과 도시 선택"
+  },
+  "proxycue": {
+    "description": "ProxyCUE는 기본 주소 회전과 간단한 구매 화면을 갖춘 프록시 업체로 소개됩니다. 프록시 외에 여러 국가의 VDS도 안내합니다.",
+    "tagline": "기본 회전 프록시와 국가별 VDS"
+  },
+  "privateproxy": {
+    "description": "PrivateProxy는 전용 프록시 상품과 다양한 관리 옵션, API를 제공하는 서비스로 소개됩니다. 결제 방식별 신원 확인 조건은 별도 검토가 필요합니다.",
+    "tagline": "전용 프록시 상품과 관리 옵션"
+  },
+  "proxysocks5": {
+    "description": "ProxySocks5는 SOCKS5 연결을 중심으로 지역과 통신사업자를 선택하는 프록시 상점으로 소개됩니다.",
+    "tagline": "지역·통신사업자를 고르는 SOCKS5"
+  },
+  "proxyverse": {
+    "description": "ProxyVerse는 주거용 프록시와 API를 제공하는 플랫폼으로 소개됩니다. 원문은 관리 화면과 요금제 구성이 명확한 편이라고 설명합니다.",
+    "tagline": "주거용 프록시와 API 관리 화면"
+  },
+  "proxyempire": {
+    "description": "ProxyEmpire는 회전형 주거용 프록시와 실제 4G·LTE 통신망 기반 모바일 프록시를 한 대시보드에서 다루는 서비스로 소개됩니다.",
+    "tagline": "주거용과 4G·LTE 프록시 통합 관리"
+  },
+  "proxymarket": {
+    "description": "ProxyMarket은 여러 판매자의 프록시를 한곳에서 비교하는 장터로 소개됩니다. 원문은 상품 유형 비교와 거래 중개 절차를 안내합니다.",
+    "tagline": "판매자별 프록시 상품 비교 장터"
+  },
+  "proxystorenet": {
+    "description": "ProxyStoreNet은 전용 IP를 구입하는 개인용 프록시 상점으로 소개됩니다. 원문은 구독보다 개별 구매에 초점을 둔 이용 구조를 설명합니다.",
+    "tagline": "개별 구매 중심의 전용 IP 상점"
+  },
+  "ip-burger": {
+    "description": "IP Burger는 주거용 프록시를 제공하는 업체로 소개됩니다. 원문은 IP 풀의 정기 갱신을 언급하지만 구체적인 기술 정보는 제한적입니다.",
+    "tagline": "IP 풀 갱신을 안내하는 주거용 프록시"
+  },
+  "hydraproxy": {
+    "description": "HydraProxy는 주거용·데이터센터·모바일 프록시를 하나의 화면에서 관리하는 서비스로 소개됩니다. API와 HydraHeaders 프로필 관리자도 안내합니다.",
+    "tagline": "세 가지 프록시 풀과 HydraHeaders"
+  },
+  "proxy-cheap": {
+    "description": "Proxy-Cheap은 지역 선택과 주소 회전을 제공하는 프록시 서비스로 소개됩니다. 원문은 스크래핑과 테스트 작업을 주요 용도로 설명합니다.",
+    "tagline": "스크래핑·테스트용 지역별 프록시"
+  },
+  "proxyrack": {
+    "description": "ProxyRack은 주거용과 모바일 프록시를 통합 관리하는 서비스로 소개됩니다. 포트 단위와 트래픽 기반 등 서로 다른 이용 구조를 안내합니다.",
+    "tagline": "주거용·모바일 통합과 포트별 선택"
+  },
+  "9proxy": {
+    "description": "9proxy는 트래픽 용량보다 IP 수량을 기준으로 이용하는 회전형 주거용 프록시로 소개됩니다. 국가별 선택과 자동 회전을 안내합니다.",
+    "tagline": "IP 수량 기준의 회전형 주거용 연결"
+  },
+  "lightning-proxies": {
+    "description": "Lightning Proxies는 주거용, 모바일, ISP, 데이터센터와 IPv6를 한곳에서 제공하는 업체로 소개됩니다. 체험 옵션과 API도 안내합니다.",
+    "tagline": "다섯 가지 프록시 유형을 한 화면에서"
+  },
+  "mars-proxies": {
+    "description": "Mars Proxies는 UDP와 트래픽 제한 조건이 별도로 안내되는 ISP 프록시 서비스로 소개됩니다. 원문은 장기 세션과 국가 선택을 중심으로 설명합니다.",
+    "tagline": "UDP 지원 ISP 프록시와 장기 세션"
+  },
+  "lte-socks": {
+    "description": "LTE Socks는 실제 SIM 기반 LTE·4G 모바일 및 전용 주거용 프록시를 제공한다고 소개됩니다. 수동과 자동 IP 회전을 안내합니다.",
+    "tagline": "SIM 기반 LTE·4G와 수동·자동 회전"
+  },
+  "cat-proxies": {
+    "description": "Cat Proxies는 도시 지정, API와 체험 옵션이 있는 프록시 업체로 소개됩니다. 주거용 상품과 대량 고정 데이터센터 상품을 함께 안내합니다.",
+    "tagline": "도시 지정과 대량 데이터센터 상품"
+  },
+  "cyberyozh": {
+    "description": "CyberYozh는 CIS 팀이 운영하는 프록시 제공업체로 소개됩니다. 원문은 러시아어 암호화폐 커뮤니티에서 알려진 지역 서비스라고 설명합니다.",
+    "tagline": "러시아어 커뮤니티 중심의 지역 프록시"
+  },
+  "nettify": {
+    "description": "Nettify는 주거용·모바일·데이터센터 프록시를 트래픽 단위로 제공한다고 소개됩니다. 이메일·비밀번호 대신 토큰 인증 방식을 안내합니다.",
+    "tagline": "트래픽 단위 프록시와 토큰 인증"
+  },
+  "naproxy": {
+    "description": "NaProxy는 주거용, ISP와 데이터센터 프록시를 제공하는 업체로 소개됩니다. API, 도시 지정과 주거용 트래픽 묶음 상품을 안내합니다.",
+    "tagline": "도시 지정과 주거용 트래픽 묶음"
+  },
+  "lumi-proxy": {
+    "description": "Lumi Proxy는 프록시 제공업체로 등록되어 있습니다. 원문은 가격 대비 품질에 비판적인 의견을 제시하며 특화 기능은 구체적으로 설명하지 않습니다.",
+    "tagline": "특화 기능 정보가 제한적인 프록시 업체"
+  },
+  "bartproxies": {
+    "description": "BartProxies는 프록시 상품을 제공하는 업체로 소개됩니다. 원문은 특히 주거용 상품의 비용을 비판적으로 다루며 기술적 차별점은 제시하지 않습니다.",
+    "tagline": "주거용 상품의 비용 검토가 필요한 업체"
+  },
+  "kocer-roxy": {
+    "description": "Kocer Roxy는 모바일 프록시 재고를 중심으로 소개되는 업체입니다. 원문은 데이터센터 상품의 제한 조건과 재고를 먼저 확인하라고 안내합니다.",
+    "tagline": "모바일 재고와 데이터센터 이용 조건"
+  },
+  "ipnproxy": {
+    "description": "IpnProxy는 여러 유형의 프록시와 주거용 도시 지정을 제공한다고 소개됩니다. 원문은 주거용·모바일 상품의 대량 이용을 언급합니다.",
+    "tagline": "도시별 주거용·모바일 대량 연결"
+  },
+  "momoproxy": {
+    "description": "MoMoProxy는 주거용과 ISP 프록시를 제공하는 서비스로 소개됩니다. 도시 지정, SOCKS5와 수동·자동 주소 회전을 안내합니다.",
+    "tagline": "주거용·ISP와 수동·자동 회전"
+  },
+  "ake": {
+    "description": "Ake는 여러 국가에서 다양한 프록시 유형을 제공하는 업체로 소개됩니다. 원문은 특히 모바일과 ISP 상품을 언급합니다.",
+    "tagline": "국가별 모바일·ISP 프록시 선택"
+  },
+  "ghostealth": {
+    "description": "Ghostealth는 대량 구매 중심의 주거용·데이터센터 프록시 업체로 소개됩니다. 원문은 소량 시험 이용이 어렵고 품질 확인이 필요하다고 설명합니다.",
+    "tagline": "대량 묶음 중심의 프록시 공급"
+  },
+  "nodemaven": {
+    "description": "NodeMaven은 주거용 프록시에 초점을 둔 서비스로 소개됩니다. IPv6, SOCKS5, 자동 회전과 API 연동을 안내합니다.",
+    "tagline": "주거용 중심의 SOCKS5·자동 회전"
+  },
+  "novada": {
+    "description": "Novada는 ISP, 데이터센터, 주거용과 모바일 프록시를 함께 제공하는 업체로 소개됩니다. 원문은 전용 IP 상품과 전체 기능의 신원 확인 조건을 안내합니다.",
+    "tagline": "전용 IP부터 모바일까지의 상품 구성"
+  },
+  "proxiware": {
+    "description": "Proxiware는 프록시 유형과 관계없이 트래픽을 기준으로 이용하는 업체로 소개됩니다. 원문은 데이터센터 상품에도 같은 구조가 적용된다고 설명합니다.",
+    "tagline": "데이터센터에도 적용되는 트래픽 기준"
+  },
+  "proxy-302": {
+    "description": "Proxy 302는 중국계 프록시 서비스로 소개되며 시험 이용 옵션을 안내합니다. 원문은 가입 과정의 불편을 기록하고 상세 기능은 제한적으로 설명합니다.",
+    "tagline": "시험 이용을 안내하는 중국계 프록시"
+  },
+  "psb-proxy": {
+    "description": "PSB Proxy는 전용 회전형 프록시를 제공하는 서비스로 소개됩니다. 원문은 반복적인 IP 회전과 단순한 상품 구성을 설명합니다.",
+    "tagline": "전용 프록시의 반복 주소 회전"
+  },
+  "ping-proxies": {
+    "description": "Ping Proxies는 전용 ISP와 주거용 프록시를 제공하는 업체로 소개됩니다. 원문은 트래픽 사용량이 적은 다수의 세션 작업을 주요 용도로 설명합니다.",
+    "tagline": "전용 ISP와 저용량 다중 세션"
+  },
+  "plain-proxies": {
+    "description": "Plain Proxies는 프록시 업체로 등록되어 있습니다. 원문은 가입·대시보드의 작동 문제를 기록하며 별도 특화 기능은 제시하지 않습니다.",
+    "tagline": "가입·관리 화면 점검이 필요한 프록시"
+  },
+  "proxies-fo": {
+    "description": "Proxies.fo는 여러 프록시 상품을 제공하는 업체로 소개됩니다. 원문은 그중 주거용과 모바일 구성을 별도로 언급합니다.",
+    "tagline": "주거용과 모바일 상품 구분"
+  },
+  "soax": {
+    "description": "Soax는 주거용 프록시, API와 세부 위치 지정을 제공하는 업체로 소개됩니다. 원문은 일부 기능과 결제 처리에 지원팀 문의가 필요하다고 설명합니다.",
+    "tagline": "세부 위치 지정과 지원팀 기반 옵션"
+  },
+  "rayobyte": {
+    "description": "Rayobyte는 미국의 프록시 제공업체로 등록되어 있습니다. 원문은 사용 편의성에 대한 부정적 의견만 제시하여 구체적인 기능 정보는 제한적입니다.",
+    "tagline": "미국 프록시 업체의 제한적인 원문 정보"
+  },
+  "stable-proxy": {
+    "description": "Stable Proxy는 우크라이나 업체의 프록시 서비스로 소개됩니다. 원문은 국가 선택 폭이 좁고 현지 이용자 중심의 운영이라고 설명합니다.",
+    "tagline": "우크라이나 중심의 제한된 국가 선택"
+  },
+  "squid-proxies": {
+    "description": "Squid Proxies는 지역 기반 프록시 업체로 등록되어 있습니다. 원문은 비용과 품질에 대한 의견을 제시하지만 특화 기술은 구체적으로 설명하지 않습니다.",
+    "tagline": "지역 프록시 상품과 원문의 품질 유의사항"
+  },
+  "proxidize": {
+    "description": "Proxidize는 모바일 프록시 인프라를 제공하는 서비스로 소개됩니다. 원문은 카드 결제 중심의 이용 구조와 관리 편의성에 대한 의견을 설명합니다.",
+    "tagline": "카드 결제 중심의 모바일 프록시 인프라"
+  },
+  "ip-peak": {
+    "description": "ip Peak는 주거용과 ISP 프록시를 제공하는 업체로 소개됩니다. SOCKS5, 자동 회전과 여러 국가의 연결을 안내합니다.",
+    "tagline": "SOCKS5 기반 주거용·ISP 자동 회전"
+  },
+  "ziny": {
+    "description": "Ziny는 여러 프록시 유형을 다루는 소규모 업체로 소개됩니다. 시험 이용과 도시별 위치 지정 기능이 안내되어 있습니다.",
+    "tagline": "체험 옵션과 도시별 위치 선택"
+  },
+  "proxyma": {
+    "description": "ProxyMa는 러시아어 이용자를 위한 주거용·모바일 프록시 업체로 소개됩니다. 현지 SBP 결제 방식을 안내합니다.",
+    "tagline": "SBP 결제를 안내하는 지역 프록시"
+  },
+  "proxysolutions": {
+    "description": "ProxySolutions는 개인용·묶음형·도시별·모바일 및 UDP 프록시를 제공한다고 소개됩니다. 자동화, 메신저 봇과 API 연동을 안내합니다.",
+    "tagline": "도시별·UDP 프록시와 메신저 연동"
+  },
+  "sx": {
+    "description": "SX는 IP 상태 점검 점수를 표시하는 프록시 장터로 소개됩니다. 원문은 여러 프록시 유형과 checker.net 기반 점검 방식을 설명합니다.",
+    "tagline": "IP 상태 점수를 보여주는 프록시 장터"
+  },
+  "nyprox": {
+    "description": "NyProx는 데이터센터 프록시에 특화된 서비스로 소개됩니다. HTTPS와 SOCKS5를 지원하며 주거용·모바일 상품과 구분됩니다.",
+    "tagline": "데이터센터 전용 HTTPS·SOCKS5"
+  },
+  "thunderproxy": {
+    "description": "ThunderProxy는 리투아니아 업체의 ISP 프록시 서비스로 소개됩니다. 여러 국가의 연결과 시험 트래픽 옵션을 안내합니다.",
+    "tagline": "리투아니아 업체의 국가별 ISP 연결"
+  },
+  "elusive": {
+    "description": "Elusive는 영국 ThreeUK 통신망의 4G 모바일 프록시로 소개됩니다. URL 요청 또는 자동 설정으로 주소를 회전하는 영국 전용 상품입니다.",
+    "tagline": "영국 ThreeUK 전용 4G 주소 회전"
+  },
+  "evomi": {
+    "description": "Evomi는 스위스 업체로 주거용, 모바일과 데이터센터 프록시를 제공한다고 소개됩니다. 원문은 전체 기능 이용 시 신원 확인 조건을 언급합니다.",
+    "tagline": "스위스 업체의 세 가지 프록시 유형"
+  },
+  "gridpanel": {
+    "description": "GridPanel은 영국의 4G·5G 모바일 프록시 중심 서비스로 소개됩니다. 주거용·데이터센터 상품과 스크래핑 API도 안내합니다.",
+    "tagline": "4G·5G 모바일과 스크래핑 API"
+  },
+  "globalproxies": {
+    "description": "GlobalProxies는 미국 전용 4G·5G 모바일 프록시로 소개됩니다. 일별 데이터 한도와 별도의 주소 회전 조건이 안내됩니다.",
+    "tagline": "미국 모바일망과 일별 데이터 한도"
+  },
+  "flowproxies": {
+    "description": "FlowProxies는 미국 중심의 ISP·주거용 프록시로 소개됩니다. 원문은 한정판 상품 관련 자동화 용도와 Discord 커뮤니티를 언급합니다.",
+    "tagline": "미국 ISP·주거용 프록시와 커뮤니티"
+  },
+  "proxybase": {
+    "description": "ProxyBase는 영국 기반 주거용 프록시 제공업체로 소개됩니다. 이용량 구간별 상품과 스크래핑 API를 안내합니다.",
+    "tagline": "영국 기반 주거용 풀과 수집 API"
+  },
+  "belurk": {
+    "description": "Belurk는 러시아의 IPv4·IPv6 프록시 상점으로 소개됩니다. HTTPS·SOCKS5 연결과 API 접근을 안내합니다.",
+    "tagline": "러시아 IPv4·IPv6와 관리 API"
+  },
+  "getproxy": {
+    "description": "GetProxy는 서버·모바일 프록시와 IPv4·IPv6를 제공하는 러시아계 상점으로 소개됩니다. Avito 등 현지 서비스용 상품, 예약과 자동 구매를 안내합니다.",
+    "tagline": "현지 서비스별 프록시 예약·자동 구매"
+  },
+  "floppydata": {
+    "description": "FloppyData는 소수 국가의 프록시를 제공하는 지역 상점으로 소개됩니다. 시험 이용 옵션은 안내되지만 원문은 품질에 대한 불확실성도 언급합니다.",
+    "tagline": "소수 국가의 프록시와 시험 이용"
+  },
+  "proxio": {
+    "description": "Proxio는 웹 데이터 수집과 모니터링을 위한 주거용·ISP 프록시 업체로 소개됩니다. 원문은 공개된 서비스 정보가 적다는 점도 설명합니다.",
+    "tagline": "웹 수집·모니터링용 주거용·ISP 연결"
+  },
+  "proxystream": {
+    "description": "ProxyStream은 Verizon, T-Mobile, AT&T 등 통신망의 4G·5G 모바일 프록시를 제공한다고 소개됩니다. 시간 단위부터 월 단위까지의 이용 구성을 안내합니다.",
+    "tagline": "통신망 선택과 시간 단위 모바일 프록시"
+  },
+  "proxy-family": {
+    "description": "Proxy.Family는 러시아 전용 IPv4·IPv6 업체로 등록되어 있습니다. 원문은 재판매와 계정 처리에 대한 부정적 경험을 담고 있어 검증된 추천으로 볼 수 없습니다.",
+    "tagline": "러시아 전용 상품과 원문의 거래 주의사항"
+  },
+  "moni": {
+    "description": "Moni는 암호화폐 미디어와 소셜 분석을 결합한 플랫폼으로 소개됩니다. X의 인물별 활동·논의 추적, 프로필 분석 확장 기능과 거래 단말을 안내합니다.",
+    "tagline": "X 프로필 분석과 암호화폐 소셜 동향"
+  },
+  "cryptorank": {
+    "description": "CryptoRank는 프로젝트 투자 유치, 참여 활동과 토큰 잠금 해제 일정을 모으는 조사 플랫폼으로 소개됩니다. 데이터 조회 API도 안내합니다.",
+    "tagline": "투자 유치·활동·토큰 잠금 해제 조사"
+  },
+  "defilama": {
+    "description": "DefiLama는 DeFi의 TVL, 프로토콜 수익, 체인 지표와 DEX 거래량을 모은 분석 화면으로 소개됩니다. 수익률 상품 비교와 추가 데이터 기능도 안내합니다.",
+    "tagline": "TVL부터 프로토콜 수익·DEX 거래량까지"
+  },
+  "dune": {
+    "description": "Dune은 블록체인 데이터를 SQL로 조회하고 공개 대시보드를 만드는 협업 분석 플랫폼으로 소개됩니다. 토큰 흐름과 프로토콜 활동 등을 시각화합니다.",
+    "tagline": "SQL로 만드는 공개 온체인 대시보드"
+  },
+  "artemis": {
+    "description": "Artemis는 체인·프로토콜의 기초 지표와 개발자 활동을 비교하는 분석 도구로 소개됩니다. 정규화한 L1·L2 지표, 차트 내보내기와 사용자 대시보드를 안내합니다.",
+    "tagline": "L1·L2의 표준화 지표 비교"
+  },
+  "debank": {
+    "description": "Debank는 EVM 지갑의 토큰, NFT와 DeFi 포지션을 모으는 포트폴리오 추적기로 소개됩니다. 관심 주소의 온체인 활동을 보는 소셜 피드도 안내합니다.",
+    "tagline": "EVM 포트폴리오와 관심 지갑 활동"
+  },
+  "glassnode": {
+    "description": "GlassNode는 Bitcoin·Ethereum 중심의 온체인 지표 플랫폼으로 소개됩니다. HODL 파동, SOPR, NUPL와 거래소 입출금 등 시장 구조 분석 자료를 안내합니다.",
+    "tagline": "BTC·ETH 온체인 주기와 거래소 흐름"
+  },
+  "etherdrops": {
+    "description": "EtherDrops는 토큰 가격 조건과 지갑 활동을 Telegram으로 알리는 봇으로 소개됩니다. 잔액 변화와 토큰 전송 알림도 안내합니다.",
+    "tagline": "토큰 가격 조건과 지갑 전송 알림"
+  },
+  "notslava": {
+    "description": "NotSlava는 입력한 토큰 수량의 환산 금액을 답하는 Telegram 봇으로 소개됩니다. 원문은 SOL 등의 수량을 직접 보내 조회하는 방식을 설명합니다.",
+    "tagline": "토큰 수량을 보내 확인하는 환산 금액"
+  },
+  "arkham": {
+    "description": "Arkham은 지갑의 주체 식별과 거래 추적을 위한 온체인 분석 도구로 소개됩니다. 주소 라벨, 포트폴리오·알림과 Intel Exchange 정보 장터를 안내합니다.",
+    "tagline": "주소 라벨과 자금 이동 추적"
+  },
+  "nansen": {
+    "description": "Nansen은 지갑 라벨과 온체인 활동을 분석하는 플랫폼으로 소개됩니다. 투자사·대규모 보유자의 움직임과 주소별 DeFi 활동을 살펴보는 기능을 안내합니다.",
+    "tagline": "지갑 라벨로 살펴보는 DeFi 활동"
+  },
+  "layerhub": {
+    "description": "LayerHub는 여러 체인의 거래량, 활성 주소와 TVL 흐름을 집계하는 도구로 소개됩니다. 프로젝트별 활동과 자금 이동을 시각화합니다.",
+    "tagline": "체인별 활성 주소와 TVL 이동"
+  },
+  "bankless": {
+    "description": "Bankless는 DeFi, L2와 Ethereum 생태계를 다루는 미디어·교육 플랫폼으로 소개됩니다. 팟캐스트, 뉴스레터와 커뮤니티 조사를 제공합니다.",
+    "tagline": "Ethereum·DeFi를 배우는 미디어와 교육"
+  },
+  "delphidigital": {
+    "description": "DelphiDigital은 DeFi, L1·L2 생태계와 토큰 경제를 조사하는 업체로 소개됩니다. 심층 보고서, 거시 분석과 데이터 대시보드를 안내합니다.",
+    "tagline": "토큰 경제와 생태계 심층 조사"
+  },
+  "messari": {
+    "description": "Messari는 자산 소개, 거버넌스, 프로토콜 수익과 조사 보고서를 모으는 플랫폼으로 소개됩니다. 종목 검색 조건, 맞춤 알림과 API를 안내합니다.",
+    "tagline": "자산 조사·거버넌스·프로토콜 수익"
+  },
+  "l2beat": {
+    "description": "L2Beat는 L2의 자산 규모, 기술 방식과 보안 단계를 비교하는 분석 도구로 소개됩니다. 롤업별 위험 항목과 평가 방법을 제시합니다.",
+    "tagline": "L2 롤업의 기술과 보안 위험 비교"
+  },
+  "rayo": {
+    "description": "Rayo는 X·Telegram·Discord의 암호화폐 논의량과 동향을 추적하는 도구로 소개됩니다. 생태계별 프로젝트와 앱 목록도 안내합니다.",
+    "tagline": "소셜 논의량과 생태계별 앱 목록"
+  },
+  "cielo": {
+    "description": "Cielo는 여러 체인의 관심 주소 활동을 추적하는 플랫폼으로 소개됩니다. 전송, 교환, NFT 발행과 계약 상호작용을 Telegram·Discord로 알립니다.",
+    "tagline": "지갑 활동을 Telegram·Discord로 추적"
+  },
+  "dappradar": {
+    "description": "DappRadar는 사용자, 거래량과 거래 수로 탈중앙화 앱을 비교하는 분석 도구로 소개됩니다. DeFi·게임·NFT 지표와 에어드롭 추적 기능을 안내합니다.",
+    "tagline": "분야별 디앱 이용 지표와 에어드롭 추적"
+  },
+  "cointool": {
+    "description": "Cointool은 여러 체인의 일상적인 온체인 작업을 모은 유틸리티로 소개됩니다. 원문은 기능 범위가 넓고 기능별 완성도에 차이가 있다고 설명합니다.",
+    "tagline": "다중 체인의 온체인 작업 도구 모음"
+  },
+  "dexu": {
+    "description": "Dexu는 AI 기반 분석과 포트폴리오 추적을 결합한 DeFi 도구로 소개됩니다. 지갑 포지션, 비정상 패턴과 자동 알림·신호를 제공한다고 안내합니다.",
+    "tagline": "DeFi 포지션과 AI 기반 패턴 알림"
+  },
+  "crypto-fundraising": {
+    "description": "Crypto Fundraising은 블록체인 프로젝트의 투자 유치 내역을 모으는 데이터베이스로 소개됩니다. 프로젝트, 투자자, 체인과 투자 단계별 검색을 안내합니다.",
+    "tagline": "프로젝트·투자자별 자금 조달 검색"
+  },
+  "chaincatcher": {
+    "description": "ChainCatcher는 중국어권 암호화폐 뉴스와 분석을 모으는 플랫폼으로 소개됩니다. 프로젝트 소식과 아시아권 시장의 논의 동향을 다룹니다.",
+    "tagline": "중국어권 암호화폐 뉴스와 프로젝트 분석"
+  },
+  "chainlist": {
+    "description": "Chainlist는 EVM 호환 네트워크의 RPC, 체인 ID와 기본 통화를 모은 목록으로 소개됩니다. MetaMask 등 지갑에 네트워크를 추가하는 기능을 안내합니다.",
+    "tagline": "EVM 체인 ID·RPC 조회와 지갑 추가"
+  },
+  "chaineye": {
+    "description": "ChainEye는 체인 간 이동 경로의 수수료와 시간을 비교하는 도구로 소개됩니다. 네트워크·토큰별 거래소 출금 비용도 살펴볼 수 있다고 안내합니다.",
+    "tagline": "브리지 경로와 거래소 출금 비용 비교"
+  },
+  "cypherhunter": {
+    "description": "CypherHunter는 암호화폐 프로젝트의 창업자, 자문, 투자자와 팀 정보를 모으는 데이터베이스로 소개됩니다. 인물의 배경과 프로젝트 간 관계를 조회합니다.",
+    "tagline": "프로젝트 팀·투자자 관계 조사"
+  },
+  "whale-market": {
+    "description": "Whale Market은 포인트, 토큰 배정과 출시 전 포지션을 다루는 장외 장터로 소개됩니다. 원문은 중개 절차를 안내하지만 거래 이행을 보증하지는 않습니다.",
+    "tagline": "포인트와 출시 전 배정의 장외 장터"
+  },
+  "vestlab": {
+    "description": "VestLab은 토큰 베스팅과 잠금 해제 일정을 추적하는 도구로 소개됩니다. 예정 날짜, 물량, 수령 주체와 관련 알림을 안내합니다.",
+    "tagline": "잠금 해제 날짜·물량·수령 주체 추적"
+  },
+  "dexscreener": {
+    "description": "DexScreener는 여러 체인의 DEX 거래쌍을 모으는 차트 도구로 소개됩니다. 가격, 거래량, 유동성과 거래 내역을 함께 보여줍니다.",
+    "tagline": "DEX 신규 거래쌍과 유동성 차트"
+  },
+  "dextools": {
+    "description": "DexTools는 DEX 차트, 거래쌍 탐색과 토큰 평가를 한 화면에 모은 도구로 소개됩니다. 보유자·유동성·계약 점검 정보는 별도의 안전 보증이 아닙니다.",
+    "tagline": "거래쌍 차트와 토큰 평가 지표"
+  },
+  "cryptopanic": {
+    "description": "CryptoPanic은 여러 출처의 암호화폐 뉴스와 독자 반응을 모으는 서비스로 소개됩니다. 자산·분야·긍정 및 부정 반응별 필터를 안내합니다.",
+    "tagline": "암호화폐 뉴스와 독자 심리 필터"
+  },
+  "tokleo": {
+    "description": "Tokleo는 DEX·CEX 신규 상장 토큰의 초기 움직임을 추적하는 분석 도구로 소개됩니다. 초기 유동성, 보유 분포와 가격 변화를 다룹니다.",
+    "tagline": "신규 상장의 유동성과 초기 보유 분포"
+  },
+  "blocksec": {
+    "description": "Blocksec은 스마트 계약의 거래 분석, 공격 탐지와 취약점 점검 도구로 소개됩니다. 자금 흐름 추적과 Phalcon 모니터링을 안내합니다.",
+    "tagline": "스마트 계약 자금 추적과 Phalcon 감시"
+  },
+  "crunchbase": {
+    "description": "CrunchBase는 기업의 자금 조달, 팀 배경과 투자 관계를 조사하는 데이터베이스로 소개됩니다. 암호화폐 전용은 아니지만 Web3 프로젝트도 수록합니다.",
+    "tagline": "기업 자금 조달과 투자 네트워크 조회"
+  },
+  "icoanalytics": {
+    "description": "ICOAnalytics는 ICO·IDO·IEO와 공개 토큰 판매 이력을 추적하는 도구로 소개됩니다. 과거 상장 조건과 이후 성과를 조사하는 자료를 안내합니다.",
+    "tagline": "토큰 판매·상장 이력과 과거 성과 조사"
+  },
+  "coingecko": {
+    "description": "CoinGecko는 코인 가격, 시가총액, 거래량과 거래소 평가를 모으는 데이터 플랫폼으로 소개됩니다. 가격 조회 API와 추가 분석 기능도 안내합니다.",
+    "tagline": "코인 시장 지표와 거래소 평가 데이터"
+  },
+  "dropstab": {
+    "description": "DropsTab은 포트폴리오, 에어드롭 활동과 투자 유치 데이터를 함께 다루는 플랫폼으로 소개됩니다. 프로젝트 투자자와 토큰 분석 기능을 안내합니다.",
+    "tagline": "포트폴리오와 투자 유치·에어드롭 추적"
+  },
+  "coinmarketcap": {
+    "description": "CoinMarketCap은 자산 가격, 시가총액, 거래량과 거래소 순위를 제공하는 집계 서비스로 소개됩니다. 교육 콘텐츠와 에어드롭·참여 캠페인 정보도 안내합니다.",
+    "tagline": "시장 지표·거래소 순위와 교육 자료"
+  },
+  "tradingview": {
+    "description": "TradingView는 암호화폐·주식·외환의 차트와 기술 분석 플랫폼으로 소개됩니다. 커뮤니티 지표·전략, 시장 데이터와 조건별 알림을 안내합니다.",
+    "tagline": "여러 자산의 차트·지표·가격 알림"
+  },
+  "santiment": {
+    "description": "Santiment는 온체인, 소셜과 개발 활동을 결합하는 분석 도구로 소개됩니다. 대규모 보유자 활동, 개발 기록, 논의량과 네트워크 성장을 추적합니다.",
+    "tagline": "온체인·소셜·개발 활동 결합 분석"
+  },
+  "cryptoquant": {
+    "description": "CryptoQuant는 거래소 자금 흐름, 채굴자 활동과 시장 지표를 분석하는 플랫폼으로 소개됩니다. BTC 준비금, 스테이블코인 지표와 API·알림을 안내합니다.",
+    "tagline": "거래소 준비금과 채굴자 자금 흐름"
+  },
+  "zapper": {
+    "description": "Zapper는 여러 체인의 DeFi 포지션, NFT와 지갑 활동을 모으는 대시보드로 소개됩니다. 과거 자산 규모와 관심 주소 탐색 기능도 안내합니다.",
+    "tagline": "다중 체인 DeFi·NFT 자산 대시보드"
+  },
+  "revert": {
+    "description": "Revert는 Uniswap V3 등의 집중 유동성 포지션을 분석하는 도구로 소개됩니다. 유동성 공급 손익, 비영구적 손실과 수수료 수익을 계산합니다.",
+    "tagline": "집중 유동성의 손익·손실·수수료 분석"
+  },
+  "eigenphi": {
+    "description": "EigenPhi는 MEV와 DeFi 거래 구조를 분석하는 도구로 소개됩니다. 샌드위치 거래, 차익거래, 청산과 플래시 대출 흐름을 추적합니다.",
+    "tagline": "MEV·차익거래·청산 흐름 분석"
+  },
+  "nftscan": {
+    "description": "NFTScan은 여러 체인의 NFT 탐색·분석 도구로 소개됩니다. 컬렉션 최저가, 보유 분포와 대규모 보유자 활동 및 개발자 API를 안내합니다.",
+    "tagline": "체인별 NFT 컬렉션과 보유 분포 탐색"
+  },
+  "tenderly": {
+    "description": "Tenderly는 스마트 계약 개발·디버깅 플랫폼으로 소개됩니다. 거래 시뮬레이션, 실패 단계 분석, 가스 사용량과 계약 이벤트 감시를 안내합니다.",
+    "tagline": "거래 시뮬레이션과 계약 디버깅"
+  },
+  "bubblemaps": {
+    "description": "BubbleMaps는 토큰 보유자를 원형 도표로 표시하는 분석 도구로 소개됩니다. 보유 비중과 주소 간 전송 관계를 통해 집중도와 연결 군집을 살펴봅니다.",
+    "tagline": "버블 도표로 보는 보유 집중과 지갑 연결"
+  },
+  "birdeye": {
+    "description": "BirdEye는 Solana 중심의 토큰 차트·DEX 분석 플랫폼으로 소개됩니다. 신규 토큰, 지갑 추적, 거래자 순위와 화면 내 거래 기능을 안내합니다.",
+    "tagline": "Solana 토큰 차트와 지갑·거래자 추적"
+  },
+  "darkstore": {
+    "description": "DarkStore는 여러 종류의 계정을 다루는 장터로 소개됩니다. 구매 건수가 표시되는 평가 체계, 환불 절차와 기술 지원을 안내합니다.",
+    "tagline": "구매 이력이 표시되는 계정 장터"
+  },
+  "accsmarket": {
+    "description": "ACCSMarket은 소셜 미디어·이메일·플랫폼 계정을 다루는 장터로 소개됩니다. 계정 유형과 이력별 상품, 거래 중개와 교체 절차를 안내합니다.",
+    "tagline": "소셜·이메일 계정과 상품 이력 구분"
+  },
+  "fireaccs": {
+    "description": "FireAccs는 다양한 분야의 계정을 취급하는 상점으로 소개됩니다. 원문은 판매자 평가 체계가 없으며 상품별 상태 확인이 필요하다고 설명합니다.",
+    "tagline": "다양한 계정 재고와 평가 체계 확인"
+  },
+  "accsmoll": {
+    "description": "AccsMoll은 여러 지역 계정 상점을 한곳에 모으는 집계 서비스로 소개됩니다. 특정 계정 유형을 여러 판매처에서 찾아보는 용도로 안내됩니다.",
+    "tagline": "여러 지역 계정 상점을 모은 목록"
+  },
+  "lzt-market": {
+    "description": "LZT Market은 계정·서비스·자료·도구를 취급하는 CIS 디지털 장터로 소개됩니다. 판매자 평가, 거래 중개와 포럼 커뮤니티를 안내합니다.",
+    "tagline": "계정·도구 장터와 포럼 커뮤니티"
+  },
+  "discord-accounts": {
+    "description": "Discord-Accounts는 Discord 계정 전문 상점으로 소개됩니다. 생성 시기, 전화 확인 여부, 이메일 제공업체와 Nitro 상태별 구분을 안내합니다.",
+    "tagline": "생성 이력과 Nitro 상태별 Discord 계정"
+  },
+  "ggsel": {
+    "description": "GGSel은 게임 상품을 중심으로 AI 계정과 여러 구독도 취급하는 장터로 소개됩니다. 판매자 평가와 환불 절차를 안내합니다.",
+    "tagline": "게임 상품부터 AI 구독까지의 장터"
+  },
+  "plati-market": {
+    "description": "Plati Market은 게임·디지털 상품과 각종 구독을 판매하는 장터로 소개됩니다. 자동 전달, 구매 건수와 판매자 평가 기능을 안내합니다.",
+    "tagline": "디지털 상품 자동 전달과 구매 평가"
+  },
+  "funpay": {
+    "description": "FunPay는 게임 계정·아이템·육성 서비스와 디지털 상품을 다루는 CIS 장터로 소개됩니다. 거래 중개와 판매자 평가를 안내합니다.",
+    "tagline": "게임 아이템·계정·디지털 서비스 거래"
+  },
+  "waraccounts": {
+    "description": "WarAccounts는 제한된 분야의 계정을 취급하는 소규모 상점으로 소개됩니다. 원문은 재고가 비교적 꾸준하다는 의견과 상품 상태 확인 필요성을 함께 설명합니다.",
+    "tagline": "소수 계정 분야를 다루는 소규모 상점"
+  },
+  "playerup": {
+    "description": "PlayerUp은 포럼 형태의 게임 계정 개인 간 거래 장터로 소개됩니다. 판매자 이력 확인과 별도 중개인 서비스를 안내합니다.",
+    "tagline": "포럼형 게임 계정 거래와 중개 옵션"
+  },
+  "ready-accs": {
+    "description": "Ready Accs는 소셜·광고 운영용 계정을 취급하는 상점으로 소개됩니다. Instagram, Facebook, LinkedIn, TikTok과 Apple·GitHub 계정 등을 안내합니다.",
+    "tagline": "소셜·광고 플랫폼 중심의 계정 상품"
+  },
+  "real-accs": {
+    "description": "Real Accs는 여러 계정 분야를 취급하는 지역 상점으로 소개됩니다. 원문은 미국 등록 계정이 많고 분야별 재고가 적다고 설명합니다.",
+    "tagline": "미국 등록 계정 중심의 제한된 재고"
+  },
+  "accounts2buy": {
+    "description": "Accounts2Buy는 소규모 계정 상점으로 소개됩니다. 원문은 활동과 재고가 적고 상품 상태에 대한 정보가 제한적이라고 설명합니다.",
+    "tagline": "재고 정보가 제한적인 소규모 계정 상점"
+  },
+  "checkvcc": {
+    "description": "CheckVCC는 가상 카드에서 계정·기프트카드·게임 충전으로 상품을 넓힌 서비스로 소개됩니다. 원문은 실제 재고가 부족하다고 기록합니다.",
+    "tagline": "가상 카드·기프트카드·게임 충전 상품"
+  },
+  "accountdiversity": {
+    "description": "AccountDiversity는 여러 디지털 계정을 취급하는 지역 상점으로 소개됩니다. 원문은 특히 다양한 분야의 Telegram 계정과 채널을 언급합니다.",
+    "tagline": "Telegram 계정과 채널 중심의 상품"
+  },
+  "fameswap": {
+    "description": "FameSwap은 팔로워 이력이 있는 소셜 계정의 거래 장터로 소개됩니다. 원문은 주로 YouTube·TikTok 프로필과 제한적인 거래 활동을 설명합니다.",
+    "tagline": "YouTube·TikTok의 팔로워 보유 계정 거래"
+  },
+  "sebuda": {
+    "description": "Sebuda는 채널과 팔로워가 있는 소셜 계정을 판매하는 포럼형 장터로 소개됩니다. 원문은 상품의 구체적인 검증 절차는 제시하지 않습니다.",
+    "tagline": "채널과 소셜 계정을 다루는 포럼형 장터"
+  },
+  "hstock": {
+    "description": "HStock은 계정 장터였으나 원문에는 2026년에 운영을 종료한 서비스로 기록되어 있습니다. 현재 이용 가능한 판매처로 해석해서는 안 됩니다.",
+    "tagline": "운영 종료로 기록된 계정 장터"
+  },
+  "install-shop": {
+    "description": "Install Shop은 과거 계정을 취급하던 소규모 상점으로 소개됩니다. 원문은 운영 종료 후 링크가 ACCSMarket으로 연결된다고 기록합니다.",
+    "tagline": "운영 종료와 ACCSMarket 연결 기록"
+  },
+  "4vps": {
+    "description": "4VPS는 여러 지역의 VPS와 전용 서버를 제공하는 러시아계 업체로 소개됩니다. UAE, 홍콩, 한국과 브라질 등 지역 선택 폭을 안내합니다.",
+    "tagline": "다양한 지역의 VPS와 전용 서버"
+  },
+  "netcup": {
+    "description": "Netcup은 독일의 가상 서버 호스팅으로 소개됩니다. DDR5 메모리와 NVMe 저장장치를 갖춘 여러 자원 구성을 안내합니다.",
+    "tagline": "DDR5·NVMe 구성의 독일 가상 서버"
+  },
+  "hetzner": {
+    "description": "Hetzner는 독일의 서버 호스팅 업체로 소개됩니다. 관리 API와 ARM 서버를 안내하며 가입 심사와 서비스 이용 조건의 별도 확인이 필요합니다.",
+    "tagline": "독일 호스팅의 서버 API와 ARM 옵션"
+  },
+  "cloudzy": {
+    "description": "Cloudzy는 이전 RouterHosting에서 이어진 VPS 업체로 소개됩니다. 암호화폐 결제와 여러 관할 지역의 서버를 안내하지만 개인정보·규제 관련 보증은 검증되지 않았습니다.",
+    "tagline": "RouterHosting 계열의 지역별 VPS"
+  },
+  "ovhcloud": {
+    "description": "OVHCloud는 프랑스의 클라우드·서버 제공업체로 소개됩니다. 프랑스부터 싱가포르까지의 데이터센터와 프로젝트 호스팅 인프라를 안내합니다.",
+    "tagline": "프랑스 기반의 다지역 클라우드 인프라"
+  },
+  "latitude": {
+    "description": "Latitude는 가상 서버보다 전용 하드웨어에 초점을 둔 베어메탈 서비스로 소개됩니다. 검증자, 거래 인프라와 고부하 연산용 구성을 안내합니다.",
+    "tagline": "검증자·고부하 연산용 베어메탈 서버"
+  },
+  "aeza": {
+    "description": "Aeza는 간단한 배포 흐름의 VPS로 소개됩니다. 원문은 지원 응답과 장애 처리에 대한 부정적인 경험을 기록합니다.",
+    "tagline": "간단한 VPS 배포와 장애 대응 유의사항"
+  },
+  "selectel": {
+    "description": "Selectel은 러시아의 기업용 인프라 제공업체로 소개됩니다. 베어메탈, 클라우드, Kubernetes와 S3 저장소를 안내합니다.",
+    "tagline": "러시아 지역의 클라우드·Kubernetes·S3"
+  },
+  "vultr": {
+    "description": "Vultr는 여러 대륙의 데이터센터를 제공하는 클라우드 서비스로 소개됩니다. 시간 단위 사용과 관리 API, 서울·뭄바이 등의 지역 옵션을 안내합니다.",
+    "tagline": "다지역 데이터센터와 시간 단위 클라우드"
+  },
+  "vdsina": {
+    "description": "VDSina는 모스크바·암스테르담 VPS와 러시아어 관리 화면을 안내하는 서비스입니다. 원문은 암스테르담 상품의 재고 제약을 언급합니다.",
+    "tagline": "러시아어 관리 화면의 지역별 VPS"
+  },
+  "contabo": {
+    "description": "Contabo는 자원 용량을 중심으로 구성한 서버 서비스로 소개됩니다. 원문은 가입·지원 절차와 디스크 입출력 성능을 검토할 필요가 있다고 설명합니다.",
+    "tagline": "자원 용량 중심 서버와 디스크 성능 검토"
+  },
+  "time-host": {
+    "description": "Time-Host는 소규모 러시아 호스팅 업체로 소개됩니다. 봇, 감시 작업과 상시 실행 스크립트용 소형 서버 구성을 안내합니다.",
+    "tagline": "봇·모니터링·소형 스크립트용 서버"
+  },
+  "digital-ocean": {
+    "description": "Digital Ocean은 Droplet 가상 서버와 개발자용 관리 화면을 제공하는 클라우드 플랫폼으로 소개됩니다. 배포 기능과 시스템 관리 문서를 안내합니다.",
+    "tagline": "Droplet 서버와 개발자용 클라우드 관리"
+  },
+  "zomro": {
+    "description": "Zomro는 라트비아 기반 VPS 업체로 소개됩니다. 폴란드·네덜란드·독일 서버와 암호화폐 결제를 안내하며 원문의 익명성 주장은 별도 검증이 필요합니다.",
+    "tagline": "유럽 세 지역의 VPS와 결제 옵션"
+  },
+  "timeweb": {
+    "description": "TimeWeb은 러시아어권 프로젝트를 위한 클라우드 플랫폼으로 소개됩니다. 가상 서버, 데이터베이스, 호스팅과 도메인을 한곳에서 다룹니다.",
+    "tagline": "서버·데이터베이스·도메인 통합 관리"
+  },
+  "mevspace": {
+    "description": "MEVSpace는 블록체인 검증자와 MEV 작업을 위한 서버로 소개됩니다. 바르샤바 위치와 블록체인망 연결 지연에 초점을 둔 구성을 안내합니다.",
+    "tagline": "바르샤바의 검증자·MEV용 서버"
+  },
+  "xorek": {
+    "description": "Xorek은 독일·핀란드 서버를 제공하는 러시아계 업체로 소개됩니다. 원문은 시험과 임시 프로젝트용 소형 VPS 이용을 중심으로 설명합니다.",
+    "tagline": "독일·핀란드의 시험·임시 VPS"
+  },
+  "firstbyte": {
+    "description": "FirstByte는 모스크바·헬싱키·싱가포르·뉴욕 등 여러 지역의 서버를 안내하는 호스팅 업체입니다. 원문은 소형 시작 구성을 중심으로 소개합니다.",
+    "tagline": "여러 지역의 소형 서버 시작 구성"
+  },
+  "play2go": {
+    "description": "Play2Go는 게임 서버 이용자에게도 알려진 VPS 업체로 소개됩니다. NVMe 저장장치, 유럽 지역과 암호화폐 결제를 안내합니다.",
+    "tagline": "게임 서버에서 소형 유럽 VPS까지"
+  },
+  "hostingvds": {
+    "description": "HostingVDS는 AMD EPYC 기반 고성능 CPU 구성을 제공하는 유럽 업체로 소개됩니다. 여러 지역과 고대역폭 포트 옵션을 안내합니다.",
+    "tagline": "AMD EPYC 기반 고성능 CPU 서버"
+  },
+  "spacecore": {
+    "description": "SpaceCore는 Contabo·Hetzner 인프라를 재판매하는 런던 기반 업체로 소개됩니다. 고정 요금제보다 구성 선택형 주문과 암호화폐 결제를 안내합니다.",
+    "tagline": "인프라 재판매와 구성 선택형 주문"
+  },
+  "smartape": {
+    "description": "SmartApe는 러시아어 지원을 제공하는 호스팅 업체로 소개됩니다. NVMe VPS와 체코 서버 옵션을 안내합니다.",
+    "tagline": "러시아어 지원과 체코 NVMe VPS"
+  },
+  "1dedic": {
+    "description": "1Dedic은 VPS 없이 전용 서버를 제공하는 업체로 소개됩니다. 모스크바 하드웨어의 RAID 등 세부 구성을 선택하는 방식을 안내합니다.",
+    "tagline": "RAID까지 구성하는 모스크바 전용 서버"
+  },
+  "firstvds": {
+    "description": "FirstVDS는 러시아의 가상 서버 업체로 소개됩니다. 모스크바·암스테르담·알마티 위치와 단일 스레드 성능 중심의 CPU 옵션을 안내합니다.",
+    "tagline": "세 지역 VPS와 고클록 CPU 옵션"
+  },
+  "macloud": {
+    "description": "Macloud는 모스크바 서버를 일 단위로 이용하는 업체로 소개됩니다. AMD EPYC, NVMe와 CPU·메모리를 조정하는 구성기를 안내합니다.",
+    "tagline": "일 단위 이용과 EPYC 자원 구성"
+  },
+  "cloud4box": {
+    "description": "Cloud4Box는 러시아를 기반으로 미국·유럽 등의 서버를 제공하는 업체로 소개됩니다. Intel Xeon·AMD Ryzen과 KVM 가상화를 안내합니다.",
+    "tagline": "Xeon·Ryzen 기반 KVM 서버"
+  },
+  "fornex": {
+    "description": "Fornex는 여러 국가의 데이터센터를 제공하는 호스팅 업체로 소개됩니다. NVMe, DDoS 대응 옵션과 암호화폐·PayPal 결제를 안내합니다.",
+    "tagline": "국제 데이터센터와 NVMe 서버"
+  },
+  "sprinthost": {
+    "description": "SprintHost는 모스크바·상트페테르부르크의 SSD 서버를 안내하는 업체로 소개됩니다. 원문은 기술 지원 경험을 주요 특징으로 설명합니다.",
+    "tagline": "러시아 두 도시의 SSD 호스팅"
+  },
+  "vds-sh": {
+    "description": "VDS.sh는 러시아·네덜란드 서버를 제공하는 업체로 소개됩니다. 암호화폐와 WebMoney 등 여러 결제 방식을 안내합니다.",
+    "tagline": "러시아·네덜란드 VPS와 다양한 결제"
+  },
+  "webhost1": {
+    "description": "WebHost1은 아르메니아·몰도바·홍콩 등 다양한 데이터센터를 안내하는 러시아계 업체입니다. 암호화폐·WebMoney 결제도 소개됩니다.",
+    "tagline": "아르메니아·몰도바·홍콩의 지역 옵션"
+  },
+  "serverspace": {
+    "description": "ServerSpace는 분 단위 사용량으로 계산하는 클라우드 플랫폼으로 소개됩니다. 브라질·터키 등 여러 지역과 자원 수요 변화에 맞춘 구성을 안내합니다.",
+    "tagline": "분 단위 클라우드와 가변 자원 사용"
+  },
+  "fastfox": {
+    "description": "FastFox는 모스크바의 NVMe 서버 업체로 소개됩니다. 원문은 DDoS 대응 기능을 안내하지만 실제 보호 범위와 조건은 별도 확인이 필요합니다.",
+    "tagline": "모스크바 NVMe 서버와 DDoS 대응 옵션"
+  },
+  "ishosting": {
+    "description": "IsHosting은 여러 국가의 KVM VPS를 제공하는 에스토니아 업체로 소개됩니다. 시험 이용과 일부 상위 구성의 macOS VPS도 안내합니다.",
+    "tagline": "다지역 KVM과 macOS VPS 옵션"
+  },
+  "vdska": {
+    "description": "VDSka는 키르기스스탄·카자흐스탄·라트비아 등 서버 위치를 제공하는 업체로 소개됩니다. 일일 백업과 조정 가능한 vCPU 구성을 안내합니다.",
+    "tagline": "CIS 인근 서버 위치와 일일 백업"
+  },
+  "geohosting": {
+    "description": "GeoHosting은 다양한 국가의 NVMe VPS를 제공하는 업체로 소개됩니다. 고대역폭 포트와 소형부터 다중 코어까지의 구성을 안내합니다.",
+    "tagline": "국가 선택 폭이 넓은 NVMe VPS"
+  },
+  "myhosti": {
+    "description": "MyHosti는 네덜란드 서버를 안내하는 러시아계 업체로 소개됩니다. 암호화폐·SBP 결제를 지원한다고 설명하며 실제 호스팅 정책은 제공업체의 현재 조건을 확인해야 합니다.",
+    "tagline": "네덜란드 서버와 SBP 결제 옵션"
+  },
+  "cherryservers": {
+    "description": "CherryServers는 Web3·블록체인 작업에 초점을 둔 리투아니아 업체로 소개됩니다. 클라우드 VPS, 전용 서버와 시간 단위 이용을 안내합니다.",
+    "tagline": "블록체인용 클라우드·전용 서버"
+  },
+  "webdock": {
+    "description": "WebDock은 덴마크 자체 데이터센터의 AMD EPYC·NVMe 서버로 소개됩니다. SSL, 스냅샷과 DDoS 대응 옵션을 안내합니다.",
+    "tagline": "덴마크 서버와 SSL·스냅샷 옵션"
+  },
+  "boodet": {
+    "description": "Boodet는 과거 VPS 업체였으나 원문에는 도메인이 만료되고 운영을 종료한 서비스로 기록되어 있습니다.",
+    "tagline": "운영 종료로 기록된 VPS 업체"
+  },
+  "thehosting": {
+    "description": "TheHosting은 여러 국가의 KVM·NVMe 서버를 제공한다고 소개됩니다. 독일·네덜란드·미국의 고성능 CPU 상품과 고대역폭 포트를 안내합니다.",
+    "tagline": "다지역 KVM·NVMe와 고성능 CPU 상품"
+  },
+  "jumper": {
+    "description": "Jumper는 LI.FI 기반의 체인 간 경로 집계 도구로 소개됩니다. 브리지와 토큰 교환을 묶고 예상 속도·비용에 따라 경로를 비교합니다.",
+    "tagline": "LI.FI 기반 브리지·교환 경로 비교"
+  },
+  "relay": {
+    "description": "Relay는 중계자가 유동성을 먼저 제공하고 나중에 정산하는 체인 간 브리지로 소개됩니다. 주요 EVM·L2 네트워크를 대상으로 안내됩니다.",
+    "tagline": "중계자 선지급 방식의 체인 간 이동"
+  },
+  "findmybridge": {
+    "description": "FindMyBridge는 다양한 체인과 브리지 서비스를 한곳에 모으는 탐색 도구로 소개됩니다. 덜 알려진 체인의 이동 경로를 찾는 용도를 안내합니다.",
+    "tagline": "낯선 체인의 브리지 서비스 탐색"
+  },
+  "rubic": {
+    "description": "Rubic은 여러 브리지와 DEX를 묶어 체인 간 교환 경로를 찾는 도구로 소개됩니다. 원문은 비교적 드문 네트워크까지 폭넓게 다룬다고 설명합니다.",
+    "tagline": "여러 체인의 브리지·DEX 통합 탐색"
+  },
+  "sushi": {
+    "description": "Sushi는 AMM 교환, 집중 유동성과 유동성 공급 프로그램을 제공하는 다중 체인 프로토콜로 소개됩니다. SushiXSwap 체인 간 교환도 안내합니다.",
+    "tagline": "AMM·집중 유동성과 SushiXSwap"
+  },
+  "stargate": {
+    "description": "Stargate는 LayerZero의 OFT 표준을 사용하는 체인 간 브리지로 소개됩니다. 원문은 일반 경로와 대기 시간이 있는 절약형 경로를 구분합니다.",
+    "tagline": "LayerZero OFT 브리지와 절약형 경로"
+  },
+  "uniswap": {
+    "description": "Uniswap은 AMM 방식의 탈중앙화 거래소로 소개됩니다. V3 집중 유동성과 V4의 맞춤 풀용 훅 등 버전별 유동성 기능을 안내합니다.",
+    "tagline": "V3 집중 유동성과 V4 맞춤 훅"
+  },
+  "odos": {
+    "description": "Odos는 여러 유동성 풀과 중간 토큰을 거치는 교환 경로를 계산하는 DEX 집계 도구로 소개됩니다. EVM 체인의 복수 단계 주문 경로를 탐색합니다.",
+    "tagline": "중간 토큰까지 계산하는 다단계 교환 경로"
+  },
+  "pancakeswap": {
+    "description": "PancakeSwap은 BNB Chain에서 시작해 여러 체인으로 확장한 DeFi 서비스로 소개됩니다. AMM, 유동성 공급, 토큰 예치와 예측·NFT 기능을 안내합니다.",
+    "tagline": "BNB 기반 교환·유동성·예치 도구"
+  },
+  "synapse": {
+    "description": "Synapse는 nUSD와 스테이블코인 풀을 기반으로 체인 간 교환을 제공하는 프로토콜로 소개됩니다. USDC·USDT·DAI와 기본 토큰 이동을 안내합니다.",
+    "tagline": "스테이블코인 풀 기반 체인 간 교환"
+  },
+  "routernitro": {
+    "description": "RouterNitro는 중계자가 사용자의 이동 요청을 수행하는 의도 기반 브리지로 소개됩니다. EVM·L2 체인에서 중계자 간 주문 수행 경쟁 구조를 설명합니다.",
+    "tagline": "의도 기반 요청과 중계자 주문 수행"
+  },
+  "rhinofi": {
+    "description": "RhinoFi는 이전 DeversiFi에서 이어진 다중 체인 DeFi 플랫폼으로 소개됩니다. StarkEx 기반의 브리지·교환·예치 전략을 하나의 화면에서 안내합니다.",
+    "tagline": "StarkEx 기반 브리지·교환·예치 관리"
+  },
+  "layerswap": {
+    "description": "LayerSwap은 중앙화 거래소에서 L2 네트워크로 자산을 옮기는 브리지로 소개됩니다. Binance·Coinbase·Kraken 등의 출금 경로를 안내합니다.",
+    "tagline": "중앙화 거래소에서 L2로 이동"
+  },
+  "llamaswap": {
+    "description": "LlamaSwap은 DefiLlama 팀의 DEX 메타 집계 도구로 소개됩니다. 1inch, Matcha, Paraswap, CowSwap 등 다른 집계기의 교환 견적을 비교합니다.",
+    "tagline": "여러 DEX 집계기의 견적을 다시 비교"
+  },
+  "mayan": {
+    "description": "Mayan은 Wormhole을 활용해 Solana를 경유하는 체인 간 교환 프로토콜로 소개됩니다. Solana와 EVM 생태계 사이의 토큰 이동을 안내합니다.",
+    "tagline": "Wormhole·Solana 경유 체인 간 교환"
+  },
+  "across": {
+    "description": "Across는 UMA 기반 검증과 중계자를 사용하는 의도 기반 브리지로 소개됩니다. 중계자가 요청을 먼저 수행하고 이후 낙관적 검증으로 정산하는 구조입니다.",
+    "tagline": "중계자 수행과 낙관적 검증 정산"
+  },
+  "gas-zip": {
+    "description": "Gas.zip은 한 출발 체인에서 여러 체인으로 기본 가스 토큰을 보내는 도구로 소개됩니다. 새 네트워크의 거래 수수료용 소액 자산을 준비하는 용도입니다.",
+    "tagline": "여러 체인의 거래 수수료 토큰 준비"
+  },
+  "debridge": {
+    "description": "DeBridge는 체인 간 토큰 이동과 교환 프로토콜로 소개됩니다. DLN 주문 네트워크를 통한 체인 간 거래 경로를 안내합니다.",
+    "tagline": "DLN 주문 네트워크 기반 자산 이동"
+  },
+  "jupiter": {
+    "description": "Jupiter는 Solana의 DEX 교환 경로를 모으는 서비스로 소개됩니다. 지정가, 정기 분할 매수와 무기한 선물 기능 및 JUP 토큰을 안내합니다.",
+    "tagline": "Solana 교환 경로·지정가·분할 매수"
+  },
+  "owlto": {
+    "description": "Owlto는 체인 간 브리지로 등록되어 있습니다. 원문은 과거 캠페인의 수수료와 이용 경험을 비판하므로 해당 내용을 검증된 서비스 추천으로 볼 수 없습니다.",
+    "tagline": "브리지 수수료에 대한 원문 주의사항"
+  },
+  "squid": {
+    "description": "Squid는 Axelar Network 기반의 체인 간 교환 프로토콜로 소개됩니다. 출발·도착 체인의 DEX를 연결하여 EVM과 Cosmos 자산의 교환 경로를 안내합니다.",
+    "tagline": "Axelar 기반 EVM·Cosmos 교환 경로"
+  },
+  "orbiter": {
+    "description": "Orbiter는 체인 간 이동용 브리지로 등록되어 있습니다. 원문은 과거 에어드롭 활동 시기의 이용과 수수료·사용성에 대한 비판을 기록합니다.",
+    "tagline": "과거 이용과 수수료 검토가 필요한 브리지"
+  },
+  "1inch": {
+    "description": "1inch는 여러 DEX의 교환 경로를 탐색하고 주문을 분할하는 집계 도구로 소개됩니다. 지정가와 Fusion 거래 방식도 안내합니다.",
+    "tagline": "DEX 분할 경로와 Fusion 교환"
+  },
+  "matcha": {
+    "description": "Matcha는 0x 팀의 DEX 집계 서비스로 소개됩니다. 0x API 기반 교환, 지정가와 체인 간 이동 기능을 안내합니다.",
+    "tagline": "0x API 기반 교환과 지정가 주문"
+  },
+  "portal": {
+    "description": "Portal은 Wormhole의 토큰 이동 인터페이스로 소개됩니다. 도착 체인의 래핑 자산과 Aptos·Sui 같은 비EVM 네트워크 이동을 안내합니다.",
+    "tagline": "Wormhole 래핑 자산과 비EVM 이동"
+  },
+  "aerodrome": {
+    "description": "Aerodrome은 Base의 DEX로 소개됩니다. AERO를 잠가 유동성 배분 투표에 참여하는 ve(3,3) 구조와 거래 수수료 분배를 안내합니다.",
+    "tagline": "Base의 AERO 잠금과 유동성 투표"
+  },
+  "superbridge": {
+    "description": "Superbridge는 OP Stack 기반 Superchain의 공식 브리지 인터페이스로 소개됩니다. 기본 메시지 전달 방식을 사용하며 출금 대기 기간을 확인해야 합니다.",
+    "tagline": "OP Stack의 기본 브리지와 출금 대기"
+  },
+  "cbridge": {
+    "description": "CBridge는 Celer Network의 체인 간 브리지로 소개됩니다. Celer Inter-chain Message 구조를 이용해 EVM L1·L2 간 토큰 이동을 안내합니다.",
+    "tagline": "Celer 메시지 구조의 EVM 브리지"
+  },
+  "bungee": {
+    "description": "Bungee는 Socket 기반 브리지 집계 도구로 소개됩니다. 여러 제공업체의 예상 시간, 가스 비용과 도착 수량을 경로별로 비교합니다.",
+    "tagline": "Socket 기반 브리지 시간·비용 비교"
+  },
+  "kyberswap": {
+    "description": "KyberSwap은 DEX 경로 집계와 Elastic 집중 유동성 풀을 제공하는 서비스로 소개됩니다. 변동성에 따른 수수료와 MEV 대응 기능을 안내합니다.",
+    "tagline": "Elastic 풀과 변동형 수수료"
+  },
+  "bebop": {
+    "description": "Bebop은 여러 토큰을 한 거래에 묶는 RFQ 방식의 DEX로 소개됩니다. 시장조성자가 견적을 제공하는 구조이며 실제 체결 조건과 비용은 주문별로 확인해야 합니다.",
+    "tagline": "RFQ 견적으로 처리하는 다중 토큰 거래"
+  },
+  "symbiosis": {
+    "description": "Symbiosis는 EVM·비EVM 체인 간 교환을 제공하는 유동성 프로토콜로 소개됩니다. 스테이블 풀과 중계자 네트워크를 활용하는 구조입니다.",
+    "tagline": "스테이블 풀과 중계자의 다중 체인 교환"
+  },
+  "allbridge": {
+    "description": "AllBridge는 EVM 외에 Solana·Stellar·Tron 등의 스테이블코인 이동을 다루는 브리지로 소개됩니다. 유동성 풀을 통해 도착 체인의 자산을 전달하는 방식을 안내합니다.",
+    "tagline": "EVM·Solana·Stellar·Tron 스테이블 이동"
+  },
+  "balancer": {
+    "description": "Balancer는 토큰별 비중을 다르게 정하는 가중치 풀을 제공하는 DEX 프로토콜로 소개됩니다. 복합 풀, 플래시 대출과 지수형 자산 구성을 안내합니다.",
+    "tagline": "맞춤 토큰 비중의 가중치 유동성 풀"
+  },
+  "syncswap": {
+    "description": "SyncSwap은 zkSync Era의 DEX로 소개됩니다. 상수곱 풀과 유사 자산용 스테이블 풀의 교환·유동성 공급을 안내합니다.",
+    "tagline": "zkSync Era의 상수곱·스테이블 풀"
+  },
+  "ambient": {
+    "description": "Ambient는 이전 CrocSwap으로 단일 계약 기반의 집중 유동성 DEX로 소개됩니다. 가격 범위 설정, 범위 주문과 여러 풀의 경로 탐색을 안내합니다.",
+    "tagline": "단일 계약의 집중 유동성과 범위 주문"
+  },
+  "traderjoe": {
+    "description": "TraderJoe는 Avalanche에서 시작한 DEX로 소개됩니다. 가격 구간별 Liquidity Book, 자동 풀과 Banker Joe 대출 기능을 안내합니다.",
+    "tagline": "가격 구간별 Liquidity Book과 자동 풀"
+  },
+  "quickswap": {
+    "description": "QuickSwap은 Polygon의 DEX로 소개됩니다. V2 AMM, V3 집중 유동성과 dQUICK 예치·유동성 공급 기능을 안내합니다.",
+    "tagline": "Polygon의 V2·V3 풀과 dQUICK 예치"
+  },
+  "dodo": {
+    "description": "Dodo는 PMM 가격 산정 방식을 사용하는 DEX로 소개됩니다. 스테이블코인·주요 토큰 교환과 공동 유동성 모집 방식의 토큰 출시를 안내합니다.",
+    "tagline": "PMM 가격 산정과 토큰 유동성 모집"
+  },
+  "kim": {
+    "description": "Kim은 Mode Network의 집중 유동성 DEX로 소개됩니다. 사용자가 가격 범위를 정하는 유동성 포지션과 토큰 교환을 안내합니다.",
+    "tagline": "Mode Network의 맞춤 유동성 범위"
+  },
+  "maverick": {
+    "description": "Maverick은 가격 움직임에 따라 유동성 위치를 조정하는 AMM으로 소개됩니다. 가격 추종, 범위 유지와 양방향 전략을 안내합니다.",
+    "tagline": "가격에 따라 이동하는 유동성 전략"
+  },
+  "slingshot": {
+    "description": "Slingshot은 웹과 모바일 앱을 제공하는 DEX 집계 서비스로 소개됩니다. EVM 체인의 교환 경로와 추가 요금 구조를 안내하며 실제 비용은 확인이 필요합니다.",
+    "tagline": "웹·모바일의 EVM 교환 경로"
+  },
+  "nexus": {
+    "description": "Nexus는 여러 EVM 체인 사이의 브리지와 토큰 교환을 한 화면에 제공하는 서비스로 소개됩니다. 체인 조합별 이동 경로를 비교하는 용도입니다.",
+    "tagline": "EVM 체인별 이동·교환 통합 화면"
+  },
+  "bitget": {
+    "description": "Bitget는 현물·파생상품과 여러 하위 계정을 제공하는 거래소로 소개됩니다. BGB 토큰 관련 수수료·예치 프로그램도 안내하지만 혜택 조건은 별도 확인이 필요합니다.",
+    "tagline": "하위 계정과 현물·파생상품 거래"
+  },
+  "bybit": {
+    "description": "ByBit는 무기한 선물 중심의 거래소로 소개됩니다. 현물, 복사 거래, 거래 봇과 신규 토큰 참여 프로그램을 안내합니다.",
+    "tagline": "무기한 선물·복사 거래·거래 봇"
+  },
+  "backpack": {
+    "description": "Backpack은 Backpack 지갑 개발팀의 거래소로 소개됩니다. Solana 중심의 거래 환경, API와 BP 토큰 관련 프로그램을 안내합니다.",
+    "tagline": "Solana 중심 거래 환경과 API"
+  },
+  "okx": {
+    "description": "OKX는 현물·파생상품에 Web3 지갑, NFT 장터와 DEX 집계 기능을 더한 거래소로 소개됩니다. 모바일 앱과 생태계 내 자산 관리 기능을 안내합니다.",
+    "tagline": "거래소·Web3 지갑·DEX 집계 통합"
+  },
+  "binance": {
+    "description": "Binance는 현물, 선물, 마진, 예치와 P2P 기능을 제공하는 거래소로 소개됩니다. 원문은 다양한 토큰과 지역별 규제 제약을 함께 언급합니다.",
+    "tagline": "현물·선물·P2P와 다양한 토큰 시장"
+  },
+  "huobi-htx": {
+    "description": "Huobi (HTX)는 Huobi에서 이름을 바꾼 거래소로 소개됩니다. 아시아권 토큰 시장과 파생상품 거래 기능을 중심으로 안내합니다.",
+    "tagline": "Huobi에서 이어진 아시아권 현물·파생 시장"
+  },
+  "mexc": {
+    "description": "MEXC는 알트코인과 비교적 이른 단계의 토큰 상장을 중심으로 소개되는 거래소입니다. 현물·선물 시장을 안내하며 판촉 혜택은 별도 조건을 확인해야 합니다.",
+    "tagline": "초기 상장 알트코인의 현물·선물 시장"
+  },
+  "gate": {
+    "description": "Gate는 폭넓은 토큰 목록과 현물·선물·마진·대출 기능을 제공하는 거래소로 소개됩니다. 신규 프로젝트 참여 프로그램도 안내합니다.",
+    "tagline": "다양한 토큰과 대출·프로젝트 참여 기능"
+  },
+  "bingx": {
+    "description": "BingX는 복사 거래를 중심으로 한 소셜 거래소로 소개됩니다. 원문은 이용 경험과 계정 제한 가능성에 대한 의견을 함께 설명합니다.",
+    "tagline": "소셜 거래와 거래 전략 복사"
+  },
+  "coinbase": {
+    "description": "Coinbase는 미국 기반의 상장 거래소로 소개됩니다. 법정화폐를 암호화폐로 전환하는 기능을 안내하며 규제·보험 관련 표현은 개별 조건 확인이 필요합니다.",
+    "tagline": "미국 기반 거래소의 법정화폐 진입 기능"
+  },
+  "kraken": {
+    "description": "Kraken은 여러 법정화폐 시장과 준비금 증명 자료를 안내하는 거래소로 소개됩니다. 원문은 유럽 시장과 비교적 선별적인 토큰 목록을 설명합니다.",
+    "tagline": "법정화폐 거래와 준비금 증명 자료"
+  },
+  "kucoin": {
+    "description": "KuCoin은 중소형 토큰 목록과 현물·선물·마진 시장을 제공하는 거래소로 소개됩니다. 대출, 내장 거래 봇과 KCS 프로그램도 안내합니다.",
+    "tagline": "중소형 토큰과 내장 거래 봇"
+  },
+  "ftx": {
+    "description": "FTX는 과거 암호화폐 거래소였으나 원문에는 2022년 붕괴한 서비스로 기록되어 있습니다. 이 항목은 역사 자료이며 현재 거래 장소를 안내하지 않습니다.",
+    "tagline": "2022년 붕괴한 거래소의 역사 기록"
+  },
+  "whitebird": {
+    "description": "Whitebird는 러시아·벨라루스 지역의 암호화폐 환전과 카드 출금을 다루는 서비스로 소개됩니다. 신원 확인 절차를 안내하며 계좌 제한 방지는 보증하지 않습니다.",
+    "tagline": "러시아·벨라루스 카드 출금용 환전"
+  },
+  "prosto": {
+    "description": "Prosto는 CIS 지역의 암호화폐 환전 서비스로 소개됩니다. 원문은 특히 현금 수령 거래와 카드 출금을 구분하여 설명합니다.",
+    "tagline": "CIS 현금 환전과 카드 출금 구분"
+  },
+  "hermes": {
+    "description": "Hermes는 별도 웹사이트나 봇보다 담당자와 직접 진행하는 CIS 환전 서비스로 소개됩니다. 원문은 개별 운영자 상담 방식이라고 설명합니다.",
+    "tagline": "담당자 상담으로 진행하는 CIS 환전"
+  },
+  "bestchange": {
+    "description": "BestChange는 여러 환전 서비스의 환율, 준비금과 이용자 평가를 비교하는 집계 도구로 소개됩니다. 표시 정보가 개별 판매처의 신뢰성 보증은 아닙니다.",
+    "tagline": "환율·준비금·이용자 평가 비교"
+  },
+  "p2p-exchanges": {
+    "description": "P2P Exchanges는 Binance·Bybit·OKX 등 거래소의 개인 간 매매 기능을 설명하는 항목입니다. 은행 이체·카드 등 결제 경로와 지역별 이용·거래상대방 위험을 다룹니다.",
+    "tagline": "거래소 P2P와 결제·거래상대방 위험"
+  },
+  "maxsecretex": {
+    "description": "MaxSecretEx는 CIS 지역의 환전 서비스로 등록되어 있습니다. 원문은 파트너십 기반 운영과 이용자 반응을 언급하며 세부 거래 방식은 제한적으로 설명합니다.",
+    "tagline": "파트너십 기반의 CIS 환전 서비스"
+  },
+  "ether-fi": {
+    "description": "Ether.fi는 예치한 ETH를 담보로 지출하는 비수탁형 카드 상품으로 소개됩니다. 원문은 미국 대상 서비스와 담보 차입 구조를 설명합니다.",
+    "tagline": "예치 ETH 담보를 활용하는 카드 지출"
+  },
+  "tria": {
+    "description": "Tria는 계정 추상화 기반의 비수탁형 Visa 직불카드로 소개됩니다. 지갑 키를 직접 관리하는 지출 구조와 구매 보상 프로그램을 안내합니다.",
+    "tagline": "계정 추상화 지갑과 Visa 지출"
+  },
+  "pionex": {
+    "description": "Pionex는 격자·분할 매수·차익거래 등 내장 봇을 제공하는 거래소로 소개됩니다. 원문은 일상 지출용 카드 상품도 함께 안내합니다.",
+    "tagline": "내장 거래 봇과 암호화폐 카드"
+  },
+  "solcard": {
+    "description": "Solcard는 암호화폐를 결제 시 전환하는 Visa 직불카드로 소개됩니다. 앱의 잔액 추적과 여러 암호화폐 지원을 안내합니다.",
+    "tagline": "암호화폐 전환 결제와 앱 잔액 추적"
+  },
+  "solayer": {
+    "description": "Solayer는 여러 디지털 자산용 가상·실물 카드를 제공한다고 소개됩니다. 앱의 거래 내역·지출 한도를 안내하며 원문은 일부 가맹점 결제 제한도 언급합니다.",
+    "tagline": "가상·실물 카드와 앱 지출 한도"
+  },
+  "pyyplbot": {
+    "description": "PyyplBot는 Telegram 봇과 웹 화면에서 관리하는 선불카드로 소개됩니다. USDT 충전, 지역별 BIN과 3D Secure·모바일 지갑 기능을 안내합니다.",
+    "tagline": "Telegram·웹 관리와 USDT 카드 충전"
+  },
+  "avici": {
+    "description": "Avici는 EEA를 대상으로 안내되는 비수탁형 Visa 직불카드입니다. 본인 지갑과 연결하는 지출 방식과 구매 보상 기능이 원문에 소개됩니다.",
+    "tagline": "EEA 대상 지갑 연결형 Visa 카드"
+  },
+  "bybit-card": {
+    "description": "Bybit Card는 Bybit 거래소 잔액을 결제에 사용하는 카드로 소개됩니다. 결제 시 자산 전환과 구매 보상 프로그램을 안내합니다.",
+    "tagline": "Bybit 잔액으로 결제하는 카드"
+  },
+  "kast": {
+    "description": "KAST는 지갑 키를 직접 관리하는 방식의 암호화폐 카드로 소개됩니다. Visa 연결과 구매 보상을 안내하며 실제 이용 지역과 심사 조건은 확인이 필요합니다.",
+    "tagline": "비수탁 지갑과 Visa 구매 보상"
+  },
+  "argent-card": {
+    "description": "Argent Card는 Argent 스마트 계약 지갑의 잔액과 연결하는 결제 카드로 소개됩니다. 지갑·DeFi 자산과 모바일 지출 환경의 연계를 안내합니다.",
+    "tagline": "Argent 스마트 지갑 잔액과 카드 연결"
+  },
+  "kucoin-card": {
+    "description": "Kucoin Card는 KuCoin 지갑 자산을 결제 시 법정화폐로 전환하는 카드로 소개됩니다. 거래 알림과 앱 내 지출 분석을 안내합니다.",
+    "tagline": "KuCoin 잔액 전환과 지출 분석"
+  },
+  "bitget-card": {
+    "description": "Bitget Card는 Bitget 거래소 잔액을 사용하는 결제 카드로 소개됩니다. 앱의 거래 알림·지출 추적과 구매 보상 프로그램을 안내합니다.",
+    "tagline": "Bitget 거래소 잔액과 구매 추적"
+  },
+  "gate-card": {
+    "description": "Gate Card는 Gate.io 잔액의 여러 암호화폐를 결제 시 전환하는 직불카드로 소개됩니다. 원문은 Visa 네트워크 기반 상품이라고 설명합니다.",
+    "tagline": "Gate.io 잔액의 결제 시 자산 전환"
+  },
+  "mexc-card": {
+    "description": "MEXC Card는 MEXC 거래소 자산을 법정화폐 결제에 사용하는 카드로 소개됩니다. 원문은 거래소의 알트코인 잔액과 Visa 결제를 연결하는 구조를 설명합니다.",
+    "tagline": "MEXC 알트코인 잔액의 카드 지출"
+  },
+  "coinw": {
+    "description": "CoinW는 거래소 계정과 연결하는 암호화폐 직불카드로 소개됩니다. 결제 시 전환, 거래 이력과 잔액 확인 기능을 안내합니다.",
+    "tagline": "CoinW 계정 연결과 결제 이력"
+  },
+  "flexcard": {
+    "description": "FlexCard는 여러 암호화폐를 위한 가상·실물 카드 플랫폼으로 소개됩니다. 실시간 알림, 맞춤 한도와 거래 분석을 안내합니다.",
+    "tagline": "가상·실물 카드의 맞춤 한도·분석"
+  },
+  "osmosispay": {
+    "description": "OsmosisPay는 Cosmos 생태계 자산을 결제에 사용하는 카드로 소개됩니다. OSMO·ATOM과 다른 IBC 토큰을 법정화폐로 전환하는 구조를 안내합니다.",
+    "tagline": "OSMO·ATOM·IBC 자산의 결제 전환"
+  },
+  "nexo": {
+    "description": "Nexo는 암호화폐를 담보로 법정화폐 지출 한도를 이용하는 신용카드로 소개됩니다. BTC·ETH 보유와 차입을 구분하며 NEXO 관련 조건을 안내합니다.",
+    "tagline": "암호화폐 보유 자산을 담보로 하는 지출"
+  },
+  "coinbase-card": {
+    "description": "Coinbase Card는 Coinbase 잔액에서 선택한 자산을 결제 시 USD로 전환하는 직불카드로 소개됩니다. 원문은 미국 대상 상품과 암호화폐 보상 기능을 안내합니다.",
+    "tagline": "Coinbase 잔액의 USD 전환 결제"
+  },
+  "binance-card": {
+    "description": "Binance Card는 결제 시 거래소의 암호화폐 잔액을 전환하는 카드로 소개됩니다. 원문은 라틴아메리카 중심 운영과 BNB 연계 보상 조건을 설명합니다.",
+    "tagline": "Binance 잔액 전환과 BNB 연계 조건"
+  },
+  "kripicard": {
+    "description": "Kripicard는 지갑 키를 직접 관리하는 암호화폐 신용카드로 소개됩니다. 원문의 신원 확인 면제·개인정보 관련 표현은 이용 자격이나 익명성을 보증하지 않습니다.",
+    "tagline": "본인 키 관리 방식의 카드 상품"
+  },
+  "crypto-com-card": {
+    "description": "Crypto.com Card는 CRO 예치와 등급에 따라 혜택이 달라지는 Visa 카드로 소개됩니다. 원문은 구독 환급과 공항 라운지 등 등급별 프로그램을 안내합니다.",
+    "tagline": "CRO 예치 등급에 따른 카드 프로그램"
+  },
+  "gemini-card": {
+    "description": "Gemini Card는 구매 보상을 선택한 암호화폐로 받는 신용카드로 소개됩니다. 원문은 미국 대상 Mastercard 상품이라고 안내합니다.",
+    "tagline": "선택한 암호화폐로 받는 구매 보상"
+  },
+  "metamask-card": {
+    "description": "MetaMask Card는 MetaMask 지갑 잔액을 사용하는 Mastercard로 소개됩니다. 원문은 자산을 직접 관리하는 방식과 지갑·카드의 연결을 설명합니다.",
+    "tagline": "MetaMask 지갑 잔액의 Mastercard 결제"
+  },
+  "wirex": {
+    "description": "Wirex는 암호화폐와 법정화폐를 함께 다루는 Mastercard 플랫폼으로 소개됩니다. WXT 토큰과 연계한 구매 보상 프로그램을 안내합니다.",
+    "tagline": "암호화폐·법정화폐와 WXT 보상"
+  },
+  "bitpay": {
+    "description": "BitPay는 BTC·ETH 등 자산을 USD로 전환하는 선불 Mastercard로 소개됩니다. 원문은 미국 대상의 충전 후 지출 방식을 설명합니다.",
+    "tagline": "BTC·ETH를 USD로 전환하는 선불카드"
+  },
+  "coca": {
+    "description": "COCA는 지갑 키를 직접 관리하는 Visa 직불카드로 소개됩니다. 원문은 EEA·영국 대상 운영과 구매 보상, 신원 확인 조건을 안내합니다.",
+    "tagline": "본인 키 관리와 EEA·영국 카드 안내"
+  },
+  "brighty": {
+    "description": "Brighty는 유럽 핀테크 앱과 연동하는 Visa 직불카드로 소개됩니다. 원문은 EEA 대상의 수탁형 계정, 지출 관리와 구매 보상을 설명합니다.",
+    "tagline": "유럽 핀테크 앱의 수탁형 카드 관리"
+  },
+  "cypher": {
+    "description": "Cypher는 비수탁 방식의 선불 Visa 상품으로 소개됩니다. 카드 등급별 이용 조건과 보상이 다르며 원문의 신원 확인 표현은 별도 확인이 필요합니다.",
+    "tagline": "등급별 조건을 갖춘 비수탁 선불카드"
+  },
+  "venmo": {
+    "description": "Venmo는 지출이 많은 분야에 따라 보상을 계산하는 Visa 신용카드로 소개됩니다. 앱에서 보상금을 암호화폐로 전환하는 기능을 안내합니다.",
+    "tagline": "지출 분야별 보상과 암호화폐 전환"
+  },
+  "bitrefill": {
+    "description": "Bitrefill은 기프트카드·휴대전화 충전 서비스와 연결하는 선불 Visa로 소개됩니다. 원문은 유럽 대상 카드와 기존 결제 생태계의 연계를 안내합니다.",
+    "tagline": "기프트카드·휴대전화 충전과 카드 연계"
+  },
+  "whitebit-card": {
+    "description": "WhiteBIT Card는 WhiteBIT 거래소 잔액을 결제에 쓰는 Visa 직불카드로 소개됩니다. 원문은 EEA 대상 운영과 구매 보상 프로그램을 안내합니다.",
+    "tagline": "WhiteBIT 잔액을 사용하는 EEA 카드"
+  },
+  "wayex": {
+    "description": "Wayex는 자산을 직접 관리하는 방식의 선불 Visa로 소개됩니다. 원문은 미국 중심의 운영과 구매 보상, 신원 확인 절차를 안내합니다.",
+    "tagline": "자산 직접 관리형 선불 Visa"
+  },
+  "gnosis-pay": {
+    "description": "Gnosis Pay는 Gnosis Chain 스마트 계정과 연결하는 비수탁형 Visa로 소개됩니다. GNO 보유에 따른 보상 조건과 영국·EEA 대상 운영을 안내합니다.",
+    "tagline": "Gnosis 스마트 계정과 GNO 연계 조건"
+  },
+  "fold": {
+    "description": "Fold는 Bitcoin 보상을 중심으로 한 미국 대상 Visa 직불카드로 소개됩니다. 원문은 회전판 방식으로 보상이 달라지는 게임 요소를 설명합니다.",
+    "tagline": "회전판 방식의 BTC 구매 보상"
+  },
+  "bleap": {
+    "description": "Bleap은 Ethereum 지갑과 연결하는 비수탁형 Mastercard로 소개됩니다. 원문은 EEA의 DeFi 이용자를 위한 지출 방식과 구매 보상을 안내합니다.",
+    "tagline": "Ethereum 지갑과 연결하는 EEA 카드"
+  },
+  "bitpanda": {
+    "description": "Bitpanda는 플랫폼 포트폴리오의 암호화폐·주식·금속과 연결하는 Visa 직불카드로 소개됩니다. 원문은 EEA 대상 상품과 자산별 지출을 설명합니다.",
+    "tagline": "암호화폐·주식·금속 포트폴리오 연계"
+  },
+  "zypto": {
+    "description": "Zypto는 자산을 직접 관리하는 선불 Visa로 소개됩니다. 원문은 지갑 기반의 충전·지출 방식을 안내하지만 간소한 신원 확인이 익명성을 뜻하지는 않습니다.",
+    "tagline": "지갑 기반 충전과 비수탁 선불 지출"
+  },
+  "ledger-cl": {
+    "description": "Ledger CL은 Ledger 지갑과 연계하는 비수탁형 Visa로 소개됩니다. 원문은 결제 시점의 자산 사용과 영국·EEA 대상 운영을 안내합니다.",
+    "tagline": "Ledger 지갑과 연계하는 카드 지출"
+  },
+  "tuyo": {
+    "description": "Tuyo는 자산을 직접 관리하는 Mastercard 직불카드로 소개됩니다. 원문은 미국·EEA·라틴아메리카를 언급하지만 실제 이용 자격과 심사는 별도 확인이 필요합니다.",
+    "tagline": "본인 자산 관리형 Mastercard 직불카드"
+  },
+  "redotpay": {
+    "description": "RedotPay는 암호화폐를 충전한 뒤 사용하는 수탁형 Visa 선불카드로 소개됩니다. 원문은 여러 지역의 결제 용도를 안내하지만 발급 자격은 보증하지 않습니다.",
+    "tagline": "암호화폐 충전 후 사용하는 선불 Visa"
+  },
+  "oobit": {
+    "description": "Oobit는 비수탁형 Visa 직불카드와 구매 보상을 안내하는 서비스입니다. 원문은 EEA·미국·브라질 대상 운영과 앱을 통한 관리를 설명합니다.",
+    "tagline": "EEA·미국·브라질 대상 카드 안내"
+  },
+  "plutus": {
+    "description": "Plutus는 PLU 토큰 보상이 있는 비수탁형 Visa로 소개됩니다. 원문은 영국·EEA에서 등급별 구독 환급과 카드 혜택이 달라진다고 설명합니다.",
+    "tagline": "PLU 토큰과 등급별 구독 환급"
+  },
+  "deblock": {
+    "description": "Deblock은 비수탁 암호화폐 지갑과 IBAN 계정을 하나의 앱에 묶는 카드 서비스로 소개됩니다. 원문은 EEA 대상 Visa 직불카드를 안내합니다.",
+    "tagline": "IBAN 계정과 비수탁 지갑을 한 앱에"
+  },
+  "fiat24": {
+    "description": "Fiat24는 Arbitrum 기반의 은행·스마트 계약 혼합 보관 구조로 소개됩니다. Mastercard와 유럽·아시아 대상 결제 기능을 안내합니다.",
+    "tagline": "Arbitrum과 은행 결제의 혼합 구조"
+  },
+  "thorwallet-card": {
+    "description": "THORWallet Card는 THORChain 생태계 지갑과 연결하는 비수탁형 Mastercard로 소개됩니다. 원문은 체인 간 자산 교환 후 카드 지출을 안내합니다.",
+    "tagline": "THORChain 교환과 지갑 연결 카드"
+  },
+  "safepal-card": {
+    "description": "SafePal Card는 SafePal 하드웨어 지갑팀의 Mastercard로 소개됩니다. 원문은 S1 기기 등 기존 지갑 생태계와 카드 지출의 연계를 안내합니다.",
+    "tagline": "SafePal S1 생태계와 카드 연계"
+  },
+  "ur": {
+    "description": "UR은 UR 앱 지갑과 연결하는 비수탁형 Mastercard로 소개됩니다. 원문은 유럽·아시아 대상 지출 기능과 신원 확인 절차를 안내합니다.",
+    "tagline": "UR 앱 지갑을 연결하는 직불카드"
+  },
+  "imtoken": {
+    "description": "imToken은 imToken 모바일 지갑에서 이어지는 비수탁형 Mastercard 상품으로 소개됩니다. 원문은 유럽·아시아 지역과 지갑 잔액의 카드 활용을 안내합니다.",
+    "tagline": "imToken 모바일 지갑의 카드 활용"
+  },
+  "tokenpocket": {
+    "description": "TokenPocket은 다중 체인 지갑과 연계하는 비수탁형 Visa로 소개됩니다. 원문은 중국·동남아 이용자가 많은 기존 지갑의 지출 기능 확장으로 설명합니다.",
+    "tagline": "TokenPocket 다중 체인 지갑의 Visa 연계"
+  },
+  "bitget-wallet-card": {
+    "description": "Bitget Wallet Card는 거래소 카드와 구별되는 지갑 연결형 선불카드로 소개됩니다. 원문은 Visa·Mastercard의 두 결제망을 안내합니다.",
+    "tagline": "Bitget Wallet용 두 결제망의 선불카드"
+  },
+  "savepay": {
+    "description": "SavePay는 스위스 IBAN과 연결하는 Arbitrum 기반 Mastercard로 소개됩니다. SEPA·SWIFT 이체와 여러 모바일 결제 지갑의 연계를 안내합니다.",
+    "tagline": "Arbitrum 카드와 IBAN·SEPA·SWIFT"
+  },
+  "combo-card": {
+    "description": "Combo Card는 광고 운영·기업 결제용 가상 Visa·Mastercard 발급 서비스로 소개됩니다. 지역별 BIN, 암호화폐 충전, 3DS와 팀별 지출 분석을 안내합니다.",
+    "tagline": "광고 운영용 다중 가상 카드와 팀 관리"
+  },
+  "trustee": {
+    "description": "Trustee는 Trustee Plus 지갑에 Visa 직불카드를 더한 서비스로 소개됩니다. 자산 교환, Apple Pay·Google Pay와 개인 IBAN의 SEPA 이체를 안내합니다.",
+    "tagline": "Trustee Plus와 개인 IBAN·SEPA 이체"
+  },
+  "cincin": {
+    "description": "CinCin은 Telegram 봇에서 관리하고 USDT TRC20으로 충전하는 가상 Mastercard로 소개됩니다. 온라인 결제와 Apple Pay 연계를 안내합니다.",
+    "tagline": "Telegram 관리와 USDT TRC20 충전"
+  },
+  "emcd": {
+    "description": "EMCD는 채굴 풀·지갑·P2P·Coinhold와 연결하는 카드 상품으로 소개됩니다. 원문은 채굴한 자산의 지출 경로를 안내하며 예치 수익은 보증하지 않습니다.",
+    "tagline": "채굴 풀·지갑과 연결하는 카드 상품"
+  },
+  "1inch-card": {
+    "description": "1inch Card는 Crypto Life·Baanx와 연계한 선불 Mastercard로 소개됩니다. 지갑 자산의 구매 결제, ATM과 Apple Pay·Google Pay 기능을 안내합니다.",
+    "tagline": "1inch 지갑과 ATM·모바일 결제 연계"
+  },
+  "solflare-card": {
+    "description": "Solflare Card는 Solana의 Solflare 지갑과 연결하는 자기보관형 Mastercard로 소개됩니다. 온체인 USDC를 카드 지출에 사용하는 구조를 안내합니다.",
+    "tagline": "Solflare 지갑의 온체인 USDC 지출"
+  },
+  "rabby-wallet": {
+    "description": "Rabby Wallet은 서명 전에 거래를 시뮬레이션하는 DeBank 팀의 EVM 지갑으로 소개됩니다. 토큰 이동·권한 변경·위험 경고와 기존 승인 취소 기능을 안내합니다.",
+    "tagline": "서명 전 거래 시뮬레이션과 승인 관리"
+  },
+  "revokecash": {
+    "description": "RevokeCash는 EVM 토큰의 지출 승인 목록을 조회하고 필요 없는 권한을 취소하는 도구로 소개됩니다. 승인 정리는 손실 방지를 보증하지 않습니다.",
+    "tagline": "토큰 지출 권한 조회와 취소"
+  },
+  "de-fi": {
+    "description": "De.Fi는 계약 스캔, 승인 취소와 포트폴리오를 모으는 보안 대시보드로 소개됩니다. 지갑 토큰의 위험 알림과 예치 상품 탐색도 안내합니다.",
+    "tagline": "계약 스캔·권한 취소·포트폴리오 통합"
+  },
+  "ledger": {
+    "description": "Ledger는 기기 안의 보안 칩으로 키를 관리하는 하드웨어 지갑으로 소개됩니다. 여러 체인의 자산과 Nano 제품군을 안내하며 실제 보호 수준은 기기·복구 정보의 관리에 따라 달라집니다.",
+    "tagline": "보안 칩과 기기 기반 거래 서명"
+  },
+  "trezor": {
+    "description": "Trezor는 공개 펌웨어를 사용하는 하드웨어 지갑으로 소개됩니다. 원문은 코드 검토 가능성과 모델별 체인 지원 차이를 설명합니다.",
+    "tagline": "공개 펌웨어를 사용하는 하드웨어 지갑"
+  },
+  "safepal": {
+    "description": "SafePal은 USB·Bluetooth 대신 QR 코드로 서명하는 하드웨어 지갑으로 소개됩니다. S1 기기와 자산 관리용 모바일 앱을 안내합니다.",
+    "tagline": "QR 서명과 모바일 앱의 하드웨어 지갑"
+  },
+  "authy": {
+    "description": "Authy는 클라우드 백업과 여러 기기 동기화를 제공하는 2단계 인증 앱으로 소개됩니다. 원문은 기기 분실 복구와 백업에 따른 보안 고려사항을 함께 다룹니다.",
+    "tagline": "2단계 인증 코드의 백업·기기 동기화"
+  },
+  "veracrypt": {
+    "description": "VeraCrypt는 암호화 컨테이너, 파티션과 드라이브를 만드는 공개 소프트웨어로 소개됩니다. AES·Twofish·Serpent와 숨김 볼륨 기능을 안내합니다.",
+    "tagline": "파일 컨테이너·디스크 암호화와 숨김 볼륨"
+  },
+  "bitwarden": {
+    "description": "BitWarden은 동기화 전 로컬 암호화를 사용하는 공개 비밀번호 관리자로 소개됩니다. 여러 기기, 자체 호스팅과 추가 인증 기능을 안내합니다.",
+    "tagline": "로컬 암호화와 자체 호스팅 비밀번호 관리"
+  },
+  "safe": {
+    "description": "Safe는 여러 키의 승인을 요구하는 다중서명 지갑으로 소개됩니다. 필요한 서명 수와 전체 서명자를 정하여 팀·DAO 자금을 관리하는 구조입니다.",
+    "tagline": "서명자 수를 정하는 다중서명 지갑"
+  },
+  "pocketuniverse": {
+    "description": "PocketUniverse는 지갑 서명 전에 거래를 시뮬레이션하는 브라우저 확장 기능으로 소개됩니다. 전송·승인 변화와 의심스러운 상호작용을 경고한다고 안내합니다.",
+    "tagline": "지갑 옆에서 확인하는 서명 전 거래 변화"
+  },
+  "web3-antivirus": {
+    "description": "Web3 Antivirus는 웹사이트·계약·거래의 위험 징후를 점검하는 확장 기능으로 소개됩니다. 알려진 패턴과 기계학습 기반 경고를 안내하며 탐지는 보증되지 않습니다.",
+    "tagline": "사이트·계약·거래의 위험 징후 점검"
+  },
+  "honeypot": {
+    "description": "HoneyPot는 토큰 계약의 매수·매도를 시뮬레이션하는 도구로 소개됩니다. 매도 제한 가능성을 점검하지만 결과가 향후 거래 성공을 보증하지는 않습니다.",
+    "tagline": "매수·매도 모사로 확인하는 전송 제한"
+  },
+  "rugcheck": {
+    "description": "RugCheck는 Solana 토큰의 발행·동결 권한, 유동성과 보유 집중도를 점검하는 도구로 소개됩니다. 위험 점수와 개별 표시 사유를 안내합니다.",
+    "tagline": "Solana 발행 권한·유동성·집중도 점검"
+  },
+  "token-sniffer": {
+    "description": "Token Sniffer는 EVM 토큰 계약의 발행 기능·수수료·차단 목록 등 패턴을 자동 분석한다고 소개됩니다. 유동성 정보와 점수는 정식 감사를 대신하지 않습니다.",
+    "tagline": "EVM 계약 패턴과 유동성 자동 점검"
+  },
+  "1password": {
+    "description": "1Password는 암호화 보관함에 비밀번호를 저장하고 서비스별 비밀번호 생성·자동 입력을 제공하는 관리자로 소개됩니다.",
+    "tagline": "암호화 보관함과 비밀번호 생성·자동 입력"
+  },
+  "hyperliquid": {
+    "description": "Hyperliquid는 온체인 주문장 방식의 무기한 선물 DEX로 소개됩니다. HLP 금고와 공개 포지션 추적을 안내하며 펀딩 전략의 수익이나 중립성은 보증하지 않습니다.",
+    "tagline": "온체인 선물 주문장과 HLP 금고"
+  },
+  "trip": {
+    "description": "Trip.com은 호텔·항공·철도·이동편을 예약하는 여행 플랫폼으로 소개됩니다. 카드 결제와 Trip Coins 프로그램을 안내하며 결제수단별 이용 조건은 확인이 필요합니다.",
+    "tagline": "호텔·항공·철도와 여행 이동편 예약"
+  },
+  "kryon": {
+    "description": "Kryon은 국가와 연결 방식을 선택하는 VPN으로 소개됩니다. 원문은 Happ을 통한 사용과 자체 앱을 함께 안내하며 모든 지역의 작동을 보증하지 않습니다.",
+    "tagline": "국가·연결 방식 선택과 자체 VPN 앱"
+  },
+  "libre": {
+    "description": "Libre는 수식, 피벗 표와 매크로를 다루는 공개 스프레드시트 도구로 소개됩니다. 계정 목록, 진행 상황과 손익 데이터 정리에 활용하는 예를 안내합니다.",
+    "tagline": "수식·피벗 표로 정리하는 활동·손익 데이터"
+  },
+  "bluestacks": {
+    "description": "BlueStacks는 PC에서 Android 앱을 실행하는 에뮬레이터로 소개됩니다. 여러 Android 세션을 병렬로 관리하는 기능과 메모리 사용 고려사항을 안내합니다.",
+    "tagline": "PC의 Android 실행과 다중 세션 관리"
+  },
+  "tempmail": {
+    "description": "TempMail은 일정 기간 수신하는 임시 이메일 주소 서비스로 소개됩니다. 원문은 자동 주소 발급과 수신 화면, 주소 만료 특성을 설명합니다.",
+    "tagline": "만료되는 임시 주소의 이메일 수신"
+  },
+  "icloud-mail": {
+    "description": "iCloud Mail은 iCloud+의 이메일 가리기로 별칭 주소를 만들어 주 수신함에 전달하는 기능으로 소개됩니다. 원문은 일회용 주소와 지속형 별칭을 구분합니다.",
+    "tagline": "주 수신함으로 전달되는 이메일 별칭"
+  },
+  "pixelscan": {
+    "description": "PixelScan은 Canvas, WebGL, 오디오와 글꼴 등 브라우저 지문 요소를 분석하는 도구로 소개됩니다. 점검 결과는 익명성이나 차단 회피의 보증이 아닙니다.",
+    "tagline": "Canvas·WebGL·오디오 지문 분석"
+  },
+  "whoer": {
+    "description": "Whoer는 IP, DNS·WebRTC 노출과 시간대·언어·운영체제 일관성을 점검하는 도구로 소개됩니다. 표시 점수는 개인정보 보호 수준의 보증이 아닙니다.",
+    "tagline": "IP 노출과 시간대·언어 일관성 점검"
+  },
+  "browserleaks": {
+    "description": "BrowserLeaks는 브라우저가 노출하는 Canvas·WebGL·WebRTC·글꼴·화면·하드웨어 값을 검사하는 도구 모음으로 소개됩니다. 원시 값을 직접 보여주는 방식을 안내합니다.",
+    "tagline": "브라우저 노출 정보를 원시 값으로 확인"
+  },
+  "antcpt": {
+    "description": "AntCpt는 reCAPTCHA, hCaptcha, FunCaptcha와 이미지 인증 처리용 API로 소개됩니다. 원문은 자동화 스크립트 연동과 처리 건수 기준 이용 방식을 안내합니다.",
+    "tagline": "여러 인증 유형의 처리 API 연동"
+  },
+  "smmlaba": {
+    "description": "SMMLaba는 여러 소셜 플랫폼의 좋아요·조회·댓글·팔로워 관련 상품을 판매하는 서비스로 소개됩니다. 해당 지표가 자연 발생한 관심이나 신뢰를 뜻하지는 않습니다.",
+    "tagline": "소셜 반응 지표 관련 상품 서비스"
+  },
+  "nox": {
+    "description": "Nox는 PC용 Android 에뮬레이터로 소개됩니다. 복수 실행과 루트 접근을 안내하며 모바일 전용 앱과 인터페이스 시험 용도를 설명합니다.",
+    "tagline": "복수 실행·루트 접근의 Android 시험 환경"
+  },
+  "proxyswitchy": {
+    "description": "ProxySwitchy는 Chrome 도구 모음에서 프록시 프로필을 전환하는 확장 기능으로 소개됩니다. 인증이 있는 HTTP·HTTPS·SOCKS5 연결 설정을 안내합니다.",
+    "tagline": "Chrome 도구 모음의 프록시 프로필 전환"
+  },
+  "seosprint": {
+    "description": "SeoSprint는 소규모 온라인 작업을 의뢰하고 수행하는 CIS 플랫폼으로 소개됩니다. 원문은 가벼운 활동과 참여 작업을 주요 용도로 설명합니다.",
+    "tagline": "소규모 온라인 작업의 의뢰·수행"
+  },
+  "captcha-test": {
+    "description": "Captcha Test는 Google reCAPTCHA v3가 반환하는 점수를 확인하는 도구로 소개됩니다. 개별 점수는 향후 인증 요구나 사람 판정을 보증하지 않습니다.",
+    "tagline": "reCAPTCHA v3 응답 점수 확인"
+  },
+  "proxyshard-checker": {
+    "description": "ProxyShard Checker는 IP 평판, 차단 목록, 위치와 ISP 유형을 점검하는 도구로 소개됩니다. 주거용·데이터센터 분류는 데이터베이스마다 다를 수 있습니다.",
+    "tagline": "IP 평판·위치·통신사업자 분류 점검"
+  },
+  "capcut": {
+    "description": "CapCut은 ByteDance의 영상 편집 도구로 소개됩니다. 데스크톱·웹에서 타임라인, 전환, 효과, 자막과 음악을 편집하는 기능을 안내합니다.",
+    "tagline": "타임라인·효과·자막의 웹·데스크톱 편집"
+  },
+  "photopea": {
+    "description": "Photopea는 브라우저에서 PSD, 레이어·마스크·필터를 다루는 이미지 편집기로 소개됩니다. 화면 갈무리, 배너와 로고 편집 용도를 안내합니다.",
+    "tagline": "브라우저에서 편집하는 PSD·레이어·마스크"
+  },
+  "obsidian": {
+    "description": "Obsidian은 로컬 Markdown 파일을 연결하는 메모 앱으로 소개됩니다. 문서 간 링크, 그래프와 확장 기능으로 프로젝트 지식을 정리합니다.",
+    "tagline": "로컬 Markdown과 연결형 지식 그래프"
+  },
+  "notion": {
+    "description": "Notion은 메모·데이터베이스·보드·위키·달력을 함께 다루는 작업 공간으로 소개됩니다. 여러 프로젝트의 일정과 활동 기록을 관리하는 용도를 안내합니다.",
+    "tagline": "메모·데이터베이스·일정의 통합 작업 공간"
+  },
+  "greedy-sms": {
+    "description": "Greedy SMS는 일회성 문자 수신용 번호를 제공하는 서비스로 소개됩니다. 원문은 봇 인터페이스와 Alchemy·Vercel·Coinbase 등 서비스 선택을 언급합니다.",
+    "tagline": "서비스별 번호 선택과 문자 수신 봇"
+  },
+  "smspool": {
+    "description": "SMSPool은 일회성·임대 번호를 제공하는 플랫폼으로 소개됩니다. 번호별 예상 성공률·재고 표시와 자체 API, 기술 지원을 안내합니다.",
+    "tagline": "번호별 재고·예상 성공률과 임대 API"
+  },
+  "365-sms": {
+    "description": "365-SMS는 일회성 문자 인증 번호 서비스로 소개됩니다. 원문은 상시 운영을 안내하며 장기 번호 임대는 제공하지 않는다고 설명합니다.",
+    "tagline": "장기 임대와 구분되는 일회성 번호"
+  },
+  "herosms": {
+    "description": "HeroSMS는 SMS-Activate의 운영 경험과 공급망을 이어받은 플랫폼으로 소개됩니다. 국가·서비스별 번호와 API 연동을 안내합니다.",
+    "tagline": "SMS-Activate 계열 공급망과 번호 API"
+  },
+  "tiger-sms": {
+    "description": "Tiger SMS는 여러 국가와 서비스의 문자 수신 번호를 제공하는 플랫폼으로 소개됩니다. API와 공개 번호 옵션도 안내합니다.",
+    "tagline": "국가별 문자 번호와 API·공개 번호"
+  },
+  "sms-man": {
+    "description": "SMS Man은 서비스별 일회성 문자 인증과 번호 임대를 제공하는 플랫폼으로 소개됩니다. 국가 선택, 자동화 API와 여러 결제 수단을 안내합니다.",
+    "tagline": "일회성·임대 번호와 자동화 API"
+  },
+  "secondnumber": {
+    "description": "SecondNumber는 임시 OTP 번호와 장기 임대를 제공하는 서비스로 소개됩니다. iOS 앱, 영국 번호와 API 접근을 안내합니다.",
+    "tagline": "iOS 앱의 OTP 번호와 장기 임대"
+  },
+  "grizzlysms": {
+    "description": "GrizzlySMS는 국가·서비스별 번호 재고를 조회하는 문자 인증 플랫폼으로 소개됩니다. 옵션별 성공률 표시와 자동화 API 문서를 안내합니다.",
+    "tagline": "국가·서비스별 번호 재고와 성공률 표시"
+  },
+  "smspva": {
+    "description": "SMSPva는 여러 국가와 앱의 문자 수신 번호를 제공하는 서비스로 소개됩니다. 일회성 이용, 장기 임대와 API를 안내합니다.",
+    "tagline": "다국가 앱 인증과 장기 번호 임대"
+  },
+  "onlinesim": {
+    "description": "OnlineSim은 문자 수신용 일회성 번호와 장기 임대를 제공하는 서비스로 소개됩니다. 여러 플랫폼용 번호와 대량 처리 API를 안내합니다.",
+    "tagline": "일회성·장기 임대와 대량 번호 API"
+  },
+  "detectexpert": {
+    "description": "DetectExpert는 Vektor T13·CyberYozh 생태계의 번호 서비스로 소개됩니다. 일회성과 장기 번호를 구분하며 원문의 차단률 수치는 검증된 보증이 아닙니다.",
+    "tagline": "CyberYozh 생태계의 일회성·장기 번호"
+  },
+  "vaksms": {
+    "description": "VAKsms는 CIS 지역에서 쓰이던 문자 번호 서비스로 소개됩니다. 원문은 재고 감소와 홍콩·우즈베키스탄·영국 중심의 남은 선택지를 기록합니다.",
+    "tagline": "재고가 제한된 국가별 문자 수신 번호"
+  },
+  "textverified": {
+    "description": "TextVerified는 미국 번호를 중심으로 하는 문자 인증 서비스로 소개됩니다. 원문은 이용 비용과 관리 화면에 대한 의견을 제시하지만 인증 성공은 보증하지 않습니다.",
+    "tagline": "미국 번호 중심의 문자 인증 서비스"
+  },
+  "sms-verification": {
+    "description": "SMS Verification은 서비스를 고르고 번호로 코드를 수신하는 단순한 플랫폼으로 소개됩니다. 원문은 국가·번호별 품질을 따로 확인해야 한다고 설명합니다.",
+    "tagline": "서비스 선택부터 번호·코드 수신까지"
+  },
+  "temp-number": {
+    "description": "Temp-Number는 짧은 기간 사용하는 번호를 국가·서비스별로 찾는 플랫폼으로 소개됩니다. 검색 화면과 API 연동을 안내합니다.",
+    "tagline": "단기 문자 번호의 국가·서비스별 검색"
+  },
+  "simsms": {
+    "description": "SimSMS는 여러 국가의 번호 임대와 전화 전달 기능을 안내하는 CIS 서비스입니다. 원문은 러시아 시장 철수와 국가별 재고 제약을 기록합니다.",
+    "tagline": "장기 번호 임대와 전화 전달 기능"
+  },
+  "daisysms": {
+    "description": "DaisySMS는 원문에 2026년 3월 26일 운영을 종료한 문자 번호 서비스로 기록되어 있습니다. 현재 제공 가능한 상품으로 안내하지 않습니다.",
+    "tagline": "운영 종료로 기록된 문자 번호 서비스"
+  },
+  "sms-activate": {
+    "description": "SMS-Activate는 운영을 종료하고 경험·공급망을 HeroSMS에 넘긴 서비스로 원문에 기록되어 있습니다. 이 항목은 과거 서비스 이력을 보존합니다.",
+    "tagline": "HeroSMS로 이어진 과거 문자 번호 서비스"
+  },
+  "claude": {
+    "description": "Claude는 Anthropic의 대화형 AI로 원문에 소개됩니다. 코드 작성, 분석과 복잡한 추론에 활용하는 모델 선택을 다루며 모델·요금 정보는 원문 시점의 자료입니다.",
+    "tagline": "Anthropic AI의 코딩·분석 활용"
+  },
+  "openai": {
+    "description": "OpenAI는 ChatGPT 대화·콘텐츠 작업과 Codex 개발 작업을 제공하는 업체로 원문에 소개됩니다. 구독·모델 제한은 자료 작성 시점에 따라 달라질 수 있습니다.",
+    "tagline": "ChatGPT 작업과 Codex 개발 지원"
+  },
+  "gemini": {
+    "description": "Gemini는 Google 생태계와 연동하는 AI 도구로 원문에 소개됩니다. 긴 문서·코드 분석과 검색·YouTube·Drive 자료 활용 기능을 설명합니다.",
+    "tagline": "긴 문서 분석과 Google 자료 연동"
+  },
+  "grok": {
+    "description": "Grok는 X에 연동된 xAI의 대화형 AI로 소개됩니다. 원문은 플랫폼의 최신 논의·뉴스 탐색과 코딩·추론 작업을 주요 용도로 안내합니다.",
+    "tagline": "X의 논의 탐색과 xAI 대화형 작업"
+  },
+  "deepseek": {
+    "description": "DeepSeek는 추론·코드 작업용 모델과 공개 가중치 모델을 제공하는 AI로 원문에 소개됩니다. 웹·API·로컬 실행 방식과 데이터 처리 위치를 구분합니다.",
+    "tagline": "추론·코드 모델과 웹·로컬 실행 선택"
+  },
+  "kimi": {
+    "description": "Kimi는 Moonshot AI의 긴 문서 처리용 대화 도구로 소개됩니다. PDF, 연구 자료와 장문 내용의 분석·상호 참조·요약을 안내합니다.",
+    "tagline": "긴 PDF·연구 문서의 분석과 상호 참조"
+  },
+  "qwen": {
+    "description": "Qwen은 Alibaba의 공개 모델 계열로 원문에 소개됩니다. QwenCode를 통한 프로젝트 구조 파악, 코드 생성과 디버깅을 안내합니다.",
+    "tagline": "QwenCode의 프로젝트 분석과 코드 작업"
+  },
+  "z-ai": {
+    "description": "Z.ai는 대화형 AI를 한 인터페이스에서 활용하는 서비스로 원문에 소개됩니다. 원문은 작업별 모델 비교를 용도로 설명하며 실제 지원 모델은 별도 확인이 필요합니다.",
+    "tagline": "대화형 작업과 모델 비교용 인터페이스"
+  },
+  "notebooklm": {
+    "description": "NotebookLM은 사용자가 제공한 문서·웹·영상 자료를 바탕으로 답변하는 Google 도구로 소개됩니다. 자료 질의와 대화형 음성 요약을 안내하며 답변 정확성은 보증하지 않습니다.",
+    "tagline": "제공 자료 기반 질의와 대화형 음성 요약"
+  },
+  "mimo": {
+    "description": "MiMo는 Xiaomi의 코드 작업 중심 AI로 원문에 소개됩니다. 함수 작성, 디버깅과 기술 추론 같은 개발 보조 용도를 안내합니다.",
+    "tagline": "Xiaomi 모델의 함수 작성·디버깅"
+  },
+  "reve": {
+    "description": "Reve는 인물·제품·장면의 사실적인 이미지를 생성하는 AI로 소개됩니다. 원문은 해상도·생성량·사용 권한에 따른 이용 조건을 설명합니다.",
+    "tagline": "인물·제품·장면의 사실적 이미지 생성"
+  },
+  "mai": {
+    "description": "MAI는 Microsoft의 이미지 생성 모델로 원문에 소개됩니다. Copilot·Designer·Bing Image Creator 등의 인터페이스에서 구도·조명·스타일 지시를 활용한다고 설명합니다.",
+    "tagline": "Microsoft 제품의 구도·조명 이미지 지시"
+  },
+  "seedream": {
+    "description": "Seedream은 ByteDance의 이미지 생성 도구로 소개됩니다. 원문은 이미지 속 글자와 타이포그래피를 포함한 배너·소셜 그래픽 작업에 초점을 둡니다.",
+    "tagline": "문자·타이포그래피를 포함한 이미지 생성"
+  },
+  "flux": {
+    "description": "Flux는 Black Forest Labs의 이미지 모델 계열로 원문에 소개됩니다. API와 ComfyUI 등의 환경을 통한 생성 제어를 안내하며 버전별 이용 조건은 확인이 필요합니다.",
+    "tagline": "API·ComfyUI 환경의 이미지 생성 제어"
+  },
+  "veo": {
+    "description": "Veo는 Google DeepMind의 영상 생성 모델로 원문에 소개됩니다. 조명·카메라 움직임이 있는 클립 제작과 Google 플랫폼을 통한 이용을 설명하는 카탈로그 항목입니다.",
+    "tagline": "Google DeepMind 영상 모델의 원문 소개"
+  },
+  "wan": {
+    "description": "Wan은 Alibaba의 공개 영상 모델 계열로 소개됩니다. 텍스트·이미지 기반 영상과 로컬 실행·도구 연동을 안내하며 자원·라이선스 조건은 별도 확인이 필요합니다.",
+    "tagline": "텍스트·이미지 기반 영상과 로컬 실행"
+  },
+  "afina-automation": {
+    "description": "Afina는 프로필 브라우저 안에서 시나리오를 작성하는 자동화 도구로도 소개됩니다. 지갑 로그인과 거래소 작업용 편집기 구성요소·사용 안내를 설명합니다.",
+    "tagline": "프로필과 연결된 Web3 시나리오 편집기"
+  },
+  "bas": {
+    "description": "BAS는 Web2·Web3 작업을 만드는 브라우저 자동화 도구로 소개됩니다. 원문은 공식 학습 영상과 제작한 소프트웨어의 배포 방식별 이용 조건을 안내합니다.",
+    "tagline": "Web2·Web3 자동화와 학습 자료"
+  },
+  "zennoposter": {
+    "description": "ZennoPoster는 시각 편집기로 자동화 작업을 만드는 플랫폼으로 소개됩니다. 다중 스레드, 프록시 회전, 인증 처리 연동과 조건 분기를 안내합니다.",
+    "tagline": "시각 편집기의 다중 스레드·조건 분기"
+  },
+  "playwright": {
+    "description": "Playwright는 Microsoft의 브라우저 자동화 프레임워크로 소개됩니다. 자동 대기, Chrome·Firefox·WebKit 실행, 디버깅과 동작 기록형 코드 생성을 안내합니다.",
+    "tagline": "자동 대기와 여러 브라우저의 동작 기록"
+  },
+  "selenium": {
+    "description": "Selenium은 WebDriver로 브라우저를 제어하는 자동화 프레임워크로 소개됩니다. Chrome·Firefox·Edge·Safari와 여러 개발 언어를 연결하는 방식을 안내합니다.",
+    "tagline": "WebDriver 기반 다언어 브라우저 자동화"
+  },
+  "puppeteer": {
+    "description": "Puppeteer는 Chrome·Chromium을 제어하는 Google의 자동화 라이브러리로 원문에 소개됩니다. 화면 갈무리, PDF, 페이지 렌더링과 네트워크 요청 처리를 안내합니다.",
+    "tagline": "브라우저 렌더링·PDF·네트워크 제어"
+  },
+  "robot-framework": {
+    "description": "Robot Framework는 읽기 쉬운 키워드를 조합하는 공개 자동화 프레임워크로 소개됩니다. 웹·모바일·API·데이터베이스 시험과 Selenium·Playwright 연동을 안내합니다.",
+    "tagline": "키워드로 조합하는 다양한 환경의 시험"
+  },
+  "adspower-automation": {
+    "description": "ADS Power의 자동화 항목은 기본 작업용 RPA 로봇을 소개합니다. 미리 만든 시나리오를 찾고 스크립트를 공유하는 장터도 안내합니다.",
+    "tagline": "RPA 로봇과 자동화 시나리오 장터"
+  },
+  "autohotkey": {
+    "description": "AutoHotkey는 Windows의 마우스·키보드·창 작업을 스크립트로 제어하는 도구로 소개됩니다. 반복 동작, 창 전환과 단축키 구성을 안내합니다.",
+    "tagline": "Windows 창·입력·단축키 자동화"
+  },
+  "uipath": {
+    "description": "UiPath는 여러 앱을 연결하는 기업용 RPA 플랫폼으로 소개됩니다. 시각적 작업 설계, 데이터 입력과 문서 처리용 자동화 및 개인용 배포판을 안내합니다.",
+    "tagline": "시각 설계로 연결하는 다중 앱 RPA"
+  },
+  "meshy": {
+    "description": "Meshy는 텍스트·이미지에서 3D 모델을 만드는 도구로 소개됩니다. PBR 텍스처, 사각형 재메시와 Unity 플러그인 내보내기를 안내합니다.",
+    "tagline": "텍스트·이미지 3D와 PBR·Unity 내보내기"
+  },
+  "tripo3d": {
+    "description": "Tripo AI는 초안 메시와 후속 정밀 모델을 만드는 3D 생성 도구로 소개됩니다. 저폴리 모드, 자동 UV와 사각형 토폴로지를 안내합니다.",
+    "tagline": "저폴리 초안과 자동 UV·토폴로지"
+  },
+  "rodin": {
+    "description": "Rodin은 Hyper3D의 사실적 자산 생성 도구로 소개됩니다. 세밀한 형상, UV와 고해상도 PBR 맵을 갖춘 주요 소품 제작을 안내합니다.",
+    "tagline": "주요 소품의 세밀한 형상과 PBR 맵"
+  },
+  "hyper3d": {
+    "description": "Hyper3D는 Rodin을 포함하는 3D 생성 도구 모음으로 소개됩니다. 메시 생성, 고밀도 노멀 맵과 자산 제작 파이프라인용 API를 안내합니다.",
+    "tagline": "Rodin 도구 모음과 자산 제작 API"
+  },
+  "kaedim": {
+    "description": "Kaedim은 2D 이미지를 3D 모델로 변환하는 기계·작업자 결합 방식으로 소개됩니다. 전달 전 토폴로지 검토를 안내하지만 후처리 불필요를 보증하지는 않습니다.",
+    "tagline": "이미지 변환과 작업자 토폴로지 검토"
+  },
+  "blender": {
+    "description": "Blender는 생성된 3D 메시를 정리하는 공개 제작 도구로 소개됩니다. 겹친 점 병합, 폴리곤 감소, 피벗 정리와 glTF 텍스처 채널 재구성을 안내합니다.",
+    "tagline": "메시 정리·폴리곤 감소·glTF 준비"
+  },
+  "unity": {
+    "description": "Unity는 모바일·웹 3D 개발 엔진으로 소개됩니다. URP, WebGL, 경량 셰이더와 AI 메시의 glTF 재질 채널 조정을 안내합니다.",
+    "tagline": "URP·WebGL과 3D 메시 통합"
+  },
+  "v0": {
+    "description": "v0는 자연어 지시로 React·Tailwind·shadcn/ui 화면 코드를 만드는 Vercel 도구로 소개됩니다. 레이아웃 초안을 만들고 실제 로직을 연결하는 용도를 안내합니다.",
+    "tagline": "React·Tailwind 화면 초안 생성"
+  },
+  "lovable": {
+    "description": "Lovable은 자연어로 웹 앱을 구성하는 AI 도구로 소개됩니다. 화면·업무 로직, Supabase 데이터 구조와 인증·Edge Functions 구성을 안내합니다.",
+    "tagline": "화면부터 Supabase·인증까지의 앱 구성"
+  },
+  "cursor": {
+    "description": "Cursor는 VS Code 기반 AI 코드 편집기로 소개됩니다. 여러 파일 수정, 코드 구조를 고려한 변경, 프로젝트 질의와 Git 작업을 안내합니다.",
+    "tagline": "여러 파일 수정과 프로젝트 맥락의 코드 질의"
+  },
+  "bolt-new": {
+    "description": "Bolt.new는 StackBlitz의 브라우저 기반 앱 제작 환경으로 소개됩니다. WebContainers에서 Node.js를 실행하며 앱 초안의 빌드·시험을 안내합니다.",
+    "tagline": "브라우저 WebContainers의 Node.js 앱 제작"
+  },
+  "godot": {
+    "description": "Godot는 공개 2D·3D 엔진으로 소개됩니다. glTF 가져오기, GDScript와 웹용 결과물 제작 등 비교적 가벼운 프로젝트 구성을 안내합니다.",
+    "tagline": "GDScript·glTF 기반 2D·3D 개발"
+  },
+  "spline": {
+    "description": "Spline은 브라우저의 협업형 3D 디자인 도구로 소개됩니다. AI 생성, 상호작용·애니메이션과 React·웹 페이지 삽입 기능을 안내합니다.",
+    "tagline": "브라우저 협업 3D와 웹 삽입"
+  }
+}

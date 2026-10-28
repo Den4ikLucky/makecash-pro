@@ -1,0 +1,1818 @@
+{
+  "phantom-ai": {
+    "description": "Bot de tienda en Telegram para suscripciones de IA como ChatGPT, Claude y Midjourney, cuentas y productos digitales. Los descuentos anunciados proceden del catálogo.",
+    "tagline": "Tienda de Telegram para suscripciones de IA, cuentas y productos digitales"
+  },
+  "ahlisshop": {
+    "description": "Bot de tienda en Telegram para productos digitales, cuentas, suscripciones de IA y tokens. La ficha anuncia entrega inmediata y recargas desde 20 RUB; comprueba las condiciones vigentes.",
+    "tagline": "Cuentas, suscripciones de IA y productos digitales mediante Telegram"
+  },
+  "afina": {
+    "description": "Navegador de perfiles aislados de un equipo ucraniano, orientado a proyectos de criptomonedas. Según la ficha, guarda los perfiles localmente, instala actualizaciones con consentimiento y permite crear automatizaciones propias. Las comparaciones de velocidad y facilidad de uso son opiniones de la fuente.",
+    "tagline": "Perfiles locales y automatización para proyectos de criptomonedas"
+  },
+  "adspower": {
+    "description": "Navegador con perfiles SunBrowser, API para Selenium y Puppeteer, sincronización de equipos, gestor de proxies y automatización RPA. La fuente advierte de un consumo elevado de RAM y menciona un incidente de enero de 2025 por sustitución de monederos y una actualización maliciosa; este catálogo no verifica ese relato.",
+    "tagline": "Perfiles SunBrowser con API, gestión de proxies y automatización RPA"
+  },
+  "octo": {
+    "description": "Navegador de perfiles basado en Chromium, con automatización mediante API. La fuente destaca el uso de perfiles reales y señala que deben valorarse el coste y la confianza depositada en el proveedor de los datos de perfil.",
+    "tagline": "Perfiles Chromium y automatización mediante API"
+  },
+  "chrome-diy": {
+    "description": "Configuración de Chrome con SwitchyOmega para proxies, WebRTC Control, Canvas Blocker y User-Agent Switcher. Permite ajustar WebRTC y funciones predictivas, pero no ofrece aislamiento de sesiones completo: las huellas de GPU, audio y TLS pueden seguir siendo estables y las extensiones visibles.",
+    "tagline": "Configuración manual de privacidad y proxies en Chrome, sin aislamiento completo"
+  },
+  "firefox-diy": {
+    "description": "Configuración manual de Firefox con FoxyProxy, ajustes de WebRTC, resistFingerprinting, geolocalización y precarga DNS. Puede ampliarse con arkenfox user.js y Canvas Blocker. La fuente aclara que estos ajustes no equivalen a un navegador con aislamiento completo de sesiones.",
+    "tagline": "Firefox con ajustes de privacidad, FoxyProxy y arkenfox user.js"
+  },
+  "brave-diy": {
+    "description": "Configuración de Brave con Shields, bloqueo estricto de huellas y control de WebRTC, ampliable con SwitchyOmega. Incluye ventanas con Tor y ajustes para desactivar Rewards y telemetría. No sustituye a un entorno completo de perfiles aislados.",
+    "tagline": "Brave con Shields, controles de WebRTC y ventanas con Tor"
+  },
+  "multi-login": {
+    "description": "Navegador de perfiles para anunciantes, presentado por la fuente como activo desde 2015. Utiliza los motores Mimic, basado en Chromium, y Stealthfox, basado en Firefox. Las afirmaciones históricas de seguridad no constituyen una auditoría de MakeCash.",
+    "tagline": "Perfiles para equipos con los motores Mimic y Stealthfox"
+  },
+  "morelogin": {
+    "description": "Navegador de perfiles con API y una interfaz que la fuente considera funcional. El texto original menciona un incidente de marzo de 2026 sin precisar la cuantía afectada; esa información no se verifica aquí.",
+    "tagline": "Navegador de perfiles con API y gestión visual"
+  },
+  "undetectable": {
+    "description": "Gestión de grandes cantidades de perfiles, con perfiles locales ilimitados según la suscripción descrita. El almacenamiento en la nube tiene un coste adicional. Estas características no garantizan protección frente a incidentes.",
+    "tagline": "Perfiles locales y almacenamiento en la nube con costes separados"
+  },
+  "geelark": {
+    "description": "Teléfonos Android en la nube del equipo de ADS Power, con dispositivos ARM, Android 9–15, API, automatización RPA y sincronización de acciones. La fuente describe cobro por perfil y por minuto, con una tarifa de 0,007 USD/min y un límite de 1,20 USD/día; comprueba la oferta actual.",
+    "tagline": "Dispositivos Android en la nube con API, RPA y cobro por uso"
+  },
+  "dolphin": {
+    "description": "Navegador de perfiles sobre el que la fuente formula una valoración desfavorable de precio y funciones. También menciona un incidente de julio de 2022 que habría afectado al 15% de los perfiles; el catálogo conserva esa referencia como información atribuida, sin validarla.",
+    "tagline": "Navegador de perfiles con una advertencia histórica atribuida a la fuente"
+  },
+  "incogniton": {
+    "description": "Navegador de perfiles para desarrolladores, con integración nativa de Selenium y Puppeteer. La fuente cuestiona su actualización y menciona información retirada sobre un posible incidente de 2023–2024; no se presenta como un hecho verificado por MakeCash.",
+    "tagline": "Perfiles para desarrolladores con integración de Selenium y Puppeteer"
+  },
+  "agentx": {
+    "description": "Navegador basado en Chromium, creado por un equipo de la CEI y orientado a proyectos de criptomonedas. La ficha menciona auditorías y un programa de recompensas por vulnerabilidades; su existencia o alcance no equivale a una garantía de seguridad del catálogo.",
+    "tagline": "Perfiles Chromium para proyectos de criptomonedas"
+  },
+  "gologin": {
+    "description": "Navegador de perfiles en la nube para equipos de redes sociales, con motor Orbita, gestor de proxies, API e integración MCP. La ficha anuncia tres perfiles gratuitos y siete días de prueba. Las reseñas de usuarios citadas por la fuente no se consideran una investigación independiente de incidentes.",
+    "tagline": "Perfiles Orbita en la nube con proxies, API e integración MCP"
+  },
+  "linken-sphere": {
+    "description": "Navegador de perfiles con integración de Tor. La fuente describe una segunda versión y refiere una filtración previa de perfiles y sesiones, sin que este catálogo verifique el incidente ni prometa anonimato.",
+    "tagline": "Navegador de perfiles con integración de Tor y una segunda versión"
+  },
+  "indigo": {
+    "description": "Navegador de perfiles de interfaz sencilla y opciones de personalización limitadas según la fuente. La ficha anuncia una prueba de 50 perfiles durante diez días; confirma su disponibilidad y condiciones actuales.",
+    "tagline": "Gestión sencilla de perfiles con una prueba anunciada de diez días"
+  },
+  "lalicat": {
+    "description": "Navegador de perfiles de un proveedor chino, con funciones básicas de huella del navegador. La fuente critica su interfaz y precio y lo sitúa en tareas sencillas o de aprendizaje; no se garantizan resultados frente a controles de plataformas.",
+    "tagline": "Navegador de perfiles con funciones básicas de huella digital"
+  },
+  "surfinite": {
+    "description": "Navegador de perfiles de desarrollo reciente. La fuente destaca el diseño, pero plantea dudas sobre el coste y el tratamiento de datos; no aporta una validación independiente de seguridad.",
+    "tagline": "Navegador de perfiles reciente con énfasis en el diseño"
+  },
+  "kameleo": {
+    "description": "Navegador europeo de perfiles con emulación de huellas de iOS y Android, además de escritorio. Según la ficha, el precio depende de los perfiles abiertos simultáneamente, con una referencia de 59 EUR al mes para el uso descrito.",
+    "tagline": "Perfiles de escritorio y emulación de huellas móviles de iOS y Android"
+  },
+  "xlogin": {
+    "description": "Navegador de perfiles con funciones básicas de huella del navegador. La fuente lo presenta como una opción de nivel medio para trabajos sencillos y cuestiona su relación entre precio y prestaciones.",
+    "tagline": "Perfiles de navegador para tareas sencillas"
+  },
+  "ghostbrowser": {
+    "description": "Navegador multisesión que separa las cookies por pestaña para gestionar varios inicios de sesión. No incorpora modificación de huellas ni el aislamiento completo de un navegador especializado. La ficha indica pago con tarjeta.",
+    "tagline": "Sesiones con cookies separadas por pestaña"
+  },
+  "vm-login": {
+    "description": "Navegador que, según la ficha, separa perfiles a nivel de máquina virtual en lugar de limitarse a modificar la huella del navegador. Está orientado a entornos que requieren separación entre perfiles y anuncia pago con tarjeta.",
+    "tagline": "Separación de perfiles mediante entornos de máquina virtual"
+  },
+  "hidemyacc": {
+    "description": "Navegador de perfiles de un proveedor vietnamita, con una interfaz funcional y presencia en el sudeste asiático según la fuente. La ficha describe compatibilidad con plataformas habituales y pago con tarjeta, sin garantizar aceptación de cuentas.",
+    "tagline": "Gestión de perfiles de un proveedor vietnamita"
+  },
+  "antik": {
+    "description": "Navegador de perfiles que la fuente sitúa en la gama media, con panel de gestión, funciones de huella y actualizaciones. La ficha indica pago con tarjeta; las valoraciones de calidad y precio pertenecen a la fuente.",
+    "tagline": "Panel de perfiles y funciones de huella para uso general"
+  },
+  "marketer": {
+    "description": "Navegador de perfiles orientado a profesionales de marketing y redes sociales. La ficha incluye plantillas de perfiles, programación de publicaciones y herramientas de audiencia. Anuncia pago con tarjeta.",
+    "tagline": "Plantillas de redes sociales, programación de publicaciones y gestión de perfiles"
+  },
+  "bitbrowser": {
+    "description": "Navegador de perfiles con funciones orientadas al comercio electrónico y a plataformas como Taobao y Pinduoduo. La fuente menciona un plan gratuito y pagos con tarjeta o criptomonedas; no garantiza cumplimiento de requisitos de esas plataformas.",
+    "tagline": "Perfiles y funciones para comercio electrónico, incluido el ecosistema chino"
+  },
+  "antbrowser": {
+    "description": "Navegador de perfiles económico, con funciones básicas de huella e interfaz sencilla. La fuente advierte de actualizaciones poco frecuentes y basa su comentario personal en un uso alrededor de 2021.",
+    "tagline": "Perfiles básicos y una interfaz sencilla"
+  },
+  "accovod": {
+    "description": "Plataforma rusa de gestión de cuentas con perfiles sincronizados entre dispositivos, colaboración de equipos y herramientas de flujo de trabajo para grandes conjuntos de cuentas. La ficha indica pagos con tarjeta y criptomonedas.",
+    "tagline": "Gestión de cuentas, sincronización de perfiles y colaboración en la nube"
+  },
+  "sessionbox": {
+    "description": "Extensión de Chrome que asigna cookies independientes a cada pestaña, útil para varios inicios de sesión simultáneos. No modifica huellas ni ofrece aislamiento completo. La fuente cita un plan gratuito y una referencia de 7 USD al mes, con pago por tarjeta.",
+    "tagline": "Cookies independientes por pestaña mediante una extensión de Chrome"
+  },
+  "samara-swspy": {
+    "description": "Navegador de perfiles de nicho, con funciones básicas y soporte en ruso según la fuente. La ficha cita un único plan de 39,90 USD al año y una valoración crítica de sus prestaciones y actualidad.",
+    "tagline": "Navegador de perfiles básico con soporte en ruso"
+  },
+  "vision": {
+    "description": "Navegador de perfiles de lanzamiento reciente, descrito por la fuente como un producto en evolución. El texto señala dificultades en registro y pago y no aporta una verificación independiente del tratamiento de datos.",
+    "tagline": "Navegador de perfiles reciente en desarrollo"
+  },
+  "proxyshard": {
+    "description": "Proveedor de proxies residenciales con cobertura anunciada en más de 100 países, panel de estadísticas en tiempo real e integración sencilla. Las afirmaciones sobre calidad de IP o tasas de bloqueo pertenecen al proveedor y no garantizan resultados.",
+    "tagline": "Proxies residenciales con estadísticas y cobertura internacional"
+  },
+  "geonix": {
+    "description": "Proveedor de proxies individuales IPv4 e IPv6 en más de 50 países según la ficha. Admite HTTP, HTTPS y SOCKS5, autenticación por credenciales o lista de IP autorizadas, descuentos por volumen y centros de datos propios.",
+    "tagline": "Proxies IPv4 e IPv6 con HTTP, HTTPS y SOCKS5"
+  },
+  "webshare": {
+    "description": "Proveedor orientado a compras de proxies en volumen. La fuente describe planes compartidos con 1 TB de tráfico y la opción High Priority Network, con un ejemplo de 0,07 USD por proxy. Su experiencia con X, Discord y GitHub es anecdótica y no asegura continuidad de cuentas.",
+    "tagline": "Proxies compartidos y planes de tráfico para compras en volumen"
+  },
+  "proxywing": {
+    "description": "Proxies residenciales rotativos con cobertura anunciada en más de 190 países. Incluyen selección por país y ciudad, panel de estadísticas en tiempo real, cobro por GB e integración con herramientas de automatización.",
+    "tagline": "Proxies residenciales rotativos con selección por país y ciudad"
+  },
+  "prosox": {
+    "description": "Proveedor de proxies residenciales, móviles, ISP, de centros de datos, IPv6 y UDP, con más de 195 ubicaciones anunciadas. La ficha describe panel, documentación de API y soporte por Telegram; las valoraciones de precio y calidad son de la fuente.",
+    "tagline": "Proxies de varios tipos, incluidos IPv6 y UDP, con API"
+  },
+  "proxysio": {
+    "description": "Proveedor ruso de proxies móviles, residenciales y de centros de datos, con especial presencia en la CEI según la fuente. Incluye un comprobador de anonimato y opciones IPv4 con Windows pOSf; esas funciones no garantizan anonimato.",
+    "tagline": "Proxies móviles, residenciales y de centros de datos para la CEI"
+  },
+  "proxy-seller": {
+    "description": "Proxies dedicados IPv4 e IPv6 con cobertura anunciada en más de 40 países. Admite HTTP, HTTPS y SOCKS5 e incluye API. La exclusividad de cada dirección es una afirmación del proveedor que debe comprobarse en sus condiciones.",
+    "tagline": "Proxies dedicados IPv4 e IPv6 con API"
+  },
+  "proxy6": {
+    "description": "Proveedor económico de proxies IPv4 e IPv6 orientado a redes sociales. La fuente cita IPv6 desde 0,04 USD por tres días y una selección de países limitada; las tarifas y la aceptación en plataformas deben verificarse.",
+    "tagline": "Proxies económicos IPv4 e IPv6 con selección geográfica limitada"
+  },
+  "proxyline": {
+    "description": "Proveedor de proxies IPv4 e IPv6 de varios países, con selección de ubicación y soporte de HTTP y SOCKS5. La fuente lo describe como una opción sencilla y económica para tareas básicas.",
+    "tagline": "Proxies IPv4 e IPv6 con selección de país y soporte SOCKS5"
+  },
+  "geonode": {
+    "description": "Red de proxies residenciales con selección por ciudad, estadísticas y control flexible de sesiones. La ficha distingue sesiones rotativas y persistentes; las referencias a precisión y calidad no son una auditoría del catálogo.",
+    "tagline": "Proxies residenciales con sesiones rotativas o persistentes y selección por ciudad"
+  },
+  "asocks": {
+    "description": "Red de proxies residenciales con cobro por tráfico. La ficha anuncia más de 10 millones de IP en más de 150 países, selección por ciudad, API y consumo de tráfico en tiempo real, con una referencia desde 3 USD/GB.",
+    "tagline": "Proxies residenciales con API y facturación por tráfico"
+  },
+  "data-impulse": {
+    "description": "Proveedor de proxies residenciales, móviles y de centros de datos con rotación automática, SOCKS5 y API. La fuente cita más de 170 países, selección por ciudad y precios desde 1, 2 y 0,50 USD/GB respectivamente; son referencias del catálogo.",
+    "tagline": "Proxies residenciales, móviles y de centros de datos con cobro por GB"
+  },
+  "b2proxy": {
+    "description": "Proveedor de varios tipos de proxy con cobertura internacional, API y rotación anunciada como ilimitada. Comprueba los límites y condiciones del plan antes de utilizarlo.",
+    "tagline": "Proxies de varios tipos con API y rotación"
+  },
+  "iproyal": {
+    "description": "Proveedor con una red residencial anunciada de más de dos millones de IP, además de proxies de centros de datos y para compras de zapatillas. La fuente señala que los precios son más favorables en compras de volumen.",
+    "tagline": "Proxies residenciales, de centros de datos y especializados en comercio electrónico"
+  },
+  "711proxy": {
+    "description": "Proveedor residencial que anuncia más de 80 millones de IP en 195 países, selección por ciudad y SOCKS5. También ofrece proxies ISP y planes residenciales sin límite de tráfico según la ficha, orientados a extracción de datos y automatización autorizada.",
+    "tagline": "Proxies residenciales e ISP con selección por ciudad y SOCKS5"
+  },
+  "decodo": {
+    "description": "Proveedor de proxies rotativos con una red residencial anunciada de más de 40 millones de IP. Incluye proxies estáticos por lotes, API, documentación y extensión de Chrome, además de planes para redes sociales, comercio y extracción de datos.",
+    "tagline": "Proxies rotativos y estáticos con API y extensión de Chrome"
+  },
+  "brightdata": {
+    "description": "Infraestructura de proxies para empresas con una red residencial anunciada de más de 72 millones de IP. La ficha incluye Web Unlocker, SERP API, recopilación mediante navegador, extractores y asistencia de IA. Indica requisitos de KYC y ausencia de pago con criptomonedas.",
+    "tagline": "Infraestructura empresarial de proxies, SERP API y recopilación web"
+  },
+  "proxysoxy": {
+    "description": "Bot de Telegram para comprar proxies sin utilizar un panel web. La fuente describe entrega rápida y una selección reducida, principalmente de países de la CEI, orientada a compras puntuales.",
+    "tagline": "Compra de proxies directamente mediante un bot de Telegram"
+  },
+  "proxystore": {
+    "description": "Tienda de proxies privados con alquileres de una semana a tres meses y direcciones dedicadas que se mantienen durante la sesión contratada. La fuente menciona un panel básico y considera elevado el precio.",
+    "tagline": "Alquiler de proxies dedicados de una semana a tres meses"
+  },
+  "spaceproxy": {
+    "description": "Proveedor de proxies IPv4 e IPv6 con integración mediante API. La fuente lo presenta como una alternativa económica para sus ubicaciones disponibles, sin funciones especialmente diferenciadoras.",
+    "tagline": "Proxies IPv4 e IPv6 con integración mediante API"
+  },
+  "proxy-ipv4": {
+    "description": "Proxies IPv4 dedicados de varias ubicaciones, con selección de país y cantidad. La ficha permite compras por lotes durante periodos desde tres días y también incluye proxies móviles, además de direcciones para sesiones prolongadas.",
+    "tagline": "IPv4 dedicadas por país, con alquileres cortos y opciones móviles"
+  },
+  "froxy": {
+    "description": "Red de proxies residenciales rotativos que anuncia más de ocho millones de IP. Dispone de API y planes por petición o por GB para extracción de datos y automatización; la fuente advierte de posibles requisitos de KYC para acceso completo.",
+    "tagline": "Proxies residenciales rotativos con cobro por petición o por GB"
+  },
+  "astroproxy": {
+    "description": "Proxies residenciales con facturación por tráfico, rotación y panel de consumo en tiempo real. La ficha describe integración con navegadores de perfiles y señala que los pagos con criptomonedas requieren KYC.",
+    "tagline": "Proxies residenciales con rotación y seguimiento del consumo"
+  },
+  "fineproxy": {
+    "description": "Proveedor de proxies que la fuente sitúa en el mercado desde 2011, orientado a compras de gran volumen. Advierte de variaciones de calidad entre lotes y cita proxies individuales en torno a 2 USD al mes como referencia histórica.",
+    "tagline": "Proxies por volumen y opciones individuales"
+  },
+  "youproxy": {
+    "description": "Proxies individuales con selección manual de ubicación y una interfaz minimalista. La fuente destaca la compra directa según el país requerido, sin añadir funciones avanzadas al panel.",
+    "tagline": "Proxies individuales con selección manual de ubicación"
+  },
+  "frigate": {
+    "description": "Proveedor ruso de proxies de centros de datos y móviles, orientado a operaciones en la CEI. La fuente menciona una larga trayectoria y soporte, pero critica la interfaz y el precio.",
+    "tagline": "Proxies móviles y de centros de datos para ubicaciones de la CEI"
+  },
+  "mobileproxy": {
+    "description": "Proxies móviles basados en tarjetas SIM, con rotación automática de IP por petición según la ficha. También ofrece proxies estáticos y una prueba gratuita anunciada. Ningún tipo de IP garantiza evitar listas de bloqueo.",
+    "tagline": "Proxies con SIM y rotación de IP, además de opciones estáticas"
+  },
+  "proxywhite": {
+    "description": "Proxies privados con acceso mediante una lista de IP autorizadas. La fuente describe un conjunto reducido y comprobaciones antes de asignar las direcciones; tales controles no garantizan aceptación en plataformas ni ausencia de bloqueos.",
+    "tagline": "Proxies privados con acceso restringido por lista de IP"
+  },
+  "illusory": {
+    "description": "Proxies residenciales con mecanismos de rotación, API y un panel de gestión amplio. La fuente señala precios elevados por GB y por acceso a la API, y considera que la configuración requiere experiencia.",
+    "tagline": "Proxies residenciales con rotación, API y panel avanzado"
+  },
+  "netnut": {
+    "description": "Proxies residenciales conectados a ISP, en lugar de una red P2P, según la ficha. Anuncia selección por ciudad en más de 50 países, gestor de cuenta y extractores de datos de pago. Comprueba y cumple los requisitos reales de registro.",
+    "tagline": "Proxies residenciales sobre conexiones ISP y selección por ciudad"
+  },
+  "aceproxies": {
+    "description": "Proxies de centros de datos orientados a tiendas de zapatillas y lanzamientos limitados, con referencias a Shopify, Footlocker y Supreme. La fuente indica cobertura geográfica limitada. La oferta no garantiza acceso o compras en esas tiendas; deben respetarse sus requisitos de registro.",
+    "tagline": "Proxies de centros de datos orientados a comercio y lanzamientos limitados"
+  },
+  "anonymous": {
+    "description": "Proveedor de proxies HTTP y SOCKS5 con integración mediante API. La fuente indica un pedido mínimo de 10 USD para evitar un cargo adicional; el nombre comercial no constituye una garantía de anonimato.",
+    "tagline": "Proxies HTTP y SOCKS5 con API y un mínimo de pedido anunciado"
+  },
+  "bestproxy": {
+    "description": "Proveedor cuya oferta e interfaz la fuente compara con Anonymous. La ficha señala el mismo pedido mínimo de 10 USD; la relación entre ambos servicios no está verificada por el catálogo.",
+    "tagline": "Oferta de proxies con un pedido mínimo anunciado de 10 USD"
+  },
+  "buypersonalproxy": {
+    "description": "Proxies personales dedicados cuya exclusividad anuncia el proveedor, junto con opciones compartidas por mes. La fuente cita como ejemplo 25 proxies compartidos por 15 USD y cuestiona el precio de los dedicados.",
+    "tagline": "Proxies personales dedicados y lotes compartidos mensuales"
+  },
+  "changemyip": {
+    "description": "Servicio de rotación de IP que también permite comprar proxies. La fuente compara su funcionamiento con Anonymous y BestProxy y menciona un pedido mínimo de 10 USD.",
+    "tagline": "Rotación de IP y compra de proxies"
+  },
+  "infantica": {
+    "description": "Red de proxies residenciales con rotación orientada a extracción de datos a gran escala y distribución geográfica. Las afirmaciones originales sobre evitar límites o CAPTCHA no se presentan como garantías de funcionamiento.",
+    "tagline": "Proxies residenciales rotativos para procesos de recopilación de datos"
+  },
+  "localproxies": {
+    "description": "Proxies residenciales que permiten seleccionar una ciudad o un ISP concreto. La fuente destaca esa precisión geográfica, pero señala inventario reducido, precios elevados e interfaz antigua.",
+    "tagline": "Proxies residenciales seleccionados por ciudad o ISP"
+  },
+  "litproxy": {
+    "description": "Proveedor reciente de proxies que la fuente describe mediante su política de precios. La API figura como una función futura anunciada, por lo que no se considera disponible sin comprobarlo.",
+    "tagline": "Proveedor de proxies con API anunciada como función futura"
+  },
+  "flipnode": {
+    "description": "Proveedor residencial orientado a extracción de datos y procesos automatizados. La ficha incluye documentación de API y rotación adaptada al comportamiento del sitio de destino, sin garantizar superar sus controles o restricciones.",
+    "tagline": "Proxies residenciales con API para procesos de recopilación web"
+  },
+  "proxyleet": {
+    "description": "Servicio ruso de proxies económicos y lotes pequeños. La fuente menciona precios de pocos céntimos por lote, pero deja abierta la calidad de las direcciones.",
+    "tagline": "Servicio de proxies económicos de un proveedor ruso"
+  },
+  "oxylabs": {
+    "description": "Proveedor empresarial con redes residenciales, móviles y de centros de datos que anuncia más de 100 millones de IP. Incluye rotación, selección por ciudad y gestores de cuenta; la calidad anunciada pertenece al proveedor.",
+    "tagline": "Infraestructura empresarial con proxies residenciales, móviles y de centros de datos"
+  },
+  "proxycue": {
+    "description": "Proxies con rotación básica y un panel mínimo para pruebas o recopilación de datos en sitios accesibles. La ficha también menciona VDS en varios países y una valoración crítica de sus precios.",
+    "tagline": "Proxies con rotación básica y oferta adicional de VDS"
+  },
+  "privateproxy": {
+    "description": "Proxies privados dedicados, diversos planes y acceso mediante API. La exclusividad es una condición anunciada por el proveedor. Según la fuente, el pago directo disponible es con criptomonedas y otros métodos requieren KYC.",
+    "tagline": "Proxies privados dedicados con varios planes e integración API"
+  },
+  "proxysocks5": {
+    "description": "Proveedor centrado en SOCKS5 con selección de ubicaciones y operadores. La fuente menciona un pedido mínimo de 10 USD y un cargo adicional para compras inferiores.",
+    "tagline": "Proxies SOCKS5 con selección de ubicación y operador"
+  },
+  "proxyverse": {
+    "description": "Plataforma de proxies residenciales con interfaz de gestión, documentación de API y distintos planes. La fuente la presenta como una opción de uso general; sus opiniones sobre calidad no se verifican aquí.",
+    "tagline": "Proxies residenciales con panel y documentación de API"
+  },
+  "proxyempire": {
+    "description": "Plataforma que reúne proxies residenciales y móviles rotativos en un mismo panel. La ficha describe direcciones de operadores 4G/LTE y planes flexibles para ambos tipos de red.",
+    "tagline": "Proxies residenciales y móviles 4G/LTE en un mismo panel"
+  },
+  "proxymarket": {
+    "description": "Mercado que agrupa proxies de varios vendedores para comparar tipos y proveedores. La fuente menciona un mecanismo de depósito en garantía y un sobreprecio por la intermediación; ese mecanismo no asegura una transacción sin riesgo.",
+    "tagline": "Mercado de proxies de varios vendedores con intermediación"
+  },
+  "proxystorenet": {
+    "description": "Tienda de proxies privados con direcciones dedicadas. La fuente describe un modelo de compra directo y cita proxies residenciales a 12 USD/GB como ejemplo de un precio que considera elevado.",
+    "tagline": "Tienda de proxies privados y direcciones dedicadas"
+  },
+  "ip-burger": {
+    "description": "Proveedor de proxies residenciales que renueva sus direcciones periódicamente según la ficha. La fuente destaca la marca IP Burger, pero considera elevados los precios.",
+    "tagline": "Proxies residenciales con renovación periódica de direcciones"
+  },
+  "hydraproxy": {
+    "description": "Proveedor de proxies residenciales, móviles y de centros de datos con compras flexibles y panel unificado. Incluye API y el gestor de perfiles HydraHeaders según el catálogo.",
+    "tagline": "Varios tipos de proxy, API y gestor de perfiles HydraHeaders"
+  },
+  "proxy-cheap": {
+    "description": "Proveedor económico de proxies con selección geográfica y rotación. La fuente lo orienta a pruebas y recopilación de datos, y advierte de que la calidad de IP puede ser insuficiente para algunas plataformas.",
+    "tagline": "Proxies económicos con rotación para pruebas y recopilación web"
+  },
+  "proxyrack": {
+    "description": "Agregador de proxies residenciales y móviles administrados desde un panel. La ficha incluye cobro por puerto y planes sin límite de tráfico, pero señala compras mínimas de 10 GB.",
+    "tagline": "Agregador de proxies residenciales y móviles con varios modelos de cobro"
+  },
+  "9proxy": {
+    "description": "Proxies residenciales rotativos con cobro por IP en lugar de por GB. La fuente anuncia más de 55 países y tráfico ilimitado bajo sus condiciones, con ejemplos de 0,20 a 0,04 USD por IP en lotes grandes.",
+    "tagline": "Proxies residenciales rotativos facturados por IP"
+  },
+  "lightning-proxies": {
+    "description": "Proveedor de proxies residenciales, móviles, ISP, de centros de datos e IPv6, con API y prueba anunciada. La fuente cita como ejemplo 1000 IP de centros de datos con 1000 GB durante un mes por 31,86 USD; precios y reseñas son datos del catálogo.",
+    "tagline": "Proxies de varios tipos con API y prueba anunciada"
+  },
+  "mars-proxies": {
+    "description": "Proxies ISP con UDP y tráfico anunciado como ilimitado en más de 30 países. La fuente menciona más de 370 reseñas en Trustpilot; esa referencia no constituye una auditoría de calidad o seguridad.",
+    "tagline": "Proxies ISP con soporte UDP y cobertura internacional"
+  },
+  "lte-socks": {
+    "description": "Proveedor pequeño de proxies residenciales dedicados y móviles LTE/4G basados en tarjetas SIM. La ficha incluye rotación manual y automática de IP.",
+    "tagline": "Proxies residenciales y LTE/4G con rotación manual o automática"
+  },
+  "cat-proxies": {
+    "description": "Proveedor con prueba, API y selección por ciudad. La ficha menciona KYC, proxies residenciales sin límite de tráfico desde 250 USD al día y lotes de proxies estáticos de centros de datos. Cumple los requisitos reales de identificación del servicio.",
+    "tagline": "Proxies con API, selección por ciudad y planes residenciales o estáticos"
+  },
+  "cyberyozh": {
+    "description": "Proveedor de proxies de un equipo de la CEI, conocido en la comunidad rusohablante de criptomonedas según la fuente. La ficha registra una valoración de 4,7 con más de 122 reseñas en Trustpilot; son datos de procedencia externa.",
+    "tagline": "Proveedor de proxies de la CEI citado por la comunidad de criptomonedas"
+  },
+  "nettify": {
+    "description": "Proveedor de proxies con autorización mediante token. La fuente cita residenciales desde 1 USD/GB, móviles desde 1,50 USD/GB, centros de datos desde 0,50 USD/GB y planes residenciales ilimitados desde 96 USD al día.",
+    "tagline": "Proxies por tráfico con autorización mediante token"
+  },
+  "naproxy": {
+    "description": "Proveedor con API y selección por ciudad en más de 60 países según la ficha. Anuncia proxies residenciales desde 2,10 USD/GB, ISP desde 5,90 USD/mes y centros de datos desde 2,80 USD/mes; los residenciales se compran desde 10 GB.",
+    "tagline": "Proxies residenciales, ISP y de centros de datos con API"
+  },
+  "lumi-proxy": {
+    "description": "Proveedor de proxies sobre el que la fuente ofrece una valoración crítica del precio y no identifica funciones diferenciadoras concretas. La ficha no aporta una comprobación independiente de calidad.",
+    "tagline": "Proveedor de proxies sin funciones diferenciadoras documentadas en la fuente"
+  },
+  "bartproxies": {
+    "description": "Proveedor de proxies residenciales cuya ficha cita 20 USD/GB y una valoración de 4,4 con más de 197 reseñas en Trustpilot. La fuente considera elevado el precio; las reseñas y tarifas no se verifican aquí.",
+    "tagline": "Proxies residenciales con una tarifa de referencia citada por GB"
+  },
+  "kocer-roxy": {
+    "description": "Proveedor cuya disponibilidad descrita se concentra en proxies móviles. La fuente advierte de restricciones para los proxies de centros de datos y recomienda comprobar existencias y límites antes de contratar.",
+    "tagline": "Oferta centrada en proxies móviles y disponibilidad limitada de centros de datos"
+  },
+  "ipnproxy": {
+    "description": "Proveedor de varios tipos de proxy, con selección por ciudad para los residenciales y compras en volumen de redes móviles o residenciales. La ficha cita una puntuación de 4,7 y más de 62 reseñas en Trustpilot como información externa.",
+    "tagline": "Proxies residenciales y móviles por volumen, con selección por ciudad"
+  },
+  "momoproxy": {
+    "description": "Proxies residenciales e ISP con selección por ciudad, SOCKS5 y rotación manual o automática. La fuente anuncia una prueba y precios desde 3 USD/GB para residenciales y 5 USD/mes para ISP; cita 12 reseñas y una nota de 3,9 en Trustpilot.",
+    "tagline": "Proxies residenciales e ISP con SOCKS5 y rotación configurable"
+  },
+  "ake": {
+    "description": "Proveedor de varios tipos de proxy con cobertura anunciada en más de 110 países. La fuente destaca las opciones móviles e ISP por su precio.",
+    "tagline": "Proxies móviles e ISP con cobertura internacional"
+  },
+  "ghostealth": {
+    "description": "Proveedor de proxies residenciales orientado a pedidos grandes, con opciones de centros de datos por volumen. La fuente señala que no está pensado para comprar unas pocas IP o GB de prueba y deja abierta la calidad del servicio.",
+    "tagline": "Proxies residenciales y de centros de datos en lotes grandes"
+  },
+  "nodemaven": {
+    "description": "Proveedor centrado en proxies residenciales, con IPv6, SOCKS5, rotación automática y API. La fuente cita una nota de 4,2 con más de 86 reseñas en Trustpilot, pero critica el rendimiento del panel y el precio.",
+    "tagline": "Proxies residenciales con IPv6, SOCKS5, rotación y API"
+  },
+  "novada": {
+    "description": "Proveedor de proxies ISP, de centros de datos, residenciales y móviles. La fuente cita tarifas promocionales desde 0,72 USD/mes para ISP o centros de datos, 3 USD/GB para residenciales y 5 USD/GB para móviles, y señala KYC para acceso completo.",
+    "tagline": "Proxies ISP, residenciales, móviles y de centros de datos"
+  },
+  "proxiware": {
+    "description": "Proveedor que factura los proxies por tráfico, incluidos los de centros de datos. La fuente destaca especialmente las conexiones residenciales y cita una valoración de 4,8 con más de 225 reseñas en Trustpilot como metadatos externos.",
+    "tagline": "Proxies facturados por tráfico, incluidas las conexiones de centros de datos"
+  },
+  "proxy-302": {
+    "description": "Servicio chino de proxies con opciones económicas y una prueba anunciada. La fuente señala dificultades en el proceso de registro; confirma los requisitos y condiciones antes de contratar.",
+    "tagline": "Proxies económicos y una prueba anunciada de un proveedor chino"
+  },
+  "psb-proxy": {
+    "description": "Proveedor de proxies dedicados con rotación y una estructura de precios sencilla. La rotación ilimitada es una condición anunciada en la fuente y debe comprobarse en el plan elegido.",
+    "tagline": "Proxies dedicados rotativos con contratación sencilla"
+  },
+  "ping-proxies": {
+    "description": "Proveedor con opciones ISP dedicadas y proxies residenciales. La fuente lo orienta a múltiples cuentas con poco consumo de tráfico y cita más de 178 reseñas en Trustpilot, sin verificar aceptación en plataformas.",
+    "tagline": "Proxies ISP dedicados y residenciales para consumos de tráfico reducidos"
+  },
+  "plain-proxies": {
+    "description": "Proveedor de proxies cuya ficha cita más de 27 reseñas y una nota de 3,8 en Trustpilot. La fuente advierte de problemas en el registro y el panel, sin documentar prestaciones diferenciadoras.",
+    "tagline": "Proveedor de proxies con incidencias de registro y panel señaladas por la fuente"
+  },
+  "proxies-fo": {
+    "description": "Proveedor de proxies con opciones residenciales y móviles. La fuente valora estas dos opciones de forma más favorable que el resto de su oferta y menciona más de 88 reseñas en Trustpilot.",
+    "tagline": "Proxies residenciales y móviles dentro de una oferta de varios tipos"
+  },
+  "soax": {
+    "description": "Proveedor con API, selección geográfica avanzada y opciones residenciales por volumen. La fuente indica que los pagos con criptomonedas y varias funciones requieren contactar con soporte; cita una nota de 4 y más de 144 reseñas en Trustpilot.",
+    "tagline": "Proxies con API y selección geográfica avanzada"
+  },
+  "rayobyte": {
+    "description": "Proveedor estadounidense de proxies. El texto original contiene principalmente una opinión desfavorable sobre la comodidad de uso y no documenta funciones específicas adicionales.",
+    "tagline": "Proveedor estadounidense de proxies con información funcional limitada en la fuente"
+  },
+  "stable-proxy": {
+    "description": "Proveedor ucraniano de proxies con selección de países limitada según la fuente. La ficha cita precios económicos, más de 452 reseñas y una nota de 4,8 en Trustpilot, y advierte de dificultades de uso fuera de su mercado principal.",
+    "tagline": "Proveedor ucraniano de proxies con selección geográfica reducida"
+  },
+  "squid-proxies": {
+    "description": "Servicio de proxies que la fuente presenta como una alternativa local de precio moderado. El texto expresa dudas sobre la calidad, sin aportar una medición independiente.",
+    "tagline": "Servicio local de proxies con una referencia de precio moderado"
+  },
+  "proxidize": {
+    "description": "Infraestructura de proxies móviles que la fuente considera costosa y poco cómoda. La ficha indica que el pago se realiza únicamente con tarjeta; comprueba los métodos disponibles actualmente.",
+    "tagline": "Infraestructura de proxies móviles con pago por tarjeta según la ficha"
+  },
+  "ip-peak": {
+    "description": "Proveedor de proxies residenciales e ISP, con SOCKS5 y rotación automática. La fuente cita residenciales desde 1,20 USD/GB, ISP desde 6 USD/mes y planes residenciales ilimitados desde 109 USD al día.",
+    "tagline": "Proxies residenciales e ISP con SOCKS5 y rotación automática"
+  },
+  "ziny": {
+    "description": "Proveedor local de varios tipos de proxy con selección por ciudad y una prueba gratuita anunciada. La fuente señala que hay pocas reseñas disponibles.",
+    "tagline": "Varios tipos de proxy con selección por ciudad y prueba anunciada"
+  },
+  "proxyma": {
+    "description": "Proveedor orientado al mercado rusohablante con proxies residenciales y móviles. La ficha menciona pago mediante SBP y una oferta básica de direcciones.",
+    "tagline": "Proxies residenciales y móviles con pago mediante SBP"
+  },
+  "proxysolutions": {
+    "description": "Proveedor ruso con proxies personales, por lotes, por ciudad, UDP y móviles, en más de 28 países según la ficha. Incluye API, automatización y bots de mensajería.",
+    "tagline": "Proxies personales, UDP y móviles con API y bots de mensajería"
+  },
+  "sx": {
+    "description": "Mercado de proxies con una clasificación de las IP basada en checker.net. La fuente anuncia diversos tipos a 3 USD/GB, opciones ilimitadas desde 5 USD/mes y 235 ubicaciones; esas cifras y evaluaciones son metadatos del proveedor.",
+    "tagline": "Mercado de proxies con una clasificación de IP procedente de checker.net"
+  },
+  "nyprox": {
+    "description": "Proveedor centrado exclusivamente en proxies de centros de datos, con HTTPS y SOCKS5. La fuente anuncia 10.000 servidores y precios desde 0,02 USD por IP al mes, sin opciones residenciales ni móviles.",
+    "tagline": "Proxies de centros de datos con HTTPS y SOCKS5"
+  },
+  "thunderproxy": {
+    "description": "Proveedor lituano que anuncia una red de más de 30 millones de IP y cobertura en más de 155 países. La ficha cita ISP desde 1,79 USD por IP, pagos con criptomonedas y una prueba de 256 MB.",
+    "tagline": "Proxies ISP con cobertura internacional y una prueba de 256 MB anunciada"
+  },
+  "elusive": {
+    "description": "Proxies móviles 4G únicamente del Reino Unido, sobre la red ThreeUK. La ficha incluye rotación por URL o automática, tráfico anunciado como ilimitado y precios en GBP.",
+    "tagline": "Proxies móviles británicos 4G en la red ThreeUK"
+  },
+  "evomi": {
+    "description": "Proveedor suizo con proxies residenciales, móviles y de centros de datos en más de 150 países según la ficha. Cita tarifas iniciales desde 0,49, 2,20 y 0,35 USD/GB respectivamente, una certificación EWDCI anunciada y KYC para acceso completo.",
+    "tagline": "Proxies de un proveedor suizo con tarifas iniciales por tráfico"
+  },
+  "gridpanel": {
+    "description": "Proveedor británico centrado en proxies móviles 4G/5G, con opciones residenciales y de centros de datos. La ficha incluye una API de extracción de datos y anuncia 50 extracciones gratuitas para probarla.",
+    "tagline": "Proxies móviles 4G/5G y API de recopilación de datos"
+  },
+  "globalproxies": {
+    "description": "Proxies móviles 4G/5G exclusivamente de Estados Unidos. La fuente cita 10 USD al día o 150 USD al mes, 15 GB diarios y rotaciones ilimitadas bajo las condiciones del servicio.",
+    "tagline": "Proxies móviles 4G/5G de Estados Unidos"
+  },
+  "flowproxies": {
+    "description": "Proxies ISP y residenciales orientados al mercado estadounidense y a herramientas para lanzamientos de zapatillas. La ficha menciona una comunidad en Discord; no implica autorización o éxito en las tiendas de destino.",
+    "tagline": "Proxies ISP y residenciales orientados a comercio en Estados Unidos"
+  },
+  "proxybase": {
+    "description": "Proveedor británico que anuncia una red de más de 191 millones de IP y una API de recopilación web. La fuente cita tarifas residenciales desde 5 USD/GB en volúmenes pequeños hasta 1,80 USD/GB al contratar 3 TB.",
+    "tagline": "Proxies residenciales por volumen y API de recopilación web"
+  },
+  "belurk": {
+    "description": "Tienda rusa de proxies IPv4 e IPv6 con HTTPS, SOCKS5 y acceso mediante API. La fuente sitúa su público principal en la CEI.",
+    "tagline": "Proxies IPv4 e IPv6 con HTTPS, SOCKS5 y API"
+  },
+  "getproxy": {
+    "description": "Tienda rusa de proxies de servidor y móviles IPv4/IPv6, con reservas y compra automática. La fuente cita precios desde 35 RUB al mes y opciones anunciadas para Avito y otros servicios rusos.",
+    "tagline": "Proxies de servidor y móviles con reserva y compra automática"
+  },
+  "floppydata": {
+    "description": "Tienda local de proxies con pocos países y una prueba gratuita anunciada. La fuente plantea dudas sobre la calidad y condiciona su valoración al precio disponible.",
+    "tagline": "Tienda de proxies con cobertura limitada y una prueba anunciada"
+  },
+  "proxio": {
+    "description": "Proveedor de proxies residenciales e ISP que anuncia una red de más de diez millones de IP. Está orientado a recopilación web y monitorización; el 99,9% de disponibilidad citado es una afirmación del proveedor, no una medición del catálogo.",
+    "tagline": "Proxies residenciales e ISP para recopilación web y monitorización"
+  },
+  "proxystream": {
+    "description": "Proxies móviles 4G/5G con planes por hora o mes. La fuente anuncia más de 50 países, operadores Verizon, T-Mobile y AT&T, tráfico ilimitado y precios desde 1 USD por hora; comprueba los límites del plan.",
+    "tagline": "Proxies móviles 4G/5G con contratación por hora o mes"
+  },
+  "proxy-family": {
+    "description": "Proveedor ruso de proxies IPv4/IPv6 para Rusia. La fuente incluye acusaciones sobre reventa de proxies, bloqueos de cuentas y pagos retenidos; se conserva la advertencia como un relato atribuido, sin presentarlo como un hecho investigado por MakeCash.",
+    "tagline": "Proxies IPv4/IPv6 para Rusia con advertencias atribuidas a la fuente"
+  },
+  "moni": {
+    "description": "Plataforma de medios y análisis social que sigue la actividad de personas influyentes y tendencias de conversación sobre criptomonedas en X. La ficha incluye una extensión gratuita para analizar perfiles de X y un terminal de negociación añadido al ecosistema.",
+    "tagline": "Análisis de conversaciones y perfiles de X en el ecosistema de criptomonedas"
+  },
+  "cryptorank": {
+    "description": "Plataforma de investigación de criptomonedas con rondas de financiación, actividades de proyectos y desbloqueos de tokens. La fuente cita suscripciones de 15 u 80 USD al mes y una API de pago con una referencia de 149 USD al mes.",
+    "tagline": "Investigación de proyectos, financiación y desbloqueos de tokens"
+  },
+  "defilama": {
+    "description": "Panel de análisis DeFi con clasificaciones de TVL, comparación de rendimientos, ingresos de protocolos, métricas de cadenas y volumen de DEX. La fuente describe una base gratuita y de código abierto, con suscripción para datos adicionales y funciones de IA.",
+    "tagline": "TVL, ingresos de protocolos, volúmenes DEX y comparación de datos DeFi"
+  },
+  "dune": {
+    "description": "Plataforma colaborativa de análisis de cadenas de bloques mediante consultas SQL. Incluye paneles sobre actividad de protocolos, movimientos de grandes monederos, flujos de tokens y métricas DeFi, con funciones de pago para trabajos más avanzados.",
+    "tagline": "Consultas SQL y paneles colaborativos sobre datos de cadenas de bloques"
+  },
+  "artemis": {
+    "description": "Plataforma de análisis entre cadenas con datos de fundamentos de protocolos, actividad de desarrolladores y métricas L1/L2 normalizadas. Ofrece gráficos exportables y paneles personalizados según la ficha.",
+    "tagline": "Comparación de ecosistemas L1/L2 y fundamentos de protocolos"
+  },
+  "debank": {
+    "description": "Seguimiento de carteras en cadenas EVM con posiciones DeFi, tokens y NFT de direcciones públicas en un panel. Añade una capa social para seguir actividad en cadena y procede del equipo de Rabby según la fuente.",
+    "tagline": "Seguimiento de carteras EVM, posiciones DeFi y actividad social en cadena"
+  },
+  "glassnode": {
+    "description": "Análisis en cadena centrado en Bitcoin y Ethereum, con HODL waves, SOPR, NUPL y entradas o salidas de exchanges. La ficha distingue métricas básicas gratuitas con retraso y planes de pago para datos en tiempo real y gráficos avanzados.",
+    "tagline": "Métricas de Bitcoin y Ethereum, incluidos SOPR, NUPL y flujos de exchanges"
+  },
+  "etherdrops": {
+    "description": "Bot de Telegram para alertas de precios de tokens y seguimiento de monederos. Permite definir umbrales y recibir avisos sobre cambios de saldo y nuevas transferencias según la ficha; la cobertura y la latencia dependen del servicio.",
+    "tagline": "Alertas de precios y cambios de saldo mediante Telegram"
+  },
+  "notslava": {
+    "description": "Bot de Telegram para convertir cantidades de tokens a su valor indicado, por ejemplo al enviar «0.04634 SOL». La fuente lo sitúa en la comunidad de criptomonedas de la CEI y cita más de 30.000 usuarios mensuales.",
+    "tagline": "Consulta del valor de una cantidad de tokens mediante un mensaje de Telegram"
+  },
+  "arkham": {
+    "description": "Plataforma de investigación en cadena para identificar entidades y rastrear transacciones. Etiqueta direcciones atribuidas a exchanges, fondos y otras entidades, e incluye seguimiento de carteras, alertas y el mercado de información Intel Exchange; las etiquetas no prueban por sí solas una identidad.",
+    "tagline": "Etiquetado de direcciones, rastreo de transacciones y alertas en cadena"
+  },
+  "nansen": {
+    "description": "Plataforma de etiquetado y seguimiento de monederos que clasifica fondos, grandes titulares y operadores. El perfil de una dirección reúne su actividad DeFi. Las etiquetas de «dinero inteligente» y las afirmaciones de utilidad de la fuente no garantizan rentabilidad.",
+    "tagline": "Etiquetado de monederos y seguimiento de su actividad DeFi"
+  },
+  "layerhub": {
+    "description": "Seguimiento de actividad entre varias cadenas mediante volúmenes de transacciones, direcciones activas y flujos de TVL de proyectos y protocolos. La fuente destaca un panel ligero, pero advierte de actualizaciones menos frecuentes que antes.",
+    "tagline": "Volúmenes, direcciones activas y flujos de TVL entre cadenas"
+  },
+  "bankless": {
+    "description": "Medio y plataforma educativa sobre DeFi, redes L2 y el ecosistema Ethereum. Publica pódcast, boletines e investigación comunitaria para estudiar narrativas y mecanismos de protocolos.",
+    "tagline": "Pódcast, boletines y formación sobre DeFi, L2 y Ethereum"
+  },
+  "delphidigital": {
+    "description": "Firma de investigación de criptomonedas con informes extensos, tesis y paneles basados en datos. La ficha cubre protocolos DeFi, ecosistemas L1/L2, tokenómica y análisis macroeconómico mediante una suscripción de pago.",
+    "tagline": "Informes de investigación sobre DeFi, tokenómica y ecosistemas L1/L2"
+  },
+  "messari": {
+    "description": "Plataforma de datos e investigación de criptomonedas con perfiles de activos, seguimiento de gobernanza, ingresos de protocolos e informes. Las funciones de pago incluyen filtros, alertas personalizadas y API.",
+    "tagline": "Datos de activos, gobernanza e investigación con filtros, alertas y API"
+  },
+  "l2beat": {
+    "description": "Plataforma de comparación y análisis de riesgos de redes L2. Registra TVL, tecnología, etapa de seguridad y factores de riesgo de rollups, con una metodología publicada según la fuente; no garantiza la seguridad de las redes analizadas.",
+    "tagline": "Comparación de rollups L2 por tecnología, TVL y factores de riesgo"
+  },
+  "rayo": {
+    "description": "Análisis social de criptomonedas que sigue el volumen de conversación en Twitter, Telegram y Discord. Incluye directorios de aplicaciones por ecosistema y más de 2200 proyectos Web3 anunciados en la ficha.",
+    "tagline": "Tendencias sociales y directorio de aplicaciones por ecosistema Web3"
+  },
+  "cielo": {
+    "description": "Seguimiento de direcciones en varias cadenas con avisos sobre transferencias, intercambios, creación de NFT e interacciones con contratos. La ficha incluye alertas en Telegram y Discord; no convierte la actividad observada en una recomendación de inversión.",
+    "tagline": "Alertas de actividad de monederos en Telegram y Discord"
+  },
+  "dappradar": {
+    "description": "Agregador de aplicaciones descentralizadas que las clasifica por usuarios, volumen y transacciones. Cubre DeFi, juegos, NFT y aplicaciones sociales, con datos históricos, análisis de tendencias, seguimiento de airdrops y explorador de tokens.",
+    "tagline": "Clasificaciones y datos de aplicaciones descentralizadas por usuarios y actividad"
+  },
+  "cointool": {
+    "description": "Conjunto de utilidades para tareas habituales en distintas cadenas. La fuente señala una oferta muy amplia y una calidad desigual entre funciones, sin detallar cada herramienta individual.",
+    "tagline": "Utilidades para realizar distintas tareas en varias cadenas"
+  },
+  "dexu": {
+    "description": "Plataforma de análisis DeFi con IA, seguimiento de carteras y alertas. La ficha describe detección de patrones anómalos en cadena y señales automatizadas de negociación; estas salidas no garantizan detectar riesgos ni obtener beneficios.",
+    "tagline": "Investigación de tokens con IA, alertas y análisis de patrones en cadena"
+  },
+  "crypto-fundraising": {
+    "description": "Base de datos de financiación de proyectos de cadenas de bloques, con rondas semilla, inversiones estratégicas y operaciones de capital de riesgo. Permite buscar por proyecto, inversor, cadena o tamaño de ronda y consultar valoraciones atribuidas a la fuente.",
+    "tagline": "Rondas de financiación de criptomonedas por proyecto, inversor y cuantía"
+  },
+  "chaincatcher": {
+    "description": "Agregador de noticias y análisis de criptomonedas en chino. Reúne novedades, análisis de proyectos y comentarios de mercado de fuentes de habla china para estudiar las narrativas de esa comunidad.",
+    "tagline": "Noticias y análisis de criptomonedas procedentes de fuentes en chino"
+  },
+  "chainlist": {
+    "description": "Directorio de redes compatibles con EVM, con direcciones RPC, identificadores de cadena y monedas nativas. Ofrece añadir redes a MetaMask y consultar RPC alternativos; algunos monederos como Rabby ya incorporan muchas redes.",
+    "tagline": "Directorio de redes EVM, identificadores de cadena y conexiones RPC"
+  },
+  "chaineye": {
+    "description": "Comparador de rutas entre cadenas según red de origen, destino y token. La ficha incluye costes, tiempos e información de proveedores de puentes, así como comisiones de retirada de exchanges por red; la comparación no certifica seguridad ni ejecución.",
+    "tagline": "Comparación de puentes y comisiones de retirada entre redes"
+  },
+  "cypherhunter": {
+    "description": "Base de datos de proyectos de criptomonedas y sus equipos. Permite consultar fundadores, asesores, inversores y antecedentes, y relacionar personas entre proyectos para apoyar una investigación propia.",
+    "tagline": "Información de equipos, fundadores e inversores de proyectos de criptomonedas"
+  },
+  "whale-market": {
+    "description": "Mercado OTC de asignaciones de tokens, puntos de airdrops y posiciones anteriores a su cotización. La ficha menciona depósito en garantía y ofertas de acceso a listas; ni el mecanismo ni la promesa del vendedor garantizan entrega, elegibilidad o ausencia de pérdidas.",
+    "tagline": "Mercado OTC de tokens previos a cotización y puntos de airdrops"
+  },
+  "vestlab": {
+    "description": "Seguimiento de calendarios de consolidación y desbloqueo de tokens. La ficha incluye fechas, volúmenes y destinatarios de numerosos proyectos, además de alertas de próximos desbloqueos.",
+    "tagline": "Calendarios y alertas de consolidación y desbloqueo de tokens"
+  },
+  "dexscreener": {
+    "description": "Agregador de gráficos y pares de negociación de DEX en distintas cadenas. Reúne precios, volúmenes, información de liquidez e historial de transacciones, incluidos pares recién creados.",
+    "tagline": "Gráficos, liquidez y transacciones de pares DEX"
+  },
+  "dextools": {
+    "description": "Plataforma de análisis de DEX con gráficos, señales y puntuaciones de tokens. El explorador de pares muestra liquidez, titulares e información de contratos o auditorías; las puntuaciones y valoraciones comunitarias no garantizan que un token sea seguro.",
+    "tagline": "Gráficos DEX, exploración de pares y puntuaciones de tokens"
+  },
+  "cryptopanic": {
+    "description": "Agregador de noticias de criptomonedas con votos comunitarios e indicadores de sentimiento alcista o bajista. Permite filtrar el flujo de artículos por activo, categoría o sentimiento.",
+    "tagline": "Noticias de criptomonedas con filtros y sentimiento de la comunidad"
+  },
+  "tokleo": {
+    "description": "Análisis de lanzamientos y nuevas cotizaciones de tokens en DEX y CEX. La ficha sigue la liquidez inicial, la distribución de los primeros titulares y los precios desde el lanzamiento; esos datos no garantizan identificar proyectos rentables.",
+    "tagline": "Nuevas cotizaciones, liquidez inicial y distribución de titulares de tokens"
+  },
+  "blocksec": {
+    "description": "Herramientas de análisis de contratos y transacciones DeFi para rastrear fondos, detectar patrones de explotación y estudiar incidentes. La ficha incluye Phalcon para monitorización y funciones anunciadas de protección; no aseguran detectar o impedir todos los ataques.",
+    "tagline": "Análisis de transacciones, flujos de fondos y contratos con Phalcon"
+  },
+  "crunchbase": {
+    "description": "Base de datos de empresas emergentes y capital de riesgo. Permite investigar financiación, equipos, crecimiento y redes de inversores; no es exclusiva de criptomonedas, aunque incluye proyectos de ese sector.",
+    "tagline": "Financiación, equipos y redes de inversión de empresas emergentes"
+  },
+  "icoanalytics": {
+    "description": "Archivo de ICO, IDO, IEO y ventas públicas de tokens, con información histórica de recaudación, cotización inicial, estado y resultados de participantes. Los rendimientos pasados sirven como datos de estudio, sin anticipar resultados futuros.",
+    "tagline": "Archivo histórico de ventas de tokens ICO, IDO e IEO"
+  },
+  "coingecko": {
+    "description": "Agregador de precios, gráficos, capitalización y volúmenes de más de 15.000 monedas según la fuente. Incluye puntuaciones propias de exchanges, API y una suscripción con datos o gráficos adicionales; las puntuaciones no son una certificación de seguridad.",
+    "tagline": "Precios, capitalización, volúmenes y API de datos de criptomonedas"
+  },
+  "dropstab": {
+    "description": "Plataforma de investigación con seguimiento de carteras y airdrops, rondas de financiación, actividad de inversores y análisis de tokens. La fuente la describe como gratuita y con un gestor de cartera integrado.",
+    "tagline": "Carteras, airdrops, financiación y análisis de tokens en un panel"
+  },
+  "coinmarketcap": {
+    "description": "Agregador de criptomonedas propiedad de Binance según la fuente, con precios, capitalización, volúmenes y clasificaciones de exchanges para miles de activos. Añade campañas educativas, páginas de airdrops y contenido formativo; las campañas no garantizan elegibilidad o recompensas.",
+    "tagline": "Precios, capitalización y clasificaciones de mercados de criptomonedas"
+  },
+  "tradingview": {
+    "description": "Plataforma de gráficos y análisis técnico para criptomonedas, acciones y divisas. Incluye indicadores y estrategias de la comunidad, datos y alertas, con versión gratuita y planes de pago que amplían límites y eliminan anuncios.",
+    "tagline": "Gráficos, indicadores comunitarios y alertas para distintos mercados"
+  },
+  "santiment": {
+    "description": "Análisis de datos en cadena, redes sociales y desarrollo. Sigue actividad de grandes monederos, cambios de código, crecimiento de redes y la métrica Social Volume; los planes de pago añaden alertas y mayor historial.",
+    "tagline": "Datos en cadena, actividad de desarrollo y métricas de conversación social"
+  },
+  "cryptoquant": {
+    "description": "Análisis de mercado y datos en cadena centrado en flujos de exchanges, actividad minera e indicadores macro. Incluye reservas de exchanges, salidas de mineros y métricas de stablecoins, con una versión gratuita limitada y planes con API y alertas.",
+    "tagline": "Flujos de exchanges, minería y métricas de Bitcoin y stablecoins"
+  },
+  "zapper": {
+    "description": "Panel DeFi de varias cadenas para seguir carteras, NFT y actividad en cadena. Muestra posiciones, historial de patrimonio y direcciones públicas, e incluye un sistema de misiones y experiencia según la ficha.",
+    "tagline": "Carteras DeFi, NFT e historial de actividad entre cadenas"
+  },
+  "revert": {
+    "description": "Análisis de posiciones de liquidez concentrada, especialmente en Uniswap V3. Calcula resultados de proveedores de liquidez, pérdida impermanente y comisiones acumuladas, y ofrece herramientas de gestión de posiciones.",
+    "tagline": "Resultados, comisiones y pérdida impermanente de posiciones Uniswap V3"
+  },
+  "eigenphi": {
+    "description": "Análisis de MEV y transacciones DeFi en redes EVM. Sigue ataques sándwich, arbitraje, liquidaciones y préstamos instantáneos para estudiar la extracción de valor y el comportamiento de bots.",
+    "tagline": "Análisis de MEV, arbitraje, liquidaciones y préstamos instantáneos"
+  },
+  "nftscan": {
+    "description": "Explorador y plataforma de análisis de NFT en Ethereum, Polygon, BNB, Solana, Arbitrum y otras redes. Permite consultar colecciones, precios mínimos, distribución de titulares y actividad de grandes monederos; incluye API para desarrolladores.",
+    "tagline": "Explorador NFT entre cadenas con análisis de colecciones y API"
+  },
+  "tenderly": {
+    "description": "Plataforma para desarrollar y depurar contratos de Solidity. Incluye simulación de transacciones, depuración paso a paso, monitorización, análisis de gas y alertas de eventos, con planes para proyectos personales y equipos.",
+    "tagline": "Simulación, depuración, gas y monitorización de contratos de Solidity"
+  },
+  "bubblemaps": {
+    "description": "Visualiza la distribución de titulares de un token mediante burbujas. El tamaño representa la participación y los enlaces reflejan transferencias, lo que permite estudiar concentraciones y grupos de direcciones; las conexiones no prueban por sí solas control común o fraude.",
+    "tagline": "Mapas de burbujas de titulares, participaciones y transferencias de tokens"
+  },
+  "birdeye": {
+    "description": "Plataforma de datos y análisis de tokens centrada en Solana. Incluye gráficos, clasificaciones de operadores, tokens nuevos, seguimiento de monederos, gestión de cartera e información de riesgos, con funciones de negociación en su interfaz.",
+    "tagline": "Gráficos y análisis de tokens de Solana con seguimiento de monederos"
+  },
+  "darkstore": {
+    "description": "Mercado de cuentas digitales de distintas categorías y precios. La fuente describe valoraciones, recuentos de compras, reembolsos y soporte; esos mecanismos no certifican la titularidad ni la autorización de uso de cada cuenta.",
+    "tagline": "Mercado de cuentas digitales con valoraciones y soporte anunciado"
+  },
+  "accsmarket": {
+    "description": "Mercado de cuentas de redes sociales y correo, con referencias a X, Discord, Gmail y Facebook. La ficha distingue cuentas por antigüedad y precio, y menciona depósito en garantía y reposición; comprueba la legitimidad y las condiciones de las plataformas.",
+    "tagline": "Catálogo de cuentas de redes sociales y correo con distintos niveles y antigüedades"
+  },
+  "fireaccs": {
+    "description": "Tienda de cuentas con muchas categorías y artículos disponibles según la fuente. No dispone del sistema de valoración de vendedores que el texto compara con DarkStore o AccsMarket, por lo que sus prestaciones no equivalen a una verificación del vendedor.",
+    "tagline": "Tienda de cuentas de varias categorías sin el sistema comparado de valoraciones"
+  },
+  "accsmoll": {
+    "description": "Agregador de numerosas tiendas locales de cuentas de diferentes tipos. La ficha lo presenta como un punto de búsqueda de ofertas específicas, sin que el catálogo valide a sus vendedores ni los derechos sobre las cuentas.",
+    "tagline": "Agregador de tiendas locales de cuentas digitales"
+  },
+  "lzt-market": {
+    "description": "Mercado digital de la CEI con cuentas, servicios, guías y herramientas. La fuente menciona depósito en garantía, valoraciones de vendedores y una comunidad de foro; estos mecanismos no eliminan los riesgos ni sustituyen las condiciones de las plataformas.",
+    "tagline": "Mercado de cuentas, servicios y herramientas con comunidad de foro"
+  },
+  "discord-accounts": {
+    "description": "Tienda especializada en cuentas de Discord, clasificadas por antigüedad, estado de verificación, proveedor de correo y Nitro según la ficha. Las etiquetas no prueban la titularidad o elegibilidad. Una alerta de un monedero o navegador no debe descartarse por la afirmación de la fuente.",
+    "tagline": "Catálogo especializado de cuentas Discord con filtros por antigüedad y estado"
+  },
+  "ggsel": {
+    "description": "Mercado ruso de productos para juegos que también incluye cuentas de servicios de IA y suscripciones. La fuente describe valoraciones, comprobaciones de vendedores y reembolsos anunciados, sin ofrecer cuentas de redes sociales como categoría principal.",
+    "tagline": "Productos para juegos, suscripciones y servicios de IA"
+  },
+  "plati-market": {
+    "description": "Mercado de productos digitales, principalmente juegos y artículos relacionados, que también incluye suscripciones de IA. La ficha menciona entrega automática para muchos productos y valoraciones con recuentos de compras.",
+    "tagline": "Juegos y suscripciones digitales con entrega automática anunciada"
+  },
+  "funpay": {
+    "description": "Mercado de la CEI para cuentas de juegos, objetos, mejoras de progreso y servicios digitales. La ficha incluye valoraciones y depósito en garantía; las operaciones deben respetar los derechos y condiciones del juego o servicio correspondiente.",
+    "tagline": "Mercado de productos y servicios digitales relacionados con juegos"
+  },
+  "waraccounts": {
+    "description": "Tienda pequeña de cuentas digitales con pocas categorías. La fuente destaca la interfaz y la disponibilidad habitual, pero señala que la calidad de cada oferta debe comprobarse por separado.",
+    "tagline": "Tienda de cuentas digitales con un catálogo de pocas categorías"
+  },
+  "playerup": {
+    "description": "Mercado entre particulares con formato de foro, centrado en cuentas de juegos. La plataforma actúa como intermediaria y ofrece mediación adicional de pago según la fuente; no garantiza la legitimidad ni la seguridad de las operaciones.",
+    "tagline": "Mercado de cuentas de juegos entre particulares con mediación opcional"
+  },
+  "ready-accs": {
+    "description": "Tienda con ofertas de Instagram, Facebook, LinkedIn, TikTok, Apple y GitHub según la ficha. La fuente señala una disponibilidad más reducida de Discord y X que en mercados grandes; las cuentas no están validadas por este catálogo.",
+    "tagline": "Catálogo de cuentas de redes sociales, Apple y GitHub"
+  },
+  "real-accs": {
+    "description": "Tienda local de cuentas con varias categorías, inventario limitado y predominio de registros de Estados Unidos según la fuente. El texto deja abierta la calidad de las ofertas y no demuestra titularidad o elegibilidad.",
+    "tagline": "Tienda de cuentas con inventario limitado y predominio de registros estadounidenses"
+  },
+  "accounts2buy": {
+    "description": "Tienda pequeña de cuentas cuya fuente describe muy poca actividad e inventario escaso. La ficha no aporta una verificación independiente de la calidad de los artículos.",
+    "tagline": "Tienda de cuentas con poca actividad e inventario reducido según la fuente"
+  },
+  "checkvcc": {
+    "description": "Servicio que comenzó con tarjetas virtuales VCC y amplió su catálogo a cuentas, tarjetas regalo y recargas de juegos. La fuente advierte de una disponibilidad de productos habitualmente muy escasa.",
+    "tagline": "Tarjetas virtuales, cuentas, tarjetas regalo y recargas de juegos"
+  },
+  "accountdiversity": {
+    "description": "Tienda local de cuentas digitales cuya principal particularidad descrita es una selección de cuentas y canales de Telegram de distintas categorías. El catálogo no verifica sus derechos de transferencia o uso.",
+    "tagline": "Tienda con ofertas de cuentas y canales de Telegram"
+  },
+  "fameswap": {
+    "description": "Mercado de cuentas con seguidores, especialmente perfiles de YouTube y TikTok. La fuente señala una interfaz antigua, actividad reducida y precios altos; los seguidores y derechos sobre cada oferta no se verifican aquí.",
+    "tagline": "Mercado de perfiles de YouTube y TikTok con seguidores"
+  },
+  "sebuda": {
+    "description": "Sitio con formato de foro para vender canales y cuentas con audiencia. La fuente aporta una valoración crítica de la interfaz, sin detallar comprobaciones sobre vendedores, audiencia o titularidad.",
+    "tagline": "Mercado con formato de foro para canales y cuentas con audiencia"
+  },
+  "hstock": {
+    "description": "Mercado de cuentas descrito por la fuente como cerrado en 2026 por motivos no especificados. El texto afirma que antes permitió retirar saldos; es una referencia histórica y no una oferta actualmente disponible.",
+    "tagline": "Mercado de cuentas señalado como cerrado en 2026"
+  },
+  "install-shop": {
+    "description": "Antigua tienda local de cuentas que la fuente da por cerrada. Según la ficha, sus enlaces redirigen a AccsMarket; no se presenta como un servicio operativo independiente.",
+    "tagline": "Antigua tienda cerrada cuyos enlaces se describen como redirecciones a AccsMarket"
+  },
+  "4vps": {
+    "description": "Proveedor ruso de VPS y servidores dedicados que anuncia más de 35 ubicaciones, incluidas Emiratos Árabes Unidos, Hong Kong, Corea del Sur y Brasil. Las afirmaciones originales sobre reclamaciones de contenido no eliminan obligaciones legales ni condiciones de uso.",
+    "tagline": "VPS y servidores dedicados con una amplia selección internacional de ubicaciones"
+  },
+  "netcup": {
+    "description": "Alojamiento alemán con configuraciones DDR5 y almacenamiento NVMe. La ficha cita un plan inicial de dos núcleos, 4 GB de RAM y 128 GB NVMe, y hasta 2 TB en planes superiores. Los descuentos anunciados deben comprobarse en la oferta configurada.",
+    "tagline": "Alojamiento alemán con DDR5 y almacenamiento NVMe"
+  },
+  "hetzner": {
+    "description": "Proveedor alemán de alojamiento activo desde 1997 según la fuente. Ofrece servidores, opciones ARM y API. El texto advierte de comprobaciones de registro y de la posibilidad de suspensión del servicio conforme a sus condiciones.",
+    "tagline": "Servidores de un proveedor alemán con opciones ARM y API"
+  },
+  "cloudzy": {
+    "description": "Proveedor de VPS anteriormente denominado RouterHosting, con actividad desde 2008 según la fuente y pagos con criptomonedas anunciados. Las condiciones de identificación y las políticas de contenido deben consultarse directamente; no se garantiza anonimato ni exención legal.",
+    "tagline": "VPS con pagos en criptomonedas anunciados, antes RouterHosting"
+  },
+  "ovhcloud": {
+    "description": "Proveedor francés de infraestructura en la nube, activo desde 1999 según la ficha, con centros de datos en distintas regiones, incluidas Francia y Singapur. Los proyectos alojados están sujetos a sus requisitos y políticas; no se promete ignorar reclamaciones.",
+    "tagline": "Infraestructura en la nube y centros de datos internacionales de un proveedor francés"
+  },
+  "latitude": {
+    "description": "Servidores físicos dedicados sin capa de virtualización compartida. La ficha anuncia configuraciones de hasta 64 núcleos y 1,5 TB de RAM para validadores, infraestructura de negociación o cómputo intensivo.",
+    "tagline": "Servidores físicos dedicados para validadores y cómputo intensivo"
+  },
+  "aeza": {
+    "description": "Proveedor de servidores económicos con despliegue sencillo y rápido según la fuente. El texto advierte de soporte deficiente y posibles interrupciones prolongadas, por lo que no presenta el precio como garantía de continuidad.",
+    "tagline": "Servidores económicos con despliegue sencillo y advertencias sobre soporte"
+  },
+  "selectel": {
+    "description": "Nube empresarial rusa con servidores físicos, recursos en la nube, Kubernetes y almacenamiento S3. La ficha anuncia configuraciones de hasta 2048 GB de RAM y sitúa la infraestructura y los métodos de pago descritos en Rusia.",
+    "tagline": "Nube empresarial rusa con servidores físicos, Kubernetes y S3"
+  },
+  "vultr": {
+    "description": "Infraestructura en la nube con facturación por hora, API y 32 ubicaciones anunciadas, entre ellas Seúl, Bombay y Johannesburgo. La fuente indica que el uso de pagos con criptomonedas requiere asociar antes una tarjeta; deben cumplirse los requisitos vigentes.",
+    "tagline": "Nube con API, facturación por hora y ubicaciones internacionales"
+  },
+  "vdsina": {
+    "description": "VPS de un proveedor ruso con planes sencillos, panel en ruso y pago por tarjeta o SBP. La fuente menciona Moscú y Ámsterdam, pero advierte de que la segunda ubicación suele no estar disponible.",
+    "tagline": "VPS con panel en ruso y pagos por tarjeta o SBP"
+  },
+  "contabo": {
+    "description": "Proveedor de servidores que la fuente valora por la cantidad de recursos ofrecidos. Señala registro prolongado, asociación obligatoria de tarjeta, soporte lento y limitaciones de rendimiento de disco que deben evaluarse para cada carga.",
+    "tagline": "Servidores orientados a recursos amplios con requisitos de registro y tarjeta"
+  },
+  "time-host": {
+    "description": "Proveedor ruso de alojamiento activo desde 2013 según la ficha, con planes de hasta cuatro núcleos y 5 GB de RAM. La fuente lo orienta a bots, monitorización y scripts pequeños; no se garantiza disponibilidad continua ni exención de políticas de contenido.",
+    "tagline": "Alojamiento para bots, monitorización y scripts pequeños"
+  },
+  "digital-ocean": {
+    "description": "Plataforma en la nube para desarrolladores con panel de gestión, documentación técnica y máquinas virtuales Droplets. La fuente destaca el despliegue rápido y la amplitud funcional como valoraciones de experiencia de uso.",
+    "tagline": "Plataforma para desarrolladores con Droplets y documentación técnica"
+  },
+  "zomro": {
+    "description": "Proveedor de VPS de Letonia con servidores en Polonia, Países Bajos y Alemania según la fuente. Anuncia pago con criptomonedas; los requisitos de identificación, privacidad y políticas de contenido deben comprobarse sin asumir excepciones.",
+    "tagline": "VPS con ubicaciones en Polonia, Países Bajos y Alemania"
+  },
+  "timeweb": {
+    "description": "Plataforma rusa con servidores en la nube, bases de datos, alojamiento y dominios en un mismo entorno. La fuente la orienta a proyectos de la CEI que requieren cercanía a Moscú y soporte en ruso.",
+    "tagline": "Servidores, bases de datos, alojamiento y dominios en una plataforma rusa"
+  },
+  "mevspace": {
+    "description": "Proveedor orientado a validadores de cadenas de bloques y cargas de MEV, con infraestructura en Varsovia descrita como de baja latencia. Las políticas de contenido y el rendimiento real deben comprobarse para el proyecto concreto.",
+    "tagline": "Infraestructura en Varsovia para validadores y cargas de MEV"
+  },
+  "xorek": {
+    "description": "Proveedor económico registrado en Rusia desde 2022 según la fuente, con servidores en Alemania y Finlandia. El texto lo orienta a pruebas y proyectos temporales mediante ofertas promocionales, sin garantizar su idoneidad para producción.",
+    "tagline": "VPS económicos en Alemania y Finlandia para pruebas y proyectos temporales"
+  },
+  "firstbyte": {
+    "description": "Proveedor ruso con ubicaciones como Moscú, Helsinki, Singapur y Nueva York. La fuente cita planes iniciales inferiores a un dólar como referencia de una oferta de servidores económicos en distintas regiones.",
+    "tagline": "Servidores económicos con ubicaciones desde Moscú hasta Singapur y Nueva York"
+  },
+  "play2go": {
+    "description": "Proveedor asociado en la fuente a comunidades de juegos, con VPS NVMe, ubicaciones europeas y pagos con criptomonedas anunciados. Se describe como una opción para servidores de corta duración y tareas pequeñas.",
+    "tagline": "VPS NVMe en Europa con pagos en criptomonedas anunciados"
+  },
+  "hostingvds": {
+    "description": "Proveedor europeo con planes AMD EPYC Hi-CPU, seis ubicaciones y puertos de 10 Gbps según la ficha. La fuente lo orienta a cargas que necesitan más capacidad de CPU sin recurrir a configuraciones mayores.",
+    "tagline": "Planes AMD EPYC Hi-CPU con seis ubicaciones y puertos de 10 Gbps"
+  },
+  "spacecore": {
+    "description": "Proveedor londinense que, según la fuente, revende infraestructura de Contabo y Hetzner desde 2018. Utiliza un configurador en lugar de planes fijos y anuncia pago con criptomonedas; deben comprobarse sus requisitos de registro.",
+    "tagline": "Infraestructura configurable de Contabo y Hetzner mediante un proveedor intermediario"
+  },
+  "smartape": {
+    "description": "Proveedor ruso activo desde 2012 según la fuente, con VPS NVMe y una opción de ubicación en la República Checa. La ficha menciona licencia de telecomunicaciones y soporte en ruso como datos declarados, sin validación independiente.",
+    "tagline": "VPS NVMe con soporte en ruso y una ubicación anunciada en la República Checa"
+  },
+  "1dedic": {
+    "description": "Proveedor centrado exclusivamente en servidores dedicados físicos en Moscú, con configuraciones personalizables hasta el nivel RAID. La fuente lo relaciona con FirstVDS y cita premios y residencia en Skolkovo como metadatos externos.",
+    "tagline": "Servidores dedicados en Moscú con configuraciones RAID personalizables"
+  },
+  "firstvds": {
+    "description": "Proveedor ruso de alojamiento activo desde 2002 según la ficha, con ubicaciones en Moscú, Ámsterdam y Almaty. Anuncia planes desde 3 USD y CPU de hasta 5,7 GHz para cargas que requieren rendimiento por núcleo.",
+    "tagline": "VDS con ubicaciones en Moscú, Ámsterdam y Almaty"
+  },
+  "macloud": {
+    "description": "Servidores en Moscú con facturación diaria, AMD EPYC y NVMe. La ficha cita precios desde 5 RUB al día, configuraciones de hasta 128 núcleos y 512 GB de RAM y protección DDoS anunciada; las certificaciones y límites deben verificarse.",
+    "tagline": "Servidores AMD EPYC y NVMe en Moscú con facturación diaria"
+  },
+  "cloud4box": {
+    "description": "Proveedor con sede en Moscú y cinco ubicaciones anunciadas, incluidas Estados Unidos y Europa. Ofrece Intel Xeon, AMD Ryzen y virtualización KVM, con pagos mediante tarjeta, WebMoney y SBP según la ficha.",
+    "tagline": "Servidores KVM Intel Xeon y AMD Ryzen con varios métodos de pago"
+  },
+  "fornex": {
+    "description": "Proveedor internacional con siete ubicaciones de centros de datos según la fuente. La ficha anuncia NVMe, mitigación DDoS de hasta 10 Gbps y pagos mediante criptomonedas o PayPal; estas cifras y prestaciones no son una garantía de disponibilidad.",
+    "tagline": "Alojamiento internacional con NVMe y pagos mediante criptomonedas o PayPal"
+  },
+  "sprinthost": {
+    "description": "Proveedor ruso con centros de datos en Moscú y San Petersburgo y planes SSD. La fuente destaca la atención técnica como una valoración de experiencia, sin aportar una medición independiente de fiabilidad.",
+    "tagline": "Alojamiento SSD en Moscú y San Petersburgo"
+  },
+  "vds-sh": {
+    "description": "Proveedor ruso de VPS económicos con una opción en Países Bajos. La ficha anuncia diversos métodos de pago, incluidos criptomonedas y WebMoney, y configuraciones básicas.",
+    "tagline": "VPS económicos con ubicación en Países Bajos y varios métodos de pago"
+  },
+  "webhost1": {
+    "description": "Proveedor ruso que anuncia diez ubicaciones de centros de datos, incluidas Armenia, Moldavia y Hong Kong. La ficha menciona pagos con criptomonedas y WebMoney para su oferta internacional.",
+    "tagline": "Alojamiento con ubicaciones como Armenia, Moldavia y Hong Kong"
+  },
+  "serverspace": {
+    "description": "Plataforma en la nube del grupo ITglobal.com con facturación por minuto. La fuente anuncia siete ubicaciones, incluidas Brasil y Turquía, para ajustar el coste a recursos utilizados durante cargas variables.",
+    "tagline": "Nube con facturación por minuto y ubicaciones en Brasil y Turquía"
+  },
+  "fastfox": {
+    "description": "Proveedor NVMe centrado en Moscú. La ficha anuncia mitigación DDoS de hasta 1,5 Tbps y una promoción de seis meses adicionales con un plan anual; cifras, condiciones y vigencia deben comprobarse.",
+    "tagline": "Alojamiento NVMe en Moscú con mitigación DDoS anunciada"
+  },
+  "ishosting": {
+    "description": "Proveedor estonio activo desde 2005 según la fuente, con VPS KVM en 40 países y periodo de prueba anunciado. Incluye VPS macOS en planes superiores y ubicaciones menos habituales como Indonesia o Perú.",
+    "tagline": "VPS KVM internacionales y opciones macOS en planes superiores"
+  },
+  "vdska": {
+    "description": "Proveedor con nueve países anunciados, entre ellos Kirguistán, Kazajistán y Letonia. La ficha incluye pagos con criptomonedas, copias diarias gratuitas y configuraciones de hasta ocho vCPU.",
+    "tagline": "VPS en ubicaciones de la CEI y el Báltico con copias diarias anunciadas"
+  },
+  "geohosting": {
+    "description": "Proveedor de VPS que anuncia 50 países, almacenamiento NVMe y puertos de 10 Gbps. La fuente cita planes de 6 a 180 USD, hasta 32 núcleos y pagos con criptomonedas o PayPal.",
+    "tagline": "VPS NVMe en 50 países anunciados con puertos de 10 Gbps"
+  },
+  "myhosti": {
+    "description": "Proveedor ruso de alojamiento económico con una ubicación en Países Bajos y pagos mediante criptomonedas o SBP según la ficha. Sus afirmaciones sobre resistencia a reclamaciones no eliminan las obligaciones legales ni las condiciones de uso.",
+    "tagline": "Alojamiento económico en Países Bajos con criptomonedas y SBP anunciados"
+  },
+  "cherryservers": {
+    "description": "Proveedor lituano orientado a infraestructura Web3 y cadenas de bloques. Incluye VPS en la nube, VDS dedicados, facturación por hora y más de 20 métodos de pago anunciados, incluidas criptomonedas. La fuente cita niveles de CPU de hasta 4,5 GHz.",
+    "tagline": "Infraestructura Web3 con VPS, VDS dedicados y facturación por hora"
+  },
+  "webdock": {
+    "description": "Proveedor danés con un centro de datos propio y planes AMD EPYC/NVMe desde 2 USD al mes según la fuente. Anuncia energía renovable, SSL, instantáneas y mitigación DDoS; esos atributos requieren verificación externa.",
+    "tagline": "VPS AMD EPYC y NVMe en Dinamarca con instantáneas y SSL anunciados"
+  },
+  "boodet": {
+    "description": "Antiguo proveedor de VPS económicos. La fuente indica que el dominio caducó y el servicio dejó de operar; se mantiene únicamente como registro histórico.",
+    "tagline": "Proveedor de VPS señalado como inactivo tras caducar su dominio"
+  },
+  "thehosting": {
+    "description": "Proveedor que anuncia más de 50 países, virtualización KVM, NVMe y puertos de 10 Gbps. La ficha cita planes desde 1 EUR al mes y opciones Hi-CPU en Alemania, Países Bajos y Estados Unidos.",
+    "tagline": "VPS KVM y NVMe con planes Hi-CPU en Alemania, Países Bajos y Estados Unidos"
+  },
+  "jumper": {
+    "description": "Agregador de puentes basado en LI.FI que compara rutas entre más de 20 cadenas por coste y tiempo. Combina puente e intercambio, por ejemplo ETH en Arbitrum por USDC en Base. Los puntos mencionados en la fuente no garantizan un airdrop ni beneficios.",
+    "tagline": "Rutas de puente e intercambio entre cadenas mediante LI.FI"
+  },
+  "relay": {
+    "description": "Puente entre cadenas que utiliza una red de retransmisores para adelantar liquidez y liquidar después. La ficha incluye redes L2 y EVM y describe tiempos reducidos, sin garantizar velocidad, rentabilidad o ausencia de riesgos.",
+    "tagline": "Puente entre redes L2 y EVM con liquidez adelantada por retransmisores"
+  },
+  "findmybridge": {
+    "description": "Herramienta que reúne numerosas cadenas y servicios de puente para buscar rutas, incluidas redes menos comunes. La ficha permite comparar alternativas por comisiones y velocidad; el texto también advierte de una interfaz poco pulida.",
+    "tagline": "Búsqueda y comparación de puentes, incluidas cadenas menos habituales"
+  },
+  "rubic": {
+    "description": "Agregador de DEX y puentes entre más de 70 cadenas anunciadas, incluidas redes emergentes. Combina fuentes de liquidez y servicios de puente para ofrecer rutas de intercambio hacia o desde cadenas menos frecuentes.",
+    "tagline": "Agregación de DEX y puentes con cobertura de cadenas menos comunes"
+  },
+  "sushi": {
+    "description": "Conjunto DeFi de varias cadenas surgido como una bifurcación de Uniswap. La ficha incluye intercambios AMM, SushiXSwap entre cadenas, liquidez concentrada y programas Onsen en más de 25 redes, con gobernanza comunitaria.",
+    "tagline": "Intercambios AMM, SushiXSwap y liquidez concentrada en varias cadenas"
+  },
+  "stargate": {
+    "description": "Puente de LayerZero basado en el estándar OFT. La fuente señala comisiones relevantes y un modo económico con más espera, además de volumen histórico y actividad ligada a ZRO; nada de ello garantiza seguridad o futuras recompensas.",
+    "tagline": "Puente de LayerZero sobre OFT con distintas opciones de coste y espera"
+  },
+  "uniswap": {
+    "description": "Exchange descentralizado con modelo AMM en redes EVM. La ficha distingue la liquidez concentrada de V3 y los hooks de V4 para personalizar grupos de liquidez, con presencia anunciada en más de diez cadenas.",
+    "tagline": "DEX AMM con liquidez concentrada y hooks para grupos personalizados"
+  },
+  "odos": {
+    "description": "Agregador de DEX con rutas de varios saltos entre grupos de liquidez y tokens intermedios en redes EVM. La ficha también describe convertir varios tokens en uno mediante una sola transacción; no garantiza el mejor precio para cada operación.",
+    "tagline": "Rutas de intercambio de varios saltos y conversión de varios tokens en uno"
+  },
+  "pancakeswap": {
+    "description": "Conjunto DeFi originado en BNB Chain y extendido a Ethereum, Arbitrum y otras redes. Incluye intercambios AMM, granjas, Syrup Pools, mercados de predicción, lotería y mercado NFT según la fuente, cada uno con sus propios riesgos.",
+    "tagline": "Intercambios y herramientas DeFi de BNB Chain y otras redes"
+  },
+  "synapse": {
+    "description": "Protocolo de puente y DEX basado en grupos de stablecoins nUSD. La fuente anuncia liquidez en más de 15 cadenas para intercambios de USDC, USDT y DAI entre redes, además de puentes de tokens nativos.",
+    "tagline": "Puente y DEX entre cadenas con grupos de stablecoins nUSD"
+  },
+  "routernitro": {
+    "description": "Puente entre cadenas basado en intenciones: varios retransmisores compiten por ejecutar una solicitud. La ficha incluye redes EVM y L2 y lo presenta como una alternativa para comparar rutas con Jumper o Relay, sin garantizar precio o velocidad.",
+    "tagline": "Puente basado en intenciones y competencia entre retransmisores"
+  },
+  "rhinofi": {
+    "description": "Plataforma DeFi de varias cadenas, antes DeversiFi, que reúne puentes, intercambios y estrategias de rendimiento. Según la fuente, se apoya en StarkEx e incluye depósitos y bóvedas L2; las estrategias implican riesgo y costes propios.",
+    "tagline": "Puentes, intercambios y bóvedas L2 en la plataforma antes llamada DeversiFi"
+  },
+  "layerswap": {
+    "description": "Servicio de transferencias desde exchanges centralizados como Binance, Coinbase o Kraken hacia redes L2, incluidas Arbitrum, Optimism y zkSync. La ruta puede evitar pasos por L1, pero las comisiones y la compatibilidad deben comprobarse para cada transferencia.",
+    "tagline": "Transferencias desde exchanges centralizados directamente a redes L2 compatibles"
+  },
+  "llamaswap": {
+    "description": "Metaagregador de DEX del equipo de DefiLlama que compara cotizaciones de 1inch, Matcha, Paraswap, CowSwap y otros agregadores. La fuente indica que no añade comisión propia; las rutas mantienen sus costes y riesgos de ejecución.",
+    "tagline": "Comparación de cotizaciones de varios agregadores DEX por el equipo de DefiLlama"
+  },
+  "mayan": {
+    "description": "Protocolo de intercambio entre cadenas que utiliza Wormhole y rutas por Solana. La ficha lo orienta especialmente a movimientos entre Solana y redes EVM; los precios y el deslizamiento dependen de la ruta elegida.",
+    "tagline": "Intercambios entre Solana y redes EVM mediante Wormhole"
+  },
+  "across": {
+    "description": "Puente asociado a UMA con arquitectura basada en intenciones. Los retransmisores adelantan la ejecución y reciben reembolso mediante verificación optimista, principalmente para transferencias entre redes L2; no se garantizan costes o finalización.",
+    "tagline": "Puente basado en intenciones con retransmisores y verificación optimista de UMA"
+  },
+  "gas-zip": {
+    "description": "Herramienta para distribuir tokens nativos destinados a gas desde una cadena hacia varias redes en una transacción. La fuente cita coberturas distintas en descripción y eslogan, de más de 150 y más de 50 cadenas; comprueba las redes realmente disponibles.",
+    "tagline": "Distribución de tokens nativos para gas hacia varias cadenas"
+  },
+  "debridge": {
+    "description": "Protocolo de puente e intercambio entre cadenas con una red de validadores. Incluye DLN, DeBridge Liquidity Network, descrita como un libro de órdenes entre cadenas. Las afirmaciones de velocidad o ausencia de deslizamiento solo corresponden a las rutas y condiciones anunciadas.",
+    "tagline": "Puentes e intercambios entre cadenas con DeBridge Liquidity Network"
+  },
+  "jupiter": {
+    "description": "Agregador de DEX de Solana que compara rutas de intercambio. La ficha incluye órdenes limitadas, compras periódicas DCA, futuros perpetuos y el token JUP; estas funciones y el airdrop histórico no anticipan futuras recompensas ni beneficios.",
+    "tagline": "Agregador de Solana con órdenes limitadas, DCA y futuros perpetuos"
+  },
+  "owlto": {
+    "description": "Puente entre cadenas sobre el que la fuente formula una advertencia por comisiones presuntamente ocultas durante una campaña de airdrop, citando importes de hasta 2 USD por transferencia. La acusación se mantiene atribuida y no se valida como investigación de MakeCash.",
+    "tagline": "Puente con una advertencia de la fuente sobre comisiones de una campaña de airdrop"
+  },
+  "squid": {
+    "description": "Protocolo de intercambio entre cadenas basado en Axelar. Combina puentes y rutas por DEX de origen y destino para entregar el token seleccionado, con soporte de redes EVM y Cosmos según la ficha.",
+    "tagline": "Intercambios entre redes EVM y Cosmos mediante Axelar y DEX"
+  },
+  "orbiter": {
+    "description": "Puente entre cadenas que la fuente relaciona con campañas históricas de airdrops. El texto expresa una valoración negativa de sus comisiones y experiencia de uso; esos juicios no son una evaluación independiente del catálogo.",
+    "tagline": "Puente entre cadenas con comisiones y experiencia de uso cuestionadas por la fuente"
+  },
+  "1inch": {
+    "description": "Agregador de DEX que compara precios y puede dividir una operación entre distintos grupos de liquidez. La ficha incluye más de diez cadenas, órdenes limitadas y modo Fusion con operaciones anunciadas sin pago directo de gas; siguen existiendo costes y riesgos de ejecución.",
+    "tagline": "Agregación de liquidez DEX, órdenes limitadas y modo Fusion"
+  },
+  "matcha": {
+    "description": "Agregador de DEX del equipo de 0x, con órdenes limitadas e intercambios entre cadenas. Utiliza la API de 0x e incluye modalidades anunciadas sin pago directo de gas en redes compatibles; comprueba las condiciones de cada cotización.",
+    "tagline": "Agregador del equipo de 0x con órdenes limitadas e intercambios entre cadenas"
+  },
+  "portal": {
+    "description": "Interfaz de puente del protocolo Wormhole para transferir tokens entre cadenas, incluidas redes no EVM como Aptos o Sui. La ficha describe activos envueltos de Wormhole en destino y advierte de limitaciones de comodidad de uso.",
+    "tagline": "Interfaz de Wormhole para transferencias y activos envueltos entre cadenas"
+  },
+  "aerodrome": {
+    "description": "DEX de Base derivado de Velodrome en Optimism. Utiliza el modelo ve(3,3), con bloqueo de AERO para votar sobre incentivos de liquidez y participar en comisiones; los ingresos no están garantizados.",
+    "tagline": "DEX de Base con modelo ve(3,3), AERO y votación de incentivos de liquidez"
+  },
+  "superbridge": {
+    "description": "Interfaz de puentes nativos para redes de OP Stack, como Optimism, Base, Zora y Mode. Utiliza mensajería canónica y la fuente señala retiradas de alrededor de siete días; el diseño no constituye una garantía de seguridad.",
+    "tagline": "Puentes nativos de redes OP Stack con mensajería canónica"
+  },
+  "cbridge": {
+    "description": "Puente de Celer Network para transferencias de tokens entre redes EVM, incluidas L1 y L2. La ficha utiliza el marco Celer Inter-chain Message, IM, para sus operaciones entre cadenas.",
+    "tagline": "Puente de Celer Network basado en su marco de mensajería entre cadenas"
+  },
+  "bungee": {
+    "description": "Agregador de puentes del protocolo Socket que compara rutas de Stargate, Hop, Across, Celer, Hyphen y otros proveedores. Muestra estimaciones de tiempo, gas e importe recibido para facilitar la comparación, sin asegurar su ejecución final.",
+    "tagline": "Comparación de rutas de puentes mediante Socket"
+  },
+  "kyberswap": {
+    "description": "Agregador DEX de varias cadenas con grupos propios de liquidez concentrada Elastic Pools. La ficha incluye comisiones dinámicas y funciones anunciadas de protección frente a MEV, que no garantizan impedir todos los ataques o pérdidas.",
+    "tagline": "Agregación DEX y liquidez concentrada con comisiones dinámicas"
+  },
+  "bebop": {
+    "description": "Plataforma de intercambio por lotes que permite operar con varios tokens en una transacción. Utiliza solicitudes de cotización RFQ en las que participan creadores de mercado; las afirmaciones sobre MEV o deslizamiento dependen de sus condiciones y no son garantías del catálogo.",
+    "tagline": "Intercambios de varios tokens en una transacción mediante cotizaciones RFQ"
+  },
+  "symbiosis": {
+    "description": "Protocolo de liquidez entre cadenas que combina grupos estables y una red de retransmisores. Permite intercambiar tokens en combinaciones de redes compatibles, tanto EVM como no EVM, desde una interfaz común.",
+    "tagline": "Liquidez e intercambios entre redes EVM y no EVM"
+  },
+  "allbridge": {
+    "description": "Puente centrado en stablecoins entre redes EVM y no EVM, incluidas Solana, Stellar y Tron. Utiliza grupos de liquidez para entregar activos nativos en destino, con rutas de USDT y USDC según la ficha.",
+    "tagline": "Puentes de stablecoins entre EVM, Solana, Stellar y Tron"
+  },
+  "balancer": {
+    "description": "Protocolo DEX con grupos ponderados de proporciones configurables, por ejemplo 80/20 en lugar de 50/50. La ficha incluye préstamos instantáneos, grupos componibles y estructuras de liquidez para carteras o índices, con riesgos propios de DeFi.",
+    "tagline": "Grupos de liquidez ponderados y lógica AMM configurable"
+  },
+  "syncswap": {
+    "description": "DEX nativo de zkSync Era con grupos de producto constante y grupos estables para activos similares. Permite intercambiar tokens y aportar liquidez; las valoraciones de profundidad o liderazgo pertenecen a la fuente.",
+    "tagline": "DEX de zkSync Era con grupos clásicos y estables"
+  },
+  "ambient": {
+    "description": "DEX de liquidez concentrada, antes CrocSwap, con arquitectura de contrato único. Permite definir rangos de precios, órdenes por rango y rutas entre grupos; la fuente lo vincula especialmente a Scroll.",
+    "tagline": "Liquidez concentrada con arquitectura de contrato único, antes CrocSwap"
+  },
+  "traderjoe": {
+    "description": "DEX de Avalanche, también desplegado en Arbitrum y BNB Chain según la ficha. Utiliza Liquidity Book con intervalos de precios discretos e incluye grupos automáticos, préstamos Banker Joe y una plataforma de lanzamientos.",
+    "tagline": "DEX con Liquidity Book, grupos automáticos y préstamos Banker Joe"
+  },
+  "quickswap": {
+    "description": "DEX de Polygon con grupos AMM V2 y liquidez concentrada V3. La ficha añade Dragon's Lair para dQUICK, incentivos de liquidez y derivados, y advierte de retrasos de la interfaz; los bajos costes citados no garantizan ejecución fluida.",
+    "tagline": "DEX de Polygon con grupos V2, liquidez concentrada V3 y dQUICK"
+  },
+  "dodo": {
+    "description": "DEX con algoritmo Proactive Market Making, PMM, y curvas de precio configuradas alrededor del precio de mercado. Incluye financiación colectiva de liquidez para lanzamientos de tokens; las ventajas de precio o deslizamiento son afirmaciones que dependen de cada operación.",
+    "tagline": "DEX con algoritmo PMM y herramientas de lanzamiento de tokens"
+  },
+  "kim": {
+    "description": "DEX de liquidez concentrada en Mode Network, con posiciones de proveedores de liquidez personalizables. La fuente describe márgenes de compra y venta reducidos como una valoración, sin garantizar precios o rentabilidad.",
+    "tagline": "Liquidez concentrada y posiciones personalizables en Mode Network"
+  },
+  "maverick": {
+    "description": "AMM que permite automatizar el desplazamiento de posiciones de liquidez con el precio. Incluye modos de seguimiento, rango y ambos lados, y la fuente cita despliegues en Ethereum, zkSync y BNB Chain.",
+    "tagline": "AMM con estrategias automáticas de distribución de liquidez"
+  },
+  "slingshot": {
+    "description": "Agregador DEX con aplicación móvil e interfaz web para redes EVM. La fuente anuncia ausencia de recargo propio sobre la cotización; esto no elimina el gas, el deslizamiento u otros costes de los protocolos utilizados.",
+    "tagline": "Agregador DEX con aplicación móvil e interfaz web"
+  },
+  "nexus": {
+    "description": "Plataforma de transferencias e intercambios entre varias redes EVM. La descripción y el eslogan de la fuente no coinciden plenamente: este último la identifica como puente nativo para rollups ZK. Comprueba la ruta y el producto concretos antes de utilizarla.",
+    "tagline": "Puente e intercambios entre cadenas; la fuente también menciona rollups ZK"
+  },
+  "bitget": {
+    "description": "Exchange con derivados, mercado al contado y múltiples subcuentas según la ficha. El token BGB se asocia a descuentos de comisiones y recompensas anunciadas; las experiencias personales sobre bloqueos y promociones no garantizan acceso o resultados.",
+    "tagline": "Exchange con subcuentas, derivados, mercado al contado y token BGB"
+  },
+  "bybit": {
+    "description": "Exchange orientado a derivados, con futuros perpetuos, mercado al contado, copia de operaciones, bots y lanzamientos de tokens. La fuente cita productos de hasta 100x, que no son una recomendación ni modifican los límites educativos de MakeCash.",
+    "tagline": "Derivados, mercado al contado, copia de operaciones y bots"
+  },
+  "backpack": {
+    "description": "Exchange del equipo del monedero Backpack, con enfoque en Solana, API y competiciones de negociación. La fuente menciona el lanzamiento de BP en marzo de 2026; sus afirmaciones sobre licencias y promociones requieren comprobar jurisdicción y condiciones actuales.",
+    "tagline": "Exchange vinculado al monedero Backpack y al ecosistema Solana"
+  },
+  "okx": {
+    "description": "Exchange con mercado al contado y derivados, monedero DeFi, agregador DEX y mercado NFT. La fuente relata un bloqueo de cuenta como experiencia personal; no demuestra que el servicio sea adecuado o esté disponible para cada usuario.",
+    "tagline": "Exchange, monedero DeFi, agregador DEX y mercado NFT"
+  },
+  "binance": {
+    "description": "Exchange con mercado al contado, futuros, margen, préstamos o recompensas, lanzamientos y P2P. La fuente destaca su volumen y variedad de tokens y menciona problemas regulatorios; la cobertura geográfica anunciada no acredita elegibilidad en una jurisdicción concreta.",
+    "tagline": "Mercado al contado, derivados y servicios P2P de criptomonedas"
+  },
+  "huobi-htx": {
+    "description": "Exchange anteriormente denominado Huobi y ahora HTX, con presencia histórica en mercados asiáticos. La ficha incluye una amplia selección de pares, derivados y usuarios institucionales, y menciona cambios de propiedad.",
+    "tagline": "Exchange HTX, antes Huobi, con mercado al contado y derivados"
+  },
+  "mexc": {
+    "description": "Exchange que la fuente orienta a altcoins y cotizaciones tempranas, con mercado de futuros. La ficha anuncia comisión maker del 0% y una bonificación de hasta 8.000 USDT mediante el código 1LtWs; son condiciones comerciales no verificadas y sujetas a elegibilidad.",
+    "tagline": "Altcoins y cotizaciones tempranas; promociones y comisiones sujetas a condiciones"
+  },
+  "gate": {
+    "description": "Exchange con más de 1700 pares anunciados, mercado al contado, futuros, margen, préstamos y plataforma de nuevos proyectos. La fuente contiene acusaciones sobre bloqueos y liquidaciones que no se verifican aquí; no deben interpretarse las señales externas como una validación de una operación.",
+    "tagline": "Amplia selección de pares con contado, futuros, margen y préstamos"
+  },
+  "bingx": {
+    "description": "Exchange de negociación social con funciones de copia de operaciones. La fuente lo describe como una alternativa pequeña y advierte de posibles bloqueos; no se reproducen sus sugerencias de manipulación ni se garantiza el funcionamiento de cuentas.",
+    "tagline": "Exchange de negociación social y copia de operaciones"
+  },
+  "coinbase": {
+    "description": "Exchange estadounidense que cotiza en NASDAQ con el símbolo COIN, con servicios de compra mediante moneda fiduciaria. Las afirmaciones de la fuente sobre licencias, seguros y cumplimiento deben comprobarse según entidad, producto y jurisdicción; no constituyen cobertura universal.",
+    "tagline": "Exchange cotizado como COIN con servicios de acceso desde moneda fiduciaria"
+  },
+  "kraken": {
+    "description": "Exchange fundado en 2011 según la fuente, con liquidez en varias monedas fiduciarias y publicaciones de prueba de reservas. Su historial descrito o política de cotización no garantizan seguridad futura ni la calidad de cada activo.",
+    "tagline": "Exchange con pares fiduciarios y publicaciones de prueba de reservas"
+  },
+  "kucoin": {
+    "description": "Exchange que la fuente relaciona con cotizaciones tempranas de altcoins de pequeña y mediana capitalización. Incluye futuros, margen, préstamos, bot de negociación y descuentos anunciados mediante KCS; las cotizaciones tempranas no garantizan revalorización.",
+    "tagline": "Altcoins, futuros, préstamos y bot de negociación con token KCS"
+  },
+  "ftx": {
+    "description": "Exchange fundado por Sam Bankman-Fried que colapsó en noviembre de 2022. La fuente lo vincula al uso de fondos de clientes para Alameda Research y menciona una condena de 25 años. Es un registro histórico de un servicio inactivo, no una opción de contratación.",
+    "tagline": "Registro histórico del exchange que colapsó en noviembre de 2022"
+  },
+  "whitebird": {
+    "description": "Servicio de conversión con retiradas a tarjeta orientado por la fuente a Rusia y Bielorrusia. La ficha menciona KYC y una comisión de referencia del 2%; sus afirmaciones legales y experiencias sobre bloqueos no acreditan elegibilidad ni garantizan que una tarjeta no sea bloqueada.",
+    "tagline": "Conversión de criptomonedas y retiradas a tarjeta con KYC anunciado"
+  },
+  "prosto": {
+    "description": "Servicio de cambio de la CEI asociado a Taferaun según la fuente, con operaciones en efectivo y retiradas a tarjeta. El texto favorece la modalidad de efectivo frente al tipo ofrecido para tarjeta; deben comprobarse costes, requisitos y disponibilidad actuales.",
+    "tagline": "Servicio de cambio con modalidades en efectivo y a tarjeta"
+  },
+  "hermes": {
+    "description": "Servicio de cambio de la CEI que, según la ficha, opera mediante atención personal en lugar de bot o sitio propio. La reputación y las retiradas relatadas por la fuente son experiencias atribuidas, no una garantía de contraparte.",
+    "tagline": "Cambio de criptomonedas mediante operadores de atención personal"
+  },
+  "bestchange": {
+    "description": "Agregador que compara tipos de cambio, comisiones, reservas, reseñas y puntuaciones de numerosos servicios de conversión. Esos metadatos ayudan a comparar ofertas, pero no certifican la fiabilidad de un servicio ni sustituyen comprobar el destino exacto.",
+    "tagline": "Comparación de tipos, comisiones y reservas de servicios de cambio"
+  },
+  "p2p-exchanges": {
+    "description": "Secciones P2P de exchanges como Binance, Bybit y OKX para comprar o vender criptomonedas con otras personas mediante transferencias, tarjetas o efectivo. La fuente advierte especialmente de fraude y bloqueos bancarios en la CEI; disponibilidad y legalidad deben comprobarse por país y contraparte.",
+    "tagline": "Compra y venta entre particulares mediante secciones P2P de exchanges"
+  },
+  "maxsecretex": {
+    "description": "Servicio de cambio de la CEI que la fuente vincula a una colaboración con una persona influyente no identificada. La ausencia de reseñas negativas relatada por el autor no prueba fiabilidad ni sustituye comprobar la contraparte.",
+    "tagline": "Servicio de cambio de la CEI vinculado a una colaboración descrita por la fuente"
+  },
+  "ether-fi": {
+    "description": "Tarjeta vinculada a ether.fi que la ficha describe como crédito respaldado por ETH en staking y modelo sin custodia. Anuncia recompensas de hasta el 15%, KYC y disponibilidad en Estados Unidos; existen restricciones de comercios y no se garantiza elegibilidad o aceptación.",
+    "tagline": "Tarjeta de ether.fi con gasto respaldado por ETH en staking"
+  },
+  "tria": {
+    "description": "Tarjeta Visa de débito descrita como sin custodia y basada en abstracción de cuentas. La ficha anuncia un 5% de devolución, emisión gratuita y KYC; la disponibilidad internacional y las recompensas están sujetas a condiciones, no verificadas aquí.",
+    "tagline": "Visa de débito con abstracción de cuentas y modelo sin custodia anunciado"
+  },
+  "pionex": {
+    "description": "Exchange conocido en la ficha por bots integrados de cuadrícula, DCA y arbitraje, con más de 100 opciones anunciadas. También incluye un producto de tarjeta. La ausencia de una suscripción separada para bots no elimina comisiones ni riesgo de pérdidas.",
+    "tagline": "Exchange con bots integrados de cuadrícula, DCA y arbitraje"
+  },
+  "solcard": {
+    "description": "Tarjeta de débito de criptomonedas sobre Visa, con emisión digital, seguimiento de saldo y conversión de activos según la ficha. La experiencia del autor al pagar servicios concretos no garantiza aceptación futura en esos comercios ni en todas las regiones.",
+    "tagline": "Tarjeta Visa para convertir criptomonedas en pagos cotidianos"
+  },
+  "solayer": {
+    "description": "Plataforma de tarjetas virtuales y físicas para varias monedas digitales, con control de gastos, transacciones y límites. La fuente señala problemas de aceptación en servicios y posibles bloqueos; su alcance anunciado no garantiza que funcione con cada comercio.",
+    "tagline": "Tarjetas virtuales y físicas con seguimiento de gastos y límites"
+  },
+  "pyyplbot": {
+    "description": "Servicio de tarjetas prepago Visa/Mastercard virtuales y físicas gestionadas mediante Telegram y panel web. La ficha cita BIN de Estados Unidos, Reino Unido, Hong Kong y Singapur, recargas USDT, Apple Pay, Google Pay y 3D Secure; tarifas y requisitos de identificación deben verificarse, sin usarse para eludir restricciones.",
+    "tagline": "Tarjetas prepago virtuales y físicas mediante Telegram y panel web"
+  },
+  "avici": {
+    "description": "Visa de débito presentada como sin custodia para el EEE. La ficha anuncia devolución del 2%, emisión gratuita y KYC, con gasto desde un monedero propio; estos datos no demuestran disponibilidad o elegibilidad actual.",
+    "tagline": "Visa de débito con modelo sin custodia anunciado para el EEE"
+  },
+  "bybit-card": {
+    "description": "Tarjeta de débito vinculada al saldo del exchange Bybit. La ficha describe conversión automática de varias criptomonedas al pagar y recompensas en compras; las tarifas, regiones y condiciones de devolución deben comprobarse.",
+    "tagline": "Tarjeta de débito para pagos desde el saldo de Bybit"
+  },
+  "kast": {
+    "description": "Tarjeta sobre Visa que la ficha presenta como sin custodia, con devolución de hasta el 8%, KYC y cobertura anunciada en más de 160 países. Las recompensas y la cobertura no garantizan emisión, aceptación ni control de claves en cada producto concreto.",
+    "tagline": "Tarjeta Visa con modelo sin custodia y recompensas anunciadas"
+  },
+  "argent-card": {
+    "description": "Tarjeta de pago vinculada al saldo y al monedero de contratos inteligentes de Argent. La ficha describe integración con Visa y una aplicación móvil para utilizar fondos en compras; debe confirmarse la disponibilidad real por región y comercio.",
+    "tagline": "Tarjeta de pago integrada con el monedero de contratos inteligentes Argent"
+  },
+  "kucoin-card": {
+    "description": "Tarjeta de débito asociada al monedero de KuCoin, con conversión de criptomonedas a moneda fiduciaria al pagar. La ficha incluye notificaciones e información de gastos en la aplicación; la aceptación Visa y las condiciones son específicas del producto y la región.",
+    "tagline": "Tarjeta vinculada a KuCoin con conversión de criptomonedas al pagar"
+  },
+  "bitget-card": {
+    "description": "Tarjeta de gasto vinculada al saldo de Bitget, con notificaciones y seguimiento desde su aplicación. La ficha anuncia Visa, devoluciones y promociones de comisiones de conversión; no se garantiza acceso universal ni una tasa de recompensa concreta.",
+    "tagline": "Pagos desde Bitget con notificaciones y seguimiento en la aplicación"
+  },
+  "gate-card": {
+    "description": "Tarjeta de débito asociada al saldo de Gate.io. La fuente describe soporte de varias criptomonedas y conversión a moneda fiduciaria en el momento del pago mediante Visa; su disponibilidad y aceptación requieren confirmación.",
+    "tagline": "Tarjeta de Gate.io con conversión de criptomonedas al pagar"
+  },
+  "mexc-card": {
+    "description": "Tarjeta de débito vinculada a fondos de MEXC y presentada con soporte Visa. Permite convertir activos compatibles para pagos fiduciarios según la ficha; la selección de tokens del exchange no asegura que todos puedan gastarse con la tarjeta.",
+    "tagline": "Tarjeta de débito para gastos desde fondos compatibles de MEXC"
+  },
+  "coinw": {
+    "description": "Tarjeta de débito vinculada a la cuenta de CoinW, con conversión al pagar, historial de transacciones y seguimiento de saldo según la fuente. La aceptación y la emisión mediante Visa deben comprobarse para cada región.",
+    "tagline": "Tarjeta CoinW con conversión, historial de pagos y seguimiento de saldo"
+  },
+  "flexcard": {
+    "description": "Plataforma de tarjetas virtuales y físicas compatible con varias criptomonedas según la ficha. Incluye avisos de gasto, límites configurables y análisis de transacciones; las tarifas de conversión y regiones admitidas dependen de las condiciones del producto.",
+    "tagline": "Tarjetas virtuales y físicas con límites configurables y análisis de gastos"
+  },
+  "osmosispay": {
+    "description": "Tarjeta vinculada al ecosistema Osmosis que la ficha describe como una vía para convertir OSMO, ATOM y otros tokens IBC a moneda fiduciaria al pagar. La cobertura de activos y comercios debe comprobarse.",
+    "tagline": "Pagos con activos del ecosistema Cosmos y Osmosis mediante conversión fiduciaria"
+  },
+  "nexo": {
+    "description": "Tarjeta de Nexo que la fuente presenta como una línea de crédito respaldada por criptomonedas, sin venderlas inicialmente. Anuncia hasta el 2% de devolución y condiciones ligadas a NEXO; el crédito con garantía implica costes y riesgo de liquidación, y la disponibilidad regional requiere confirmación.",
+    "tagline": "Tarjeta con crédito respaldado por una cartera de criptomonedas"
+  },
+  "coinbase-card": {
+    "description": "Tarjeta de débito de Coinbase con conversión de la criptomoneda elegida a USD al comprar. La ficha la sitúa en Estados Unidos y anuncia recompensas de hasta el 4%; son condiciones de la fuente que deben verificarse antes de solicitarla.",
+    "tagline": "Pagos con saldo Coinbase convertido a USD al comprar"
+  },
+  "binance-card": {
+    "description": "Tarjeta vinculada a Binance para convertir criptomonedas a moneda fiduciaria al pagar. La ficha menciona Brasil y Latinoamérica tras retiradas de otras regiones, y devolución de hasta el 3% según BNB; no confirma la oferta actualmente disponible.",
+    "tagline": "Tarjeta Binance con conversión al pago y condiciones ligadas a BNB"
+  },
+  "kripicard": {
+    "description": "Tarjeta de crédito de criptomonedas presentada como de autocustodia, sin devolución y sin cuota anual en la fuente. Las afirmaciones de uso mundial y ausencia de KYC no acreditan elegibilidad ni anonimato; comprueba los requisitos del emisor.",
+    "tagline": "Tarjeta de criptomonedas presentada con autocustodia y sin recompensas"
+  },
+  "crypto-com-card": {
+    "description": "Tarjeta de Crypto.com con niveles vinculados al bloqueo de CRO. La ficha anuncia hasta el 8% de devolución y ventajas como suscripciones o salas de aeropuerto en niveles superiores; el compromiso de CRO y sus riesgos forman parte del coste y no garantizan beneficios.",
+    "tagline": "Tarjeta Crypto.com con niveles y recompensas vinculados a CRO"
+  },
+  "gemini-card": {
+    "description": "Tarjeta de crédito de Gemini sobre Mastercard, descrita para Estados Unidos. La ficha anuncia hasta el 4% de devolución en criptomonedas y ausencia de cuota anual; comprueba requisitos de crédito, región y recompensas vigentes.",
+    "tagline": "Tarjeta de crédito Gemini con recompensas anunciadas en criptomonedas"
+  },
+  "metamask-card": {
+    "description": "Tarjeta Mastercard vinculada al saldo de MetaMask, con modelo de autocustodia según la ficha. Anuncia hasta el 3% de devolución y regiones como la UE, Reino Unido y Estados Unidos; esos datos no garantizan acceso actual ni compatibilidad de todos los activos.",
+    "tagline": "Tarjeta Mastercard vinculada al monedero MetaMask"
+  },
+  "wirex": {
+    "description": "Plataforma de tarjetas de criptomonedas activa desde 2015 según la fuente, con débito Mastercard y soporte de activos fiduciarios y digitales. La ficha anuncia más de 130 países y recompensas de hasta el 8% mediante WXT, sujetas a condiciones no verificadas aquí.",
+    "tagline": "Tarjetas Mastercard para activos fiduciarios y digitales con recompensas WXT anunciadas"
+  },
+  "bitpay": {
+    "description": "Mastercard prepago del procesador de pagos BitPay para convertir BTC, ETH y otros activos compatibles a USD. La fuente la sitúa en Estados Unidos, sin devolución ni cuota anual; confirma su estado y condiciones de emisión actuales.",
+    "tagline": "Tarjeta prepago BitPay con conversión de criptomonedas a USD"
+  },
+  "coca": {
+    "description": "Visa de débito presentada como sin custodia, con devolución anunciada del 8% y KYC. La ficha menciona el EEE y Reino Unido; las condiciones de identificación, disponibilidad y recompensas deben verificarse y no garantizan privacidad.",
+    "tagline": "Visa de débito COCA con modelo sin custodia anunciado"
+  },
+  "brighty": {
+    "description": "Tarjeta Visa de débito de Brighty, descrita como custodial y con KYC para el EEE. La ficha anuncia devolución del 1,75% y uso gratuito; comprueba los límites, costes y requisitos vigentes.",
+    "tagline": "Visa de débito Brighty con modelo custodial y aplicación de gestión"
+  },
+  "cypher": {
+    "description": "Visa prepago presentada como sin custodia, con niveles desde gratuito hasta 199 USD al año y recompensas variables. La cobertura mundial y la ausencia de KYC anunciadas en la fuente no acreditan elegibilidad ni anonimato.",
+    "tagline": "Visa prepago Cypher con niveles de precio y recompensas variables"
+  },
+  "venmo": {
+    "description": "Tarjeta de crédito Visa de Venmo que la fuente sitúa en Estados Unidos, con KYC y devolución del 3% en la principal categoría de gasto. Permite convertir recompensas a criptomonedas dentro de Venmo; no es una garantía de acceso o rentabilidad.",
+    "tagline": "Tarjeta Venmo con recompensas por categoría convertibles a criptomonedas"
+  },
+  "bitrefill": {
+    "description": "Tarjeta Visa prepago integrada con el ecosistema Bitrefill de tarjetas regalo y recargas telefónicas. La ficha la sitúa en Europa con KYC y sin devolución; comprueba la emisión y disponibilidad actuales.",
+    "tagline": "Tarjeta prepago integrada con las tarjetas regalo y recargas de Bitrefill"
+  },
+  "whitebit-card": {
+    "description": "Visa de débito vinculada al exchange WhiteBIT. La fuente anuncia uso gratuito, KYC, ámbito EEE y devolución de hasta el 10%; las condiciones comerciales y de elegibilidad no se verifican en este catálogo.",
+    "tagline": "Visa de débito para utilizar saldos de WhiteBIT"
+  },
+  "wayex": {
+    "description": "Visa prepago presentada con autocustodia, KYC y devolución del 1%. La ficha menciona Estados Unidos y expansión internacional, sin que ello garantice emisión o aceptación en otra jurisdicción.",
+    "tagline": "Visa prepago Wayex con autocustodia y KYC anunciados"
+  },
+  "gnosis-pay": {
+    "description": "Visa de débito sobre Gnosis Chain con fondos en una cuenta inteligente según la fuente. La ficha anuncia hasta el 4% de devolución al mantener GNO, una cuota anual de 30 EUR y disponibilidad en Reino Unido y el EEE; confirma las condiciones actuales.",
+    "tagline": "Visa de débito vinculada a una cuenta inteligente en Gnosis Chain"
+  },
+  "fold": {
+    "description": "Visa de débito centrada en Bitcoin, descrita para Estados Unidos. La fuente anuncia recompensas en BTC de hasta el 15% mediante una ruleta, y advierte de que la media real es inferior; no debe interpretarse como una tasa asegurada.",
+    "tagline": "Tarjeta Fold con recompensas variables en BTC mediante una ruleta"
+  },
+  "bleap": {
+    "description": "Mastercard de débito presentada como sin custodia e integrada con monederos del ecosistema Ethereum. La ficha anuncia EEE, KYC, uso gratuito y devolución del 2%; requisitos y compatibilidad deben comprobarse con el emisor.",
+    "tagline": "Mastercard de débito vinculada a monederos del ecosistema Ethereum"
+  },
+  "bitpanda": {
+    "description": "Visa de débito del proveedor austriaco Bitpanda. La ficha describe gasto desde una cartera que incluye criptomonedas, acciones y metales, con KYC, ámbito EEE y devolución anunciada del 1%; no se valida aquí su clasificación regulatoria o disponibilidad.",
+    "tagline": "Tarjeta Bitpanda vinculada a una cartera de activos digitales y otros instrumentos"
+  },
+  "zypto": {
+    "description": "Visa prepago presentada como sin custodia y sin devolución. Las afirmaciones de emisión gratuita, cobertura global y KYC reducido son datos de la fuente; no prueban elegibilidad ni evitan requisitos de identificación.",
+    "tagline": "Visa prepago Zypto presentada con modelo sin custodia"
+  },
+  "ledger-cl": {
+    "description": "Tarjeta vinculada al ecosistema Ledger y presentada como Visa de débito con autocustodia. La ficha anuncia KYC, Reino Unido y EEE, emisión gratuita y devolución del 1%; el nombre Ledger no garantiza las condiciones de custodia o seguridad de cada producto.",
+    "tagline": "Tarjeta de pago vinculada al ecosistema Ledger"
+  },
+  "tuyo": {
+    "description": "Mastercard de débito que la fuente presenta como de autocustodia, sin devolución y gratuita. Las regiones anunciadas y la afirmación de ausencia de KYC deben comprobarse con el emisor; no implican anonimato ni elegibilidad universal.",
+    "tagline": "Mastercard de débito Tuyo con autocustodia anunciada"
+  },
+  "redotpay": {
+    "description": "Visa prepago con modelo custodial y recargas previas al gasto según la ficha. La fuente anuncia cobertura amplia, KYC reducido y ausencia de devolución; deben verificarse países, costes y requisitos de identificación.",
+    "tagline": "Visa prepago RedotPay con saldo custodial y recargas"
+  },
+  "oobit": {
+    "description": "Visa de débito presentada como sin custodia, con KYC y devolución anunciada del 6%. La ficha menciona EEE, Estados Unidos y Brasil; el catálogo no valida la emisión, aceptación o recompensa para cada usuario.",
+    "tagline": "Visa de débito Oobit con modelo sin custodia y recompensas anunciadas"
+  },
+  "plutus": {
+    "description": "Visa de débito presentada como sin custodia, con un nivel básico gratuito y niveles de pago. La fuente anuncia hasta el 9% de devolución en PLU y ventajas sobre Netflix o Spotify en Reino Unido y EEE; condiciones y valor de los tokens pueden variar.",
+    "tagline": "Tarjeta Plutus con niveles de suscripción y recompensas anunciadas en PLU"
+  },
+  "deblock": {
+    "description": "Aplicación que combina IBAN y monedero de criptomonedas presentado como sin custodia, con Visa de débito. La ficha anuncia KYC, ámbito EEE y devolución del 1%; su condición regulatoria francesa y los términos del producto requieren comprobación externa.",
+    "tagline": "IBAN, monedero de criptomonedas y tarjeta Visa en la aplicación Deblock"
+  },
+  "fiat24": {
+    "description": "Tarjeta Mastercard descrita con custodia híbrida, combinando contratos inteligentes y circuitos bancarios, sobre Arbitrum. La ficha la vincula a un proveedor suizo, con KYC y regiones de Europa y Asia; no confirma licencias, cobertura o elegibilidad.",
+    "tagline": "Mastercard con custodia híbrida y servicios basados en Arbitrum"
+  },
+  "thorwallet-card": {
+    "description": "Mastercard de débito del ecosistema THORChain, presentada como sin custodia y con KYC. La ficha integra intercambios entre cadenas antes del gasto y anuncia más de 100 países, sin devolución; esas funciones no garantizan ausencia de riesgos o disponibilidad.",
+    "tagline": "Tarjeta vinculada a THORWallet y a intercambios del ecosistema THORChain"
+  },
+  "safepal-card": {
+    "description": "Mastercard de débito del equipo de SafePal, descrita como sin custodia y compatible con el dispositivo S1. La ficha anuncia KYC, más de 60 países, emisión gratuita y ausencia de devolución; confirma requisitos y estado del producto.",
+    "tagline": "Tarjeta del ecosistema SafePal con integración anunciada para S1"
+  },
+  "ur": {
+    "description": "Mastercard de débito vinculada a la aplicación UR y presentada como sin custodia. La ficha anuncia KYC, uso gratuito, ausencia de devolución y orientación a Europa y Asia; la disponibilidad concreta no está verificada.",
+    "tagline": "Tarjeta Mastercard vinculada a la aplicación y monedero UR"
+  },
+  "imtoken": {
+    "description": "Mastercard de débito vinculada al monedero móvil imToken y presentada como sin custodia. La ficha anuncia KYC, Europa y Asia, uso gratuito y ausencia de devolución; verifica la disponibilidad y los términos actuales del producto.",
+    "tagline": "Tarjeta Mastercard vinculada al monedero móvil imToken"
+  },
+  "tokenpocket": {
+    "description": "Visa de débito del monedero de varias cadenas TokenPocket, presentada como sin custodia. La fuente anuncia KYC, más de 30 países, uso gratuito y ausencia de devolución; esas cifras no acreditan elegibilidad individual.",
+    "tagline": "Visa de débito vinculada al monedero de varias cadenas TokenPocket"
+  },
+  "bitget-wallet-card": {
+    "description": "Tarjeta prepago de Bitget Wallet, distinta de la tarjeta del exchange Bitget. La ficha anuncia Visa y Mastercard, modelo sin custodia y cobertura que excluye Estados Unidos; deben comprobarse requisitos de identificación, costes y regiones vigentes.",
+    "tagline": "Tarjeta prepago de Bitget Wallet, independiente de la tarjeta del exchange"
+  },
+  "savepay": {
+    "description": "Mastercard de débito presentada como sin custodia, con IBAN suizo y base en Arbitrum. La ficha incluye SEPA, SWIFT, Apple Pay, Google Pay, Samsung Pay, Alipay y WeChat Pay, además de una comisión de referidos anunciada del 60%; integración, disponibilidad y términos comerciales requieren verificación.",
+    "tagline": "Tarjeta e IBAN con SEPA, SWIFT e integración anunciada en Arbitrum"
+  },
+  "combo-card": {
+    "description": "Servicio de tarjetas virtuales para publicidad y pagos empresariales, con Visa/Mastercard, distintos BIN, recarga en criptomonedas, 3DS, equipos y estadísticas. La fuente cita una comisión de depósito del 3%; la ausencia de KYC anunciada no exime de cumplir requisitos de identificación o plataformas.",
+    "tagline": "Tarjetas virtuales para equipos, publicidad y pagos empresariales"
+  },
+  "trustee": {
+    "description": "Monedero ucraniano Trustee Plus con una Visa de débito integrada según la ficha. Reúne compra P2P, intercambio de monedas, Apple Pay, Google Pay y transferencias SEPA mediante IBAN personal; las funciones dependen de la oferta y región disponibles.",
+    "tagline": "Trustee Plus con tarjeta, intercambio y transferencias SEPA anunciadas"
+  },
+  "cincin": {
+    "description": "Mastercard virtual recargable con USDT TRC20 y gestionada mediante un bot de Telegram. La fuente anuncia Apple Pay y emisión de 25 USD abonados al saldo; las afirmaciones de emisión rápida, uso mundial y ausencia de KYC no garantizan elegibilidad o aceptación.",
+    "tagline": "Mastercard virtual recargable con USDT TRC20 mediante Telegram"
+  },
+  "emcd": {
+    "description": "Tarjeta del ecosistema EMCD, que combina monedero, intercambio P2P, grupo de minería y Coinhold. La ficha anuncia hasta el 14% APY en este último, además de emisión gratuita; ese rendimiento implica riesgos y no está garantizado, y las afirmaciones regulatorias requieren verificación.",
+    "tagline": "Tarjeta del ecosistema EMCD con monedero, P2P y servicios de minería"
+  },
+  "1inch-card": {
+    "description": "Mastercard prepago vinculada a 1inch mediante Crypto Life y Baanx. La ficha menciona pagos, retiradas en cajero, Apple Pay y Google Pay, y atribuye la emisión a Monavate para EEE y Reino Unido; licencias, disponibilidad y costes deben comprobarse.",
+    "tagline": "Tarjeta 1inch mediante Crypto Life y Baanx con funciones de pago y cajero"
+  },
+  "solflare-card": {
+    "description": "Mastercard de débito de Solflare presentada como de autocustodia, para gastar USDC desde un monedero en cadena. Los recuentos anunciados de usuarios y comercios no garantizan compatibilidad, emisión o aceptación en un comercio concreto.",
+    "tagline": "Tarjeta Solflare para pagos vinculados a USDC del monedero"
+  },
+  "rabby-wallet": {
+    "description": "Monedero EVM de código abierto del equipo de DeBank. Simula transacciones antes de firmar y muestra transferencias, cambios de permisos y avisos de riesgo; también permite revisar y revocar aprobaciones. Las simulaciones no garantizan detectar todos los comportamientos de un contrato.",
+    "tagline": "Monedero EVM con simulación previa y gestión de aprobaciones"
+  },
+  "revokecash": {
+    "description": "Herramienta para consultar y revocar permisos de gasto de tokens en redes EVM. Reúne aprobaciones activas para retirar las innecesarias; revocar permisos reduce exposición, pero no garantiza recuperar fondos ni impedir todos los ataques.",
+    "tagline": "Consulta y revocación de permisos de gasto de tokens EVM"
+  },
+  "de-fi": {
+    "description": "Panel DeFi con escáner de contratos y tokens, revocación de aprobaciones, seguimiento de carteras y datos de rendimientos. La función Shield avisa de riesgos señalados en activos; el análisis automatizado no sustituye una auditoría ni garantiza protección.",
+    "tagline": "Escáner de contratos, revocación de permisos y seguimiento de carteras DeFi"
+  },
+  "ledger": {
+    "description": "Monedero físico que utiliza un chip dedicado para almacenar claves y firmar operaciones, con compatibilidad anunciada con miles de activos. La fuente cita Nano S Plus y Nano X con Bluetooth; separar las claves del navegador no garantiza seguridad absoluta ante firmas, copias de recuperación o fallos del dispositivo.",
+    "tagline": "Monederos físicos Ledger con firma mediante un dispositivo dedicado"
+  },
+  "trezor": {
+    "description": "Familia de monederos físicos con firmware de código abierto que permite examinar su implementación. La ficha compara su cobertura de redes e interfaz con Ledger y menciona Model One; la apertura del código no equivale por sí sola a una garantía de seguridad.",
+    "tagline": "Monederos físicos Trezor con firmware de código abierto"
+  },
+  "safepal": {
+    "description": "Monedero físico con firma mediante códigos QR y aplicación móvil para gestionar activos. La fuente cita el modelo S1 desde 49 USD y un diseño sin USB o Bluetooth para la firma; ese diseño no elimina todos los riesgos de custodia o autorización.",
+    "tagline": "Monedero físico SafePal con firma por QR y aplicación móvil"
+  },
+  "authy": {
+    "description": "Aplicación de autenticación de dos factores con copias de seguridad en la nube y sincronización entre dispositivos según la fuente. Facilita continuidad al cambiar de teléfono, pero las copias y la sincronización introducen sus propios requisitos y riesgos de acceso.",
+    "tagline": "Autenticación de dos factores con copia de seguridad y sincronización anunciadas"
+  },
+  "veracrypt": {
+    "description": "Programa gratuito de código abierto para cifrar contenedores, particiones o discos completos. Utiliza AES, Twofish, Serpent o combinaciones e incluye volúmenes ocultos. El cifrado ayuda a proteger datos almacenados, sin garantizar inmunidad frente a todos los ataques o accesos.",
+    "tagline": "Cifrado de contenedores, particiones y discos con software de código abierto"
+  },
+  "bitwarden": {
+    "description": "Gestor de contraseñas de código abierto con cifrado local antes de la sincronización y opción de alojamiento propio. La ficha anuncia contraseñas y dispositivos ilimitados en el plan gratuito y TOTP y funciones adicionales en el plan de pago.",
+    "tagline": "Gestor de contraseñas de código abierto con sincronización y alojamiento propio"
+  },
+  "safe": {
+    "description": "Monedero multifirma que exige un umbral configurable de firmas, como dos de tres o tres de cinco, para autorizar operaciones. Se utiliza para tesorerías de equipos y DAO según la fuente; su protección depende de la configuración y de la seguridad de los firmantes.",
+    "tagline": "Monedero multifirma con umbrales configurables de firmas"
+  },
+  "pocketuniverse": {
+    "description": "Extensión que simula transacciones antes de firmarlas y muestra transferencias o permisos sospechosos junto al monedero. La fuente la orienta a detectar phishing y contratos de drenaje; no garantiza detectar todos los engaños ni evitar pérdidas.",
+    "tagline": "Extensión de simulación de transacciones y avisos antes de firmar"
+  },
+  "web3-antivirus": {
+    "description": "Extensión que analiza sitios, contratos y transacciones mediante modelos y bases de firmas. Marca patrones conocidos de fraude o riesgo antes de interactuar; sus avisos y su funcionamiento en segundo plano no constituyen una garantía de seguridad.",
+    "tagline": "Análisis de sitios y contratos con avisos de patrones de riesgo conocidos"
+  },
+  "honeypot": {
+    "description": "Comprobador que simula la compra y venta de un token a partir de la dirección de su contrato. Busca restricciones que permitan comprar pero impidan vender; una simulación favorable no garantiza liquidez, venta futura o ausencia de cambios en el contrato.",
+    "tagline": "Simulación de compra y venta para identificar restricciones de tipo honeypot"
+  },
+  "rugcheck": {
+    "description": "Escáner de tokens de Solana que consulta autoridad de emisión y congelación, estado de liquidez y concentración de titulares. Explica señales y genera una puntuación de riesgo; no certifica que un token sea seguro ni que pueda venderse.",
+    "tagline": "Comprobación de autoridades, liquidez y titulares de tokens de Solana"
+  },
+  "token-sniffer": {
+    "description": "Análisis automatizado de contratos de tokens EVM para identificar patrones como emisión oculta, comisiones de transferencia o listas de bloqueo. Consulta liquidez y similitudes con incidentes conocidos y ofrece una puntuación de 0 a 100; no sustituye una auditoría independiente.",
+    "tagline": "Análisis automatizado de contratos EVM y patrones de riesgo de tokens"
+  },
+  "1password": {
+    "description": "Gestor de contraseñas con bóveda cifrada, generación de contraseñas únicas y autocompletado en el navegador. La fuente cita una suscripción de 3 USD al mes; es una referencia comercial y no una garantía frente a pérdida de acceso o compromiso de cuentas.",
+    "tagline": "Bóveda cifrada, contraseñas únicas y autocompletado en el navegador"
+  },
+  "hyperliquid": {
+    "description": "DEX de futuros perpetuos con libro de órdenes en cadena, bóvedas HLP y seguimiento de posiciones según la ficha. La captura de financiación y las estrategias denominadas neutrales a delta conservan riesgos de mercado, ejecución, liquidación y protocolo.",
+    "tagline": "Futuros perpetuos con libro de órdenes en cadena y bóvedas HLP"
+  },
+  "trip": {
+    "description": "Plataforma de reservas de hoteles, vuelos y trenes. La ficha anuncia pagos con tarjetas, incluidas algunas vinculadas a criptomonedas, y ventajas por referidos; compatibilidad, recompensas y condiciones de cada reserva requieren confirmación.",
+    "tagline": "Reservas de hoteles, vuelos y trenes con programas de recompensas anunciados"
+  },
+  "kryon": {
+    "description": "Servicio VPN con países, tipos de conexión y ajustes configurables. La fuente relata su uso mediante Happ y una aplicación propia en distintas regiones; esa experiencia personal no garantiza disponibilidad ni acceso en todas las redes o jurisdicciones.",
+    "tagline": "VPN con varios tipos de conexión y aplicación propia"
+  },
+  "libre": {
+    "description": "Alternativa gratuita de código abierto a Excel para hojas de cálculo, fórmulas, tablas dinámicas y macros. La fuente la utiliza como ejemplo para listas de monederos, seguimiento de proyectos y cálculos de resultados con grandes volúmenes de datos.",
+    "tagline": "Hojas de cálculo de código abierto para listas, fórmulas y análisis de resultados"
+  },
+  "bluestacks": {
+    "description": "Emulador de Android para ordenador con administrador de múltiples instancias. La fuente lo compara con Nox por compatibilidad y estabilidad y señala un consumo de RAM mayor; esas valoraciones dependen de la aplicación y del equipo.",
+    "tagline": "Emulación de Android con varias instancias simultáneas"
+  },
+  "tempmail": {
+    "description": "Servicio de correo desechable que genera una dirección y una bandeja de entrada temporal sin registro según la ficha. Las direcciones caducan y no son adecuadas para conservar acceso a cuentas importantes; su uso debe respetar las condiciones del servicio de destino.",
+    "tagline": "Direcciones de correo temporales con bandeja de entrada desechable"
+  },
+  "icloud-mail": {
+    "description": "La función Hide My Email de iCloud+ crea alias persistentes que reenvían mensajes a una bandeja principal. La fuente cita hasta 500 alias y un precio inicial de 0,99 USD al mes; esas cifras deben comprobarse y no garantizan aceptación en otros servicios.",
+    "tagline": "Alias de correo de iCloud+ con reenvío mediante Hide My Email"
+  },
+  "pixelscan": {
+    "description": "Analiza la huella del navegador mediante Canvas, WebGL, AudioContext, fuentes y otros indicadores. Permite estudiar qué datos distinguen un entorno; un resultado favorable no demuestra anonimato ni garantiza superar controles de plataformas.",
+    "tagline": "Análisis de huella del navegador con Canvas, WebGL y audio"
+  },
+  "whoer": {
+    "description": "Comprueba IP, DNS, WebRTC y coherencia de zona horaria, idioma y sistema operativo. Genera una puntuación propia sobre la conexión; sus porcentajes no equivalen a una garantía de anonimato o de aceptación de cuentas.",
+    "tagline": "Diagnóstico de IP, DNS, WebRTC y coherencia del entorno del navegador"
+  },
+  "browserleaks": {
+    "description": "Conjunto de pruebas que muestra datos del navegador como Canvas, WebGL, WebRTC, fuentes, pantalla, audio, CPU, memoria y Battery API. Se centra en exponer los datos obtenidos para analizar filtraciones, en vez de limitarse a una puntuación resumida.",
+    "tagline": "Pruebas de filtraciones del navegador que muestran los datos técnicos obtenidos"
+  },
+  "antcpt": {
+    "description": "Servicio con API que la ficha anuncia para resolución de reCAPTCHA v2/v3, hCaptcha, FunCaptcha, Turnstile e imágenes, con cobro por resolución. Su disponibilidad no autoriza automatizaciones contra restricciones de acceso ni garantiza resolver un desafío concreto.",
+    "tagline": "Servicio de resolución de CAPTCHA con API y cobro por solicitud"
+  },
+  "smmlaba": {
+    "description": "Servicio que comercializa interacciones de redes sociales, como seguidores, visualizaciones o comentarios para Instagram, X, TikTok, YouTube, Telegram y Discord. No se presenta como prueba de audiencia auténtica, reputación ni elegibilidad, y debe respetar las normas de cada plataforma.",
+    "tagline": "Catálogo de servicios de interacciones para distintas redes sociales"
+  },
+  "nox": {
+    "description": "Emulador gratuito de Android para ordenador, con múltiples instancias y acceso root anunciado. La fuente lo orienta a probar aplicaciones e interfaces móviles en escritorio, sin aportar una garantía de seguridad para monederos o datos sensibles.",
+    "tagline": "Emulador Android para ordenador con múltiples instancias y acceso root anunciado"
+  },
+  "proxyswitchy": {
+    "description": "Extensión de Chrome para crear perfiles de servidores proxy y cambiarlos desde la barra de herramientas. Admite HTTP, HTTPS y SOCKS5 con autenticación según la ficha, para pruebas o navegación autorizada con distintas conexiones.",
+    "tagline": "Cambio de perfiles proxy HTTP, HTTPS y SOCKS5 desde Chrome"
+  },
+  "seosprint": {
+    "description": "Plataforma de microtareas de la CEI donde se encargan pequeños trabajos en línea por importes reducidos. La fuente menciona actividad y referencias de proyectos; esas tareas no deben presentarse como interacción orgánica ni eludir las reglas de terceros.",
+    "tagline": "Plataforma de pequeños trabajos y microtareas en línea"
+  },
+  "captcha-test": {
+    "description": "Herramienta que muestra una puntuación de reCAPTCHA v3 entre 0,0 y 1,0 para estudiar cómo se evalúa una sesión. Los umbrales citados por la fuente no garantizan una clasificación humana ni ausencia de desafíos futuros.",
+    "tagline": "Consulta de puntuación reCAPTCHA v3 para diagnóstico de sesiones"
+  },
+  "proxyshard-checker": {
+    "description": "Comprobador de ProxyShard que consulta reputación de IP, listas de bloqueo, ubicación, ISP y clasificación residencial o de centro de datos. Las bases pueden discrepar, de modo que el resultado no garantiza aceptación por sistemas antifraude.",
+    "tagline": "Diagnóstico de reputación, ubicación y tipo de conexión de una IP"
+  },
+  "capcut": {
+    "description": "Editor de vídeo de ByteDance con línea de tiempo, transiciones, efectos, texto y música. La fuente describe versiones de escritorio y navegador y una oferta gratuita para clips o reseñas; debe utilizarse una distribución oficial y comprobar qué funciones son de pago.",
+    "tagline": "Edición de vídeo con línea de tiempo, efectos y texto de ByteDance"
+  },
+  "photopea": {
+    "description": "Editor de imágenes en el navegador con compatibilidad PSD, capas, máscaras y filtros. La fuente lo propone para recortes, banners, logotipos y preparación de imágenes sin instalar una copia no autorizada de otro editor.",
+    "tagline": "Editor de imágenes en el navegador con PSD, capas y máscaras"
+  },
+  "obsidian": {
+    "description": "Aplicación de notas en archivos Markdown locales, con enlaces entre notas, gráficos de relaciones y complementos. Sirve para organizar investigación y documentación de proyectos; la fuente distingue uso personal gratuito y sincronización adicional de pago.",
+    "tagline": "Notas Markdown locales enlazadas con gráficos y complementos"
+  },
+  "notion": {
+    "description": "Espacio de trabajo con notas, bases de datos, tableros Kanban, wikis y calendarios. La fuente lo orienta a organizar proyectos, plazos y documentación de protocolos, con un plan gratuito y una amplia colección de plantillas.",
+    "tagline": "Notas, bases de datos, tareas y wikis en un espacio de trabajo"
+  },
+  "greedy-sms": {
+    "description": "Servicio de números para recibir SMS mediante una interfaz y un bot con publicidad según la fuente. El texto menciona números anunciados para Alchemy, Vercel y Coinbase; no garantiza aceptación o cumplimiento de los requisitos de esos servicios.",
+    "tagline": "Números para recepción de SMS con bot de gestión"
+  },
+  "smspool": {
+    "description": "Servicio de números móviles con API, soporte y una tasa aproximada de éxito mostrada por número según la ficha. La fuente cita alquileres de unos 6 USD al día o 18 USD por 28 días; las cifras no aseguran verificación en plataformas de terceros.",
+    "tagline": "Números móviles con API, alquiler y métricas de éxito anunciadas"
+  },
+  "365-sms": {
+    "description": "Servicio de números para recibir SMS, presentado por la fuente como orientado a usos puntuales. El texto indica que todavía no dispone de alquiler a largo plazo; las valoraciones de disponibilidad y éxito no constituyen una garantía.",
+    "tagline": "Recepción puntual de SMS sin alquiler prolongado según la fuente"
+  },
+  "herosms": {
+    "description": "Plataforma de recepción de SMS que la fuente presenta como sucesora de SMS-Activate y de su red de proveedores. La ficha incluye API y números económicos; esa continuidad anunciada no garantiza disponibilidad o aceptación en terceros.",
+    "tagline": "Recepción de SMS con API y una red vinculada históricamente a SMS-Activate"
+  },
+  "tiger-sms": {
+    "description": "Servicio de números para SMS con API, varios países y números gratuitos anunciados. La fuente cita precios desde tres céntimos y numerosas plataformas de destino, sin garantizar que un número concreto sea aceptado.",
+    "tagline": "Números para SMS con API, varios países y opciones gratuitas anunciadas"
+  },
+  "sms-man": {
+    "description": "Servicio de números para recepción puntual o alquiler, con API y pagos mediante tarjetas o criptomonedas. La fuente anuncia más de 300 servicios de destino en varios países; su compatibilidad debe comprobarse conforme a las reglas de cada plataforma.",
+    "tagline": "Recepción de SMS y alquiler de números con API y distintos métodos de pago"
+  },
+  "secondnumber": {
+    "description": "Plataforma de números temporales para códigos de un solo uso, con aplicación iOS y API. La ficha incluye números puntuales y alquileres de hasta 365 días, con una referencia de números británicos desde 2 USD para uso prolongado.",
+    "tagline": "Números temporales y alquileres prolongados con aplicación iOS"
+  },
+  "grizzlysms": {
+    "description": "Servicio de números para SMS cuyo panel muestra países, servicios, existencias y una tasa de éxito declarada por opción. Incluye documentación de API para integración; esas métricas no garantizan verificaciones futuras.",
+    "tagline": "Recepción de SMS con información de existencias, métricas y API"
+  },
+  "smspva": {
+    "description": "Servicio de recepción de SMS con varios países, aplicaciones de destino y API. La fuente cita números puntuales desde 0,03 USD y alquileres de alrededor de 1,70 USD al día, y advierte de que el coste real puede ser superior.",
+    "tagline": "Números puntuales y alquileres para SMS con acceso mediante API"
+  },
+  "onlinesim": {
+    "description": "Servicio de números para SMS con API por lotes y alquiler a largo plazo. La fuente distingue ofertas puntuales y alquileres más costosos; la cobertura anunciada no sustituye comprobar requisitos y compatibilidad del destino.",
+    "tagline": "Recepción de SMS por API y alquiler de números a largo plazo"
+  },
+  "detectexpert": {
+    "description": "Servicio del ecosistema Vektor T13 y CyberYozh según la fuente, con números puntuales desde 0,02 USD y prolongados desde 0,89 USD anunciados. Las cifras sobre listas de bloqueo y calidad son afirmaciones del proveedor, no garantías verificadas.",
+    "tagline": "Números para SMS del ecosistema Vektor T13 y CyberYozh"
+  },
+  "vaksms": {
+    "description": "Servicio de números para SMS de la CEI con disponibilidad reducida según la fuente. El texto menciona principalmente Hong Kong, Uzbekistán y Reino Unido y no lo considera totalmente cerrado.",
+    "tagline": "Números para SMS con inventario reducido según la fuente"
+  },
+  "textverified": {
+    "description": "Servicio centrado en números de Estados Unidos. La fuente lo describe como costoso y de interfaz poco cómoda, con una valoración favorable de calidad que no constituye garantía de aceptación o seguridad de cuentas.",
+    "tagline": "Servicio de recepción de SMS centrado en números estadounidenses"
+  },
+  "sms-verification": {
+    "description": "Servicio para seleccionar un destino, obtener un número y recibir un código SMS. La ficha incluye numerosos países y números, pero señala que la calidad de cada opción debe evaluarse por separado y conforme a las condiciones de terceros.",
+    "tagline": "Selección de números y recepción de códigos SMS por servicio y país"
+  },
+  "temp-number": {
+    "description": "Plataforma de números temporales con búsqueda por servicio, país o precio. La fuente describe periodos de 20 minutos y acceso mediante API, sin asegurar que un número sea válido para cada plataforma.",
+    "tagline": "Números temporales de 20 minutos con búsqueda y API"
+  },
+  "simsms": {
+    "description": "Servicio de la CEI con alquiler prolongado de números y desvío de llamadas, con más de 60 países anunciados. La fuente indica retirada del mercado ruso, inventario limitado y opciones como Kazajistán, Ucrania y Kirguistán; confirma las regiones vigentes.",
+    "tagline": "Alquiler de números y desvío de llamadas con cobertura internacional anunciada"
+  },
+  "daisysms": {
+    "description": "Servicio de números SMS que la fuente da por cerrado el 26 de marzo de 2026. Se conserva como registro histórico y no como una oferta actualmente operativa.",
+    "tagline": "Servicio de SMS señalado como cerrado el 26 de marzo de 2026"
+  },
+  "sms-activate": {
+    "description": "Antiguo servicio de recepción de SMS descrito como cerrado tras diez años de actividad. La fuente atribuye la continuidad de su trabajo a HeroSMS; esta entrada no se presenta como un servicio todavía operativo.",
+    "tagline": "Servicio de SMS cerrado, con continuidad atribuida a HeroSMS"
+  },
+  "claude": {
+    "description": "Asistente de IA de Anthropic para razonamiento, desarrollo y tareas cotidianas. La fuente cita Opus 4.6, Opus 4 y Sonnet 4 y un plan Max desde 100 USD al mes como referencias de su momento; modelos, límites y precios actuales requieren comprobación.",
+    "tagline": "Asistente de Anthropic para razonamiento, programación y análisis"
+  },
+  "openai": {
+    "description": "Proveedor de ChatGPT y Codex, descrito por la fuente para conversación, investigación, imágenes y desarrollo. El texto cita GPT-4o, o3, o4-mini y planes Plus o Pro como referencias históricas; las valoraciones comparativas y afirmaciones de acceso ilimitado no son condiciones actuales verificadas.",
+    "tagline": "ChatGPT y Codex para conversación, análisis, creación y desarrollo"
+  },
+  "gemini": {
+    "description": "Familia de IA de Google con funciones de análisis, programación y trabajo con documentos e integraciones de su ecosistema. La fuente cita Gemini 2.5 Pro, contexto de un millón de tokens y un plan Advanced de 19,99 USD al mes; son referencias que no acreditan la oferta actual.",
+    "tagline": "IA de Google para documentos, análisis e integración con su ecosistema"
+  },
+  "grok": {
+    "description": "Asistente de xAI integrado con X para consultar conversaciones y tendencias de esa plataforma. La fuente menciona Grok 3, X Premium y SuperGrok como referencias; las prestaciones, los filtros, el acceso y las tarifas pueden variar y no se validan aquí.",
+    "tagline": "Asistente de xAI con integración y datos de conversaciones de X"
+  },
+  "deepseek": {
+    "description": "Familia de modelos de IA que la fuente identifica mediante R1 para razonamiento y V3 para conversación, con web, API y opciones de ejecución local. Sus comparaciones de rendimiento y precios son históricas; comprueba licencias y el tratamiento de datos antes de elegir un despliegue.",
+    "tagline": "Modelos DeepSeek para razonamiento, conversación y despliegues mediante API o locales"
+  },
+  "kimi": {
+    "description": "Asistente de Moonshot AI orientado por la fuente al análisis de documentos largos, como PDF, libros y artículos. La ficha destaca resumen y referencias entre materiales; una ventana de contexto amplia no garantiza recordar o interpretar correctamente cada dato.",
+    "tagline": "Asistente de Moonshot AI para analizar y resumir documentos extensos"
+  },
+  "qwen": {
+    "description": "Familia de modelos de Alibaba con variantes para desarrollo. La fuente cita QwenCode para comprender proyectos, generar funciones y depurar, junto con variantes ajustadas y acceso web o API; disponibilidad, licencias y tarifas deben comprobarse.",
+    "tagline": "Modelos de Alibaba y QwenCode para generación de código y depuración"
+  },
+  "z-ai": {
+    "description": "La fuente presenta Z.ai como una interfaz para comparar varios modelos y menciona Claude, GPT y Gemini. Esa caracterización no está verificada por el catálogo: comprueba qué modelos y condiciones ofrece realmente el servicio antes de usarlo.",
+    "tagline": "Interfaz de IA cuya oferta concreta de modelos debe comprobarse"
+  },
+  "notebooklm": {
+    "description": "Asistente de investigación de Google que trabaja con documentos, notas, enlaces web, vídeos de YouTube y Google Docs aportados como fuentes. Incluye Audio Overview para resúmenes de audio conversacionales; las respuestas fundamentadas en documentos todavía requieren revisar citas y posibles errores.",
+    "tagline": "Investigación sobre fuentes aportadas y resúmenes de audio conversacionales"
+  },
+  "mimo": {
+    "description": "Modelo de IA de Xiaomi orientado en la fuente a generación de código, depuración y razonamiento técnico. Se describe como una opción ligera para consultas de desarrollo; las comparaciones con modelos mayores y el acceso gratuito no se verifican como condiciones actuales.",
+    "tagline": "IA de Xiaomi para generación de código, depuración y consultas técnicas"
+  },
+  "reve": {
+    "description": "Generador de imágenes de IA que la fuente orienta a retratos, productos y escenas de apariencia fotográfica. La ficha distingue una prueba gratuita y planes con mayor resolución, volumen y derechos comerciales; la calidad y las licencias deben comprobarse en cada caso.",
+    "tagline": "Generación de retratos, productos y escenas de apariencia fotográfica"
+  },
+  "mai": {
+    "description": "Modelo de imágenes de Microsoft citado en la fuente como MAI Image 2, con acceso descrito mediante Copilot, Designer y Bing Image Creator. Está orientado a instrucciones de composición, iluminación y estilo; no se garantiza reproducción exacta ni disponibilidad gratuita actual.",
+    "tagline": "Generación de imágenes de Microsoft mediante sus interfaces de creación"
+  },
+  "seedream": {
+    "description": "Generador de imágenes de ByteDance que la fuente destaca por representar texto dentro de carteles, banners y otros diseños. La legibilidad y la tipografía deben revisarse en cada imagen; no se garantiza la reproducción exacta de las palabras solicitadas.",
+    "tagline": "Generación de imágenes de ByteDance con énfasis en texto y tipografía"
+  },
+  "flux": {
+    "description": "Familia de modelos de imágenes de Black Forest Labs, citada en la fuente mediante Flux 2 y servicios como Replicate, fal.ai y ComfyUI. Incluye opciones de API y despliegue comunitario; licencias, uso comercial y costes dependen del modelo y del proveedor concretos.",
+    "tagline": "Modelos de imágenes de Black Forest Labs con API e integraciones comunitarias"
+  },
+  "veo": {
+    "description": "Modelo de generación de vídeo de Google DeepMind que la fuente describe mediante Veo 2 y Vertex AI. Cita clips de hasta 4K y control de iluminación o cámara como prestaciones anunciadas; esta entrada de directorio no autoriza su generación ni garantiza calidad o límites actuales.",
+    "tagline": "Modelo de vídeo de Google DeepMind descrito en la fuente mediante Veo 2"
+  },
+  "wan": {
+    "description": "Familia de generación de vídeo de Alibaba con opciones locales descritas por la fuente. Puede crear vídeo desde texto o animar imágenes e integrarse mediante versiones y complementos comunitarios; se deben comprobar licencias, requisitos de hardware y condiciones de uso.",
+    "tagline": "Generación de vídeo desde texto o imágenes con opciones de ejecución local"
+  },
+  "afina-automation": {
+    "description": "Entorno de automatización de Afina que ejecuta flujos sobre sus perfiles de navegador. La ficha incluye editor, guías oficiales y componentes Web3, como acceso a monederos o procesos de exchanges; su presencia no autoriza operaciones financieras ni garantiza evitar la detección de plataformas.",
+    "tagline": "Editor de automatización con perfiles Afina y componentes Web3"
+  },
+  "bas": {
+    "description": "Herramienta de automatización para tareas web tradicionales y Web3, con guías en YouTube, incluidas las de sus creadores. La fuente distingue uso inicial y una suscripción vinculada a comercializar software creado con BAS; confirma los términos de licencia actuales.",
+    "tagline": "Automatización web y Web3 con recursos de aprendizaje del proveedor"
+  },
+  "zennoposter": {
+    "description": "Plataforma de automatización mediante editor visual, con múltiples hilos, rotación de proxies, integraciones de CAPTCHA y lógica condicional. La fuente la describe como una herramienta de pago con guías de aprendizaje; su uso debe respetar los controles y condiciones de los sitios.",
+    "tagline": "Automatización visual con múltiples hilos, proxies y lógica condicional"
+  },
+  "playwright": {
+    "description": "Herramienta de automatización de navegadores de Microsoft con esperas automáticas, ejecución sin interfaz y soporte de Chrome, Firefox y WebKit. Incluye depuración y generación de código a partir de acciones registradas, para pruebas y flujos autorizados.",
+    "tagline": "Automatización de navegadores con esperas automáticas, depuración y generación de código"
+  },
+  "selenium": {
+    "description": "Marco de automatización de navegadores basado en WebDriver, con soporte de Chrome, Firefox, Edge y Safari. Ofrece bibliotecas para Python, Java, JavaScript, C# y Ruby, y un ecosistema amplio de recursos para pruebas.",
+    "tagline": "Automatización mediante WebDriver con varios navegadores y lenguajes"
+  },
+  "puppeteer": {
+    "description": "Biblioteca de Google para controlar Chrome o Chromium mediante DevTools. La fuente incluye renderizado de páginas, capturas de pantalla, PDF e inspección de peticiones para proyectos Node.js de pruebas y automatización autorizada.",
+    "tagline": "Control de Chrome mediante DevTools para capturas, PDF y pruebas"
+  },
+  "robot-framework": {
+    "description": "Marco de automatización de código abierto basado en palabras clave legibles. Su ecosistema de bibliotecas cubre web, móvil, API y bases de datos, y puede utilizar Selenium o Playwright como parte de las pruebas.",
+    "tagline": "Pruebas y automatización basadas en palabras clave y bibliotecas extensibles"
+  },
+  "adspower-automation": {
+    "description": "Funciones de automatización RPA de ADS Power para flujos básicos. La fuente menciona un mercado de escenarios preparados y la posibilidad de compartir scripts, y señala actualizaciones poco frecuentes del robot.",
+    "tagline": "Automatización RPA de ADS Power con un mercado de escenarios"
+  },
+  "autohotkey": {
+    "description": "Lenguaje y herramienta de automatización de escritorio en Windows. Permite crear atajos, manejar ventanas y automatizar entradas de ratón o teclado, con una comunidad de scripts para tareas repetitivas.",
+    "tagline": "Atajos y scripts de automatización de ventanas, teclado y ratón en Windows"
+  },
+  "uipath": {
+    "description": "Plataforma RPA con diseñador visual para procesos entre aplicaciones, como entrada de datos y tratamiento de facturas. La ficha incluye Community Edition para uso individual y la orienta a flujos complejos que van más allá del navegador.",
+    "tagline": "Diseño visual de procesos RPA entre aplicaciones de escritorio"
+  },
+  "meshy": {
+    "description": "Generador de modelos 3D desde texto o imágenes, con creación de texturas PBR, retopología en cuadriláteros y exportación mediante un complemento de Unity según la ficha. La rapidez anunciada y la aptitud para juegos deben validarse en cada modelo.",
+    "tagline": "Modelos 3D desde texto o imágenes con texturas PBR y exportación a Unity"
+  },
+  "tripo3d": {
+    "description": "Generador 3D orientado a iteración rápida de conceptos. La fuente anuncia borradores en unos ocho segundos y refinados de dos a cinco minutos, con Low-Poly Mode V2, UV automáticas y topología en cuadriláteros; esos tiempos y la calidad no están garantizados.",
+    "tagline": "Borradores 3D desde texto o imágenes con UV y topología automatizadas"
+  },
+  "rodin": {
+    "description": "Generación 3D de Hyper3D orientada a elementos visuales principales de apariencia fotográfica. La ficha destaca geometría densa, UV y mapas PBR de alta resolución; cada activo requiere comprobar topología, texturas y adecuación al destino.",
+    "tagline": "Generación 3D de Hyper3D para activos detallados y mapas PBR"
+  },
+  "hyper3d": {
+    "description": "Conjunto de generación 3D que incluye Rodin, mapas de normales HDMormaps y API empresarial según la fuente. Está orientado a integrar creación de activos en procesos de estudio, sin garantizar preparación inmediata para producción.",
+    "tagline": "Conjunto de generación 3D con Rodin, HDMormaps y API empresarial"
+  },
+  "kaedim": {
+    "description": "Conversión de imágenes 2D a modelos 3D mediante un proceso que combina generación y revisión de artistas. La ficha anuncia revisión humana de topología; esto no garantiza que cada activo pueda utilizarse sin ajustes adicionales.",
+    "tagline": "Conversión de imágenes a 3D con revisión de artistas en el proceso"
+  },
+  "blender": {
+    "description": "Conjunto 3D gratuito de código abierto para revisar y adaptar mallas generadas por IA. La fuente destaca limpieza de geometría no válida, reducción de polígonos, ajuste del pivote y reorganización de texturas ORM para glTF antes de importar a un motor.",
+    "tagline": "Herramientas 3D de código abierto para limpiar y preparar mallas y texturas"
+  },
+  "unity": {
+    "description": "Motor de juegos que la fuente cita como Unity 6 con Universal Render Pipeline, objetivos móviles y WebGL. Permite integrar prefabs y adaptar materiales glTF a URP Lit; las compilaciones para Mini Apps deben verificar tamaño, rendimiento y compatibilidad reales.",
+    "tagline": "Motor Unity 6 con URP para proyectos móviles, WebGL y Mini Apps"
+  },
+  "v0": {
+    "description": "Constructor de interfaces de Vercel que genera código React, Tailwind y shadcn/ui desde instrucciones. La ficha lo orienta a prototipar diseños antes de conectar lógica y datos reales; el código generado requiere validación para producción.",
+    "tagline": "Prototipos de interfaces desde instrucciones con React y shadcn/ui"
+  },
+  "lovable": {
+    "description": "Constructor de aplicaciones web mediante IA a partir de lenguaje natural. La fuente incluye interfaz, lógica y elementos de Supabase como esquema, autenticación y Edge Functions; los resultados necesitan verificar seguridad y comportamiento antes de publicarse.",
+    "tagline": "Creación inicial de aplicaciones completas con integración de Supabase"
+  },
+  "cursor": {
+    "description": "Editor basado en VS Code con funciones de IA para cambios en varios archivos, conversación sobre el proyecto y refactorización. La fuente menciona conocimiento de AST y flujos de Git; esas capacidades no sustituyen probar los cambios generados.",
+    "tagline": "Editor con IA para cambios en varios archivos y refactorización de proyectos"
+  },
+  "bolt-new": {
+    "description": "Entorno de StackBlitz que genera y ejecuta aplicaciones desde instrucciones dentro del navegador. Utiliza WebContainers para ofrecer un entorno Node.js sin instalación local, orientado a experimentos y demostraciones.",
+    "tagline": "Creación y ejecución de aplicaciones Node.js en el navegador mediante WebContainers"
+  },
+  "godot": {
+    "description": "Motor de juegos 2D y 3D de código abierto con GDScript e importación glTF. La fuente lo presenta como una opción de tamaño reducido para web y Mini Apps; las limitaciones de exportación y rendimiento deben comprobarse en el objetivo concreto.",
+    "tagline": "Motor 2D/3D de código abierto con GDScript e importación glTF"
+  },
+  "spline": {
+    "description": "Herramienta de diseño 3D en el navegador con generación mediante IA, edición colaborativa y animaciones interactivas. La ficha incluye inserción en páginas web o React para escenas de sitios y Mini Apps, con rendimiento sujeto al contenido.",
+    "tagline": "Diseño 3D colaborativo en el navegador con animación y exportación web"
+  }
+}
