@@ -1,0 +1,29 @@
+{
+  "source": "makecash-launch-film-preview-r4.mp4",
+  "source_sha256": "cc29384b977a1a906b0be6dedb0cd94926258bd46d7dd83feaed2c70557e8c44",
+  "original": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30",
+    "duration": 16.0,
+    "codec": "h264",
+    "b_frames": 2,
+    "audio_streams": 0,
+    "bytes": 10829946
+  },
+  "delivery": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30",
+    "duration": 16.0,
+    "codec": "h264",
+    "b_frames": 0,
+    "audio_streams": 0,
+    "bytes": 11070026
+  },
+  "gop_requested": 4,
+  "max_keyframe_gap": 4,
+  "frames": 480,
+  "poster": "makecash-launch-film-scrub.poster.jpg",
+  "video": "makecash-launch-film-scrub.mp4"
+}
