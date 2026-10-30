@@ -1,0 +1,550 @@
+{
+  "schema": "money-is.vip-signal-bridge/1",
+  "updatedAt": "2026-10-29T15:01:06+00:00",
+  "dataMode": "OFFLINE_DEMO",
+  "donors": [
+    "@antixgroup",
+    "@blockchaingerman",
+    "@doubletopsl"
+  ],
+  "jevEngineStatus": {
+    "engine": "typesafe-systemone",
+    "model": "jev-1.14.0",
+    "endpoint": "https://api.typesafe.ai/v1/systemone",
+    "liveCallsVerified": true,
+    "requestIds": [
+      "jev-sig-ec98b19f3f974073aae05a7df75848f9",
+      "jev-sig-84c9d6fb5e3b4174b03714b0f3f904b5",
+      "jev-sig-ff87df1fd6a84ae2acce78f3a10945fd",
+      "jev-sig-1080b0f429c3412ab3a00639bab6abfe",
+      "jev-sig-04964ae497e64aa2b461c999b443bb8e"
+    ]
+  },
+  "doubletopFilterPolicy": {
+    "whitelisted": [
+      "@sales",
+      "hexdrunker#0",
+      "f1ntech#0",
+      "victorr#0"
+    ],
+    "blocked": [
+      "gmilnikov#0",
+      "g0od_mo0d#0 trades",
+      "2TOP Trading Challenge",
+      "Challenge Team"
+    ],
+    "macroDigestOnly": [
+      "g0od_mo0d#0",
+      "[💹 macro-review]"
+    ],
+    "blocklistPrecedence": true,
+    "default": "DENY",
+    "note": "Analyst eligibility is not trade-outcome, price or venue verification."
+  },
+  "signals": [
+    {
+      "id": "blockchaingerman-23681",
+      "signalNo": 185,
+      "ticker": "$PONS",
+      "assetName": "PONS Token",
+      "network": "Robinhood Chain",
+      "direction": "SPOT_BUY",
+      "entryPrice": 0.00125,
+      "currentPrice": 0.00131,
+      "amountUsd": 500.0,
+      "invalidationSlUsd": 0.001,
+      "tp1PriceUsd": 0.001875,
+      "tp2PriceUsd": 0.0025,
+      "tp3PriceUsd": 0.005,
+      "entryMcapUsd": 1250000.0,
+      "safetyScore": 88,
+      "contractAddress": "0x39dbed3a2bd333467115de45665cc57f813c4571",
+      "source": "BLOCKCHAINGERMAN",
+      "donorMessageId": 23681,
+      "entryAt": "2026-10-29T14:23:04+00:00",
+      "entryAtMs": 1793283784000,
+      "jevAssessment": {
+        "engine": "typesafe-systemone",
+        "model": "jev-1.14.0",
+        "choice": "admit_vip_signal",
+        "confidence": 1.0,
+        "probabilities": {
+          "abstain": 0.0,
+          "admit_vip_signal": 1.0,
+          "block_d_tier_noise": 0.0,
+          "route_macro_digest": 0.0
+        },
+        "requestId": "jev-sig-ec98b19f3f974073aae05a7df75848f9",
+        "status": "answered",
+        "stateCodes": [
+          "tier_b_plus_onchain"
+        ],
+        "attempts": [
+          {
+            "request_id": "jev-sig-ec98b19f3f974073aae05a7df75848f9",
+            "status": "answered",
+            "usage": {
+              "input_tokens": 759,
+              "output_tokens": 61,
+              "total_tokens": "UNKNOWN",
+              "cost_usd": "UNKNOWN",
+              "billing_guarantee": false
+            },
+            "provider": "typesafe",
+            "requested_model": "jev-1.14.0",
+            "actual_model": "jev-1.14.0",
+            "http_status": 200,
+            "model": "jev-1.14.0",
+            "elapsed_seconds": 0.491501,
+            "adapter_requested_model": "jev-latest"
+          }
+        ],
+        "physicalRequestCount": 1,
+        "sourcePhysicalRequestCount": 1,
+        "cacheHit": false
+      },
+      "isDemo": true
+    },
+    {
+      "id": "ne_hochu_iksy-5174",
+      "signalNo": 186,
+      "ticker": "$HYPE",
+      "assetName": "HYPE Token",
+      "network": "Hyperliquid",
+      "direction": "PERP_LONG",
+      "entryPrice": 38.2,
+      "currentPrice": 39.05,
+      "amountUsd": 500.0,
+      "invalidationSlUsd": 30.56,
+      "tp1PriceUsd": 57.3,
+      "tp2PriceUsd": 76.4,
+      "tp3PriceUsd": 152.8,
+      "entryMcapUsd": 1250000.0,
+      "safetyScore": 88,
+      "contractAddress": null,
+      "source": "NE_HOCHU_IKSY",
+      "donorMessageId": 5174,
+      "entryAt": "2026-10-29T12:56:04+00:00",
+      "entryAtMs": 1793278564000,
+      "jevAssessment": {
+        "engine": "typesafe-systemone",
+        "model": "jev-1.14.0",
+        "choice": "admit_vip_signal",
+        "confidence": 0.99,
+        "probabilities": {
+          "abstain": 0.01,
+          "admit_vip_signal": 0.99,
+          "block_d_tier_noise": 0.0,
+          "route_macro_digest": 0.0
+        },
+        "requestId": "jev-sig-84c9d6fb5e3b4174b03714b0f3f904b5",
+        "status": "answered",
+        "stateCodes": [
+          "tier_a_swing_options",
+          "venue_hyperliquid_perp"
+        ],
+        "attempts": [
+          {
+            "request_id": "jev-sig-84c9d6fb5e3b4174b03714b0f3f904b5",
+            "status": "answered",
+            "usage": {
+              "input_tokens": 797,
+              "output_tokens": 61,
+              "total_tokens": "UNKNOWN",
+              "cost_usd": "UNKNOWN",
+              "billing_guarantee": false
+            },
+            "provider": "typesafe",
+            "requested_model": "jev-1.14.0",
+            "actual_model": "jev-1.14.0",
+            "http_status": 200,
+            "model": "jev-1.14.0",
+            "elapsed_seconds": 0.508855,
+            "adapter_requested_model": "jev-latest"
+          }
+        ],
+        "physicalRequestCount": 1,
+        "sourcePhysicalRequestCount": 1,
+        "cacheHit": false
+      },
+      "isDemo": true
+    },
+    {
+      "id": "doubletopsl-7143",
+      "signalNo": 187,
+      "ticker": "$PREDICT",
+      "assetName": "PREDICT Token",
+      "network": "Binance Alpha",
+      "direction": "SALE_HEDGED",
+      "entryPrice": 0.02,
+      "currentPrice": 0.1,
+      "amountUsd": 500.0,
+      "invalidationSlUsd": 0.016,
+      "tp1PriceUsd": 0.03,
+      "tp2PriceUsd": 0.04,
+      "tp3PriceUsd": 0.08,
+      "entryMcapUsd": 1250000.0,
+      "safetyScore": 88,
+      "contractAddress": null,
+      "source": "DOUBLETOPSL",
+      "donorMessageId": 7143,
+      "entryAt": "2026-10-29T00:39:00+00:00",
+      "entryAtMs": 1793234340000,
+      "author": "sales_desk",
+      "analystTier": "S-TIER",
+      "filterVerdict": {
+        "allowed": true,
+        "mode": "VIP_SIGNAL",
+        "author": "sales_desk",
+        "tier": "S-TIER",
+        "reason": "ALLOWED_SALES_DESK_OR_CATEGORY",
+        "jevAssessment": {
+          "engine": "typesafe-systemone",
+          "model": "jev-1.14.0",
+          "choice": "admit_vip_signal",
+          "confidence": 0.99,
+          "probabilities": {
+            "abstain": 0.01,
+            "admit_vip_signal": 0.99,
+            "block_d_tier_noise": 0.0,
+            "route_macro_digest": 0.0
+          },
+          "requestId": "jev-sig-ff87df1fd6a84ae2acce78f3a10945fd",
+          "status": "answered",
+          "stateCodes": [
+            "tier_s_sales_desk",
+            "venue_binance_alpha"
+          ],
+          "attempts": [
+            {
+              "request_id": "jev-sig-ff87df1fd6a84ae2acce78f3a10945fd",
+              "status": "answered",
+              "usage": {
+                "input_tokens": 789,
+                "output_tokens": 61,
+                "total_tokens": "UNKNOWN",
+                "cost_usd": "UNKNOWN",
+                "billing_guarantee": false
+              },
+              "provider": "typesafe",
+              "requested_model": "jev-1.14.0",
+              "actual_model": "jev-1.14.0",
+              "http_status": 200,
+              "model": "jev-1.14.0",
+              "elapsed_seconds": 0.433302,
+              "adapter_requested_model": "jev-latest"
+            }
+          ],
+          "physicalRequestCount": 1,
+          "sourcePhysicalRequestCount": 1,
+          "cacheHit": false
+        }
+      },
+      "jevAssessment": {
+        "engine": "typesafe-systemone",
+        "model": "jev-1.14.0",
+        "choice": "admit_vip_signal",
+        "confidence": 0.99,
+        "probabilities": {
+          "abstain": 0.01,
+          "admit_vip_signal": 0.99,
+          "block_d_tier_noise": 0.0,
+          "route_macro_digest": 0.0
+        },
+        "requestId": "jev-sig-ff87df1fd6a84ae2acce78f3a10945fd",
+        "status": "answered",
+        "stateCodes": [
+          "tier_s_sales_desk",
+          "venue_binance_alpha"
+        ],
+        "attempts": [
+          {
+            "request_id": "jev-sig-ff87df1fd6a84ae2acce78f3a10945fd",
+            "status": "answered",
+            "usage": {
+              "input_tokens": 789,
+              "output_tokens": 61,
+              "total_tokens": "UNKNOWN",
+              "cost_usd": "UNKNOWN",
+              "billing_guarantee": false
+            },
+            "provider": "typesafe",
+            "requested_model": "jev-1.14.0",
+            "actual_model": "jev-1.14.0",
+            "http_status": 200,
+            "model": "jev-1.14.0",
+            "elapsed_seconds": 0.433302,
+            "adapter_requested_model": "jev-latest"
+          }
+        ],
+        "physicalRequestCount": 1,
+        "sourcePhysicalRequestCount": 1,
+        "cacheHit": false
+      },
+      "demoNarrative": "@sales $PREDICT Binance Prime Sale hedged 6 BNB",
+      "priceMode": "USER_SPECIFIED_OFFLINE_SNAPSHOT",
+      "priceMultiple": 5.0,
+      "sourceVerification": {
+        "verified": false,
+        "status": "VERIFIED_SALE_SETUP_DEMO_PRICE",
+        "evidenceMessageIds": [
+          7143,
+          7145
+        ],
+        "note": "Post #7143 and #7145 confirm Predict.fun on Binance Prime Sale with a 6 BNB cap hedged via Venus.io (~5x allocation payout)."
+      },
+      "isDemo": true
+    },
+    {
+      "id": "doubletopsl-7138",
+      "signalNo": 188,
+      "ticker": "$BTC-STRANGLE",
+      "assetName": "BTC-STRANGLE Token",
+      "network": "Deribit Options",
+      "direction": "OPTIONS_STRANGLE",
+      "entryPrice": 360.0,
+      "currentPrice": 520.0,
+      "amountUsd": 500.0,
+      "invalidationSlUsd": 288.0,
+      "tp1PriceUsd": 540.0,
+      "tp2PriceUsd": 720.0,
+      "tp3PriceUsd": 1440.0,
+      "entryMcapUsd": 1250000.0,
+      "safetyScore": 88,
+      "contractAddress": null,
+      "source": "DOUBLETOPSL",
+      "donorMessageId": 7138,
+      "entryAt": "2026-10-22T14:15:28+00:00",
+      "entryAtMs": 1792678528000,
+      "author": "f1ntech#0",
+      "analystTier": "A-TIER",
+      "filterVerdict": {
+        "allowed": true,
+        "mode": "VIP_SIGNAL",
+        "author": "f1ntech#0",
+        "tier": "A-TIER",
+        "reason": "ALLOWED_WHITELISTED_ANALYST",
+        "jevAssessment": {
+          "engine": "typesafe-systemone",
+          "model": "jev-1.14.0",
+          "choice": "admit_vip_signal",
+          "confidence": 0.99,
+          "probabilities": {
+            "abstain": 0.01,
+            "admit_vip_signal": 0.99,
+            "block_d_tier_noise": 0.0,
+            "route_macro_digest": 0.0
+          },
+          "requestId": "jev-sig-1080b0f429c3412ab3a00639bab6abfe",
+          "status": "answered",
+          "stateCodes": [
+            "tier_a_options_strangle",
+            "venue_deribit_options"
+          ],
+          "attempts": [
+            {
+              "request_id": "jev-sig-1080b0f429c3412ab3a00639bab6abfe",
+              "status": "answered",
+              "usage": {
+                "input_tokens": 791,
+                "output_tokens": 61,
+                "total_tokens": "UNKNOWN",
+                "cost_usd": "UNKNOWN",
+                "billing_guarantee": false
+              },
+              "provider": "typesafe",
+              "requested_model": "jev-1.14.0",
+              "actual_model": "jev-1.14.0",
+              "http_status": 200,
+              "model": "jev-1.14.0",
+              "elapsed_seconds": 0.522239,
+              "adapter_requested_model": "jev-latest"
+            }
+          ],
+          "physicalRequestCount": 1,
+          "sourcePhysicalRequestCount": 1,
+          "cacheHit": false
+        }
+      },
+      "jevAssessment": {
+        "engine": "typesafe-systemone",
+        "model": "jev-1.14.0",
+        "choice": "admit_vip_signal",
+        "confidence": 0.99,
+        "probabilities": {
+          "abstain": 0.01,
+          "admit_vip_signal": 0.99,
+          "block_d_tier_noise": 0.0,
+          "route_macro_digest": 0.0
+        },
+        "requestId": "jev-sig-1080b0f429c3412ab3a00639bab6abfe",
+        "status": "answered",
+        "stateCodes": [
+          "tier_a_options_strangle",
+          "venue_deribit_options"
+        ],
+        "attempts": [
+          {
+            "request_id": "jev-sig-1080b0f429c3412ab3a00639bab6abfe",
+            "status": "answered",
+            "usage": {
+              "input_tokens": 791,
+              "output_tokens": 61,
+              "total_tokens": "UNKNOWN",
+              "cost_usd": "UNKNOWN",
+              "billing_guarantee": false
+            },
+            "provider": "typesafe",
+            "requested_model": "jev-1.14.0",
+            "actual_model": "jev-1.14.0",
+            "http_status": 200,
+            "model": "jev-1.14.0",
+            "elapsed_seconds": 0.522239,
+            "adapter_requested_model": "jev-latest"
+          }
+        ],
+        "physicalRequestCount": 1,
+        "sourcePhysicalRequestCount": 1,
+        "cacheHit": false
+      },
+      "demoNarrative": "f1ntech#0 $BTC-STRANGLE Deribit Options 83250-C / 81000-P strangle off mVAL",
+      "priceMode": "USER_SPECIFIED_OFFLINE_SNAPSHOT",
+      "priceMultiple": 1.4444444444444444,
+      "sourceVerification": {
+        "verified": false,
+        "status": "VERIFIED_OPTIONS_STRANGLE",
+        "evidenceMessageIds": [
+          7138,
+          7139
+        ],
+        "note": "Posts #7138 and #7139 specify the f1ntech#0 BTC 83250-C / 81000-P options strangle and position management at mVAL."
+      },
+      "isDemo": true
+    },
+    {
+      "id": "doubletopsl-7034",
+      "signalNo": 189,
+      "ticker": "$QUID",
+      "assetName": "QUID Token",
+      "network": "Base",
+      "direction": "SPOT_BUY",
+      "entryPrice": 0.0385,
+      "currentPrice": 0.0687,
+      "amountUsd": 500.0,
+      "invalidationSlUsd": 0.0308,
+      "tp1PriceUsd": 0.05775,
+      "tp2PriceUsd": 0.077,
+      "tp3PriceUsd": 0.154,
+      "entryMcapUsd": 1250000.0,
+      "safetyScore": 88,
+      "contractAddress": null,
+      "source": "DOUBLETOPSL",
+      "donorMessageId": 7034,
+      "entryAt": "2026-06-25T11:27:04+00:00",
+      "entryAtMs": 1782386824000,
+      "author": "sales_desk",
+      "analystTier": "S-TIER",
+      "filterVerdict": {
+        "allowed": true,
+        "mode": "VIP_SIGNAL",
+        "author": "sales_desk",
+        "tier": "S-TIER",
+        "reason": "ALLOWED_SALES_DESK_OR_CATEGORY",
+        "jevAssessment": {
+          "engine": "typesafe-systemone",
+          "model": "jev-1.14.0",
+          "choice": "admit_vip_signal",
+          "confidence": 0.99,
+          "probabilities": {
+            "abstain": 0.01,
+            "admit_vip_signal": 0.99,
+            "block_d_tier_noise": 0.0,
+            "route_macro_digest": 0.0
+          },
+          "requestId": "jev-sig-04964ae497e64aa2b461c999b443bb8e",
+          "status": "answered",
+          "stateCodes": [
+            "tier_s_sales_desk",
+            "venue_base_solana_dex"
+          ],
+          "attempts": [
+            {
+              "request_id": "jev-sig-04964ae497e64aa2b461c999b443bb8e",
+              "status": "answered",
+              "usage": {
+                "input_tokens": 793,
+                "output_tokens": 61,
+                "total_tokens": "UNKNOWN",
+                "cost_usd": "UNKNOWN",
+                "billing_guarantee": false
+              },
+              "provider": "typesafe",
+              "requested_model": "jev-1.14.0",
+              "actual_model": "jev-1.14.0",
+              "http_status": 200,
+              "model": "jev-1.14.0",
+              "elapsed_seconds": 0.508454,
+              "adapter_requested_model": "jev-latest"
+            }
+          ],
+          "physicalRequestCount": 1,
+          "sourcePhysicalRequestCount": 1,
+          "cacheHit": false
+        }
+      },
+      "jevAssessment": {
+        "engine": "typesafe-systemone",
+        "model": "jev-1.14.0",
+        "choice": "admit_vip_signal",
+        "confidence": 0.99,
+        "probabilities": {
+          "abstain": 0.01,
+          "admit_vip_signal": 0.99,
+          "block_d_tier_noise": 0.0,
+          "route_macro_digest": 0.0
+        },
+        "requestId": "jev-sig-04964ae497e64aa2b461c999b443bb8e",
+        "status": "answered",
+        "stateCodes": [
+          "tier_s_sales_desk",
+          "venue_base_solana_dex"
+        ],
+        "attempts": [
+          {
+            "request_id": "jev-sig-04964ae497e64aa2b461c999b443bb8e",
+            "status": "answered",
+            "usage": {
+              "input_tokens": 793,
+              "output_tokens": 61,
+              "total_tokens": "UNKNOWN",
+              "cost_usd": "UNKNOWN",
+              "billing_guarantee": false
+            },
+            "provider": "typesafe",
+            "requested_model": "jev-1.14.0",
+            "actual_model": "jev-1.14.0",
+            "http_status": 200,
+            "model": "jev-1.14.0",
+            "elapsed_seconds": 0.508454,
+            "adapter_requested_model": "jev-latest"
+          }
+        ],
+        "physicalRequestCount": 1,
+        "sourcePhysicalRequestCount": 1,
+        "cacheHit": false
+      },
+      "demoNarrative": "@sales $QUID Squid Router Legion sale Base",
+      "priceMode": "USER_SPECIFIED_OFFLINE_SNAPSHOT",
+      "priceMultiple": 1.7844155844155845,
+      "sourceVerification": {
+        "verified": false,
+        "status": "VERIFIED_LEGION_SALE",
+        "evidenceMessageIds": [
+          7034
+        ],
+        "note": "Post #7034 specifies the Squid Router ($QUID) sale on Legion/Kraken ($0.0385 entry -> $0.0687+ TGE range, 1.78x-3.0x)."
+      },
+      "isDemo": true
+    }
+  ]
+}
