@@ -6,7 +6,7 @@
   <meta name="color-scheme" content="dark light">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600;700&family=Playfair+Display:wght@600;700&family=Plus+Jakarta+Sans:wght@500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
   <meta name="theme-color" content="#000000">
   <title>⚡ Money is... · VIP DEX Signals Simulator & Execution Hub</title>
   <style>
@@ -2142,6 +2142,98 @@
       border-color: var(--border-gold);
     }
 
+
+    :root[data-edition="octav-makecash"][data-theme="slate"] {
+      color-scheme: dark;
+      --bg-base: #091018;
+      --bg-surface: #0C1520;
+      --bg-card: #0E1721;
+      --bg-card-hover: #14202C;
+      --bg-card-elevated: #172533;
+      --bg-input: #0C1520;
+      --bg-chip: #14202C;
+      --border: #1D2C3C;
+      --border-subtle: #1D2C3C;
+      --border-medium: #2A3D52;
+      --border-strong: #3D5570;
+      --text-main: #F0F4F8;
+      --text-sub: #C2D0DE;
+      --text-muted: #7E93A8;
+      --text-dim: #5A6F84;
+      --gold: #F4BA4D;
+      --gold-light: #F7CA73;
+      --gold-ink: #F4BA4D;
+      --gold-wash: rgba(244, 186, 77, 0.15);
+      --border-gold: rgba(244, 186, 77, 0.42);
+      --emerald: #59CE7E;
+      --emerald-light: #7FE3A0;
+      --emerald-ink: #7FE3A0;
+      --font-display: "Space Grotesk", "Plus Jakarta Sans", sans-serif;
+      --font-sans: "Plus Jakarta Sans", "Manrope", sans-serif;
+      --font-mono: "JetBrains Mono", monospace;
+    }
+
+    :root[data-edition="octav-makecash"][data-theme="serif"] {
+      color-scheme: dark;
+      --bg-base: #08090E;
+      --bg-surface: #0D0F17;
+      --bg-card: #10131C;
+      --bg-card-hover: #161A26;
+      --bg-card-elevated: #1B2030;
+      --bg-input: #0D0F17;
+      --bg-chip: #171B26;
+      --border: #222638;
+      --border-subtle: #222638;
+      --border-medium: #323850;
+      --border-strong: #485070;
+      --text-main: #F4F1EA;
+      --text-sub: #D0C9BC;
+      --text-muted: #9CA3B5;
+      --text-dim: #6C7385;
+      --gold: #E5A93C;
+      --gold-light: #F0BE5E;
+      --gold-ink: #F0BE5E;
+      --gold-wash: rgba(229, 169, 60, 0.15);
+      --border-gold: rgba(229, 169, 60, 0.42);
+      --emerald: #22C55E;
+      --emerald-light: #4ADE80;
+      --emerald-ink: #4ADE80;
+      --font-display: "Playfair Display", Georgia, serif;
+      --font-sans: "Plus Jakarta Sans", "Manrope", sans-serif;
+      --font-mono: "IBM Plex Mono", "JetBrains Mono", monospace;
+    }
+    .forensic-preset-group {
+      display: inline-flex;
+      align-items: center;
+      gap: 1px;
+      background: var(--border);
+      border: 1px solid var(--border-medium);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .forensic-preset-btn {
+      height: 34px;
+      padding: 0 10px;
+      background: var(--bg-card);
+      color: var(--text-muted);
+      border: none;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.15s;
+    }
+    .forensic-preset-btn:hover {
+      color: var(--text-main);
+      background: var(--bg-card-hover);
+    }
+    .forensic-preset-btn.active {
+      background: var(--gold-wash);
+      color: var(--gold-ink);
+      font-weight: 700;
+    }
+
   </style>
 </head>
 <body class="forensic-terminal">
@@ -2166,9 +2258,12 @@
         <span>💼 Итого Эквити:</span>
         <strong class="mono text-emerald" id="userDemoBalance">$5,000.00</strong>
       </div>
-      <button type="button" class="forensic-theme-btn" id="forensicThemeToggle" onclick="toggleForensicTheme()" title="Переключить тему Octav: Тёмный Оникс (#050508) / Редакционная Бумага (#F9F6F3)">
-        ☀ Paper #F9F6F3
-      </button>
+      <div class="forensic-preset-group" id="forensicPresetGroup" role="group" aria-label="Выбор цветовой темы и шрифтов">
+        <button type="button" class="forensic-preset-btn active" data-preset="dark" onclick="setForensicPreset('dark')" title="1. MakeCash Onyx (#050508) + Space Grotesk / JetBrains Mono">1·Onyx</button>
+        <button type="button" class="forensic-preset-btn" data-preset="light" onclick="setForensicPreset('light')" title="2. Octav × FT Warm Paper (#F9F6F3) + Space Grotesk / JetBrains Mono">2·Paper</button>
+        <button type="button" class="forensic-preset-btn" data-preset="slate" onclick="setForensicPreset('slate')" title="3. Octav Native Slate (#091018) + Space Grotesk / Plus Jakarta">3·Slate</button>
+        <button type="button" class="forensic-preset-btn" data-preset="serif" onclick="setForensicPreset('serif')" title="4. Hedge Fund Serif (#08090E) + Playfair Display / IBM Plex Mono">4·Serif</button>
+      </div>
       <button class="btn-icon active" id="audioToggle" onclick="toggleAudio()" title="Звуковые эффекты">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
       </button>
@@ -4721,15 +4816,18 @@
     if (pfOut) pfOut.innerText = `+$${rrProfit.toFixed(2)} (+2.5R)`;
   }
 
-  function toggleForensicTheme() {
-    const root = document.documentElement;
-    const next = root.dataset.theme === 'light' ? 'dark' : 'light';
-    root.dataset.theme = next;
-    const btn = document.getElementById('forensicThemeToggle');
-    if (btn) {
-      btn.innerText = next === 'light' ? '🌙 Onyx #050508' : '☀ Paper #F9F6F3';
-    }
+  function setForensicPreset(preset) {
+    const valid = ['dark', 'light', 'slate', 'serif'];
+    const next = valid.includes(preset) ? preset : 'dark';
+    document.documentElement.dataset.theme = next;
+    document.querySelectorAll('#forensicPresetGroup .forensic-preset-btn').forEach(b => {
+      b.classList.toggle('active', b.dataset.preset === next);
+    });
     try { localStorage.setItem('makecash.forensic.theme.v1', next); } catch (e) {}
+  }
+  function toggleForensicTheme() {
+    const cur = document.documentElement.dataset.theme || 'dark';
+    setForensicPreset(cur === 'light' ? 'dark' : 'light');
   }
 
   // REAL-TIME PRICE FLICKER & AUTO-TP/SL ENGINE
@@ -4774,10 +4872,8 @@
     try {
       const urlTheme = new URLSearchParams(window.location.search).get('theme');
       const savedTheme = urlTheme || localStorage.getItem('makecash.forensic.theme.v1');
-      if (savedTheme === 'light' || savedTheme === 'dark') {
-        document.documentElement.dataset.theme = savedTheme;
-        const btn = document.getElementById('forensicThemeToggle');
-        if (btn) btn.innerText = savedTheme === 'light' ? '🌙 Onyx #050508' : '☀ Paper #F9F6F3';
+      if (['dark', 'light', 'slate', 'serif'].includes(savedTheme)) {
+        setForensicPreset(savedTheme);
       }
     } catch (e) {}
     // Scrollspy for .octav-jump
