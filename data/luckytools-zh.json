@@ -1155,17 +1155,9 @@
     "description": "来源目录介绍，HTX 前身为 Huobi，提供多交易对现货与衍生品服务，并侧重亚洲市场。",
     "tagline": "原 Huobi 的现货与衍生品平台"
   },
-  "mexc": {
-    "description": "来源目录介绍，MEXC 提供山寨币和早期代币交易，以及现货和期货产品；上币早不代表投资质量。",
-    "tagline": "早期代币与多品种交易平台"
-  },
   "gate": {
     "description": "来源目录介绍，Gate 提供较多代币交易对，以及现货、期货、借贷和项目发行功能；交易与账户风险需自行评估。",
     "tagline": "多代币交易与借贷产品"
-  },
-  "bingx": {
-    "description": "来源目录介绍，BingX 以社交交易和跟单功能为特点，也提供其他加密交易服务。",
-    "tagline": "社交交易与跟单平台"
   },
   "coinbase": {
     "description": "来源目录介绍，Coinbase 是在 NASDAQ 上市的美国加密平台，提供法币入金与资产交易；资格和保障范围需核对。",
@@ -1258,10 +1250,6 @@
   "gate-card": {
     "description": "来源目录介绍，Gate Card 连接 Gate.io 交易所余额，在支付时进行加密资产与法币转换。",
     "tagline": "Gate.io 余额转换支付卡"
-  },
-  "mexc-card": {
-    "description": "来源目录介绍，MEXC Card 将 MEXC 账户中的加密资产转换为日常支付余额，具体支持资产需确认。",
-    "tagline": "MEXC 账户资产支付卡"
   },
   "coinw": {
     "description": "来源目录介绍，CoinW 支付卡连接交易所账户，提供加密转法币消费、交易历史与余额跟踪。",

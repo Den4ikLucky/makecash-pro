@@ -1155,17 +1155,9 @@
     "description": "According to the source catalog: HTX, formerly Huobi: spot and derivatives markets with an Asian-market focus.",
     "tagline": "HTX, formerly Huobi: spot and derivatives markets with an Asian-market focus."
   },
-  "mexc": {
-    "description": "According to the source catalog: Exchange with altcoins, early listings and futures; fees and bonuses require checking current terms.",
-    "tagline": "Exchange with altcoins, early listings and futures; fees and bonuses require checking current terms."
-  },
   "gate": {
     "description": "According to the source catalog: Exchange with broad token listings, spot, futures, margin and lending products.",
     "tagline": "Exchange with broad token listings, spot, futures, margin and lending products."
-  },
-  "bingx": {
-    "description": "According to the source catalog: Exchange with social features and copy trading; copying does not guarantee returns or remove risk.",
-    "tagline": "Exchange with social features and copy trading; copying does not guarantee returns or remove risk."
   },
   "coinbase": {
     "description": "According to the source catalog: Exchange with fiat on-ramps and an associated publicly listed COIN company; regulatory and insurance claims require independent checking.",
@@ -1258,10 +1250,6 @@
   "gate-card": {
     "description": "According to the source catalog: Gate.io card product converting exchange assets at payment; acceptance depends on region and merchant.",
     "tagline": "Gate.io card product converting exchange assets at payment; acceptance depends on region and merchant."
-  },
-  "mexc-card": {
-    "description": "According to the source catalog: Card product for spending MEXC funds with fiat conversion; availability and acceptance require checking.",
-    "tagline": "Card product for spending MEXC funds with fiat conversion; availability and acceptance require checking."
   },
   "coinw": {
     "description": "According to the source catalog: CoinW card with payment-time conversion, transaction history and balance tracking.",

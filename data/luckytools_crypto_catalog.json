@@ -349,9 +349,7 @@
       "okx",
       "binance",
       "huobi-htx",
-      "mexc",
       "gate",
-      "bingx",
       "coinbase",
       "kraken",
       "kucoin",
@@ -375,7 +373,6 @@
       "kucoin-card",
       "bitget-card",
       "gate-card",
-      "mexc-card",
       "coinw",
       "flexcard",
       "osmosispay",
@@ -520,16 +517,16 @@
     "supporting_rule": "All remaining source tools are retained separately so all six original intent funnels remain referentially complete; do not mix them into the default crypto grid."
   },
   "counts": {
-    "source_tools": 454,
-    "primary_tools": 377,
+    "source_tools": 451,
+    "primary_tools": 374,
     "supporting_tools": 77,
     "categories": 18,
-    "referral_routes": 446,
+    "referral_routes": 443,
     "intents": 6,
     "explainers": 18,
-    "funding_venues": 28,
-    "funding_spreads": 28,
-    "source_logo_files": 437
+    "funding_venues": 26,
+    "funding_spreads": 25,
+    "source_logo_files": 434
   },
   "tools": [
     {
@@ -26080,7 +26077,7 @@
       "name": "ByBit",
       "tagline": "Derivatives-focused with one of the best trading UIs. Perps up to 100x, growing spot, f...",
       "category": "exchanges",
-      "url": "https://www.bybit.com/invite",
+      "url": "https://www.bybit.com/invite?ref=XBPK8&medium=referral&utm_campaign=evergreen&share_to=link",
       "description": "Exchange focused on derivatives with one of the best trading interfaces in the industry. Excellent for perpetual futures with leverage up to 100x, growing spot market, innovations like copy trading and trading bots. Strong launchpad for new tokens. Increasingly competitive with Binance and OKX, especially for traders who value interface quality. Also good because there are few account freezes here.",
       "description_md": "Exchange focused on derivatives with one of the best trading interfaces in the industry. Excellent for perpetual futures with leverage up to 100x, growing spot market, innovations like copy trading and trading bots. Strong launchpad for new tokens. Increasingly competitive with Binance and OKX, especially for traders who value interface quality. Also good because there are few account freezes here.",
       "tags": [
@@ -26090,14 +26087,14 @@
         "Crypto"
       ],
       "affiliate_id": "bybit",
-      "affiliate_url": "",
+      "affiliate_url": "https://www.bybit.com/invite?ref=XBPK8&medium=referral&utm_campaign=evergreen&share_to=link",
       "clean_url": "https://www.bybit.com/invite",
       "rating": 4.9,
       "pricing_model": "Paid",
       "is_featured": true,
       "verified_badge": true,
-      "promo_code": "MONEYIS",
-      "promo_discount": "Up to $30,000 Deposit Bonus",
+      "promo_code": "XBPK8",
+      "promo_discount": "Up to $30,000 Deposit Bonus (Code: XBPK8)",
       "slug": "bybit",
       "specs": {
         "protocols": [],
@@ -26129,15 +26126,15 @@
         "scope": "crypto_and_infrastructure",
         "referral": {
           "route_key": "bybit",
-          "configured_affiliate_url": "",
-          "configured_clean_fallback_url": "https://www.bybit.com/",
+          "configured_affiliate_url": "https://www.bybit.com/invite?ref=XBPK8&medium=referral&utm_campaign=evergreen&share_to=link",
+          "configured_clean_fallback_url": "https://www.bybit.com/invite",
           "configured_is_active": true,
-          "effective_promo_code": "MONEYIS",
+          "effective_promo_code": "XBPK8",
           "promo_code_source": "referrals_config",
-          "outbound_url": "https://www.bybit.com/",
-          "outbound_mode": "configured_clean_fallback",
+          "outbound_url": "https://www.bybit.com/invite?ref=XBPK8&medium=referral&utm_campaign=evergreen&share_to=link",
+          "outbound_mode": "configured_affiliate",
           "enabled": true,
-          "affiliate_attribution_enabled": false,
+          "affiliate_attribution_enabled": true,
           "source_affiliate_url_is_authoritative": false,
           "provider_terms_verified": false
         },
@@ -26466,84 +26463,6 @@
       }
     },
     {
-      "id": "mexc",
-      "name": "MEXC",
-      "tagline": "Top exchange for early token listings, 0% maker fees, and newcomer bonus up to 8,000 USDT",
-      "category": "exchanges",
-      "url": "https://www.mexc.com/register?inviteCode=1LtWs",
-      "description": "Leading cryptocurrency exchange for altcoin and early token trading before Tier-1 listings. Ultra-low trading fees (0% maker fee), deep futures liquidity, and newcomer bonus up to 8,000 USDT with referral code 1LtWs.",
-      "description_md": "Leading cryptocurrency exchange for altcoin and early token trading before Tier-1 listings. Ultra-low trading fees (0% maker fee), deep futures liquidity, and newcomer bonus up to 8,000 USDT with referral code 1LtWs.",
-      "tags": [
-        "exchanges"
-      ],
-      "payment_methods": [
-        "Crypto"
-      ],
-      "affiliate_id": "mexc",
-      "clean_url": "https://www.mexc.com/",
-      "rating": 4.5,
-      "pricing_model": "Paid",
-      "is_featured": true,
-      "verified_badge": true,
-      "promo_code": "1LtWs",
-      "promo_discount": "Newcomer Bonus up to 8,000 USDT (Code: 1LtWs)",
-      "slug": "mexc",
-      "specs": {
-        "protocols": [],
-        "osSupport": [],
-        "locations": [],
-        "accepted_payments_raw": [],
-        "pricing": [],
-        "freeTier": null,
-        "kycRequired": false,
-        "target_agent": "teambusiness",
-        "status": "New",
-        "dead": false
-      },
-      "click_count": 287,
-      "logo_url": "/tool-logos/MEXC.png",
-      "description_ru": "Биржа, листящая токены со скоростью света - если у проекта есть тикер, MEXC вероятно уже его залистил вчера. Атмосфера Дикого Запада с менее строгими стандартами листинга, но именно поэтому трейдеры её используют - поймать ранние движения до крупных бирж. Если бы ещё потом этих трейдеров так часто не блокировали и не забирали их деньги - было бы вообще счастье. Но в наших реалиях рекомендую очень осторожно работать с MEXC.",
-      "description_en": "Leading cryptocurrency exchange for altcoin and early token trading before Tier-1 listings. Ultra-low trading fees (0% maker fee), deep futures liquidity, and newcomer bonus up to 8,000 USDT with referral code 1LtWs.",
-      "tagline_ru": "Биржа, листящая токены со скоростью света - если у проекта есть тикер, MEXC вероятно уже его залистил вчера. А…",
-      "tagline_en": "Top exchange for early token listings, 0% maker fees, and newcomer bonus up to 8,000 USDT",
-      "pricing_en": "Paid",
-      "pricing_ru": "Платный",
-      "payment_methods_ru": [
-        "Крипта"
-      ],
-      "payment_methods_en": [
-        "Crypto"
-      ],
-      "affiliate_url": "https://www.mexc.com/register?inviteCode=1LtWs",
-      "_integration": {
-        "scope": "crypto_and_infrastructure",
-        "referral": {
-          "route_key": "mexc",
-          "configured_affiliate_url": "https://www.mexc.com/register?inviteCode=1LtWs",
-          "configured_clean_fallback_url": "https://www.mexc.com/",
-          "configured_is_active": true,
-          "effective_promo_code": "1LtWs",
-          "promo_code_source": "referrals_config",
-          "outbound_url": "https://www.mexc.com/register?inviteCode=1LtWs",
-          "outbound_mode": "configured_affiliate",
-          "enabled": true,
-          "affiliate_attribution_enabled": true,
-          "source_affiliate_url_is_authoritative": false,
-          "provider_terms_verified": false
-        },
-        "logo": {
-          "source_logo_url": "/tool-logos/MEXC.png",
-          "exists": true,
-          "resolved_logo_url": "/tool-logos/MEXC.png"
-        },
-        "available_source_locales": [
-          "ru",
-          "en"
-        ],
-        "translation_status": "source_ru_en_only_not_five_language_ready"
-      }
-    },
-    {
       "id": "gate",
       "name": "Gate",
       "tagline": "1700+ trading pairs, lists everything. But loves to freeze accounts and liquidate you a...",
@@ -26613,84 +26532,6 @@
           "source_logo_url": "/tool-logos/Gate.png",
           "exists": true,
           "resolved_logo_url": "/tool-logos/Gate.png"
-        },
-        "available_source_locales": [
-          "ru",
-          "en"
-        ],
-        "translation_status": "source_ru_en_only_not_five_language_ready"
-      }
-    },
-    {
-      "id": "bingx",
-      "name": "BingX",
-      "tagline": "Small social trading exchange. Better use MEXC or Gate for manipulations, but BingX wor...",
-      "category": "exchanges",
-      "url": "https://bingx.com/invite/I9RC6M",
-      "description": "A small social trading exchange with copy-trading features. For trading and various manipulations MEXC or Gate are better suited, but BingX can also be used if something comes up with them. Freezes are possible here too, but not as frequent and their team isn't as brazen. Although I can't be sure about that.",
-      "description_md": "A small social trading exchange with copy-trading features. For trading and various manipulations MEXC or Gate are better suited, but BingX can also be used if something comes up with them. Freezes are possible here too, but not as frequent and their team isn't as brazen. Although I can't be sure about that.",
-      "tags": [
-        "exchanges"
-      ],
-      "payment_methods": [
-        "Crypto"
-      ],
-      "affiliate_id": "bingx",
-      "clean_url": "https://bingx.com/invite/I9RC6M",
-      "rating": 4.5,
-      "pricing_model": "Paid",
-      "is_featured": false,
-      "verified_badge": false,
-      "promo_code": "",
-      "promo_discount": "",
-      "slug": "bingx",
-      "specs": {
-        "protocols": [],
-        "osSupport": [],
-        "locations": [],
-        "accepted_payments_raw": [],
-        "pricing": [],
-        "freeTier": null,
-        "kycRequired": false,
-        "target_agent": "teambusiness",
-        "status": "New",
-        "dead": false
-      },
-      "click_count": 153,
-      "logo_url": "/tool-logos/BingX.png",
-      "description_ru": "Небольшая социальная торговая биржа с функциями копи-трейдинга. Для трейдинга и тех или иных манипуляций лучше подходят MEXC или Gate, но BingX тоже можно использовать если подвернулось что-то и с ними. Блокировки тут тоже возможны, но не настолько частые и их команда не настолько наглая. Хотя не могу быть в этом уверен.",
-      "description_en": "A small social trading exchange with copy-trading features. For trading and various manipulations MEXC or Gate are better suited, but BingX can also be used if something comes up with them. Freezes are possible here too, but not as frequent and their team isn't as brazen. Although I can't be sure about that.",
-      "tagline_ru": "Небольшая социальная торговая биржа с функциями копи-трейдинга. Для трейдинга и тех или иных манипуляций лучше…",
-      "tagline_en": "Small social trading exchange. Better use MEXC or Gate for manipulations, but BingX wor...",
-      "pricing_en": "Paid",
-      "pricing_ru": "Платный",
-      "payment_methods_ru": [
-        "Крипта"
-      ],
-      "payment_methods_en": [
-        "Crypto"
-      ],
-      "affiliate_url": "",
-      "_integration": {
-        "scope": "crypto_and_infrastructure",
-        "referral": {
-          "route_key": "bingx",
-          "configured_affiliate_url": "",
-          "configured_clean_fallback_url": "https://bingx.com/invite/I9RC6M",
-          "configured_is_active": false,
-          "effective_promo_code": "",
-          "promo_code_source": "referrals_config",
-          "outbound_url": "https://bingx.com/invite/I9RC6M",
-          "outbound_mode": "configured_clean_fallback",
-          "enabled": true,
-          "affiliate_attribution_enabled": false,
-          "source_affiliate_url_is_authoritative": false,
-          "provider_terms_verified": false
-        },
-        "logo": {
-          "source_logo_url": "/tool-logos/BingX.png",
-          "exists": true,
-          "resolved_logo_url": "/tool-logos/BingX.png"
         },
         "available_source_locales": [
           "ru",
@@ -28518,86 +28359,6 @@
           "source_logo_url": "/tool-logos/Gate Card.png",
           "exists": true,
           "resolved_logo_url": "/tool-logos/Gate Card.png"
-        },
-        "available_source_locales": [
-          "ru",
-          "en"
-        ],
-        "translation_status": "source_ru_en_only_not_five_language_ready"
-      }
-    },
-    {
-      "id": "mexc-card",
-      "name": "MEXC Card",
-      "tagline": "MEXC exchange's crypto debit card enabling direct spending from your MEXC funds",
-      "category": "crypto_cards",
-      "url": "https://www.mexc.com/buy-crypto/mexc-card",
-      "description": "MEXC exchange's crypto debit card enabling direct spending from your MEXC funds. Convert your extensive altcoin holdings (MEXC lists tokens very early) into fiat spending power. Visa acceptance worldwide with standard card features. Particularly useful given MEXC's massive token selection - spend profits from early small-cap listings directly.",
-      "description_md": "MEXC exchange's crypto debit card enabling direct spending from your MEXC funds. Convert your extensive altcoin holdings (MEXC lists tokens very early) into fiat spending power. Visa acceptance worldwide with standard card features. Particularly useful given MEXC's massive token selection - spend profits from early small-cap listings directly.",
-      "tags": [
-        "crypto-cards",
-        "crypto_cards"
-      ],
-      "payment_methods": [
-        "Crypto"
-      ],
-      "affiliate_id": "mexc-card",
-      "clean_url": "https://www.mexc.com/buy-crypto/mexc-card",
-      "rating": 4.5,
-      "pricing_model": "Paid",
-      "is_featured": false,
-      "verified_badge": false,
-      "promo_code": "",
-      "promo_discount": "",
-      "slug": "mexc-card",
-      "specs": {
-        "protocols": [],
-        "osSupport": [],
-        "locations": [],
-        "accepted_payments_raw": [],
-        "pricing": [],
-        "freeTier": null,
-        "kycRequired": "Required",
-        "target_agent": "teambusiness",
-        "status": "New",
-        "dead": false,
-        "cardGradient": "from-[#2354E6] to-[#1A3FB8]"
-      },
-      "click_count": 230,
-      "logo_url": "/tool-logos/MEXC Card.png",
-      "description_ru": "Крипто-дебетовая карта биржи MEXC для прямых расходов с MEXC-средств. Конвертируйте обширные альткоин-запасы (MEXC листит токены очень рано) в фиатную покупательную способность. Приём Visa по всему миру со стандартными функциями карт. Особенно полезна с учётом огромного выбора токенов MEXC - тратьте прибыль от ранних листингов напрямую.",
-      "description_en": "MEXC exchange's crypto debit card enabling direct spending from your MEXC funds. Convert your extensive altcoin holdings (MEXC lists tokens very early) into fiat spending power. Visa acceptance worldwide with standard card features. Particularly useful given MEXC's massive token selection - spend profits from early small-cap listings directly.",
-      "tagline_ru": "Крипто-дебетовая карта биржи MEXC для прямых расходов с MEXC-средств. Конвертируйте обширные альткоин-запасы (…",
-      "tagline_en": "MEXC exchange's crypto debit card enabling direct spending from your MEXC funds",
-      "pricing_en": "Paid",
-      "pricing_ru": "Платный",
-      "payment_methods_ru": [
-        "Крипта"
-      ],
-      "payment_methods_en": [
-        "Crypto"
-      ],
-      "affiliate_url": "",
-      "_integration": {
-        "scope": "crypto_and_infrastructure",
-        "referral": {
-          "route_key": "mexc-card",
-          "configured_affiliate_url": "",
-          "configured_clean_fallback_url": "https://www.mexc.com/buy-crypto/mexc-card",
-          "configured_is_active": false,
-          "effective_promo_code": "",
-          "promo_code_source": "referrals_config",
-          "outbound_url": "https://www.mexc.com/buy-crypto/mexc-card",
-          "outbound_mode": "configured_clean_fallback",
-          "enabled": true,
-          "affiliate_attribution_enabled": false,
-          "source_affiliate_url_is_authoritative": false,
-          "provider_terms_verified": false
-        },
-        "logo": {
-          "source_logo_url": "/tool-logos/MEXC Card.png",
-          "exists": true,
-          "resolved_logo_url": "/tool-logos/MEXC Card.png"
         },
         "available_source_locales": [
           "ru",
@@ -40494,7 +40255,7 @@
       "name": "DEX / Мосты",
       "slug": "dex_bridges",
       "description": "Non-custodial swappers, atomic cross-chain bridges, liquidity aggregators, and yield routing platforms.",
-      "tool_count": 44,
+      "tool_count": 43,
       "target_agent": "teambusiness",
       "icon": "Repeat",
       "guide": {
@@ -40577,7 +40338,7 @@
       "name": "Web3 Карты",
       "slug": "crypto_cards",
       "description": "Virtual and physical VISA/Mastercard cards loaded with crypto, zero-KYC BINs, and global payment solutions.",
-      "tool_count": 58,
+      "tool_count": 57,
       "target_agent": "teambusiness",
       "icon": "CreditCard",
       "guide": {
@@ -40598,7 +40359,6 @@
         "kucoin-card",
         "bitget-card",
         "gate-card",
-        "mexc-card",
         "coinw",
         "flexcard",
         "osmosispay",
@@ -40675,12 +40435,12 @@
       "name": "CEX Биржи",
       "slug": "exchanges",
       "description": "Top spot and perpetual liquidity venues with high volume, security guarantees, and affiliate fee rebates.",
-      "tool_count": 13,
+      "tool_count": 11,
       "target_agent": "teambusiness",
       "icon": "TrendingUp",
       "guide": {
         "button": "Какую биржу выбрать?",
-        "content": "<b>MEXC</b> — топ-биржа для ранних листингов с 0% комиссиями для мейкеров и бонусом новичка до 8,000 USDT (код: 1LtWs).<br><br><b>Bybit</b> — основной рабочий выбор для фьючерсов и P2P без риска блокировок.<br><br><b>OKX & Bitget</b> — надежные альтернативы с развитыми торговыми ботами и копитрейдингом."
+        "content": "<b>Bybit</b> — основной рабочий выбор №1 для фьючерсов, спота, лаунчпадов и P2P с бонусом до 30,000 USDT (код: XBPK8).<br><br><b>OKX & Bitget</b> — надежные альтернативы с развитыми торговыми ботами и изолированными суб-аккаунтами.<br><br><b>Hyperliquid</b> — ведущий некастодиальный Perp DEX для ончейн-торговли без KYC."
       },
       "tool_ids": [
         "bitget",
@@ -40689,9 +40449,7 @@
         "okx",
         "binance",
         "huobi-htx",
-        "mexc",
         "gate",
-        "bingx",
         "coinbase",
         "kraken",
         "kucoin",
@@ -40701,19 +40459,19 @@
       "name_en": "CEX Exchanges",
       "guide_ru": {
         "button": "Какую биржу выбрать?",
-        "content": "<b>MEXC</b> — топ-биржа для ранних листингов с 0% комиссиями для мейкеров и бонусом новичка до 8,000 USDT (код: 1LtWs).<br><br><b>Bybit</b> — основной рабочий выбор для фьючерсов и P2P без риска блокировок.<br><br><b>OKX & Bitget</b> — надежные альтернативы с развитыми торговыми ботами и копитрейдингом."
+        "content": "<b>Bybit</b> — основной рабочий выбор №1 для фьючерсов, спота, лаунчпадов и P2P с бонусом до 30,000 USDT (код: XBPK8).<br><br><b>OKX & Bitget</b> — надежные альтернативы с развитыми торговыми ботами и изолированными суб-аккаунтами.<br><br><b>Hyperliquid</b> — ведущий некастодиальный Perp DEX для ончейн-торговли без KYC."
       },
       "guide_en": {
         "btn": "Which exchange to choose?",
-        "content": "<b>MEXC</b> — leading venue for early token listings with 0% maker fees and up to 8,000 USDT welcome bonus (code: 1LtWs).<br><br><b>Bybit</b> — solid primary exchange for futures and P2P.<br><br><b>OKX & Bitget</b> — reliable alternatives with advanced copy-trading bots.",
+        "content": "<b>Bybit</b> — #1 primary exchange for perpetual futures, spot, launchpads, and P2P with up to 30,000 USDT welcome bonus (code: XBPK8).<br><br><b>OKX & Bitget</b> — reliable alternatives with copy-trading bots and isolated sub-accounts.<br><br><b>Hyperliquid</b> — leading non-custodial Perp DEX for on-chain trading.",
         "button": "Which exchange to choose?"
       },
       "description_en": "Top spot and perpetual liquidity venues with high volume, security guarantees, and affiliate fee rebates.",
       "description_ru": "Крупнейшие централизованные криптобиржи с глубокой ликвидностью, фьючерсами и минимальными торговыми комиссиями.",
-      "plain_ru": "Крупные торговые платформы (Bybit, OKX, MEXC) для хранения, торговли, стейкинга и создания суб-аккаунтов для разделения кошельков.",
+      "plain_ru": "Крупные торговые платформы (Bybit, OKX) для хранения, торговли, стейкинга и создания суб-аккаунтов для разделения кошельков.",
       "plain_en": "Tier-1 centralized exchanges for spot/futures trading, fiat gateways, and isolated sub-accounts for airdrop funding.",
-      "pairs_with_ru": "Bybit + MEXC + OKX",
-      "pairs_with_en": "Bybit + MEXC + OKX",
+      "pairs_with_ru": "Bybit + OKX + Hyperliquid",
+      "pairs_with_en": "Bybit + OKX + Hyperliquid",
       "pairs_categories": [
         "dex_bridges",
         "services"
@@ -41116,7 +40874,7 @@
       "name": "Маркетплейсы",
       "slug": "marketplaces",
       "description": "Verified digital goods exchanges, P2P escrow venues, payment assistance gateways, and technical consumable marketplaces for AI subscriptions (Claude Pro, ChatGPT Plus, Midjourney, Cursor).",
-      "tool_count": 0,
+      "tool_count": 10,
       "target_agent": "teambusiness",
       "icon": "ShoppingCart",
       "guide": {
@@ -41769,7 +41527,7 @@
     },
     {
       "category_id": "dex_bridges",
-      "source_declared_count": 44,
+      "source_declared_count": 43,
       "source_declared_tool_ids": [
         "jumper",
         "relay",
@@ -41867,7 +41625,7 @@
     },
     {
       "category_id": "crypto_cards",
-      "source_declared_count": 58,
+      "source_declared_count": 57,
       "source_declared_tool_ids": [
         "ether-fi",
         "tria",
@@ -41882,7 +41640,6 @@
         "kucoin-card",
         "bitget-card",
         "gate-card",
-        "mexc-card",
         "coinw",
         "flexcard",
         "osmosispay",
@@ -41942,7 +41699,6 @@
         "kucoin-card",
         "bitget-card",
         "gate-card",
-        "mexc-card",
         "coinw",
         "flexcard",
         "osmosispay",
@@ -41989,12 +41745,12 @@
         "solflare-card"
       ],
       "secondary_tool_ids": [],
-      "actual_primary_count": 58,
-      "actual_inclusive_count": 58
+      "actual_primary_count": 57,
+      "actual_inclusive_count": 57
     },
     {
       "category_id": "exchanges",
-      "source_declared_count": 13,
+      "source_declared_count": 11,
       "source_declared_tool_ids": [
         "bitget",
         "bybit",
@@ -42002,9 +41758,7 @@
         "okx",
         "binance",
         "huobi-htx",
-        "mexc",
         "gate",
-        "bingx",
         "coinbase",
         "kraken",
         "kucoin",
@@ -42017,17 +41771,15 @@
         "okx",
         "binance",
         "huobi-htx",
-        "mexc",
         "gate",
-        "bingx",
         "coinbase",
         "kraken",
         "kucoin",
         "ftx"
       ],
       "secondary_tool_ids": [],
-      "actual_primary_count": 13,
-      "actual_inclusive_count": 13
+      "actual_primary_count": 11,
+      "actual_inclusive_count": 11
     },
     {
       "category_id": "consumables",
@@ -42324,7 +42076,7 @@
     },
     {
       "category_id": "marketplaces",
-      "source_declared_count": 0,
+      "source_declared_count": 10,
       "source_declared_tool_ids": [
         "darkstore",
         "accsmarket",
@@ -42555,7 +42307,7 @@
       "golden_stack_ids": [
         "hyperliquid",
         "bybit",
-        "mexc"
+        "okx"
       ],
       "stack": [
         "Hyperliquid",
@@ -42761,9 +42513,7 @@
         "okx",
         "binance",
         "huobi-htx",
-        "mexc",
         "gate",
-        "bingx",
         "coinbase",
         "kraken",
         "kucoin",
@@ -42877,7 +42627,6 @@
         "kucoin-card",
         "bitget-card",
         "gate-card",
-        "mexc-card",
         "coinw",
         "flexcard",
         "osmosispay",
@@ -43232,9 +42981,7 @@
         "okx",
         "binance",
         "huobi-htx",
-        "mexc",
         "gate",
-        "bingx",
         "coinbase",
         "kraken",
         "kucoin",
@@ -43254,7 +43001,7 @@
           "exists": true
         },
         {
-          "tool_id": "mexc",
+          "tool_id": "okx",
           "scope": "crypto_and_infrastructure",
           "exists": true
         }
@@ -43602,7 +43349,7 @@
       "category_id": "exchanges",
       "title_ru": "Централизованные биржи (CEX)",
       "title_en": "Centralized Exchanges",
-      "plain_ru": "Крупные торговые платформы (Bybit, OKX, MEXC) для хранения, торговли, стейкинга и создания суб-аккаунтов для разделения кошельков.",
+      "plain_ru": "Крупные торговые платформы (Bybit, OKX) для хранения, торговли, стейкинга и создания суб-аккаунтов для разделения кошельков.",
       "plain_en": "Tier-1 centralized exchanges for spot/futures trading, fiat gateways, and isolated sub-accounts for airdrop funding.",
       "pairs_categories": [
         "dex_bridges",
@@ -43610,11 +43357,11 @@
       ],
       "pairs_stack": [
         "Bybit",
-        "MEXC",
-        "OKX"
+        "OKX",
+        "Hyperliquid"
       ],
-      "pairs_with_ru": "Bybit + MEXC + OKX",
-      "pairs_with_en": "Bybit + MEXC + OKX",
+      "pairs_with_ru": "Bybit + OKX + Hyperliquid",
+      "pairs_with_en": "Bybit + OKX + Hyperliquid",
       "beginner_tip_ru": "Создайте аккаунт на Bybit, активируйте 2FA через Google Authenticator и создайте 5 изолированных суб-аккаунтов.",
       "beginner_tip_en": "Create an account on Bybit, enable Google Authenticator 2FA, and configure 5 isolated sub-accounts.",
       "common_trap_ru": "Вывод на 10 разных ферм с одного адреса кошелька связывает их в один кластер и лишает дропа.",
@@ -43854,10 +43601,10 @@
       "bybit": {
         "slug": "bybit",
         "service_name": "Bybit Derivatives & Spot Exchange",
-        "affiliate_url": "",
-        "clean_fallback_url": "https://www.bybit.com/",
-        "promo_code": "MONEYIS",
-        "promo_label": "Up to $30,000 Deposit Bonus",
+        "affiliate_url": "https://www.bybit.com/invite?ref=XBPK8&medium=referral&utm_campaign=evergreen&share_to=link",
+        "clean_fallback_url": "https://www.bybit.com/invite",
+        "promo_code": "XBPK8",
+        "promo_label": "Up to $30,000 Deposit Bonus (Code: XBPK8)",
         "category": "exchanges",
         "is_active": true,
         "revenue_model": "RevShare",
@@ -47513,35 +47260,11 @@
         "revenue_model": "RevShare",
         "commission_terms": "Standard partner program"
       },
-      "mexc": {
-        "slug": "mexc",
-        "service_name": "MEXC Global Exchange",
-        "affiliate_url": "https://www.mexc.com/register?inviteCode=1LtWs",
-        "clean_fallback_url": "https://www.mexc.com/",
-        "promo_code": "1LtWs",
-        "promo_label": "Bonus up to 8,000 USDT + 0% Maker Fees",
-        "category": "exchanges",
-        "is_active": true,
-        "revenue_model": "RevShare",
-        "commission_terms": "Up to 50% trading fee rebate"
-      },
       "gate": {
         "slug": "gate",
         "service_name": "Gate",
         "affiliate_url": "",
         "clean_fallback_url": "https://www.gate.io/",
-        "promo_code": "",
-        "promo_label": "",
-        "category": "exchanges",
-        "is_active": false,
-        "revenue_model": "RevShare",
-        "commission_terms": "Standard partner program"
-      },
-      "bingx": {
-        "slug": "bingx",
-        "service_name": "BingX",
-        "affiliate_url": "",
-        "clean_fallback_url": "https://bingx.com/invite/I9RC6M",
         "promo_code": "",
         "promo_label": "",
         "category": "exchanges",
@@ -48034,18 +47757,6 @@
         "service_name": "Gate Card",
         "affiliate_url": "",
         "clean_fallback_url": "https://www.gate.com/ru/card",
-        "promo_code": "",
-        "promo_label": "",
-        "category": "crypto_cards",
-        "is_active": false,
-        "revenue_model": "RevShare",
-        "commission_terms": "Standard partner program"
-      },
-      "mexc-card": {
-        "slug": "mexc-card",
-        "service_name": "MEXC Card",
-        "affiliate_url": "",
-        "clean_fallback_url": "https://www.mexc.com/buy-crypto/mexc-card",
         "promo_code": "",
         "promo_label": "",
         "category": "crypto_cards",
@@ -49190,7 +48901,7 @@
       "type": "CEX",
       "avg_funding_rate": 0,
       "arbitrage_pairs": 260,
-      "affiliate_url": "https://bybit.com/register?ref=moneyis",
+      "affiliate_url": "https://www.bybit.com/invite?ref=XBPK8&medium=referral&utm_campaign=evergreen&share_to=link",
       "status": "online",
       "open_interest_usd": 3100000000,
       "taker_fee_pct": 0.055,
@@ -49253,30 +48964,6 @@
       "affiliate_url": "https://htx.com/register?ref=moneyis",
       "status": "online",
       "open_interest_usd": 310000000,
-      "taker_fee_pct": 0.05,
-      "maker_fee_pct": 0.02
-    },
-    {
-      "id": "mexc",
-      "name": "MEXC",
-      "type": "CEX",
-      "avg_funding_rate": 0,
-      "arbitrage_pairs": 300,
-      "affiliate_url": "https://www.mexc.com/register?inviteCode=1LtWs",
-      "status": "online",
-      "open_interest_usd": 260000000,
-      "taker_fee_pct": 0.02,
-      "maker_fee_pct": 0
-    },
-    {
-      "id": "bingx",
-      "name": "BingX",
-      "type": "CEX",
-      "avg_funding_rate": 0,
-      "arbitrage_pairs": 150,
-      "affiliate_url": "https://bingx.com/register?ref=moneyis",
-      "status": "online",
-      "open_interest_usd": 180000000,
       "taker_fee_pct": 0.05,
       "maker_fee_pct": 0.02
     },
@@ -49539,20 +49226,6 @@
       "timestamp": "2026-09-18T11:04:35.087Z"
     },
     {
-      "id": "ORDI:bingx:gateio",
-      "asset": "ORDI",
-      "long_venue_id": "bingx",
-      "short_venue_id": "gateio",
-      "long_funding_rate": -0.000403,
-      "short_funding_rate": 0.000858,
-      "net_apr": 138,
-      "stability_score": 94,
-      "alive_hours": 57,
-      "spike_flag": false,
-      "view_category": "reliable",
-      "timestamp": "2026-09-18T11:04:35.087Z"
-    },
-    {
       "id": "SOL:gmx:paradex",
       "asset": "SOL",
       "long_venue_id": "gmx",
@@ -49620,20 +49293,6 @@
       "alive_hours": 92,
       "spike_flag": false,
       "view_category": "reliable",
-      "timestamp": "2026-09-18T11:04:35.087Z"
-    },
-    {
-      "id": "OP:hyperliquid:mexc",
-      "asset": "OP",
-      "long_venue_id": "hyperliquid",
-      "short_venue_id": "mexc",
-      "long_funding_rate": -0.000232,
-      "short_funding_rate": 0.000636,
-      "net_apr": 95,
-      "stability_score": 64,
-      "alive_hours": 241,
-      "spike_flag": true,
-      "view_category": "risky",
       "timestamp": "2026-09-18T11:04:35.087Z"
     },
     {
@@ -49732,20 +49391,6 @@
       "alive_hours": 109,
       "spike_flag": false,
       "view_category": "reliable",
-      "timestamp": "2026-09-18T11:04:35.087Z"
-    },
-    {
-      "id": "INJ:binance:mexc",
-      "asset": "INJ",
-      "long_venue_id": "binance",
-      "short_venue_id": "mexc",
-      "long_funding_rate": 0.000105,
-      "short_funding_rate": 0.0006,
-      "net_apr": 54.2,
-      "stability_score": 48,
-      "alive_hours": 187,
-      "spike_flag": false,
-      "view_category": "risky",
       "timestamp": "2026-09-18T11:04:35.087Z"
     },
     {
@@ -49929,15 +49574,15 @@
       "tool_id": "bybit",
       "referral": {
         "route_key": "bybit",
-        "configured_affiliate_url": "",
-        "configured_clean_fallback_url": "https://www.bybit.com/",
+        "configured_affiliate_url": "https://www.bybit.com/invite?ref=XBPK8&medium=referral&utm_campaign=evergreen&share_to=link",
+        "configured_clean_fallback_url": "https://www.bybit.com/invite",
         "configured_is_active": true,
-        "effective_promo_code": "MONEYIS",
+        "effective_promo_code": "XBPK8",
         "promo_code_source": "referrals_config",
-        "outbound_url": "https://www.bybit.com/",
-        "outbound_mode": "configured_clean_fallback",
+        "outbound_url": "https://www.bybit.com/invite?ref=XBPK8&medium=referral&utm_campaign=evergreen&share_to=link",
+        "outbound_mode": "configured_affiliate",
         "enabled": true,
-        "affiliate_attribution_enabled": false,
+        "affiliate_attribution_enabled": true,
         "source_affiliate_url_is_authoritative": false,
         "provider_terms_verified": false
       },
@@ -50017,46 +49662,6 @@
       "referral": null,
       "outbound_enabled": false,
       "status": "blocked_unmapped_venue_id"
-    },
-    {
-      "venue_id": "mexc",
-      "tool_id": "mexc",
-      "referral": {
-        "route_key": "mexc",
-        "configured_affiliate_url": "https://www.mexc.com/register?inviteCode=1LtWs",
-        "configured_clean_fallback_url": "https://www.mexc.com/",
-        "configured_is_active": true,
-        "effective_promo_code": "1LtWs",
-        "promo_code_source": "referrals_config",
-        "outbound_url": "https://www.mexc.com/register?inviteCode=1LtWs",
-        "outbound_mode": "configured_affiliate",
-        "enabled": true,
-        "affiliate_attribution_enabled": true,
-        "source_affiliate_url_is_authoritative": false,
-        "provider_terms_verified": false
-      },
-      "outbound_enabled": true,
-      "status": "exact_id_binding"
-    },
-    {
-      "venue_id": "bingx",
-      "tool_id": "bingx",
-      "referral": {
-        "route_key": "bingx",
-        "configured_affiliate_url": "",
-        "configured_clean_fallback_url": "https://bingx.com/invite/I9RC6M",
-        "configured_is_active": false,
-        "effective_promo_code": "",
-        "promo_code_source": "referrals_config",
-        "outbound_url": "https://bingx.com/invite/I9RC6M",
-        "outbound_mode": "configured_clean_fallback",
-        "enabled": true,
-        "affiliate_attribution_enabled": false,
-        "source_affiliate_url_is_authoritative": false,
-        "provider_terms_verified": false
-      },
-      "outbound_enabled": true,
-      "status": "exact_id_binding"
     },
     {
       "venue_id": "coincx",

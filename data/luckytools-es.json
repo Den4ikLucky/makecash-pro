@@ -1155,17 +1155,9 @@
     "description": "Exchange anteriormente denominado Huobi y ahora HTX, con presencia histórica en mercados asiáticos. La ficha incluye una amplia selección de pares, derivados y usuarios institucionales, y menciona cambios de propiedad.",
     "tagline": "Exchange HTX, antes Huobi, con mercado al contado y derivados"
   },
-  "mexc": {
-    "description": "Exchange que la fuente orienta a altcoins y cotizaciones tempranas, con mercado de futuros. La ficha anuncia comisión maker del 0% y una bonificación de hasta 8.000 USDT mediante el código 1LtWs; son condiciones comerciales no verificadas y sujetas a elegibilidad.",
-    "tagline": "Altcoins y cotizaciones tempranas; promociones y comisiones sujetas a condiciones"
-  },
   "gate": {
     "description": "Exchange con más de 1700 pares anunciados, mercado al contado, futuros, margen, préstamos y plataforma de nuevos proyectos. La fuente contiene acusaciones sobre bloqueos y liquidaciones que no se verifican aquí; no deben interpretarse las señales externas como una validación de una operación.",
     "tagline": "Amplia selección de pares con contado, futuros, margen y préstamos"
-  },
-  "bingx": {
-    "description": "Exchange de negociación social con funciones de copia de operaciones. La fuente lo describe como una alternativa pequeña y advierte de posibles bloqueos; no se reproducen sus sugerencias de manipulación ni se garantiza el funcionamiento de cuentas.",
-    "tagline": "Exchange de negociación social y copia de operaciones"
   },
   "coinbase": {
     "description": "Exchange estadounidense que cotiza en NASDAQ con el símbolo COIN, con servicios de compra mediante moneda fiduciaria. Las afirmaciones de la fuente sobre licencias, seguros y cumplimiento deben comprobarse según entidad, producto y jurisdicción; no constituyen cobertura universal.",
@@ -1258,10 +1250,6 @@
   "gate-card": {
     "description": "Tarjeta de débito asociada al saldo de Gate.io. La fuente describe soporte de varias criptomonedas y conversión a moneda fiduciaria en el momento del pago mediante Visa; su disponibilidad y aceptación requieren confirmación.",
     "tagline": "Tarjeta de Gate.io con conversión de criptomonedas al pagar"
-  },
-  "mexc-card": {
-    "description": "Tarjeta de débito vinculada a fondos de MEXC y presentada con soporte Visa. Permite convertir activos compatibles para pagos fiduciarios según la ficha; la selección de tokens del exchange no asegura que todos puedan gastarse con la tarjeta.",
-    "tagline": "Tarjeta de débito para gastos desde fondos compatibles de MEXC"
   },
   "coinw": {
     "description": "Tarjeta de débito vinculada a la cuenta de CoinW, con conversión al pagar, historial de transacciones y seguimiento de saldo según la fuente. La aceptación y la emisión mediante Visa deben comprobarse para cada región.",
