@@ -1,0 +1,79 @@
+{
+  "checks": {
+    "inline_script_0": "PASS",
+    "inline_script_1": "PASS",
+    "inline_script_2": "PASS",
+    "python_syntax": "PASS",
+    "route_live_and_invalid_queries": "PASS",
+    "marker_keyboard_expansion": "PASS",
+    "token_switch_and_execution_link": "PASS",
+    "radar_mobile_overflow": "PASS",
+    "browser_javascript": "PASS",
+    "byte_identical_mirrors": "PASS",
+    "sanitizer_pass_zero_leak_dimensions_hash": "PASS"
+  },
+  "live_timestamp_utc": "2026-11-05 07:13:20 UTC",
+  "venues": {
+    "#TRUMP": [
+      "Bybit",
+      "Hyperliquid",
+      "Binance Futures",
+      "OKX",
+      "Gate.io"
+    ],
+    "#WLFI": [
+      "Bybit",
+      "Hyperliquid",
+      "Binance Futures",
+      "OKX",
+      "Gate.io"
+    ],
+    "#MELANIA": [
+      "Bybit",
+      "Hyperliquid",
+      "Binance Futures",
+      "Gate.io"
+    ],
+    "#BTC": [
+      "Bybit",
+      "Hyperliquid",
+      "Binance Futures",
+      "OKX",
+      "Gate.io"
+    ],
+    "#SOL": [
+      "Bybit",
+      "Hyperliquid",
+      "Binance Futures",
+      "OKX",
+      "Gate.io"
+    ]
+  },
+  "browser": {
+    "status": "● LIVE · 5/5 бирж\n2026-11-05 07:13:20 UTC",
+    "candles": 90,
+    "markerCount": 8,
+    "chartDescription": "TRUMP · 90 реальных свечей Bybit · 8 событий. Enter: следующее событие.",
+    "visible": {
+      "x": 104,
+      "y": 15.515625,
+      "width": 1232,
+      "height": 932,
+      "top": 15.515625,
+      "right": 1336,
+      "bottom": 947.515625,
+      "left": 104
+    },
+    "overflow": false,
+    "avatarLoaded": true,
+    "privacyOpen": false
+  },
+  "screenshot": "/Volumes/KINGSTON/Projects/TD/Money is/MakeCash-Academy-TMA/public/outputs/makecashtrade_orderflow_radar_live_UNDETECTABLE.png",
+  "screenshot_sha256": "9819a6cf37ec6352cd8769afdad56817d5dbf1bcda473c2b7a8a0e7b25a1842d",
+  "limitations": [
+    "Hyperliquid liquidation feed unavailable; no fabricated events",
+    "Binance liquidation markers require real >$50K events after connection",
+    "OI histories currently available on Bybit/Binance only",
+    "Verification bridge was finite and shut down after capture; existing port 8787 belongs to Caveman"
+  ]
+}
