@@ -1,0 +1,26 @@
+sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.[19075:7180846:1105/133304.121873:ERROR:content/browser/network_service_instance_impl.cc:652] Network service crashed or was terminated, restarting service.
+[19075:7180846:1105/133304.122219:ERROR:content/browser/gpu/gpu_process_host.cc:1044] GPU process exited unexpectedly: exit_code=6
+Failed to initialize sandbox.sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.[19075:7180846:1105/133304.339211:ERROR:content/browser/network_service_instance_impl.cc:652] Network service crashed or was terminated, restarting service.
+sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.[19075:7180846:1105/133304.756849:ERROR:content/browser/gpu/gpu_process_host.cc:1044] GPU process exited unexpectedly: exit_code=6
+sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.Failed to initialize sandbox.[19075:7180846:1105/133305.557891:ERROR:content/browser/network_service_instance_impl.cc:652] Network service crashed or was terminated, restarting service.
+sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.[19075:7180846:1105/133305.626544:ERROR:content/browser/gpu/gpu_process_host.cc:1044] GPU process exited unexpectedly: exit_code=6
+sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.Failed to initialize sandbox.[19075:7180846:1105/133305.883495:ERROR:content/browser/network_service_instance_impl.cc:652] Network service crashed or was terminated, restarting service.
+[19075:7180846:1105/133305.935514:ERROR:content/browser/gpu/gpu_process_host.cc:1044] GPU process exited unexpectedly: exit_code=6
+sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.Failed to initialize sandbox.[19075:7180846:1105/133306.004340:ERROR:content/browser/network_service_instance_impl.cc:652] Network service crashed or was terminated, restarting service.
+sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.[19075:7180846:1105/133306.059583:ERROR:content/browser/gpu/gpu_process_host.cc:1044] GPU process exited unexpectedly: exit_code=6
+sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.Failed to initialize sandbox.[19075:7180846:1105/133306.227881:ERROR:content/browser/network_service_instance_impl.cc:652] Network service crashed or was terminated, restarting service.
+Failed to initialize sandbox.sandbox initialization failed: Operation not permitted
+Failed to initialize sandbox.[19075:7180846:1105/133306.289837:ERROR:content/browser/gpu/gpu_process_host.cc:1044] GPU process exited unexpectedly: exit_code=6
+[19075:7180846:1105/133306.289875:FATAL:content/browser/gpu/gpu_data_manager_impl_private.cc:389] GPU process isn't usable. Goodbye.

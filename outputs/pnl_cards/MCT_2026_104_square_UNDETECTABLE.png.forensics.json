@@ -1,0 +1,113 @@
+{
+  "status": "PASS",
+  "version": "3.0.0",
+  "input_file": "/Users/den/HermesRuntime/.hermes/profiles/teamhands/cache/scratch/pnl_square_raw.png",
+  "output_file": "/Volumes/KINGSTON/Projects/TD/Money is/MakeCash-Academy-TMA/public/outputs/pnl_cards/MCT_2026_104_square_UNDETECTABLE.png",
+  "input_sha256": "1bb8b2bdbc6ee296895b1b887771b0f2639fbc0d3101b449c533b7e9f17e7a9f",
+  "output_sha256": "6cb7322c805648d03dd1b32c73a74190ba56664a34294241d39f3ae5dd5715e6",
+  "original_bytes": 305376,
+  "cleaned_bytes": 914152,
+  "forensic_pipeline_details": {
+    "media_type": "image",
+    "resolution_preserved": true,
+    "alpha_preserved": true,
+    "rotation_degrees": 0,
+    "rotation_zoom": 1.0,
+    "original_resolution": "1080x1080",
+    "cleaned_resolution": "1080x1080",
+    "micro_shift_pixels": "dx=2, dy=2",
+    "grain_intensity": "1.00%",
+    "sensor_noise": {
+      "prnu_strength": 0.012,
+      "prnu_source": "asset",
+      "cyclic_offset": [
+        285,
+        16
+      ],
+      "shot_noise": true,
+      "asset_sha256": "b54ac5d9279e6b14ef63d4278f5e585685667f49c1e9c64ea2ddaa0663ac5ce5"
+    },
+    "isp_normalization": {
+      "applied": true,
+      "strength": 0.3,
+      "chroma_px": 0.35,
+      "effective_chroma_px": 0.105,
+      "asset_sha256": "3223228cd26112bc9bd06d1587bce91f604537aab10e7bfb643ccc39291c3fa5",
+      "psnr_db": 45.840440987281795,
+      "mean_channel_delta": [
+        -2.9098959686280068e-08,
+        -3.0337356449194885e-07,
+        9.511538934248165e-08
+      ],
+      "lbp_nonuniform_fraction": 0.31982424554183814,
+      "glcm_contrast_4_angles": 274.1733926994624,
+      "reference_chroma_mean_applied": false
+    },
+    "desynth": {
+      "applied": true,
+      "mode": "lightweight",
+      "order": 12,
+      "sigma": 2.2,
+      "cutoff_cycles_per_pixel": 0.08517755687694435,
+      "reflect_padding": 64,
+      "psnr_db": 80.49657585060699,
+      "watermark_removal_verified": false
+    },
+    "hardware_metadata": {
+      "applied": true,
+      "camera_hardware_applied": true,
+      "identity_metadata_stamped": true,
+      "identity_storage": "embedded_xmp",
+      "identity_requested_by": "camera_metadata",
+      "profile": "iphone16pro",
+      "reference_device_used": false,
+      "safe_hardware_tags": [
+        "ExposureTime",
+        "FNumber",
+        "FocalLength",
+        "ISO",
+        "LensMake",
+        "LensModel",
+        "Make",
+        "Model",
+        "Software"
+      ],
+      "apple_makernotes_applied": true,
+      "opaque_reference_fields_excluded": true,
+      "fresh_photo_identifier": "9810B3E5-2433-442E-A341-40CFC41C42AE",
+      "timestamp_utc": "2026-11-05T03:49:00.165053+00:00",
+      "geolocation": null,
+      "synthetic_camera_stamp": true,
+      "capture_origin_verified": false
+    },
+    "color_management": {
+      "source_icc_converted_to_srgb": false,
+      "pixels_converted_to_display_p3": true,
+      "display_p3_sha256": "20789fdbea9835251a4f0796c8bf45cbd964896044886540da21ffc7457af0ab"
+    },
+    "camera_profile_applied": "iphone16pro",
+    "c2pa_exif_purged": true,
+    "forensic_verification": {
+      "c2pa_uuid_present": false,
+      "c2pa_ascii_present": false,
+      "lavf_present": false,
+      "lavc_present": false,
+      "x264_sei_present": false,
+      "x265_sei_present": false,
+      "generic_handlers_present": false,
+      "ai_vendor_strings_present": false,
+      "sei_nal_count": 0,
+      "nal_check_applicable": false,
+      "zero_leak_pass": true,
+      "verification_scope": "enumerated byte signatures and supported video SEI NALs only",
+      "invisible_watermark_removal_verified": false
+    }
+  },
+  "provenance": {
+    "processed_derivative": true,
+    "source_capture_origin": "not inferred",
+    "camera_stamp_establishes_capture": false,
+    "invisible_watermark_removal_verified": false,
+    "platform_detection_evasion_verified": false
+  }
+}

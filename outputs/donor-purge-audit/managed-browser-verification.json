@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "method": "Managed HeadlessChrome 145 with CDP 1440x1080; native CLI blocked by macOS sandbox",
+  "version": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/145.0.7632.6",
+    "revision": "@47e20adcc15fc15f01825aa17e570c8f5492ac0f",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36",
+    "jsVersion": "14.5.201.2"
+  },
+  "view": {
+    "badge": "📚 MakeCashTrade Macro · 48 \u0441\u0442\u0430\u0442\u0435\u0439 · \u0417\u0430\u0449\u0438\u0442\u0430 \u043a\u0430\u043f\u0438\u0442\u0430\u043b\u0430 14 \u0443\u0440.",
+    "top": 949.765625,
+    "bottom": 999.765625,
+    "width": 1440,
+    "height": 1080,
+    "fonts": "loaded",
+    "donorMatches": 0,
+    "radarStatus": "MAKECASHTRADE · MAYA PRIME · PUBLIC MARKET INTELLIGENCE\n⚡ Orderflow, OI & Liquidations Radar (5 \u0411\u0438\u0440\u0436 · $0 Live)\nBybit Futures · Hyperliquid · Binance Futures · OKX · Gate.io\n◌ SNAPSHOT / STALE · 5/5 \u0431\u0438\u0440\u0436 2026-11-05 05:26:24 UTC · bridge offline\n#TRUMP\n#WLFI\n#MELANIA\n#BTC\n#SOL\n#LIT\n↻ \u041e\u0431\u043d\u043e\u0432\u0438\u0442\u044c\n#TRUMP / USDT · Bybit Futures · 1m\n$1.254 · OI $137,043,519\n\u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u043c\u0430\u0440\u043a\u0435\u0440 \u043d\u0430 \u0441\u0432\u0435\u0447\u0435 \u0438\u043b\u0438 \u0440\u0430\u0441\u043a\u0440\u043e\u0439\u0442\u0435 \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0443. Enter \u043d\u0430 \u0433\u0440\u0430\u0444\u0438\u043a\u0435: \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u0435.\n🎰 \u041c\u0430\u0440\u043a\u0435\u0442-\u043f\u0440\u043e\u043b\u0438\u0432 / \u0432\u044b\u043a\u0443\u043f\n☠️ \u041b\u0438\u043a\u0432\u0438\u0434\u0430\u0446\u0438\u044f > $50K\n🍿 OI 15m / 30m\n",
+    "modalTitle": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 MakeCashTrade"
+  },
+  "modal_donor_matches": 0,
+  "macro_articles_loaded": 48,
+  "raw_screenshot": "/Volumes/KINGSTON/Projects/TD/Money is/MakeCash-Academy-TMA/public/outputs/makecashtrade_orderflow_radar_live.png"
+}

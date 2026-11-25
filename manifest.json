@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "MakeCash Pro",
+  "short_name": "MakeCash Pro",
+  "description": "Three Pillars of Capital: Economics & Markets, AI Vibe-Coding & Video, and Operator Psychology.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/assets/makecash-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/makecash-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/MakeCash_Avatar_Bust_Crop.png",
+      "sizes": "800x800",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
